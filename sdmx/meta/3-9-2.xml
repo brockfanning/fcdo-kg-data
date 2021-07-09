@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1625855322</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="0f31399f-0c0f-4fa8-9338-d4b22f56130f">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_STA_WASH</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[3: Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[3.9. К 2030 году существенно сократить количество случаев смерти и заболевания в результате воздействия опасных химических веществ и загрязнения, и отравления воздуха, воды и почв]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[3.9. By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[3.9.2 Смертность от отсутствия безопасной воды, безопасной санитарии и гигиены (от отсутствия безопасных услуг в области водоснабжения, санитарии и гигиены (ВССГ) для всех)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[3.9.2 Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР  (Отдел демографической статистики)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Demographic Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Таипова Т.С.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Taipova Т.S.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[tamarataipova@mail.ru, t.taipova@stat.kg]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[tamarataipova@mail.ru, t.taipova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Число смертей в результате употребления нечистой воды, антисанитарии и недостаточной гигиены (воздействия некачественных услуг в области водоснабжения, санитарии и гигиены (WASH)) на 100 000 населения.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services) expressed per 100,000 population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель выражает количество смертей из-за нечистой воды, антисанитарии и недостаточной гигиены (с акцентом на услуги WASH), которые могут быть предотвращены путем улучшения качества этих услуг и практики их применения. Он основан как на информации о качестве услуг WASH в стране, так и на данных о состоянии здоровья населения в результате их использования, и, следовательно, содержит важную информацию о фактических заболеваниях.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator expresses the number of deaths from inadequate water, sanitation and hygiene (with focus on WASH services) which could be prevented by improving those services and practices. It is based on both the WASH service provision in the country, as well as the related health outcomes, and therefore provides important information on the actual diseases.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источником информации о причинах смерти являются записи в медицинских свидетельствах о смерти, составляемых врачом или средним медицинским персоналом относительно заболевания, несчастного случая, убийства, самоубийства и другого внешнего воздействия, послуживших причиной смерти. Эти документы вместе с актовыми записями о смерти направляются для разработки в органы государственной статистики.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Cause of death information is obtained from medical death certificates drawn up by doctors or mid-level medical personnel on disease, accident, homicide, suicide and other external influences resulting in death. These documents, along with civil registration of deaths drawn up by civil registry offices are sent to statistical agencies for calculation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Сведения о смертях получаются на основании ежегодной статистической разработки данных, содержащихся в актовых записях о смерти, составляемых органами записи актов гражданского состояния (ЗАГС при Государственной регистрационной службе при Правительстве КР). Агрегированные данные собираются и обрабатываются областными управлениями статистики и НСК КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Сведения о смертях получаются на основании ежегодной статистической разработки данных, содержащихся в актовых записях о смерти, составляемых органами записи актов гражданского состояния (ЗАГС при Государственной регистрационной службе при Правительстве КР). Агрегированные данные собираются и обрабатываются областными управлениями статистики и НСК КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Отношение числа умерших от употребления нечистой воды, антисанитарии и недостаточной гигиены (воздействие небезопасных услуг WASH) к среднегодовой численности постоянного населения по текущей оценке. Рассчитывается на 100 000 населения.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The number of deaths from unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe WASH services) in a year, current estimate. Calculated for 100,000 population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Знать правила кодирования первоначальной причины смерти и дефиниции, изложенные в классификаторе, Международная статистическая классификация болезней и проблем, связанных со здоровьем 10-го пересмотра (МКБ-10). В случае затруднения с правильностью выставленного диагноза обратиться к сотрудникам Центра электронного здравоохранения МЗ КР с целью установления окончательного диагноза. Эти данные имеют решающее значение для улучшения здоровья и сокращения случаев предотвратимой смертности в стране.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Get acquainted with coding rules for the primary cause of death and definitions set out in the revised International Statistical Classification of Diseases (ICD-10). In case of difficulties with diagnosis, contact staff of the E-Health Center of the Ministry of Health to consult for the final diagnosis. These data are key for improving health and reducing preventable mortality in the country.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных. Процедура проверки правильности данных в актовых записях о смерти осуществляется путем логического контроля, заложенного в программном обеспечении по вводу и разработке данных. Проводится корректировка проставленных кодов причин смерти на соответствие диагнозам, записанным в актовой записи о смерти, согласно МКБ-10, и анализ выходных таблиц по причинам смерти.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. Data control in data records is carried out by logical control procedure embedded in the data input and processing software. The causes of death codes are checked along diagnoses recorded in death report, according to ICD-10, and results tables are analyzed for causes of death.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[По запросам пользователей.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Available upon request.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальное определение показателя, используемое в статистике, соответствует его международному определению. Кодирование и разработка данных об умерших по причинам смерти производятся органами государственной статистики на основании Международной статистической классификации болезней и причин смерти 10-го пересмотра (МКБ-10) Всемирной организации здравоохранения (ВОЗ), начиная с отчета за 2000г. По соглашению с НСК база данных по смертности передается Центру электронного здравоохранения КР при Министерстве здравоохранения: форма С52 «Смертность населения по причинам смерти» – ежегодно, в июне месяце года, следующего за отчетным годом.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[International definition of the indicator is used for national statistics. Data coding and compilation on deaths by cause of death is done by state statistics authorities in accordance with the WHO International Statistical Classification of Diseases and Causes of Death (ICD-10), since 2000 report. By agreement with the National Statistical Committee, database on mortality is submitted to the Centre for Electronic Health of the Ministry of Health of the Kyrgyz Republic: form C52 «Population mortality by cause of death» submitted annually, in June following the reporting year.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Ссылки на НПА и методологию: http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[References to RLA and methodology: http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

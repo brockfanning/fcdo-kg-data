@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1625855322</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="719faa5c-2296-4618-810b-55c7630a39e0">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SE_TRA_GRDL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 4. Обеспечение всеохватного и справедливого качественного образования и поощрение возможности обучения на протяжении всей жизни для всех]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[4.c. К 2030 году значительно увеличить число квалифицированных учителей, в том числе посредством международного сотрудничества в подготовке учителей в развивающихся странах, особенно в наименее развитых странах и малых островных развивающихся государствах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[4.c. By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[4.c.1. Доля учителей в: a) дошкольных учреждениях, b) начальной школе, c) младшей средней школе и d) старшей средней школе, прошедших до начала или во время работы, по меньшей мере, минимальную организованную профессиональную учительскую подготовку (например, педагогическую) на соответствующем уровне в данной стране]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[4.c.1. Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
+(Отдел социальной статистики)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Количество учителей, прошедших до начала или во время работы, по меньшей мере, минимальную организованную профессиональную учительскую подготовку, в процентах от всех учителей в соответствующих образовательных учреждениях]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The percentage of teachers  who have received at least the minimum organized pedagogical teacher training pre-service and in-service required for teaching at the relevant level ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Учителя играют ключевую роль в обеспечении качества предоставляемого образования. В идеале, все учителя должны получать адекватную, соответствующую и своевременную педагогическую подготовку для осуществления педагогической деятельности на выбранном уровне образования и быть высококвалифицированными специалистами по предмету (предметам), который они должны преподавать. Этот показатель измеряет долю учебной рабочей силы, которая является педагогически хорошо подготовленной.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Teachers play a key role in ensuring the quality of education provided. Ideally all teachers should receive adequate, appropriate and relevant pedagogical training to teach at the chosen level of education and be academically well-qualified in the subject(s) they are expected to teach. This indicator measures the share of the teaching work force which is pedagogically well-trained.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источниками информации для расчета показателя является ежегодные данные государственной статистической отчетности, представляемой дошкольными организациями республики по форме «Отчет дошкольной организации», а также общеобразовательными организациями республики по форме ОШ-1 «Отчет дневной общеобразовательной школы на начало учебного года».]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data for calculating the indicator are obtained from the annual State statistical reports submitted by country’s pre-school organizations in the form «Report of pre-school organization», as well as general education organizations in the form ES-1 «Report of general education school at the beginning of the academic year».]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Метод статистического наблюдения- сплошное наблюдения на основе годовой статистической отчетности
+Объектом статистического наблюдения являются учителя с высшим и средне-специальным образованием.
+Единицами наблюдения являются дошкольные организации, общеобразовательные организации (школы).]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Метод статистического наблюдения- сплошное наблюдения на основе годовой статистической отчетности
+Объектом статистического наблюдения являются учителя с высшим и средне-специальным образованием.
+Единицами наблюдения являются дошкольные организации, общеобразовательные организации (школы).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Метод расчета: Численность учителей, имеющих высшее и средне-специальное профессиональное образование, следует разделить на общее численность учителей в данном учебном году и умножить на 100.
+           Расчет осуществляется по формуле:
+
+y = n / N * 100  , где
+y =доля дипломированных учителей
+n =численность учителей, имеющих высшее и средне-специальное образование
+N =общее численность учителей в данном учебном году.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The number of teachers with higher and specialized secondary degree divided by the total number of teachers in a given academic year and multiplied by 100.
+Following the formula:
+y = n / N * 100 , where
+y =percentage of certified teachers 
+n = number of teachers with higher and secondary degrees
+N =total number of teachers in a given academic year.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
+www.uis.unesco.org 
+Закон Кыргызской Республики от 30 апреля 2003 года №92 «Об образовании»]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
+www.uis.unesco.org 
+Law of the Kyrgyz Republic №92 dated 30 April 2003  «On Education»]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

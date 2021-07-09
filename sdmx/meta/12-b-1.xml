@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1625855322</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="fd664f44-3c20-49e1-8e2d-f15059dc5630">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>ST_EEV_ACCSEEA</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 12. Обеспечение перехода к рациональным моделям потребления и производства. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[12.b Разрабатывать и внедрять инструменты мониторинга влияния, оказываемого на устойчивое развитие устойчивым туризмом, который способствует созданию рабочих мест, развитию местной культуры и производству местной продукции ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[12.b Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[12.b.1 Число стратегий или директив и осуществляемых планов действий в области устойчивого туризма с согласованными инструментами мониторинга и оценки]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[12.b.1 Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Департамент туризма при Министерстве культуры, информации и туризма Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Department of Tourism under the Ministry of Culture, Information and Tourism of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Дайырбеков Дастан Дайырбекович]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Dastan Dayirbekovich Dayirbekov]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[dayirbekov@gmail.com]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[dayirbekov@gmail.com]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[0707 44 84 24, 0312 900 443]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[0707 44 84 24, 0312 900 443]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Согласно Закону Кыргызской Республики «О туризме», туризм - временные выезды (путешествия) граждан Кыргызской Республики, иностранных граждан и лиц без гражданства (далее - граждане) за пределы постоянного места жительства в оздоровительных, познавательных или профессионально-деловых, спортивных, религиозных и других целях без занятия оплачиваемой деятельностью в стране (месте) временного пребывания.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[According to the Kyrgyz Law on Tourism, tourism is the temporary departure (travel) of citizens of the Kyrgyz Republic, foreign citizens or stateless persons (hereinafter referred to as ‘citizens’) outside their permanent place of residence for recreational, educational, professional, business, sports, religious and other purposes without engaging in remunerated activities in the country (place) of temporary residence.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[В целом рекомендации по развитию устойчивого туризма и практика управления устойчивым развитием применимы ко всем формам туризма во всех типах туристских дестинаций, включая различные сегменты туризма, в том числе массовый. Принципы устойчивости относятся к экологическим, экономическим и социокультурным аспектам развития туризма, и для гарантии долгосрочной устойчивости необходимо установить баланс между этими тремя измерениями.
+Сфера туризма Кыргызской Республики является одной из приоритетных и экспортно-ориентированных отраслей экономики страны.
+  Устойчивый туризм, прежде всего, решает социально-культурные, экологические и экономические проблемы, предполагая:
+- сохранение культурных ценностей, самобытности нации, что является фактором сближения народов мира;
+- обеспечение оптимального использования природных ресурсов, являющихся основой развития туризма;
+- привлечение к устойчивой занятости местное население, способствуя тем самым расширению экономических возможностей местных жителей и сокращению бедности. Сфера туризма Кыргызской Республики в настоящее время имеет устойчивую тенденцию роста. К 2023 году вклад туризма в ВВП достигнет уровня 7%.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[In general, recommendations on sustainable tourism development, as well as sustainable development management practices apply to all forms of tourism in all types of destinations, including including mass tourism and the various tourism subsectors. Sustainability principles refer to the environmental, economic and sociocultural dimensions of tourism development, and a balance needs to be maintained between these three dimensions to guarantee long-term sustainability.
+Tourism in the Kyrgyz Republic is one of the priority and export-oriented sectors of the country’s economy.
+Sustainable tourism primarily addresses sociocultural, environmental and economic issues through:
+- Preserving cultural values and the identity of the nation, thus bringing the peoples of the world together;
+- Optimizing the use of natural resources, which are the backbone of tourism development;
+- Sustainable employment for local people, thereby contributing to the economic empowerment of local people and poverty reduction. The tourism sector in the Kyrgyz Republic is growing steadily. By 2023, the contribution of tourism to GDP will reach 7 per cent.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Официальные сайты Департамента туризма при МКИТ КР, МКИТ КР, портал открытых данных, на сайтах других субъектов туристской деятельности КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Official websites of the Department of Tourism under the MCIT KR, MCIT KR, open data portal, other Kyrgyz tourism websites]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Анализ и мониторинг, официальный запрос, опрос]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Анализ и мониторинг, официальный запрос, опрос]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Количество прибывших туристов, ВВП, налоговые поступление, количество хоз.субъектов подсчитывается по данным Нацстатком КР, Гос.погран службы КР, также   согласно классификации Всемирной Туристкой Организации (ЮНВТО)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Number of arriving tourists, GDP, tax revenues, number of business entities is computed based on the data of the National Statistical Committee of the Kyrgyz Republic, State Border Service of the Kyrgyz Republic, and in line with the classification of the World Tourism Organization (UNWTO).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Нацстатком при осуществлении подсчета туристов, акцент делает в основном на организационный сектор отдыха и туризма.  Очень популярен неорганизованный отдых иностранными туристами, также внутренними туристами. В этой связи, подсчет общего количества туристов составляет гораздо больше, чем данные Нацстатком КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[When counting the number of tourists, the National Statistical Committee mainly focuses on the organizational sector of recreation and tourism. Unorganized/informal vacation of foreign tourists, as well as domestic tourists is very popular. In this regard, the total number of tourists is much higher than the National Statistical Committee data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Необходимо совершенствовать]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[ Needs improvement…]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[На официальном сайте Департамента туризма при МКИТ КР  ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Official website of the Department of Tourism under the MCIT KR ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+1. Согласно Закону Кыргызской Республики «О туризме», от 25 марта 1999 года №34;
+2.  Акты ЖК КР, указы Президента КР и Правительства КР
+3. Локальные акты Министерства и Департамента туризма при МКИТ КР;
+4.  Постановление Правительства Кыргызской Республики от 31 января 2019 года N 36 «Об утверждении Программы Правительства Кыргызской Республики развития сферы туризма на 2019-2023 годы».]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
+1. According to the Law of the Kyrgyz Republic on Tourism No. 34 dated March 25, 1999;
+2. Acts of the KR Jogorku Kenesh (Parliament), the Kyrgyz President and The Government Decrees 
+3. Local acts of the Ministry and Department of Tourism under the MCIT KR;
+4. The Kyrgyz Government Decree on Approval of the Kyrgyz Government’s Tourism Development Program for 2019-2023 No. 36 of January 31, 2019.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="644730e3-a858-4b82-801b-faf8ff6d2972">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>ST_EEV_ACCTSA</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 12. Обеспечение перехода к рациональным моделям потребления и производства. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[12.b Разрабатывать и внедрять инструменты мониторинга влияния, оказываемого на устойчивое развитие устойчивым туризмом, который способствует созданию рабочих мест, развитию местной культуры и производству местной продукции ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[12.b Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[12.b.1 Число стратегий или директив и осуществляемых планов действий в области устойчивого туризма с согласованными инструментами мониторинга и оценки]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[12.b.1 Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Департамент туризма при Министерстве культуры, информации и туризма Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Department of Tourism under the Ministry of Culture, Information and Tourism of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Дайырбеков Дастан Дайырбекович]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Dastan Dayirbekovich Dayirbekov]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[dayirbekov@gmail.com]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[dayirbekov@gmail.com]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[0707 44 84 24, 0312 900 443]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[0707 44 84 24, 0312 900 443]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Согласно Закону Кыргызской Республики «О туризме», туризм - временные выезды (путешествия) граждан Кыргызской Республики, иностранных граждан и лиц без гражданства (далее - граждане) за пределы постоянного места жительства в оздоровительных, познавательных или профессионально-деловых, спортивных, религиозных и других целях без занятия оплачиваемой деятельностью в стране (месте) временного пребывания.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[According to the Kyrgyz Law on Tourism, tourism is the temporary departure (travel) of citizens of the Kyrgyz Republic, foreign citizens or stateless persons (hereinafter referred to as ‘citizens’) outside their permanent place of residence for recreational, educational, professional, business, sports, religious and other purposes without engaging in remunerated activities in the country (place) of temporary residence.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[В целом рекомендации по развитию устойчивого туризма и практика управления устойчивым развитием применимы ко всем формам туризма во всех типах туристских дестинаций, включая различные сегменты туризма, в том числе массовый. Принципы устойчивости относятся к экологическим, экономическим и социокультурным аспектам развития туризма, и для гарантии долгосрочной устойчивости необходимо установить баланс между этими тремя измерениями.
+Сфера туризма Кыргызской Республики является одной из приоритетных и экспортно-ориентированных отраслей экономики страны.
+  Устойчивый туризм, прежде всего, решает социально-культурные, экологические и экономические проблемы, предполагая:
+- сохранение культурных ценностей, самобытности нации, что является фактором сближения народов мира;
+- обеспечение оптимального использования природных ресурсов, являющихся основой развития туризма;
+- привлечение к устойчивой занятости местное население, способствуя тем самым расширению экономических возможностей местных жителей и сокращению бедности. Сфера туризма Кыргызской Республики в настоящее время имеет устойчивую тенденцию роста. К 2023 году вклад туризма в ВВП достигнет уровня 7%.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[In general, recommendations on sustainable tourism development, as well as sustainable development management practices apply to all forms of tourism in all types of destinations, including including mass tourism and the various tourism subsectors. Sustainability principles refer to the environmental, economic and sociocultural dimensions of tourism development, and a balance needs to be maintained between these three dimensions to guarantee long-term sustainability.
+Tourism in the Kyrgyz Republic is one of the priority and export-oriented sectors of the country’s economy.
+Sustainable tourism primarily addresses sociocultural, environmental and economic issues through:
+- Preserving cultural values and the identity of the nation, thus bringing the peoples of the world together;
+- Optimizing the use of natural resources, which are the backbone of tourism development;
+- Sustainable employment for local people, thereby contributing to the economic empowerment of local people and poverty reduction. The tourism sector in the Kyrgyz Republic is growing steadily. By 2023, the contribution of tourism to GDP will reach 7 per cent.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Официальные сайты Департамента туризма при МКИТ КР, МКИТ КР, портал открытых данных, на сайтах других субъектов туристской деятельности КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Official websites of the Department of Tourism under the MCIT KR, MCIT KR, open data portal, other Kyrgyz tourism websites]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Анализ и мониторинг, официальный запрос, опрос]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Анализ и мониторинг, официальный запрос, опрос]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Количество прибывших туристов, ВВП, налоговые поступление, количество хоз.субъектов подсчитывается по данным Нацстатком КР, Гос.погран службы КР, также   согласно классификации Всемирной Туристкой Организации (ЮНВТО)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Number of arriving tourists, GDP, tax revenues, number of business entities is computed based on the data of the National Statistical Committee of the Kyrgyz Republic, State Border Service of the Kyrgyz Republic, and in line with the classification of the World Tourism Organization (UNWTO).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Нацстатком при осуществлении подсчета туристов, акцент делает в основном на организационный сектор отдыха и туризма.  Очень популярен неорганизованный отдых иностранными туристами, также внутренними туристами. В этой связи, подсчет общего количества туристов составляет гораздо больше, чем данные Нацстатком КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[When counting the number of tourists, the National Statistical Committee mainly focuses on the organizational sector of recreation and tourism. Unorganized/informal vacation of foreign tourists, as well as domestic tourists is very popular. In this regard, the total number of tourists is much higher than the National Statistical Committee data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Необходимо совершенствовать]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[ Needs improvement…]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[На официальном сайте Департамента туризма при МКИТ КР  ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Official website of the Department of Tourism under the MCIT KR ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+1. Согласно Закону Кыргызской Республики «О туризме», от 25 марта 1999 года №34;
+2.  Акты ЖК КР, указы Президента КР и Правительства КР
+3. Локальные акты Министерства и Департамента туризма при МКИТ КР;
+4.  Постановление Правительства Кыргызской Республики от 31 января 2019 года N 36 «Об утверждении Программы Правительства Кыргызской Республики развития сферы туризма на 2019-2023 годы».]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
+1. According to the Law of the Kyrgyz Republic on Tourism No. 34 dated March 25, 1999;
+2. Acts of the KR Jogorku Kenesh (Parliament), the Kyrgyz President and The Government Decrees 
+3. Local acts of the Ministry and Department of Tourism under the MCIT KR;
+4. The Kyrgyz Government Decree on Approval of the Kyrgyz Government’s Tourism Development Program for 2019-2023 No. 36 of January 31, 2019.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="925a5996-c1da-42ae-a841-399309c457c7">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>ST_EEV_STDACCT</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 12. Обеспечение перехода к рациональным моделям потребления и производства. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[12.b Разрабатывать и внедрять инструменты мониторинга влияния, оказываемого на устойчивое развитие устойчивым туризмом, который способствует созданию рабочих мест, развитию местной культуры и производству местной продукции ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[12.b Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[12.b.1 Число стратегий или директив и осуществляемых планов действий в области устойчивого туризма с согласованными инструментами мониторинга и оценки]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[12.b.1 Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Департамент туризма при Министерстве культуры, информации и туризма Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Department of Tourism under the Ministry of Culture, Information and Tourism of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Дайырбеков Дастан Дайырбекович]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Dastan Dayirbekovich Dayirbekov]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[dayirbekov@gmail.com]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[dayirbekov@gmail.com]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[0707 44 84 24, 0312 900 443]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[0707 44 84 24, 0312 900 443]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Согласно Закону Кыргызской Республики «О туризме», туризм - временные выезды (путешествия) граждан Кыргызской Республики, иностранных граждан и лиц без гражданства (далее - граждане) за пределы постоянного места жительства в оздоровительных, познавательных или профессионально-деловых, спортивных, религиозных и других целях без занятия оплачиваемой деятельностью в стране (месте) временного пребывания.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[According to the Kyrgyz Law on Tourism, tourism is the temporary departure (travel) of citizens of the Kyrgyz Republic, foreign citizens or stateless persons (hereinafter referred to as ‘citizens’) outside their permanent place of residence for recreational, educational, professional, business, sports, religious and other purposes without engaging in remunerated activities in the country (place) of temporary residence.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[В целом рекомендации по развитию устойчивого туризма и практика управления устойчивым развитием применимы ко всем формам туризма во всех типах туристских дестинаций, включая различные сегменты туризма, в том числе массовый. Принципы устойчивости относятся к экологическим, экономическим и социокультурным аспектам развития туризма, и для гарантии долгосрочной устойчивости необходимо установить баланс между этими тремя измерениями.
+Сфера туризма Кыргызской Республики является одной из приоритетных и экспортно-ориентированных отраслей экономики страны.
+  Устойчивый туризм, прежде всего, решает социально-культурные, экологические и экономические проблемы, предполагая:
+- сохранение культурных ценностей, самобытности нации, что является фактором сближения народов мира;
+- обеспечение оптимального использования природных ресурсов, являющихся основой развития туризма;
+- привлечение к устойчивой занятости местное население, способствуя тем самым расширению экономических возможностей местных жителей и сокращению бедности. Сфера туризма Кыргызской Республики в настоящее время имеет устойчивую тенденцию роста. К 2023 году вклад туризма в ВВП достигнет уровня 7%.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[In general, recommendations on sustainable tourism development, as well as sustainable development management practices apply to all forms of tourism in all types of destinations, including including mass tourism and the various tourism subsectors. Sustainability principles refer to the environmental, economic and sociocultural dimensions of tourism development, and a balance needs to be maintained between these three dimensions to guarantee long-term sustainability.
+Tourism in the Kyrgyz Republic is one of the priority and export-oriented sectors of the country’s economy.
+Sustainable tourism primarily addresses sociocultural, environmental and economic issues through:
+- Preserving cultural values and the identity of the nation, thus bringing the peoples of the world together;
+- Optimizing the use of natural resources, which are the backbone of tourism development;
+- Sustainable employment for local people, thereby contributing to the economic empowerment of local people and poverty reduction. The tourism sector in the Kyrgyz Republic is growing steadily. By 2023, the contribution of tourism to GDP will reach 7 per cent.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Официальные сайты Департамента туризма при МКИТ КР, МКИТ КР, портал открытых данных, на сайтах других субъектов туристской деятельности КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Official websites of the Department of Tourism under the MCIT KR, MCIT KR, open data portal, other Kyrgyz tourism websites]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Анализ и мониторинг, официальный запрос, опрос]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Анализ и мониторинг, официальный запрос, опрос]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Количество прибывших туристов, ВВП, налоговые поступление, количество хоз.субъектов подсчитывается по данным Нацстатком КР, Гос.погран службы КР, также   согласно классификации Всемирной Туристкой Организации (ЮНВТО)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Number of arriving tourists, GDP, tax revenues, number of business entities is computed based on the data of the National Statistical Committee of the Kyrgyz Republic, State Border Service of the Kyrgyz Republic, and in line with the classification of the World Tourism Organization (UNWTO).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Нацстатком при осуществлении подсчета туристов, акцент делает в основном на организационный сектор отдыха и туризма.  Очень популярен неорганизованный отдых иностранными туристами, также внутренними туристами. В этой связи, подсчет общего количества туристов составляет гораздо больше, чем данные Нацстатком КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[When counting the number of tourists, the National Statistical Committee mainly focuses on the organizational sector of recreation and tourism. Unorganized/informal vacation of foreign tourists, as well as domestic tourists is very popular. In this regard, the total number of tourists is much higher than the National Statistical Committee data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Необходимо совершенствовать]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[ Needs improvement…]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[На официальном сайте Департамента туризма при МКИТ КР  ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Official website of the Department of Tourism under the MCIT KR ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+1. Согласно Закону Кыргызской Республики «О туризме», от 25 марта 1999 года №34;
+2.  Акты ЖК КР, указы Президента КР и Правительства КР
+3. Локальные акты Министерства и Департамента туризма при МКИТ КР;
+4.  Постановление Правительства Кыргызской Республики от 31 января 2019 года N 36 «Об утверждении Программы Правительства Кыргызской Республики развития сферы туризма на 2019-2023 годы».]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
+1. According to the Law of the Kyrgyz Republic on Tourism No. 34 dated March 25, 1999;
+2. Acts of the KR Jogorku Kenesh (Parliament), the Kyrgyz President and The Government Decrees 
+3. Local acts of the Ministry and Department of Tourism under the MCIT KR;
+4. The Kyrgyz Government Decree on Approval of the Kyrgyz Government’s Tourism Development Program for 2019-2023 No. 36 of January 31, 2019.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

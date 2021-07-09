@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1625855322</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="f3f93971-a00f-4675-b2a3-b11a79a28b6d">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>ER_IAS_LEGIS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 15. Защита и восстановление экосистем суши и содействие их рациональному использованию, рациональное лесопользование, борьба с опустыниванием, прекращение и обращение вспять процесса деградации земель и прекращение процесса утраты биологического разнообразия]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[15.8 К 2020 году принять меры по предотвращению проникновения чужеродных инвазивных видов и по значительному уменьшению их воздействия на наземные и водные экосистемы, а также принять меры по предотвращению ограничения численности или уничтожения приоритетных видов  ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[15.8 By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[15.8.1 Доля стран, принимающих соответствующее национальное законодательство и выделяющих достаточные ресурсы для предотвращения проникновения или регулирования численности чужеродных инвазивных видов]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[15.8.1 Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Государственная инспекция по ветеринарной и фитосанитарной безопасности при Правительстве Кыргызской Республики при Правительстве Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The State Inspection on Veterinary and Phyto-Sanitary Security under the Government of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Романов Ч. О]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Ch. O. Romanov]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[ukzj@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[ukzj@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 660 780]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 660 780]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Предотвращение проникновения чужеродных инвазивных видов и по значительному уменьшению их воздействия на наземные и водные экосистемы, а также принять меры по предотвращению ограничения численности или уничтожения приоритетных видов]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Основные задачи в данной пункт является, охрана здоровья населения от болезней, общих для животных и человека, охрана здоровья животных от болезней и обеспечение эпизоотического благополучия, охрана территории Кыргызской Республики от заноса и распространения заразных и экзотических болезней животных, контроль за безопасностью продуктов, сырья животного и растительного происхождения, ветеринарных лекарственных средств, кормов и кормовых добавок, а также принятие мер по охране окружающей среды и. др.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The main tasks under this paragraph include protecting public health against diseases common to animals and humans, protecting animal health against diseases and ensuring epizootic well-being, protecting the Kyrgyz Republic from infectious and exotic animal diseases’ entry and spread, monitoring the safety of products, animal and plant raw materials, veterinary medicines, fodder and feed additives and taking measures to protect the environment, etc.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Кадастры генетического фонда Кыргызстана, издаваемые НАН КР (Институт биологии), ведомственные и статистические отчеты уполномоченных государственных органов, Национальный доклад о состоянии окружающей среды КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Кадастры генетического фонда Кыргызстана, издаваемые НАН КР (Институт биологии), ведомственные и статистические отчеты уполномоченных государственных органов, Национальный доклад о состоянии окружающей среды КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[В целях предотвращение проникновения чужеродных инвазивных болезней животных Госинспекция при экспорте и импорте живых животных и животноводческой продукции проводит регистрацию в электронной базе данных.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[В целях предотвращение проникновения чужеродных инвазивных болезней животных Госинспекция при экспорте и импорте живых животных и животноводческой продукции проводит регистрацию в электронной базе данных.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Выборка данных из имеющихся источников.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Выборка данных из имеющихся источников.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Из-за отсутствия систематических работ по отслеживанию наличия и состояния чужеродных инвазивных видов/ подвидов, редко обновляются данные об их количестве.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Из-за отсутствия систематических работ по отслеживанию наличия и состояния чужеродных инвазивных видов/ подвидов, редко обновляются данные об их количестве.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Усиление контроля распространения и видового состава инвазивных чужеродных видов на территории республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Усиление контроля распространения и видового состава инвазивных чужеродных видов на территории республики]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Кадастры и публикации НАН КР, сайты уполномоченных государственных органов]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Кадастры и публикации НАН КР, сайты уполномоченных государственных органов]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+ Сайт ветеринарной инспекции. http://gvfi.gov.kg/o-gosinspekcii/veterinarnyjj-nadzor.html./ https://www.oie.int/ Международный эпизоотической бюро. МЭБ. http://www.eurasiancommission.org/ ЕАЭС]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
+Veterinary Inspection website. http://gvfi.gov.kg/o-gosinspekcii/veterinarnyjj-nadzor.html./ https://www.oie.int/ International Office for Epizootic Diseases. OIE. http://www.eurasiancommission.org/ EEA]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="39022e76-6791-4ef6-adcf-ba5db94f23eb">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>ER_IAS_NBSAP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 15. Защита и восстановление экосистем суши и содействие их рациональному использованию, рациональное лесопользование, борьба с опустыниванием, прекращение и обращение вспять процесса деградации земель и прекращение процесса утраты биологического разнообразия]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[15.8 К 2020 году принять меры по предотвращению проникновения чужеродных инвазивных видов и по значительному уменьшению их воздействия на наземные и водные экосистемы, а также принять меры по предотвращению ограничения численности или уничтожения приоритетных видов  ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[15.8 By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[15.8.1 Доля стран, принимающих соответствующее национальное законодательство и выделяющих достаточные ресурсы для предотвращения проникновения или регулирования численности чужеродных инвазивных видов]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[15.8.1 Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Государственная инспекция по ветеринарной и фитосанитарной безопасности при Правительстве Кыргызской Республики при Правительстве Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The State Inspection on Veterinary and Phyto-Sanitary Security under the Government of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Романов Ч. О]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Ch. O. Romanov]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[ukzj@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[ukzj@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 660 780]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 660 780]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Предотвращение проникновения чужеродных инвазивных видов и по значительному уменьшению их воздействия на наземные и водные экосистемы, а также принять меры по предотвращению ограничения численности или уничтожения приоритетных видов]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Основные задачи в данной пункт является, охрана здоровья населения от болезней, общих для животных и человека, охрана здоровья животных от болезней и обеспечение эпизоотического благополучия, охрана территории Кыргызской Республики от заноса и распространения заразных и экзотических болезней животных, контроль за безопасностью продуктов, сырья животного и растительного происхождения, ветеринарных лекарственных средств, кормов и кормовых добавок, а также принятие мер по охране окружающей среды и. др.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The main tasks under this paragraph include protecting public health against diseases common to animals and humans, protecting animal health against diseases and ensuring epizootic well-being, protecting the Kyrgyz Republic from infectious and exotic animal diseases’ entry and spread, monitoring the safety of products, animal and plant raw materials, veterinary medicines, fodder and feed additives and taking measures to protect the environment, etc.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Кадастры генетического фонда Кыргызстана, издаваемые НАН КР (Институт биологии), ведомственные и статистические отчеты уполномоченных государственных органов, Национальный доклад о состоянии окружающей среды КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Кадастры генетического фонда Кыргызстана, издаваемые НАН КР (Институт биологии), ведомственные и статистические отчеты уполномоченных государственных органов, Национальный доклад о состоянии окружающей среды КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[В целях предотвращение проникновения чужеродных инвазивных болезней животных Госинспекция при экспорте и импорте живых животных и животноводческой продукции проводит регистрацию в электронной базе данных.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[В целях предотвращение проникновения чужеродных инвазивных болезней животных Госинспекция при экспорте и импорте живых животных и животноводческой продукции проводит регистрацию в электронной базе данных.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Выборка данных из имеющихся источников.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Выборка данных из имеющихся источников.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Из-за отсутствия систематических работ по отслеживанию наличия и состояния чужеродных инвазивных видов/ подвидов, редко обновляются данные об их количестве.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Из-за отсутствия систематических работ по отслеживанию наличия и состояния чужеродных инвазивных видов/ подвидов, редко обновляются данные об их количестве.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Усиление контроля распространения и видового состава инвазивных чужеродных видов на территории республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Усиление контроля распространения и видового состава инвазивных чужеродных видов на территории республики]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Кадастры и публикации НАН КР, сайты уполномоченных государственных органов]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Кадастры и публикации НАН КР, сайты уполномоченных государственных органов]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+ Сайт ветеринарной инспекции. http://gvfi.gov.kg/o-gosinspekcii/veterinarnyjj-nadzor.html./ https://www.oie.int/ Международный эпизоотической бюро. МЭБ. http://www.eurasiancommission.org/ ЕАЭС]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
+Veterinary Inspection website. http://gvfi.gov.kg/o-gosinspekcii/veterinarnyjj-nadzor.html./ https://www.oie.int/ International Office for Epizootic Diseases. OIE. http://www.eurasiancommission.org/ EEA]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="d3178908-b305-4983-bf93-aa512c338170">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>ER_IAS_NATBUD</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 15. Защита и восстановление экосистем суши и содействие их рациональному использованию, рациональное лесопользование, борьба с опустыниванием, прекращение и обращение вспять процесса деградации земель и прекращение процесса утраты биологического разнообразия]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[15.8 К 2020 году принять меры по предотвращению проникновения чужеродных инвазивных видов и по значительному уменьшению их воздействия на наземные и водные экосистемы, а также принять меры по предотвращению ограничения численности или уничтожения приоритетных видов  ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[15.8 By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[15.8.1 Доля стран, принимающих соответствующее национальное законодательство и выделяющих достаточные ресурсы для предотвращения проникновения или регулирования численности чужеродных инвазивных видов]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[15.8.1 Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Государственная инспекция по ветеринарной и фитосанитарной безопасности при Правительстве Кыргызской Республики при Правительстве Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The State Inspection on Veterinary and Phyto-Sanitary Security under the Government of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Романов Ч. О]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Ch. O. Romanov]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[ukzj@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[ukzj@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 660 780]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 660 780]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Предотвращение проникновения чужеродных инвазивных видов и по значительному уменьшению их воздействия на наземные и водные экосистемы, а также принять меры по предотвращению ограничения численности или уничтожения приоритетных видов]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Основные задачи в данной пункт является, охрана здоровья населения от болезней, общих для животных и человека, охрана здоровья животных от болезней и обеспечение эпизоотического благополучия, охрана территории Кыргызской Республики от заноса и распространения заразных и экзотических болезней животных, контроль за безопасностью продуктов, сырья животного и растительного происхождения, ветеринарных лекарственных средств, кормов и кормовых добавок, а также принятие мер по охране окружающей среды и. др.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The main tasks under this paragraph include protecting public health against diseases common to animals and humans, protecting animal health against diseases and ensuring epizootic well-being, protecting the Kyrgyz Republic from infectious and exotic animal diseases’ entry and spread, monitoring the safety of products, animal and plant raw materials, veterinary medicines, fodder and feed additives and taking measures to protect the environment, etc.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Кадастры генетического фонда Кыргызстана, издаваемые НАН КР (Институт биологии), ведомственные и статистические отчеты уполномоченных государственных органов, Национальный доклад о состоянии окружающей среды КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Кадастры генетического фонда Кыргызстана, издаваемые НАН КР (Институт биологии), ведомственные и статистические отчеты уполномоченных государственных органов, Национальный доклад о состоянии окружающей среды КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[В целях предотвращение проникновения чужеродных инвазивных болезней животных Госинспекция при экспорте и импорте живых животных и животноводческой продукции проводит регистрацию в электронной базе данных.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[В целях предотвращение проникновения чужеродных инвазивных болезней животных Госинспекция при экспорте и импорте живых животных и животноводческой продукции проводит регистрацию в электронной базе данных.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Выборка данных из имеющихся источников.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Выборка данных из имеющихся источников.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Из-за отсутствия систематических работ по отслеживанию наличия и состояния чужеродных инвазивных видов/ подвидов, редко обновляются данные об их количестве.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Из-за отсутствия систематических работ по отслеживанию наличия и состояния чужеродных инвазивных видов/ подвидов, редко обновляются данные об их количестве.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Усиление контроля распространения и видового состава инвазивных чужеродных видов на территории республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Усиление контроля распространения и видового состава инвазивных чужеродных видов на территории республики]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Кадастры и публикации НАН КР, сайты уполномоченных государственных органов]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Кадастры и публикации НАН КР, сайты уполномоченных государственных органов]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+ Сайт ветеринарной инспекции. http://gvfi.gov.kg/o-gosinspekcii/veterinarnyjj-nadzor.html./ https://www.oie.int/ Международный эпизоотической бюро. МЭБ. http://www.eurasiancommission.org/ ЕАЭС]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
+Veterinary Inspection website. http://gvfi.gov.kg/o-gosinspekcii/veterinarnyjj-nadzor.html./ https://www.oie.int/ International Office for Epizootic Diseases. OIE. http://www.eurasiancommission.org/ EEA]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="83785421-96c6-4d0a-b14b-38fc98e36e62">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>ER_IAS_GLOFUN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 15. Защита и восстановление экосистем суши и содействие их рациональному использованию, рациональное лесопользование, борьба с опустыниванием, прекращение и обращение вспять процесса деградации земель и прекращение процесса утраты биологического разнообразия]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[15.8 К 2020 году принять меры по предотвращению проникновения чужеродных инвазивных видов и по значительному уменьшению их воздействия на наземные и водные экосистемы, а также принять меры по предотвращению ограничения численности или уничтожения приоритетных видов  ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[15.8 By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[15.8.1 Доля стран, принимающих соответствующее национальное законодательство и выделяющих достаточные ресурсы для предотвращения проникновения или регулирования численности чужеродных инвазивных видов]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[15.8.1 Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Государственная инспекция по ветеринарной и фитосанитарной безопасности при Правительстве Кыргызской Республики при Правительстве Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The State Inspection on Veterinary and Phyto-Sanitary Security under the Government of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Романов Ч. О]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Ch. O. Romanov]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[ukzj@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[ukzj@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 660 780]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 660 780]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Предотвращение проникновения чужеродных инвазивных видов и по значительному уменьшению их воздействия на наземные и водные экосистемы, а также принять меры по предотвращению ограничения численности или уничтожения приоритетных видов]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Основные задачи в данной пункт является, охрана здоровья населения от болезней, общих для животных и человека, охрана здоровья животных от болезней и обеспечение эпизоотического благополучия, охрана территории Кыргызской Республики от заноса и распространения заразных и экзотических болезней животных, контроль за безопасностью продуктов, сырья животного и растительного происхождения, ветеринарных лекарственных средств, кормов и кормовых добавок, а также принятие мер по охране окружающей среды и. др.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The main tasks under this paragraph include protecting public health against diseases common to animals and humans, protecting animal health against diseases and ensuring epizootic well-being, protecting the Kyrgyz Republic from infectious and exotic animal diseases’ entry and spread, monitoring the safety of products, animal and plant raw materials, veterinary medicines, fodder and feed additives and taking measures to protect the environment, etc.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Кадастры генетического фонда Кыргызстана, издаваемые НАН КР (Институт биологии), ведомственные и статистические отчеты уполномоченных государственных органов, Национальный доклад о состоянии окружающей среды КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Кадастры генетического фонда Кыргызстана, издаваемые НАН КР (Институт биологии), ведомственные и статистические отчеты уполномоченных государственных органов, Национальный доклад о состоянии окружающей среды КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[В целях предотвращение проникновения чужеродных инвазивных болезней животных Госинспекция при экспорте и импорте живых животных и животноводческой продукции проводит регистрацию в электронной базе данных.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[В целях предотвращение проникновения чужеродных инвазивных болезней животных Госинспекция при экспорте и импорте живых животных и животноводческой продукции проводит регистрацию в электронной базе данных.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Выборка данных из имеющихся источников.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Выборка данных из имеющихся источников.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Из-за отсутствия систематических работ по отслеживанию наличия и состояния чужеродных инвазивных видов/ подвидов, редко обновляются данные об их количестве.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Из-за отсутствия систематических работ по отслеживанию наличия и состояния чужеродных инвазивных видов/ подвидов, редко обновляются данные об их количестве.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Усиление контроля распространения и видового состава инвазивных чужеродных видов на территории республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Усиление контроля распространения и видового состава инвазивных чужеродных видов на территории республики]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Кадастры и публикации НАН КР, сайты уполномоченных государственных органов]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Кадастры и публикации НАН КР, сайты уполномоченных государственных органов]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+ Сайт ветеринарной инспекции. http://gvfi.gov.kg/o-gosinspekcii/veterinarnyjj-nadzor.html./ https://www.oie.int/ Международный эпизоотической бюро. МЭБ. http://www.eurasiancommission.org/ ЕАЭС]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
+Veterinary Inspection website. http://gvfi.gov.kg/o-gosinspekcii/veterinarnyjj-nadzor.html./ https://www.oie.int/ International Office for Epizootic Diseases. OIE. http://www.eurasiancommission.org/ EEA]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

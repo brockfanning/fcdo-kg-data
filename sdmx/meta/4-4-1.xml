@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1625855322</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="836a8c7c-af22-4994-a545-77529ef35195">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SE_ADT_ACTS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 4. Обеспечение всестороннего и справедливого качественного образования и расширение возможностей обучения на протяжении всей жизни для всех]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[4.4. К 2030 году значительно увеличить количество молодежи и взрослых, обладающих соответствующими навыками, включая технические и профессиональные навыки, для занятости, достойных рабочих мест и предпринимательства]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[4.4. By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[4.4.1. Доля молодежи и взрослых, обладающей/ обладающих навыками в области информационно-коммуникационных технологий, в разбивке по видам навыков]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[4.4.1. Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[ Национальный статистический комитет Кыргызской Республики
+Отдел статистики домашних хозяйств]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Доля молодежи и взрослых с навыками информационно-коммуникационных технологий (ИКТ) по типу навыков, определяемая как процент молодежи (в возрасте 15-24 лет) и взрослых (в возрасте 15 лет и старше), которые владеют определенными компьютерными навыками в течение определенного периода времени (например, последние три месяца).]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The proportion of youth and adults with information and communications technology (ICT) skills, by type of skill as defined as the percentage of youth (aged 15-24 years) and adults (aged 15 years and above) that have undertaken certain computer-related activities in a given time period (e.g. last three months).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[ИКТ - навыки определяют эффективное использование информационных и коммуникационных технологий. Отсутствие таких навыков по-прежнему является одним из ключевых препятствий, ограничивающих людей, и, в частности, женщин, полностью извлекать выгоду из потенциала информационных и коммуникационных технологий.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[ICT skills determine the effective use of information and communication technology. The lack of such skills continues to be one of the key barriers keeping people, and in particular women, from fully benefitting from the potential of information and communication technologies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Кластерное обследование по многим показателям (MICS)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Multiple Indicator Cluster Survey (MICS)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
+программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
+программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель рассчитывается отношением количество людей в возрастной группе, владеющих навыками в области ИКТ к численности населения в рассматриваемой возрастной группе.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is calculated as the percentage of people in the age group with ICT skills to overall population in the age group considered.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данный показатель является относительно новым, но при этом он основан на согласованных на международном уровне определениях и методологии. Определение и методология были разработаны при координации Международного союза электросвязи (МСЭ), с помощью группы экспертов МСЭ и после проведения широких консультаций со странами. Данный показатель также является одним из основных в области развития ИКТ, одобренный Статистической комиссией ООН в 2014 году.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator is relatively new but based on an internationally-agreed definition and methodology, which have been developed under the coordination of International Telecommunications Union (ITU), through its Expert Groups and following an extensive consultation process with countries. It is also one of the Partnerships on Measuring ICT for Development’s Core List of Indicators, which was endorsed by the UN Statistical Commission in 2014.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные доступны по женщинам в возрасте от 15-49 лет, обладающих навыками в области информационно-коммуникационных технологий, в разбивке по видам навыков.
+
+Показатель основан на ответах, предоставленных респондентами-женщинами в возрасте 15-49 лет в отношении некоторых связанных с компьютером видов деятельности, которые они осуществляли в отчетный период времени. Однако это не является прямой оценкой навыков, и пока не известно, эффективна ли эта деятельность.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data are available for women aged 15-49 with information and communication technology skills, disaggregated by skills.
+
+The indicator is based on the responses provided by interviewees- women aged 15-49 regarding certain computer-related activities that they have carried out in a reference period of time. However, it is not a direct assessment of skills nor do we know if those activities were undertaken effectively.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Несмотря на то, что показатель основан на согласованных на международном уровне определениях и методологии, одной из основных проблем является то, что определение оценки) (???) в отличие от МСЭ не включает в себя программирование.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Although the indicator is based on internationally agreed definitions and methodology, one of the main issues is that measurement) (???) unlike ITU does not include programming.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+data.unicef.org,  http://www.uis.unesco.org/Pages/default.aspx
+Публикация «Кластерное обследование по многим показателям, 2018» http://www.stat.kg/media/files/d0f77c65-07d9-469d-879a-84dc5aae8833.pdf.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform:
+ https://sustainabledevelopment-kyrgyzstan.github.io
+data.unicef.org,  http://www.uis.unesco.org/Pages/default.aspx
+Multiple Indicator Cluster Survey, 2018 http://www.stat.kg/media/files/d0f77c65-07d9-469d-879a-84dc5aae8833.pdf.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

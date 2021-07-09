@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1625855322</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="0e15d907-48c5-4a49-8b8b-e8befec2d7c2">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>NV_IND_MANF</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 9. Создание стойкой инфраструктуры, содействие всеохватной и устойчивой индустриализации и инновациям. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[9.2. Содействовать всеохватной и устойчивой индустриализации и к 2030 году существенно повысить уровень занятости в промышленности и долю промышленного производства в валовом внутреннем продукте в соответствии с национальными условиями и удвоить соответствующие показатели в наименее развитых странах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[9.2.1. Доля ВДС продукции обрабатывающей промышленности в ВВП и в пересчете на душу населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9.2.1. Manufacturing value added as a proportion of GDP and per capita]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[ Национальный статистический комитет КР (Управление экономической статистики и национальных счетов)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
+(Economic Statistics and National Accounts Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Исенкулова Э. К.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Isenkulova E. K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[eisenkulova@stat.kg]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[eisenkulova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 95]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 95]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Доля ВДС продукции обрабатывающей промышленности в ВВП — это отношение показателя ВДС обрабатывающей промышленности к величине валового внутреннего продукта (ВВП) в целом по республике.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Manufacturing value added (MVA) as a proportion of gross domestic product (GDP) is a ratio between MVA and GDP in the country.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[ВДС продукции обрабатывающей промышленности важнейший и широко применяемый исследователями показатель, необходимый для определения уровня индустриализации страны. Доля ВДС продукции обрабатывающей промышленности в ВВП играет важную роль в развитии экономики страны. ВДС обрабатывающей промышленности на душу населения - это базовый показатель для страны, который отражает уровень индустриализации экономики и используется для классификации групп стран в зависимости от стадии развития промышленности.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[MVA is a well-recognized and widely used indicator by researchers and policy makers to assess the level of industrialization of a country. The share of MVA in GDP reflects the role of manufacturing in the economy and a country’s national development in general. MVA per capita is the basic indicator of a country’s level of industrialization adjusted for the size of the economy. One of the statistical uses of MVA per capita is classifying country groups according to the stage of industrial development.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Сбор данных, обработка и расчет осуществляется Национальным статистическим комитетом.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee collects, processes and calculates the data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики. Периодичность: квартальная, годовая.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики. Периодичность: квартальная, годовая.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Доля ВДС продукции обрабатывающей промышленности в ВВП рассчитывается путем деления показателя ВДС обрабатывающей промышленности на значение валового внутреннего продукта (ВВП) в целом по республике.
+GVA share с = GVAс / GDP * 100 
+где, 
+GVA share с –  доля ВДС продукции обрабатывающей промышленности в ВВП; 
+GVAс – ВДС продукции обрабатывающей промышленности;
+GDP – валовой внутренний продукт.
+ВДС продукции обрабатывающей промышленности в пересчете на душу населения представляет собой отношение всего объема валовой добавленной стоимости обрабатывающей промышленности за определенный промежуток времени к численности наличного населения.
+GVAcPC=GVAc/P 
+где, 
+GVAcPC – ВДС обрабатывающей промышленности на душу населения; 
+GVAc– ВДС продукции обрабатывающей промышленности; 
+P – численность наличного населения.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[MVA proportion to GDP is calculated by dividing MVA by GDP of the whole country.
+MVA share с =GVAс/GDP*100 
+where, 
+MVA share с –  Manufacturing value added share in GDP; 
+MVAс – manufacturing value added; 
+GDP – gross domestic product.
+MVA per capita is the ratio of total gross manufacturing value added over a period of time to the de-facto population.
+MVAcPC=MVAc/P 
+where, 
+MVAcPC – manufacturing value added per capita; 
+MVAc– manufacturing value added; 
+P – de-facto population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные по продукции обрабатывающей промышленности собираются и формируются согласно государственного классификатора видов экономической деятельности (ГКЭД3/NACE2). Расчеты валовой добавленной стоимости производятся в соответствии со стандартами СНС 2008 года.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data on manufactured goods are collected and compiled according to the State Classification of Economic Activities (SCEA3/NACE2). GVA is calculated in accordance with the 2008 SNA standards.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель новый, имеются в наличии данные, которые будут рассчитаны с 1993 года и будут размещены на сайте Нацстаткома.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is new, data for calculation have been available since 1993 onwards to be calculated and posted on the NSC website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[В мировой практике в расчетах ВВП на душу населения используется показатель численности постоянного населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Globally GDP per capita estimations are based on the resident population]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="5ed95387-fa9f-4488-a93d-425acbcd486e">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>NV_IND_MANFPC</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 9. Создание стойкой инфраструктуры, содействие всеохватной и устойчивой индустриализации и инновациям. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[9.2. Содействовать всеохватной и устойчивой индустриализации и к 2030 году существенно повысить уровень занятости в промышленности и долю промышленного производства в валовом внутреннем продукте в соответствии с национальными условиями и удвоить соответствующие показатели в наименее развитых странах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[9.2.1. Доля ВДС продукции обрабатывающей промышленности в ВВП и в пересчете на душу населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9.2.1. Manufacturing value added as a proportion of GDP and per capita]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[ Национальный статистический комитет КР (Управление экономической статистики и национальных счетов)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
+(Economic Statistics and National Accounts Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Исенкулова Э. К.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Isenkulova E. K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[eisenkulova@stat.kg]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[eisenkulova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 95]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 95]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Доля ВДС продукции обрабатывающей промышленности в ВВП — это отношение показателя ВДС обрабатывающей промышленности к величине валового внутреннего продукта (ВВП) в целом по республике.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Manufacturing value added (MVA) as a proportion of gross domestic product (GDP) is a ratio between MVA and GDP in the country.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[ВДС продукции обрабатывающей промышленности важнейший и широко применяемый исследователями показатель, необходимый для определения уровня индустриализации страны. Доля ВДС продукции обрабатывающей промышленности в ВВП играет важную роль в развитии экономики страны. ВДС обрабатывающей промышленности на душу населения - это базовый показатель для страны, который отражает уровень индустриализации экономики и используется для классификации групп стран в зависимости от стадии развития промышленности.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[MVA is a well-recognized and widely used indicator by researchers and policy makers to assess the level of industrialization of a country. The share of MVA in GDP reflects the role of manufacturing in the economy and a country’s national development in general. MVA per capita is the basic indicator of a country’s level of industrialization adjusted for the size of the economy. One of the statistical uses of MVA per capita is classifying country groups according to the stage of industrial development.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Сбор данных, обработка и расчет осуществляется Национальным статистическим комитетом.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee collects, processes and calculates the data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики. Периодичность: квартальная, годовая.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики. Периодичность: квартальная, годовая.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Доля ВДС продукции обрабатывающей промышленности в ВВП рассчитывается путем деления показателя ВДС обрабатывающей промышленности на значение валового внутреннего продукта (ВВП) в целом по республике.
+GVA share с = GVAс / GDP * 100 
+где, 
+GVA share с –  доля ВДС продукции обрабатывающей промышленности в ВВП; 
+GVAс – ВДС продукции обрабатывающей промышленности;
+GDP – валовой внутренний продукт.
+ВДС продукции обрабатывающей промышленности в пересчете на душу населения представляет собой отношение всего объема валовой добавленной стоимости обрабатывающей промышленности за определенный промежуток времени к численности наличного населения.
+GVAcPC=GVAc/P 
+где, 
+GVAcPC – ВДС обрабатывающей промышленности на душу населения; 
+GVAc– ВДС продукции обрабатывающей промышленности; 
+P – численность наличного населения.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[MVA proportion to GDP is calculated by dividing MVA by GDP of the whole country.
+MVA share с =GVAс/GDP*100 
+where, 
+MVA share с –  Manufacturing value added share in GDP; 
+MVAс – manufacturing value added; 
+GDP – gross domestic product.
+MVA per capita is the ratio of total gross manufacturing value added over a period of time to the de-facto population.
+MVAcPC=MVAc/P 
+where, 
+MVAcPC – manufacturing value added per capita; 
+MVAc– manufacturing value added; 
+P – de-facto population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные по продукции обрабатывающей промышленности собираются и формируются согласно государственного классификатора видов экономической деятельности (ГКЭД3/NACE2). Расчеты валовой добавленной стоимости производятся в соответствии со стандартами СНС 2008 года.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data on manufactured goods are collected and compiled according to the State Classification of Economic Activities (SCEA3/NACE2). GVA is calculated in accordance with the 2008 SNA standards.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель новый, имеются в наличии данные, которые будут рассчитаны с 1993 года и будут размещены на сайте Нацстаткома.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is new, data for calculation have been available since 1993 onwards to be calculated and posted on the NSC website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[В мировой практике в расчетах ВВП на душу населения используется показатель численности постоянного населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Globally GDP per capita estimations are based on the resident population]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="0992cf81-371f-40be-a300-ec6193898429">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>NV_IND_MANF_CD</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 9. Создание стойкой инфраструктуры, содействие всеохватной и устойчивой индустриализации и инновациям. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[9.2. Содействовать всеохватной и устойчивой индустриализации и к 2030 году существенно повысить уровень занятости в промышленности и долю промышленного производства в валовом внутреннем продукте в соответствии с национальными условиями и удвоить соответствующие показатели в наименее развитых странах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[9.2.1. Доля ВДС продукции обрабатывающей промышленности в ВВП и в пересчете на душу населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9.2.1. Manufacturing value added as a proportion of GDP and per capita]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[ Национальный статистический комитет КР (Управление экономической статистики и национальных счетов)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
+(Economic Statistics and National Accounts Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Исенкулова Э. К.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Isenkulova E. K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[eisenkulova@stat.kg]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[eisenkulova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 95]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 95]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Доля ВДС продукции обрабатывающей промышленности в ВВП — это отношение показателя ВДС обрабатывающей промышленности к величине валового внутреннего продукта (ВВП) в целом по республике.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Manufacturing value added (MVA) as a proportion of gross domestic product (GDP) is a ratio between MVA and GDP in the country.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[ВДС продукции обрабатывающей промышленности важнейший и широко применяемый исследователями показатель, необходимый для определения уровня индустриализации страны. Доля ВДС продукции обрабатывающей промышленности в ВВП играет важную роль в развитии экономики страны. ВДС обрабатывающей промышленности на душу населения - это базовый показатель для страны, который отражает уровень индустриализации экономики и используется для классификации групп стран в зависимости от стадии развития промышленности.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[MVA is a well-recognized and widely used indicator by researchers and policy makers to assess the level of industrialization of a country. The share of MVA in GDP reflects the role of manufacturing in the economy and a country’s national development in general. MVA per capita is the basic indicator of a country’s level of industrialization adjusted for the size of the economy. One of the statistical uses of MVA per capita is classifying country groups according to the stage of industrial development.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Сбор данных, обработка и расчет осуществляется Национальным статистическим комитетом.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee collects, processes and calculates the data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики. Периодичность: квартальная, годовая.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики. Периодичность: квартальная, годовая.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Доля ВДС продукции обрабатывающей промышленности в ВВП рассчитывается путем деления показателя ВДС обрабатывающей промышленности на значение валового внутреннего продукта (ВВП) в целом по республике.
+GVA share с = GVAс / GDP * 100 
+где, 
+GVA share с –  доля ВДС продукции обрабатывающей промышленности в ВВП; 
+GVAс – ВДС продукции обрабатывающей промышленности;
+GDP – валовой внутренний продукт.
+ВДС продукции обрабатывающей промышленности в пересчете на душу населения представляет собой отношение всего объема валовой добавленной стоимости обрабатывающей промышленности за определенный промежуток времени к численности наличного населения.
+GVAcPC=GVAc/P 
+где, 
+GVAcPC – ВДС обрабатывающей промышленности на душу населения; 
+GVAc– ВДС продукции обрабатывающей промышленности; 
+P – численность наличного населения.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[MVA proportion to GDP is calculated by dividing MVA by GDP of the whole country.
+MVA share с =GVAс/GDP*100 
+where, 
+MVA share с –  Manufacturing value added share in GDP; 
+MVAс – manufacturing value added; 
+GDP – gross domestic product.
+MVA per capita is the ratio of total gross manufacturing value added over a period of time to the de-facto population.
+MVAcPC=MVAc/P 
+where, 
+MVAcPC – manufacturing value added per capita; 
+MVAc– manufacturing value added; 
+P – de-facto population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные по продукции обрабатывающей промышленности собираются и формируются согласно государственного классификатора видов экономической деятельности (ГКЭД3/NACE2). Расчеты валовой добавленной стоимости производятся в соответствии со стандартами СНС 2008 года.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data on manufactured goods are collected and compiled according to the State Classification of Economic Activities (SCEA3/NACE2). GVA is calculated in accordance with the 2008 SNA standards.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель новый, имеются в наличии данные, которые будут рассчитаны с 1993 года и будут размещены на сайте Нацстаткома.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is new, data for calculation have been available since 1993 onwards to be calculated and posted on the NSC website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[В мировой практике в расчетах ВВП на душу населения используется показатель численности постоянного населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Globally GDP per capita estimations are based on the resident population]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

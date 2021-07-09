@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1625855322</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="eff41e17-ffec-4a9b-8df3-73558a42ed3b">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SE_PRE_PARTN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 4: Обеспечение всестороннего и справедливого качественного образования и расширение возможностей обучения на протяжении всей жизни для всех]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[4.2. К 2030 году обеспечить всем девочкам и мальчикам доступ к качественным системам развития, ухода и дошкольного обучения детей младшего возраста с тем, чтобы они были готовы к получению начального образования]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[4.2. By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[4.2.2. Уровень участия в организованных видах обучения (за один год до достижения официального возраста поступления в школу) в разбивке по полу]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[4.2.2. Participation rate in organized learning (one year before the official primary entry age), by sex]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел социальной статистики)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Уровень участия в организованном обучении (за один год до официального начального возраста) по полу, определяется как процент детей в данном возрасте, которые участвуют в одной или нескольких организованных учебных программах, включая программы, которые предлагают сочетание образования и ухода. В данный показатель также входит участие в программах образования детей младшего возраста и в программах начального образования. Возрастной диапазон зависит от официального возраста вступления в начальное образование в конкретной стране.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The participation rate in organized learning (one year before the official primary entry age), by sex as defined as the percentage of children in the given age range who participate in one or more organized learning programme, including programmes which offer a combination of education and care. Participation in early childhood and in primary education are both included. The age range will vary by country depending on the official age for entry to primary education.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель измеряет участие детей в организованных учебных мероприятиях за год до вступления в начальную школу. Высокое значение показателя свидетельствует о высокой степени участия в организованном обучении непосредственно перед официальным возрастом до начального образования.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator measures children’s exposure to organized learning activities in the year prior to the start of primary school. A high value of the indicator shows a high degree of participation in organized learning immediately before the official entrance age to primary education.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источниками информации для расчета показателя является ежегодные данные государственной статистической отчетности, представляемой общеобразовательными организациями республики по форме ОШ-1 «Отчет дневной общеобразовательной школы на начало учебного года».]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data for calculating the indicator are obtained from the annual national statistical reports submitted by education organizations in the GS-1 form «Report of the general education day schools at the beginning of academic year».]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Метод статистического наблюдения- сплошное наблюдения на основе годовой статистической отчетности
+Объектом статистического наблюдения является численность детей, прошедших предшкольную подготовку.
+Единицами наблюдения являются общеобразовательные организации (школы), дошкольные организации, организованные организации для развития младшего возраста]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Метод статистического наблюдения- сплошное наблюдения на основе годовой статистической отчетности
+Объектом статистического наблюдения является численность детей, прошедших предшкольную подготовку.
+Единицами наблюдения являются общеобразовательные организации (школы), дошкольные организации, организованные организации для развития младшего возраста]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Численность детей, прошедших предшкольную подготовку, следует разделить на численность постоянного населения в возрасте 6 лет и умножить на 100.
+Расчет осуществляется по формуле:
+
+y = n / N * 100  , где 
+n - численность детей, прошедших предшкольную подготовку
+N - численность постоянного населения в возрасте 6 лет.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The number of pre-schooled children should be divided by population aged 6 and multiplied by 100.
+The calculation shall follow the formula:
+
+y = n / N * 100 , where 
+n - number of children in pre-schooling programmes
+N - population aged 6.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Учебные программы, рассчитанные на детей в раннем возрасте, часто не рассчитаны на целый день, что определяет различие в интенсивности такого образования. Показатель измеряет процент детей, которые участвуют в организованном обучении, но не интенсивность программы обучения, что ограничивает возможность оценки степени достижения цели. Требуется проведение дополнительных мероприятий по согласованию учебных программ в различных обследованиях и определения их таким образом, чтобы они легко понимались респондентами в ходе опроса. В идеале, опрос должен включать дополнительную информацию по количеству времени, которое дети тратят на учебные программы.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Participation in learning programmes in the early years is not full time for many children, meaning that exposure to learning environments outside of the home will vary in intensity. The indicator measures the percentage of children who are exposed to organized learning but not the intensity of the programme, which limits the ability to draw conclusions on the extent to which this target is being achieved. More work is needed to ensure that the definition of learning programmes is consistent across various surveys and defined in a manner that is easily understood by survey respondents, ideally with complementary information collected on the amount of time children spend in learning programmes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[www.uis.unesco.org
+Закон Кыргызской Республики от 30 апреля 2003 года №92 «Об образовании»;
+Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[www.uis.unesco.org
+Law of the Kyrgyz Republic №92 dated 30 April 2003 «On education»
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

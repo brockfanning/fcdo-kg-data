@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1625855322</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="eaacc57e-a84e-4cfe-ae93-a90bf6c7c3d3">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_HEI_TOTL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 10. Сокращение неравенства внутри стран и между ними]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 10. Reduce inequality within and among countries]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[10.1. К 2030 году постепенно достичь и поддерживать рост доходов, наименее обеспеченных 40 процентов населения на уровне, превышающем средний по стране]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[10.1. By 2030, progressively achieve and sustain the above national average income growth among the poorest 40 per cent of the population]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[10.1.1. Темпы роста расходов домохозяйств или доходов на душу населения среди наименее обеспеченных 40 процентов населения и среди населения в целом]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[10.1.1. Growth rate of household expenditure or per capita income among the poorest 40 per cent of the population and the population in general]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики домашних хозяйств)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Калымбетова Ы.И.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Y. I. Kalymbetova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(312) 66 41 64]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(312) 66 41 64]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Темпы роста совокупного уровня благосостояния нижних 40% рассчитываются как среднегодовые темпы роста реального потребления на душу населения или доходов нижних 40% распределения доходов в стране на основе обследований домашних хозяйств в течение примерно 5-летнего периода. Средние национальные темпы роста совокупного благосостояния рассчитываются как среднегодовые темпы роста реального потребления на душу населения или доходов всего населения в стране на основе обследований домашних хозяйств за примерно пятилетний период.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The growth rate in the welfare aggregate of bottom 40% is computed as the annualized average growth rate in per capita real consumption or income of the bottom 40% of the income distribution in a country from household surveys over a roughly 5-year period. The national average growth rate in the welfare
+aggregate is computed as the annualized average growth rate in per capita real consumption or income of the total population in a country from household surveys over a roughly 5-year period.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Улучшение общего благосостояния требует, как роста экономики, так и обеспечения справедливости. Общее процветание прямо признает, что, хотя рост необходим для улучшения экономического благосостояния в обществе, прогресс измеряется тем, как эти выгоды распределяются между его беднейшими членами. Кроме того, в инклюзивном обществе недостаточно поднять уровень жизни каждого человека выше абсолютного минимума; необходимо обеспечить, чтобы экономический рост со временем способствовал повышению благосостояния бедных слоев населения.
+Решение измерять общее благосостояние на основе доходов или потребления было принято не для того, чтобы игнорировать многие другие аспекты благосостояния. Оно обусловлено необходимостью в показателе, который легко понять, сообщить и измерить, хотя существуют проблемы измерения. Действительно, общее процветание включает в себя многие аспекты благосостояния менее обеспеченных, и при анализе общего процветания в контексте страны важно учитывать широкий спектр показателей благосостояния.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Improvements in shared prosperity require both a growing economy and a consideration of equity. Shared prosperity explicitly recognizes that while growth is necessary for improving economic welfare in a society, progress is measured by how those gains are shared with its poorest members. Moreover, in an inclusive society it is not sufficient to raise everyone above an absolute inimum standard of living; it must ensure that economic growth increases prosperity among the poor over time.
+The decision to measure shared prosperity based on income or consumption was not taken to ignore the many other dimensions of welfare. It is motivated by the need for an indicator that is easy to understand, communicate, and measure—though measurement challenges exist. Indeed, shared prosperity comprises many dimensions of well-being of the less well-off, and when analyzing shared prosperity in the context of a country, it is important to consider a wide range of indicators of welfare.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Репрезентативные национальные обследования домашних хозяйств, включающих модуль по доходам или потреблению.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National representative household surveys, including income or consumption module.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Репрезентативные национальные обследования домашних хозяйств ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Репрезентативные национальные обследования домашних хозяйств ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Темпы роста рассчитываются как среднегодовые темпы роста в течение примерно пяти лет.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Growth rates are calculated as annualized average growth rates over a roughly five-year period. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[В основном существуют два ограничения общих показателей благосостояния: доступность данных и качество данных.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[There are mainly two limitations of shared prosperity indicators: data availability and data quality.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Чтобы сформировать меры совместного процветания, которые достаточно сопоставимы между странами, Группа Всемирного банка имеет стандартизованный подход для выбора периодов времени, источников данных и других соответствующих параметров.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[To generate measures of shared prosperity that are reasonably comparable across countries, the World Bank Group has a standardized approach for choosing time periods, data sources, and other relevant parameters.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io 
+Данные публикуются в статистических сборниках "Занятость и безработица", "Женщины и мужчины Кыргызской Республики", "Кыргызстан в цифрах"]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io 
+Data are published in statistical compendiums “Employment and Unemployment”, “Women and Men in the Kyrgyz Republic”, “Kyrgyzstan in Figures”]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1625855322</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="66ffe92d-bb56-4954-939d-6f0885f6e8ad">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IT_MOB_2GNTWK</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 9: Создание стойкой инфраструктуры, содействие всеохватной и устойчивой индустриализации и инновациям. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[9.c Существенно расширить доступ к информационно-коммуникационным технологиям и стремиться к обеспечению всеобщего и недорогого доступа к Интернету в наименее развитых странах к 2020 году ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9.c Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[9.c.1 Доля населения, охваченного мобильными сетями, в разбивке по технологиям ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9.c.1 Proportion of population covered by a mobile network, by technology]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Государственное агентство связи при Государственном комитете информационных технологий и связи Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[State Committee of Information Technologies and Communications of the Kyrgyz republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Ланговая А.А.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Langovaya A.A.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[a.langovaya@nas.gov.kg]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[a.langovaya@nas.gov.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 560109]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 560109]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Доля населения, охваченного мобильной сетью, с разбивкой по технологиям, по отношению к доле жителей, проживающих в пределах диапазона мобильного сотового сигнала, независимо от того, являются ли они абонентами или пользователями мобильных телефонов.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of population covered by a mobile network, broken down by technology, refers to the percentage of inhabitants living within range of a mobile-cellular signal, irrespective of whether or not they are mobile phone subscribers or users.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Процент населения, охваченного мобильной сотовой сетью, можно рассматривать как минимальный показатель доступа населения к ИКТ, поскольку сотовая сеть предоставляет людям возможность подписываться на мобильные услуги сотовой связи и использовать их для связи. За последнее десятилетие мобильные сети сотовой связи быстро расширялись и помогли преодолеть существовавшие простые инфраструктурные барьеры, потому что фиксированная телефонная сеть, часто ограничиваемая городскими и населенными районами, была доминирующей телекоммуникационной инфраструктурой.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The percentage of the population covered by a mobile cellular network can be considered as a minimum indicator for ICT access since it provides people with the possibility to subscribe to and use mobile-cellular services to communicate. Over the last decade, mobile-cellular networks have expanded rapidly and helped overcome very basic infrastructure barriers that existed when fixed-telephone networks often limited to urban and highly populated areas - were the dominant telecommunication infrastructure.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель рассчитывается путем деления числа жителей в пределах диапазона мобильного сотового сигнала на общую численность населения и умножения на 100]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is calculated by dividing the number of inhabitants within range of a mobile-cellular signal by the total population and multiplying by 100.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="fa291457-a8ec-4749-832f-00b29645e5f6">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IT_MOB_3GNTWK</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 9: Создание стойкой инфраструктуры, содействие всеохватной и устойчивой индустриализации и инновациям. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[9.c Существенно расширить доступ к информационно-коммуникационным технологиям и стремиться к обеспечению всеобщего и недорогого доступа к Интернету в наименее развитых странах к 2020 году ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9.c Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[9.c.1 Доля населения, охваченного мобильными сетями, в разбивке по технологиям ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9.c.1 Proportion of population covered by a mobile network, by technology]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Государственное агентство связи при Государственном комитете информационных технологий и связи Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[State Committee of Information Technologies and Communications of the Kyrgyz republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Ланговая А.А.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Langovaya A.A.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[a.langovaya@nas.gov.kg]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[a.langovaya@nas.gov.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 560109]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 560109]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Доля населения, охваченного мобильной сетью, с разбивкой по технологиям, по отношению к доле жителей, проживающих в пределах диапазона мобильного сотового сигнала, независимо от того, являются ли они абонентами или пользователями мобильных телефонов.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of population covered by a mobile network, broken down by technology, refers to the percentage of inhabitants living within range of a mobile-cellular signal, irrespective of whether or not they are mobile phone subscribers or users.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Процент населения, охваченного мобильной сотовой сетью, можно рассматривать как минимальный показатель доступа населения к ИКТ, поскольку сотовая сеть предоставляет людям возможность подписываться на мобильные услуги сотовой связи и использовать их для связи. За последнее десятилетие мобильные сети сотовой связи быстро расширялись и помогли преодолеть существовавшие простые инфраструктурные барьеры, потому что фиксированная телефонная сеть, часто ограничиваемая городскими и населенными районами, была доминирующей телекоммуникационной инфраструктурой.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The percentage of the population covered by a mobile cellular network can be considered as a minimum indicator for ICT access since it provides people with the possibility to subscribe to and use mobile-cellular services to communicate. Over the last decade, mobile-cellular networks have expanded rapidly and helped overcome very basic infrastructure barriers that existed when fixed-telephone networks often limited to urban and highly populated areas - were the dominant telecommunication infrastructure.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель рассчитывается путем деления числа жителей в пределах диапазона мобильного сотового сигнала на общую численность населения и умножения на 100]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is calculated by dividing the number of inhabitants within range of a mobile-cellular signal by the total population and multiplying by 100.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="b292d2c2-3573-4fd5-b39b-94899d2d66ad">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IT_MOB_4GNTWK</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 9: Создание стойкой инфраструктуры, содействие всеохватной и устойчивой индустриализации и инновациям. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[9.c Существенно расширить доступ к информационно-коммуникационным технологиям и стремиться к обеспечению всеобщего и недорогого доступа к Интернету в наименее развитых странах к 2020 году ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9.c Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[9.c.1 Доля населения, охваченного мобильными сетями, в разбивке по технологиям ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[9.c.1 Proportion of population covered by a mobile network, by technology]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Государственное агентство связи при Государственном комитете информационных технологий и связи Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[State Committee of Information Technologies and Communications of the Kyrgyz republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Ланговая А.А.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Langovaya A.A.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[a.langovaya@nas.gov.kg]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[a.langovaya@nas.gov.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 560109]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 560109]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Доля населения, охваченного мобильной сетью, с разбивкой по технологиям, по отношению к доле жителей, проживающих в пределах диапазона мобильного сотового сигнала, независимо от того, являются ли они абонентами или пользователями мобильных телефонов.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of population covered by a mobile network, broken down by technology, refers to the percentage of inhabitants living within range of a mobile-cellular signal, irrespective of whether or not they are mobile phone subscribers or users.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Процент населения, охваченного мобильной сотовой сетью, можно рассматривать как минимальный показатель доступа населения к ИКТ, поскольку сотовая сеть предоставляет людям возможность подписываться на мобильные услуги сотовой связи и использовать их для связи. За последнее десятилетие мобильные сети сотовой связи быстро расширялись и помогли преодолеть существовавшие простые инфраструктурные барьеры, потому что фиксированная телефонная сеть, часто ограничиваемая городскими и населенными районами, была доминирующей телекоммуникационной инфраструктурой.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The percentage of the population covered by a mobile cellular network can be considered as a minimum indicator for ICT access since it provides people with the possibility to subscribe to and use mobile-cellular services to communicate. Over the last decade, mobile-cellular networks have expanded rapidly and helped overcome very basic infrastructure barriers that existed when fixed-telephone networks often limited to urban and highly populated areas - were the dominant telecommunication infrastructure.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель рассчитывается путем деления числа жителей в пределах диапазона мобильного сотового сигнала на общую численность населения и умножения на 100]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is calculated by dividing the number of inhabitants within range of a mobile-cellular signal by the total population and multiplying by 100.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

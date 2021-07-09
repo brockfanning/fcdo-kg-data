@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1625855322</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="248cb16e-2e99-4879-b36f-a79351a5af84">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_H2O_SAFE</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 6: Обеспечение наличия и рационального использования водных ресурсов и санитарии для всех]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[6: Ensure availability and sustainable management of water and sanitation for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[6.1. К 2030 году обеспечить всеобщий и равноправный доступ к безопасной и недорогой питьевой воде для всех]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[6.1. By 2030, achieve universal and equitable access to safe and affordable drinking water for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[6.1.1. Доля населения, пользующегося услугами водоснабжения, организованного с соблюдением требований безопасности]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[6.1.1. Proportion of population using safely managed drinking water services]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
+(Отдел статистики домашних хозяйств)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Доля населения, пользующегося безопасной инфраструктурой снабжения питьевой водой, измеряется как часть населения, которая использует улучшенные основные источники питьевой воды, не содержащей фекальных (в особенности химических) загрязнений, находящиеся в помещениях и в свободном доступе. «Улучшенные» источники определяются так же, как и для Целей тысячелетия, а именно: наличие водопровода до дома или участка; наличие общественных отводов или водосточных труб; наличие скважин или трубчатых колодцев; защищенные колодцы; защищенные источники и дождевая вода.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of population using safely managed drinking water services is currently being measured by the proportion of population using an improved basic drinking water source which is located on premises and available when needed and free of faecal (and priority chemical) contamination. ‘Improved’ source defined the same as used for MDG monitoring i.e. piped water into dwelling, yard or plot; public taps or standpipes; boreholes or tubewells; protected dug wells; protected springs and rainwater.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель тысячелетия 7С ориентирована на "стабильный доступ" к "чистой питьевой воде". На начальном этапе постановки целей тысячелетия имела место нехватка данных о чистоте питьевой воде в развивающихся странах, эти данные не собирались с помощью обследований домашних хозяйств или переписей. Совместная программа мониторинга (JMP) ввела понятие "улучшенных" источников водных ресурсов, которое использовалось в качестве прокси для понятия "безопасной воды", поскольку улучшенные источники, как правило, защищены от фекальных загрязнений. Данная методика использовалась с 2000 года для отслеживания выполнения целей тысячелетия. В результате международных совещаний с 2011 было решено устранять упущения данного индикатора; в частности, обратиться к нормативным критериям прав человека на воду включая доступность и качество воды. 
+В результате упомянутых выше совещаний было решено, что Совместная программа мониторинга (JMP) должна рассматривать не только базовый уровень доступности воды, но и то, каким образом осуществляется контроль над водной инфраструктурой, включая измерение доступности, наличия и качества воды. Предложенный индикатор " Доля населения, пользующегося услугами водоснабжения, организованного с соблюдением требований безопасности " призван соответствовать этому требованию.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[MDG target 7C called for ‘sustainable access’ to ‘safe drinking water’. At the start of the MDG period, there was a complete lack of nationally representative data about drinking water safety in developing countries, and such data were not collected through household surveys or censuses. The JMP developed the concept of ‘improved’ water sources, which was used as a proxy for ‘safe water’, as such sources are likely to be protected against faecal contamination, and this metric has been used since 2000 to track progress towards the MDG target. International consultations since 2011 have established consensus on the need to build on and address the shortcomings of this indicator; specifically, to address normative criteria of the human right to water including accessibility, availability and quality.
+The above consultation concluded that JMP should go beyond the basic level of access and address safe management of drinking water services, including dimensions of accessibility, availability and quality. The proposed indicator of ‘safely managed drinking water services’ is designed to address this.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Интегрированное обследование бюджета домашних хозяйств и рабочей силы]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется посредством квартального вопросника №1 «Контрольного карточка домашнего хозяйства» и годового вопросника №7 «Социально-демографические характеристики лиц в домашнем хозяйстве» с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется посредством квартального вопросника №1 «Контрольного карточка домашнего хозяйства» и годового вопросника №7 «Социально-демографические характеристики лиц в домашнем хозяйстве» с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель рассчитывается путем деления общего количества лиц, проживающих в домашних хозяйствах, использующих улучшенные основные источники питьевой воды, к общей численности населения. Все расчеты осуществляются с применением коэффициентов взвешивания.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is calculated by dividing the total number of persons living in households with improved basic drinking water sources by the total population. All calculations are done using weighted factors.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные о доступности и безопасности питьевой воды становятся в КР все более доступными благодаря сочетанию данных из обследований домашних хозяйств и административных источников, включая регулирующие органы, однако определения еще не стандартизированы. Данные о фекальных и химических загрязнениях, взятые из обследований домашних хозяйств и информационно-нормативных баз данных, не охватят все страны сразу. Однако данных вполне достаточно для составления глобальных и региональных оценок услуг водоснабжения, организованных с соблюдением требований безопасности.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data on availability and safety of drinking water is increasingly available through a combination of household surveys and administrative sources including regulators, but definitions have yet to be standardized. Data on faecal and chemical contamination, drawn from household surveys and regulatory databases, will not cover all countries immediately. However, sufficient data exist to make global and regional estimates of safely managed drinking water services.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальные обследования домашних хозяйств оценивают показатель прямым методом, что отличается от международной методологии. Совместная программа мониторинга ВОЗ / ЮНИСЕФ по водоснабжению и санитарии (JMP) оценивает доступ к базовым услугам для каждой страны отдельно в городских и сельских районах путем подгонки линии регрессии к ряду точек данных из обследований домашних хозяйств и переписей. Этот подход использовался для построения отчета об использовании источников «улучшенной воды» для мониторинга ЦУР. По мере поступления большего количества данных JMP оценивает использование альтернативных методов статистической оценки. В сопроводительной Методической записке более подробно описывается, как данные о доступности и качестве из разных источников могут быть объединены с данными об использовании различных типов трубопроводов, которые учтены в текущей базе данных JMP для расчета предлагаемого индикатора. http://www.wssinfo.org/fileadmin/user_upload/resources/Methodological-note-on-monitoring-SDG-targets-for-WASH-and-wastewater_WHO-UNICEF_8October2015_Final.pdf.  
+ВОЗ, согласно резолюции Всемирной ассамблеи здравоохранения, консультируется со странами по всем статистическим данным ВОЗ и запрашивает отзывы от стран по данным и территориям. Перед публикацией все оценки JMP проходят строгие страновые консультации при содействии национальных отделений ВОЗ и ЮНИСЕФ. Часто эти консультации приводят к непосредственному посещению страны и совещаниям по сверке данных. За последние 10 лет JMP взаимодействовал с более чем пятьюдесятью странами, объясняя оценки JMP и причины расхождений, если таковые имеются. JMP также разработал онлайн-инструмент для облегчения будущей проверки данных и расширения своих онлайн-возможностей. Данный инструмент позволит согласовывать данные в более интерактивном режиме и в режиме реального времени, что должно привести к сокращению расходов на миссии по согласованию данных.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National household surveys measure the indicator directly, which creates discrepancies with the international methodology. The WHO/UNICEF Joint Monitoring Programme for Water Supply and Sanitation (JMP) estimates access to basic services for each country, separately in urban and rural areas, by fitting a regression line to a series of data points from household surveys and censuses. This approach was used to report on use of ‘improved water’ sources for MDG monitoring. The JMP is evaluating the use of alternative statistical estimation methods as more data become available. The accompanying Methodological Note describes in more detail how data on availability and quality from different sources, can be combined with data on use of different types of supplies, as recorded in the current JMP database to compute the proposed indicator. http://www.wssinfo.org/fileadmin/user_upload/resources/Methodological-note-on-monitoring-SDG-targets-for-WASH-and-wastewater_WHO-UNICEF_8October2015_Final.pdf.  
+WHO is required by World Health Assembly resolution to consult on all WHO statistics, and seek feedback from countries on data about countries and territories. Before publishing, all JMP estimates undergo rigorous country consultations facilitated by WHO and UNICEF country offices. Often these consultations give rise to in-country visits, and meetings about data reconciliations. JMP has been engaged with more than fifty countries over the last 10 years in explaining JMP estimates, and reasons for discrepancies if any. JMP has also developed an online tool to facilitate future data validation and expanded its online capabilities so that these reconciliations could be done in much more interactive and real time manner, reducing cost of reconciliations missions.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

@@ -1,0 +1,2260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1625855322</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="d532158e-5a75-40b7-8ba6-0b53fc8e8a9e">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_COV_BENFTS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3: Внедрить на национальном уровне надлежащие системы и меры социальной защиты для всех, включая установление минимальных уровней, и к 2030 году достичь существенного охвата малообеспеченных и уязвимых слоев населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3: Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3.1 Доля населения, охватываемого минимальным уровнем/системами социальной защиты, в разбивке по полу, с выделением детей, безработных, пожилых, инвалидов, беременных, новорожденных, лиц, получивших трудовое увечье, и бедных и уязвимых]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел социальной статистики)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Этот показатель отражает долю населения, охваченную системами социальной защиты.                                                                                       Численность получателей государственных социальных пособий — число лиц на конец (начало) отчетного года, которым назначена ежемесячная денежная сумма на условиях, предусмотренных законом Кыргызской Республики «О государственных пособиях в Кыргызской Республике». Общая численность получателей государственных социальных пособий подсчитывается по числу лицевых счетов получателей, состоящих на учете в органах социальной защиты.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator reflects the proportion of persons effectively covered by a social protection system, including social protection floors. The number of social benefits recipients is the number of persons at the end (beginning) of the reporting year that have been assigned monthly amount under law of the Kyrgyz Republic on «State benefits in the Kyrgyz Republic». Effective coverage of social protection is measured by the number of personal accounts of recipients registered with the social protection agencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Минимальный уровень социальной защиты в КР является национально определенным набором основных гарантий социального обеспечения, которые должны обеспечивать, как минимум, то, что в течение всего жизненного цикла все нуждающиеся имеют доступ к основным медицинским услугам и обеспечению базового уровня доходов, которые вместе обеспечивают гарантированный эффективный доступ к товарам и услугам, определенных в качестве необходимых на национальном уровне.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The social protection floor in the Kyrgyz Republic is a nationally defined set of basic social security guarantees which should ensure that those in need have access to basic healthcare and income, which together ensure guaranteed access to country-specific basic goods and services.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источниками информации для расчета показателя является государственная статистический отчетность по формам №94 СОЦ «Отчет о численности пенсионеров и суммах назначенных им месячных пенсий», №94 СОЦ (военная служба) «Отчет о численности пенсионеров, и суммах назначенных пенсий, составляющих на учете в органах силовых структур», №2-собес(госпособия) «Сводный отчет о выплате и потребной сумме единого ежемесячного и социального пособия», Приложение №1 к ф. № 2-собес (госпособия) «Сводный отчет о получателях единых ежемесячных пособий и суммах назначенных им месячных пособий» и Приложение №2 к ф. № 2-собес (госпособия) «Сводный отчет получателях социальных пособий и суммах назначенных им месячных пособий» с годовой периодичностью. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator computation are obtained from the annual State statistical records: form 94 of the Social Protection System «Report on the number of old-age pensioners and monthly pensions they are entitled to», form 94 of the State Social Protection System (military service) «Report on the number of old-age pensioners registered with the security forces and their monthly pensions», form 2-State Benefits «Consolidated report on payment and amount of monthly and social benefits», Annex 1 to form 2- State Benefits «Consolidated report on recipients of monthly allowances and monthly benefits» and Annex 2 to form 2-State Benefits «Consolidated report on recipients of social and monthly benefits».]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель определяется как отношение численности получающих пенсий и пособий к общей численности постоянного населения и рассчитывается по формуле: 
+y=n/N*100  , где 
+n = общая численность получателей пенсий и пособий,
+N = общая численность постоянного населения. 
+
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator is defined as the ratio of persons receiving pensions and benefits to the total resident population and is calculated by: 
+y=n/N*100, where 
+n = total number of pensions and benefits recipients,
+N = total population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Существует риск двойного учета бенефициаров систем социального обеспечения или даже лиц, охваченных ими, из-за наличия «дополнительных» пенсионных схем. И даже если основные источники двойного подсчета исключены, может произойти двойной подсчет, если, например, получатели перемещаются между различными пенсионными схемами в течение своей жизни и получают преимущества от нескольких схем.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[There is a risk of double counting of beneficiaries of social protection systems and even of persons covered by them due to «supplementary» pension schemes. Even when main sources of double counting are excluded, double counting may occur if, for example, recipients move between different pension schemes over their lifetime and benefit from several schemes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Качество обеспечивается контролем за полнотой и достоверностью административных данных, которые осуществляются НСК КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee controls over the completeness and validity of administrative data to ensure quality.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные размещены с 2007 года. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data available since 2007 onwards. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="155ea5ef-8614-469d-bdf0-442c3da323ca">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_COV_CHLD</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3: Внедрить на национальном уровне надлежащие системы и меры социальной защиты для всех, включая установление минимальных уровней, и к 2030 году достичь существенного охвата малообеспеченных и уязвимых слоев населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3: Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3.1 Доля населения, охватываемого минимальным уровнем/системами социальной защиты, в разбивке по полу, с выделением детей, безработных, пожилых, инвалидов, беременных, новорожденных, лиц, получивших трудовое увечье, и бедных и уязвимых]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел социальной статистики)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Этот показатель отражает долю населения, охваченную системами социальной защиты.                                                                                       Численность получателей государственных социальных пособий — число лиц на конец (начало) отчетного года, которым назначена ежемесячная денежная сумма на условиях, предусмотренных законом Кыргызской Республики «О государственных пособиях в Кыргызской Республике». Общая численность получателей государственных социальных пособий подсчитывается по числу лицевых счетов получателей, состоящих на учете в органах социальной защиты.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator reflects the proportion of persons effectively covered by a social protection system, including social protection floors. The number of social benefits recipients is the number of persons at the end (beginning) of the reporting year that have been assigned monthly amount under law of the Kyrgyz Republic on «State benefits in the Kyrgyz Republic». Effective coverage of social protection is measured by the number of personal accounts of recipients registered with the social protection agencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Минимальный уровень социальной защиты в КР является национально определенным набором основных гарантий социального обеспечения, которые должны обеспечивать, как минимум, то, что в течение всего жизненного цикла все нуждающиеся имеют доступ к основным медицинским услугам и обеспечению базового уровня доходов, которые вместе обеспечивают гарантированный эффективный доступ к товарам и услугам, определенных в качестве необходимых на национальном уровне.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The social protection floor in the Kyrgyz Republic is a nationally defined set of basic social security guarantees which should ensure that those in need have access to basic healthcare and income, which together ensure guaranteed access to country-specific basic goods and services.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источниками информации для расчета показателя является государственная статистический отчетность по формам №94 СОЦ «Отчет о численности пенсионеров и суммах назначенных им месячных пенсий», №94 СОЦ (военная служба) «Отчет о численности пенсионеров, и суммах назначенных пенсий, составляющих на учете в органах силовых структур», №2-собес(госпособия) «Сводный отчет о выплате и потребной сумме единого ежемесячного и социального пособия», Приложение №1 к ф. № 2-собес (госпособия) «Сводный отчет о получателях единых ежемесячных пособий и суммах назначенных им месячных пособий» и Приложение №2 к ф. № 2-собес (госпособия) «Сводный отчет получателях социальных пособий и суммах назначенных им месячных пособий» с годовой периодичностью. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator computation are obtained from the annual State statistical records: form 94 of the Social Protection System «Report on the number of old-age pensioners and monthly pensions they are entitled to», form 94 of the State Social Protection System (military service) «Report on the number of old-age pensioners registered with the security forces and their monthly pensions», form 2-State Benefits «Consolidated report on payment and amount of monthly and social benefits», Annex 1 to form 2- State Benefits «Consolidated report on recipients of monthly allowances and monthly benefits» and Annex 2 to form 2-State Benefits «Consolidated report on recipients of social and monthly benefits».]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель определяется как отношение численности получающих пенсий и пособий к общей численности постоянного населения и рассчитывается по формуле: 
+y=n/N*100  , где 
+n = общая численность получателей пенсий и пособий,
+N = общая численность постоянного населения. 
+
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator is defined as the ratio of persons receiving pensions and benefits to the total resident population and is calculated by: 
+y=n/N*100, where 
+n = total number of pensions and benefits recipients,
+N = total population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Существует риск двойного учета бенефициаров систем социального обеспечения или даже лиц, охваченных ими, из-за наличия «дополнительных» пенсионных схем. И даже если основные источники двойного подсчета исключены, может произойти двойной подсчет, если, например, получатели перемещаются между различными пенсионными схемами в течение своей жизни и получают преимущества от нескольких схем.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[There is a risk of double counting of beneficiaries of social protection systems and even of persons covered by them due to «supplementary» pension schemes. Even when main sources of double counting are excluded, double counting may occur if, for example, recipients move between different pension schemes over their lifetime and benefit from several schemes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Качество обеспечивается контролем за полнотой и достоверностью административных данных, которые осуществляются НСК КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee controls over the completeness and validity of administrative data to ensure quality.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные размещены с 2007 года. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data available since 2007 onwards. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="b9874ec3-1e3f-4c91-867b-b3554949fce0">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_COV_DISAB</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3: Внедрить на национальном уровне надлежащие системы и меры социальной защиты для всех, включая установление минимальных уровней, и к 2030 году достичь существенного охвата малообеспеченных и уязвимых слоев населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3: Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3.1 Доля населения, охватываемого минимальным уровнем/системами социальной защиты, в разбивке по полу, с выделением детей, безработных, пожилых, инвалидов, беременных, новорожденных, лиц, получивших трудовое увечье, и бедных и уязвимых]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел социальной статистики)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Этот показатель отражает долю населения, охваченную системами социальной защиты.                                                                                       Численность получателей государственных социальных пособий — число лиц на конец (начало) отчетного года, которым назначена ежемесячная денежная сумма на условиях, предусмотренных законом Кыргызской Республики «О государственных пособиях в Кыргызской Республике». Общая численность получателей государственных социальных пособий подсчитывается по числу лицевых счетов получателей, состоящих на учете в органах социальной защиты.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator reflects the proportion of persons effectively covered by a social protection system, including social protection floors. The number of social benefits recipients is the number of persons at the end (beginning) of the reporting year that have been assigned monthly amount under law of the Kyrgyz Republic on «State benefits in the Kyrgyz Republic». Effective coverage of social protection is measured by the number of personal accounts of recipients registered with the social protection agencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Минимальный уровень социальной защиты в КР является национально определенным набором основных гарантий социального обеспечения, которые должны обеспечивать, как минимум, то, что в течение всего жизненного цикла все нуждающиеся имеют доступ к основным медицинским услугам и обеспечению базового уровня доходов, которые вместе обеспечивают гарантированный эффективный доступ к товарам и услугам, определенных в качестве необходимых на национальном уровне.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The social protection floor in the Kyrgyz Republic is a nationally defined set of basic social security guarantees which should ensure that those in need have access to basic healthcare and income, which together ensure guaranteed access to country-specific basic goods and services.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источниками информации для расчета показателя является государственная статистический отчетность по формам №94 СОЦ «Отчет о численности пенсионеров и суммах назначенных им месячных пенсий», №94 СОЦ (военная служба) «Отчет о численности пенсионеров, и суммах назначенных пенсий, составляющих на учете в органах силовых структур», №2-собес(госпособия) «Сводный отчет о выплате и потребной сумме единого ежемесячного и социального пособия», Приложение №1 к ф. № 2-собес (госпособия) «Сводный отчет о получателях единых ежемесячных пособий и суммах назначенных им месячных пособий» и Приложение №2 к ф. № 2-собес (госпособия) «Сводный отчет получателях социальных пособий и суммах назначенных им месячных пособий» с годовой периодичностью. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator computation are obtained from the annual State statistical records: form 94 of the Social Protection System «Report on the number of old-age pensioners and monthly pensions they are entitled to», form 94 of the State Social Protection System (military service) «Report on the number of old-age pensioners registered with the security forces and their monthly pensions», form 2-State Benefits «Consolidated report on payment and amount of monthly and social benefits», Annex 1 to form 2- State Benefits «Consolidated report on recipients of monthly allowances and monthly benefits» and Annex 2 to form 2-State Benefits «Consolidated report on recipients of social and monthly benefits».]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель определяется как отношение численности получающих пенсий и пособий к общей численности постоянного населения и рассчитывается по формуле: 
+y=n/N*100  , где 
+n = общая численность получателей пенсий и пособий,
+N = общая численность постоянного населения. 
+
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator is defined as the ratio of persons receiving pensions and benefits to the total resident population and is calculated by: 
+y=n/N*100, where 
+n = total number of pensions and benefits recipients,
+N = total population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Существует риск двойного учета бенефициаров систем социального обеспечения или даже лиц, охваченных ими, из-за наличия «дополнительных» пенсионных схем. И даже если основные источники двойного подсчета исключены, может произойти двойной подсчет, если, например, получатели перемещаются между различными пенсионными схемами в течение своей жизни и получают преимущества от нескольких схем.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[There is a risk of double counting of beneficiaries of social protection systems and even of persons covered by them due to «supplementary» pension schemes. Even when main sources of double counting are excluded, double counting may occur if, for example, recipients move between different pension schemes over their lifetime and benefit from several schemes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Качество обеспечивается контролем за полнотой и достоверностью административных данных, которые осуществляются НСК КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee controls over the completeness and validity of administrative data to ensure quality.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные размещены с 2007 года. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data available since 2007 onwards. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="3eb703be-1652-4881-9968-ca1e9524c64c">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_COV_LMKT</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3: Внедрить на национальном уровне надлежащие системы и меры социальной защиты для всех, включая установление минимальных уровней, и к 2030 году достичь существенного охвата малообеспеченных и уязвимых слоев населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3: Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3.1 Доля населения, охватываемого минимальным уровнем/системами социальной защиты, в разбивке по полу, с выделением детей, безработных, пожилых, инвалидов, беременных, новорожденных, лиц, получивших трудовое увечье, и бедных и уязвимых]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел социальной статистики)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Этот показатель отражает долю населения, охваченную системами социальной защиты.                                                                                       Численность получателей государственных социальных пособий — число лиц на конец (начало) отчетного года, которым назначена ежемесячная денежная сумма на условиях, предусмотренных законом Кыргызской Республики «О государственных пособиях в Кыргызской Республике». Общая численность получателей государственных социальных пособий подсчитывается по числу лицевых счетов получателей, состоящих на учете в органах социальной защиты.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator reflects the proportion of persons effectively covered by a social protection system, including social protection floors. The number of social benefits recipients is the number of persons at the end (beginning) of the reporting year that have been assigned monthly amount under law of the Kyrgyz Republic on «State benefits in the Kyrgyz Republic». Effective coverage of social protection is measured by the number of personal accounts of recipients registered with the social protection agencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Минимальный уровень социальной защиты в КР является национально определенным набором основных гарантий социального обеспечения, которые должны обеспечивать, как минимум, то, что в течение всего жизненного цикла все нуждающиеся имеют доступ к основным медицинским услугам и обеспечению базового уровня доходов, которые вместе обеспечивают гарантированный эффективный доступ к товарам и услугам, определенных в качестве необходимых на национальном уровне.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The social protection floor in the Kyrgyz Republic is a nationally defined set of basic social security guarantees which should ensure that those in need have access to basic healthcare and income, which together ensure guaranteed access to country-specific basic goods and services.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источниками информации для расчета показателя является государственная статистический отчетность по формам №94 СОЦ «Отчет о численности пенсионеров и суммах назначенных им месячных пенсий», №94 СОЦ (военная служба) «Отчет о численности пенсионеров, и суммах назначенных пенсий, составляющих на учете в органах силовых структур», №2-собес(госпособия) «Сводный отчет о выплате и потребной сумме единого ежемесячного и социального пособия», Приложение №1 к ф. № 2-собес (госпособия) «Сводный отчет о получателях единых ежемесячных пособий и суммах назначенных им месячных пособий» и Приложение №2 к ф. № 2-собес (госпособия) «Сводный отчет получателях социальных пособий и суммах назначенных им месячных пособий» с годовой периодичностью. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator computation are obtained from the annual State statistical records: form 94 of the Social Protection System «Report on the number of old-age pensioners and monthly pensions they are entitled to», form 94 of the State Social Protection System (military service) «Report on the number of old-age pensioners registered with the security forces and their monthly pensions», form 2-State Benefits «Consolidated report on payment and amount of monthly and social benefits», Annex 1 to form 2- State Benefits «Consolidated report on recipients of monthly allowances and monthly benefits» and Annex 2 to form 2-State Benefits «Consolidated report on recipients of social and monthly benefits».]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель определяется как отношение численности получающих пенсий и пособий к общей численности постоянного населения и рассчитывается по формуле: 
+y=n/N*100  , где 
+n = общая численность получателей пенсий и пособий,
+N = общая численность постоянного населения. 
+
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator is defined as the ratio of persons receiving pensions and benefits to the total resident population and is calculated by: 
+y=n/N*100, where 
+n = total number of pensions and benefits recipients,
+N = total population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Существует риск двойного учета бенефициаров систем социального обеспечения или даже лиц, охваченных ими, из-за наличия «дополнительных» пенсионных схем. И даже если основные источники двойного подсчета исключены, может произойти двойной подсчет, если, например, получатели перемещаются между различными пенсионными схемами в течение своей жизни и получают преимущества от нескольких схем.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[There is a risk of double counting of beneficiaries of social protection systems and even of persons covered by them due to «supplementary» pension schemes. Even when main sources of double counting are excluded, double counting may occur if, for example, recipients move between different pension schemes over their lifetime and benefit from several schemes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Качество обеспечивается контролем за полнотой и достоверностью административных данных, которые осуществляются НСК КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee controls over the completeness and validity of administrative data to ensure quality.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные размещены с 2007 года. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data available since 2007 onwards. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="e1d56e0e-a2e9-49e8-b9f1-261507f2da79">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_COV_MATNL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3: Внедрить на национальном уровне надлежащие системы и меры социальной защиты для всех, включая установление минимальных уровней, и к 2030 году достичь существенного охвата малообеспеченных и уязвимых слоев населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3: Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3.1 Доля населения, охватываемого минимальным уровнем/системами социальной защиты, в разбивке по полу, с выделением детей, безработных, пожилых, инвалидов, беременных, новорожденных, лиц, получивших трудовое увечье, и бедных и уязвимых]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел социальной статистики)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Этот показатель отражает долю населения, охваченную системами социальной защиты.                                                                                       Численность получателей государственных социальных пособий — число лиц на конец (начало) отчетного года, которым назначена ежемесячная денежная сумма на условиях, предусмотренных законом Кыргызской Республики «О государственных пособиях в Кыргызской Республике». Общая численность получателей государственных социальных пособий подсчитывается по числу лицевых счетов получателей, состоящих на учете в органах социальной защиты.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator reflects the proportion of persons effectively covered by a social protection system, including social protection floors. The number of social benefits recipients is the number of persons at the end (beginning) of the reporting year that have been assigned monthly amount under law of the Kyrgyz Republic on «State benefits in the Kyrgyz Republic». Effective coverage of social protection is measured by the number of personal accounts of recipients registered with the social protection agencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Минимальный уровень социальной защиты в КР является национально определенным набором основных гарантий социального обеспечения, которые должны обеспечивать, как минимум, то, что в течение всего жизненного цикла все нуждающиеся имеют доступ к основным медицинским услугам и обеспечению базового уровня доходов, которые вместе обеспечивают гарантированный эффективный доступ к товарам и услугам, определенных в качестве необходимых на национальном уровне.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The social protection floor in the Kyrgyz Republic is a nationally defined set of basic social security guarantees which should ensure that those in need have access to basic healthcare and income, which together ensure guaranteed access to country-specific basic goods and services.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источниками информации для расчета показателя является государственная статистический отчетность по формам №94 СОЦ «Отчет о численности пенсионеров и суммах назначенных им месячных пенсий», №94 СОЦ (военная служба) «Отчет о численности пенсионеров, и суммах назначенных пенсий, составляющих на учете в органах силовых структур», №2-собес(госпособия) «Сводный отчет о выплате и потребной сумме единого ежемесячного и социального пособия», Приложение №1 к ф. № 2-собес (госпособия) «Сводный отчет о получателях единых ежемесячных пособий и суммах назначенных им месячных пособий» и Приложение №2 к ф. № 2-собес (госпособия) «Сводный отчет получателях социальных пособий и суммах назначенных им месячных пособий» с годовой периодичностью. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator computation are obtained from the annual State statistical records: form 94 of the Social Protection System «Report on the number of old-age pensioners and monthly pensions they are entitled to», form 94 of the State Social Protection System (military service) «Report on the number of old-age pensioners registered with the security forces and their monthly pensions», form 2-State Benefits «Consolidated report on payment and amount of monthly and social benefits», Annex 1 to form 2- State Benefits «Consolidated report on recipients of monthly allowances and monthly benefits» and Annex 2 to form 2-State Benefits «Consolidated report on recipients of social and monthly benefits».]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель определяется как отношение численности получающих пенсий и пособий к общей численности постоянного населения и рассчитывается по формуле: 
+y=n/N*100  , где 
+n = общая численность получателей пенсий и пособий,
+N = общая численность постоянного населения. 
+
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator is defined as the ratio of persons receiving pensions and benefits to the total resident population and is calculated by: 
+y=n/N*100, where 
+n = total number of pensions and benefits recipients,
+N = total population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Существует риск двойного учета бенефициаров систем социального обеспечения или даже лиц, охваченных ими, из-за наличия «дополнительных» пенсионных схем. И даже если основные источники двойного подсчета исключены, может произойти двойной подсчет, если, например, получатели перемещаются между различными пенсионными схемами в течение своей жизни и получают преимущества от нескольких схем.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[There is a risk of double counting of beneficiaries of social protection systems and even of persons covered by them due to «supplementary» pension schemes. Even when main sources of double counting are excluded, double counting may occur if, for example, recipients move between different pension schemes over their lifetime and benefit from several schemes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Качество обеспечивается контролем за полнотой и достоверностью административных данных, которые осуществляются НСК КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee controls over the completeness and validity of administrative data to ensure quality.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные размещены с 2007 года. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data available since 2007 onwards. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="2ec4d17b-61a9-4555-8bf4-b13619fb7009">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_COV_PENSN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3: Внедрить на национальном уровне надлежащие системы и меры социальной защиты для всех, включая установление минимальных уровней, и к 2030 году достичь существенного охвата малообеспеченных и уязвимых слоев населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3: Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3.1 Доля населения, охватываемого минимальным уровнем/системами социальной защиты, в разбивке по полу, с выделением детей, безработных, пожилых, инвалидов, беременных, новорожденных, лиц, получивших трудовое увечье, и бедных и уязвимых]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел социальной статистики)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Этот показатель отражает долю населения, охваченную системами социальной защиты.                                                                                       Численность получателей государственных социальных пособий — число лиц на конец (начало) отчетного года, которым назначена ежемесячная денежная сумма на условиях, предусмотренных законом Кыргызской Республики «О государственных пособиях в Кыргызской Республике». Общая численность получателей государственных социальных пособий подсчитывается по числу лицевых счетов получателей, состоящих на учете в органах социальной защиты.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator reflects the proportion of persons effectively covered by a social protection system, including social protection floors. The number of social benefits recipients is the number of persons at the end (beginning) of the reporting year that have been assigned monthly amount under law of the Kyrgyz Republic on «State benefits in the Kyrgyz Republic». Effective coverage of social protection is measured by the number of personal accounts of recipients registered with the social protection agencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Минимальный уровень социальной защиты в КР является национально определенным набором основных гарантий социального обеспечения, которые должны обеспечивать, как минимум, то, что в течение всего жизненного цикла все нуждающиеся имеют доступ к основным медицинским услугам и обеспечению базового уровня доходов, которые вместе обеспечивают гарантированный эффективный доступ к товарам и услугам, определенных в качестве необходимых на национальном уровне.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The social protection floor in the Kyrgyz Republic is a nationally defined set of basic social security guarantees which should ensure that those in need have access to basic healthcare and income, which together ensure guaranteed access to country-specific basic goods and services.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источниками информации для расчета показателя является государственная статистический отчетность по формам №94 СОЦ «Отчет о численности пенсионеров и суммах назначенных им месячных пенсий», №94 СОЦ (военная служба) «Отчет о численности пенсионеров, и суммах назначенных пенсий, составляющих на учете в органах силовых структур», №2-собес(госпособия) «Сводный отчет о выплате и потребной сумме единого ежемесячного и социального пособия», Приложение №1 к ф. № 2-собес (госпособия) «Сводный отчет о получателях единых ежемесячных пособий и суммах назначенных им месячных пособий» и Приложение №2 к ф. № 2-собес (госпособия) «Сводный отчет получателях социальных пособий и суммах назначенных им месячных пособий» с годовой периодичностью. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator computation are obtained from the annual State statistical records: form 94 of the Social Protection System «Report on the number of old-age pensioners and monthly pensions they are entitled to», form 94 of the State Social Protection System (military service) «Report on the number of old-age pensioners registered with the security forces and their monthly pensions», form 2-State Benefits «Consolidated report on payment and amount of monthly and social benefits», Annex 1 to form 2- State Benefits «Consolidated report on recipients of monthly allowances and monthly benefits» and Annex 2 to form 2-State Benefits «Consolidated report on recipients of social and monthly benefits».]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель определяется как отношение численности получающих пенсий и пособий к общей численности постоянного населения и рассчитывается по формуле: 
+y=n/N*100  , где 
+n = общая численность получателей пенсий и пособий,
+N = общая численность постоянного населения. 
+
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator is defined as the ratio of persons receiving pensions and benefits to the total resident population and is calculated by: 
+y=n/N*100, where 
+n = total number of pensions and benefits recipients,
+N = total population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Существует риск двойного учета бенефициаров систем социального обеспечения или даже лиц, охваченных ими, из-за наличия «дополнительных» пенсионных схем. И даже если основные источники двойного подсчета исключены, может произойти двойной подсчет, если, например, получатели перемещаются между различными пенсионными схемами в течение своей жизни и получают преимущества от нескольких схем.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[There is a risk of double counting of beneficiaries of social protection systems and even of persons covered by them due to «supplementary» pension schemes. Even when main sources of double counting are excluded, double counting may occur if, for example, recipients move between different pension schemes over their lifetime and benefit from several schemes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Качество обеспечивается контролем за полнотой и достоверностью административных данных, которые осуществляются НСК КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee controls over the completeness and validity of administrative data to ensure quality.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные размещены с 2007 года. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data available since 2007 onwards. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="0d0af729-bfce-4e0f-8cdc-85d728338b31">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_COV_POOR</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3: Внедрить на национальном уровне надлежащие системы и меры социальной защиты для всех, включая установление минимальных уровней, и к 2030 году достичь существенного охвата малообеспеченных и уязвимых слоев населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3: Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3.1 Доля населения, охватываемого минимальным уровнем/системами социальной защиты, в разбивке по полу, с выделением детей, безработных, пожилых, инвалидов, беременных, новорожденных, лиц, получивших трудовое увечье, и бедных и уязвимых]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел социальной статистики)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Этот показатель отражает долю населения, охваченную системами социальной защиты.                                                                                       Численность получателей государственных социальных пособий — число лиц на конец (начало) отчетного года, которым назначена ежемесячная денежная сумма на условиях, предусмотренных законом Кыргызской Республики «О государственных пособиях в Кыргызской Республике». Общая численность получателей государственных социальных пособий подсчитывается по числу лицевых счетов получателей, состоящих на учете в органах социальной защиты.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator reflects the proportion of persons effectively covered by a social protection system, including social protection floors. The number of social benefits recipients is the number of persons at the end (beginning) of the reporting year that have been assigned monthly amount under law of the Kyrgyz Republic on «State benefits in the Kyrgyz Republic». Effective coverage of social protection is measured by the number of personal accounts of recipients registered with the social protection agencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Минимальный уровень социальной защиты в КР является национально определенным набором основных гарантий социального обеспечения, которые должны обеспечивать, как минимум, то, что в течение всего жизненного цикла все нуждающиеся имеют доступ к основным медицинским услугам и обеспечению базового уровня доходов, которые вместе обеспечивают гарантированный эффективный доступ к товарам и услугам, определенных в качестве необходимых на национальном уровне.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The social protection floor in the Kyrgyz Republic is a nationally defined set of basic social security guarantees which should ensure that those in need have access to basic healthcare and income, which together ensure guaranteed access to country-specific basic goods and services.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источниками информации для расчета показателя является государственная статистический отчетность по формам №94 СОЦ «Отчет о численности пенсионеров и суммах назначенных им месячных пенсий», №94 СОЦ (военная служба) «Отчет о численности пенсионеров, и суммах назначенных пенсий, составляющих на учете в органах силовых структур», №2-собес(госпособия) «Сводный отчет о выплате и потребной сумме единого ежемесячного и социального пособия», Приложение №1 к ф. № 2-собес (госпособия) «Сводный отчет о получателях единых ежемесячных пособий и суммах назначенных им месячных пособий» и Приложение №2 к ф. № 2-собес (госпособия) «Сводный отчет получателях социальных пособий и суммах назначенных им месячных пособий» с годовой периодичностью. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator computation are obtained from the annual State statistical records: form 94 of the Social Protection System «Report on the number of old-age pensioners and monthly pensions they are entitled to», form 94 of the State Social Protection System (military service) «Report on the number of old-age pensioners registered with the security forces and their monthly pensions», form 2-State Benefits «Consolidated report on payment and amount of monthly and social benefits», Annex 1 to form 2- State Benefits «Consolidated report on recipients of monthly allowances and monthly benefits» and Annex 2 to form 2-State Benefits «Consolidated report on recipients of social and monthly benefits».]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель определяется как отношение численности получающих пенсий и пособий к общей численности постоянного населения и рассчитывается по формуле: 
+y=n/N*100  , где 
+n = общая численность получателей пенсий и пособий,
+N = общая численность постоянного населения. 
+
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator is defined as the ratio of persons receiving pensions and benefits to the total resident population and is calculated by: 
+y=n/N*100, where 
+n = total number of pensions and benefits recipients,
+N = total population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Существует риск двойного учета бенефициаров систем социального обеспечения или даже лиц, охваченных ими, из-за наличия «дополнительных» пенсионных схем. И даже если основные источники двойного подсчета исключены, может произойти двойной подсчет, если, например, получатели перемещаются между различными пенсионными схемами в течение своей жизни и получают преимущества от нескольких схем.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[There is a risk of double counting of beneficiaries of social protection systems and even of persons covered by them due to «supplementary» pension schemes. Even when main sources of double counting are excluded, double counting may occur if, for example, recipients move between different pension schemes over their lifetime and benefit from several schemes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Качество обеспечивается контролем за полнотой и достоверностью административных данных, которые осуществляются НСК КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee controls over the completeness and validity of administrative data to ensure quality.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные размещены с 2007 года. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data available since 2007 onwards. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="e768195a-880d-4664-b9f7-55d18c9008db">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_COV_SOCAST</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3: Внедрить на национальном уровне надлежащие системы и меры социальной защиты для всех, включая установление минимальных уровней, и к 2030 году достичь существенного охвата малообеспеченных и уязвимых слоев населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3: Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3.1 Доля населения, охватываемого минимальным уровнем/системами социальной защиты, в разбивке по полу, с выделением детей, безработных, пожилых, инвалидов, беременных, новорожденных, лиц, получивших трудовое увечье, и бедных и уязвимых]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел социальной статистики)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Этот показатель отражает долю населения, охваченную системами социальной защиты.                                                                                       Численность получателей государственных социальных пособий — число лиц на конец (начало) отчетного года, которым назначена ежемесячная денежная сумма на условиях, предусмотренных законом Кыргызской Республики «О государственных пособиях в Кыргызской Республике». Общая численность получателей государственных социальных пособий подсчитывается по числу лицевых счетов получателей, состоящих на учете в органах социальной защиты.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator reflects the proportion of persons effectively covered by a social protection system, including social protection floors. The number of social benefits recipients is the number of persons at the end (beginning) of the reporting year that have been assigned monthly amount under law of the Kyrgyz Republic on «State benefits in the Kyrgyz Republic». Effective coverage of social protection is measured by the number of personal accounts of recipients registered with the social protection agencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Минимальный уровень социальной защиты в КР является национально определенным набором основных гарантий социального обеспечения, которые должны обеспечивать, как минимум, то, что в течение всего жизненного цикла все нуждающиеся имеют доступ к основным медицинским услугам и обеспечению базового уровня доходов, которые вместе обеспечивают гарантированный эффективный доступ к товарам и услугам, определенных в качестве необходимых на национальном уровне.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The social protection floor in the Kyrgyz Republic is a nationally defined set of basic social security guarantees which should ensure that those in need have access to basic healthcare and income, which together ensure guaranteed access to country-specific basic goods and services.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источниками информации для расчета показателя является государственная статистический отчетность по формам №94 СОЦ «Отчет о численности пенсионеров и суммах назначенных им месячных пенсий», №94 СОЦ (военная служба) «Отчет о численности пенсионеров, и суммах назначенных пенсий, составляющих на учете в органах силовых структур», №2-собес(госпособия) «Сводный отчет о выплате и потребной сумме единого ежемесячного и социального пособия», Приложение №1 к ф. № 2-собес (госпособия) «Сводный отчет о получателях единых ежемесячных пособий и суммах назначенных им месячных пособий» и Приложение №2 к ф. № 2-собес (госпособия) «Сводный отчет получателях социальных пособий и суммах назначенных им месячных пособий» с годовой периодичностью. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator computation are obtained from the annual State statistical records: form 94 of the Social Protection System «Report on the number of old-age pensioners and monthly pensions they are entitled to», form 94 of the State Social Protection System (military service) «Report on the number of old-age pensioners registered with the security forces and their monthly pensions», form 2-State Benefits «Consolidated report on payment and amount of monthly and social benefits», Annex 1 to form 2- State Benefits «Consolidated report on recipients of monthly allowances and monthly benefits» and Annex 2 to form 2-State Benefits «Consolidated report on recipients of social and monthly benefits».]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель определяется как отношение численности получающих пенсий и пособий к общей численности постоянного населения и рассчитывается по формуле: 
+y=n/N*100  , где 
+n = общая численность получателей пенсий и пособий,
+N = общая численность постоянного населения. 
+
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator is defined as the ratio of persons receiving pensions and benefits to the total resident population and is calculated by: 
+y=n/N*100, where 
+n = total number of pensions and benefits recipients,
+N = total population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Существует риск двойного учета бенефициаров систем социального обеспечения или даже лиц, охваченных ими, из-за наличия «дополнительных» пенсионных схем. И даже если основные источники двойного подсчета исключены, может произойти двойной подсчет, если, например, получатели перемещаются между различными пенсионными схемами в течение своей жизни и получают преимущества от нескольких схем.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[There is a risk of double counting of beneficiaries of social protection systems and even of persons covered by them due to «supplementary» pension schemes. Even when main sources of double counting are excluded, double counting may occur if, for example, recipients move between different pension schemes over their lifetime and benefit from several schemes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Качество обеспечивается контролем за полнотой и достоверностью административных данных, которые осуществляются НСК КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee controls over the completeness and validity of administrative data to ensure quality.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные размещены с 2007 года. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data available since 2007 onwards. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="6138584a-fb68-490f-adf1-e774a5cdf3f2">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_COV_SOCINS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3: Внедрить на национальном уровне надлежащие системы и меры социальной защиты для всех, включая установление минимальных уровней, и к 2030 году достичь существенного охвата малообеспеченных и уязвимых слоев населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3: Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3.1 Доля населения, охватываемого минимальным уровнем/системами социальной защиты, в разбивке по полу, с выделением детей, безработных, пожилых, инвалидов, беременных, новорожденных, лиц, получивших трудовое увечье, и бедных и уязвимых]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел социальной статистики)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Этот показатель отражает долю населения, охваченную системами социальной защиты.                                                                                       Численность получателей государственных социальных пособий — число лиц на конец (начало) отчетного года, которым назначена ежемесячная денежная сумма на условиях, предусмотренных законом Кыргызской Республики «О государственных пособиях в Кыргызской Республике». Общая численность получателей государственных социальных пособий подсчитывается по числу лицевых счетов получателей, состоящих на учете в органах социальной защиты.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator reflects the proportion of persons effectively covered by a social protection system, including social protection floors. The number of social benefits recipients is the number of persons at the end (beginning) of the reporting year that have been assigned monthly amount under law of the Kyrgyz Republic on «State benefits in the Kyrgyz Republic». Effective coverage of social protection is measured by the number of personal accounts of recipients registered with the social protection agencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Минимальный уровень социальной защиты в КР является национально определенным набором основных гарантий социального обеспечения, которые должны обеспечивать, как минимум, то, что в течение всего жизненного цикла все нуждающиеся имеют доступ к основным медицинским услугам и обеспечению базового уровня доходов, которые вместе обеспечивают гарантированный эффективный доступ к товарам и услугам, определенных в качестве необходимых на национальном уровне.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The social protection floor in the Kyrgyz Republic is a nationally defined set of basic social security guarantees which should ensure that those in need have access to basic healthcare and income, which together ensure guaranteed access to country-specific basic goods and services.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источниками информации для расчета показателя является государственная статистический отчетность по формам №94 СОЦ «Отчет о численности пенсионеров и суммах назначенных им месячных пенсий», №94 СОЦ (военная служба) «Отчет о численности пенсионеров, и суммах назначенных пенсий, составляющих на учете в органах силовых структур», №2-собес(госпособия) «Сводный отчет о выплате и потребной сумме единого ежемесячного и социального пособия», Приложение №1 к ф. № 2-собес (госпособия) «Сводный отчет о получателях единых ежемесячных пособий и суммах назначенных им месячных пособий» и Приложение №2 к ф. № 2-собес (госпособия) «Сводный отчет получателях социальных пособий и суммах назначенных им месячных пособий» с годовой периодичностью. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator computation are obtained from the annual State statistical records: form 94 of the Social Protection System «Report on the number of old-age pensioners and monthly pensions they are entitled to», form 94 of the State Social Protection System (military service) «Report on the number of old-age pensioners registered with the security forces and their monthly pensions», form 2-State Benefits «Consolidated report on payment and amount of monthly and social benefits», Annex 1 to form 2- State Benefits «Consolidated report on recipients of monthly allowances and monthly benefits» and Annex 2 to form 2-State Benefits «Consolidated report on recipients of social and monthly benefits».]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель определяется как отношение численности получающих пенсий и пособий к общей численности постоянного населения и рассчитывается по формуле: 
+y=n/N*100  , где 
+n = общая численность получателей пенсий и пособий,
+N = общая численность постоянного населения. 
+
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator is defined as the ratio of persons receiving pensions and benefits to the total resident population and is calculated by: 
+y=n/N*100, where 
+n = total number of pensions and benefits recipients,
+N = total population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Существует риск двойного учета бенефициаров систем социального обеспечения или даже лиц, охваченных ими, из-за наличия «дополнительных» пенсионных схем. И даже если основные источники двойного подсчета исключены, может произойти двойной подсчет, если, например, получатели перемещаются между различными пенсионными схемами в течение своей жизни и получают преимущества от нескольких схем.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[There is a risk of double counting of beneficiaries of social protection systems and even of persons covered by them due to «supplementary» pension schemes. Even when main sources of double counting are excluded, double counting may occur if, for example, recipients move between different pension schemes over their lifetime and benefit from several schemes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Качество обеспечивается контролем за полнотой и достоверностью административных данных, которые осуществляются НСК КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee controls over the completeness and validity of administrative data to ensure quality.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные размещены с 2007 года. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data available since 2007 onwards. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="0fba46d4-a540-43f3-aed9-e5ba2d3b0a0d">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_COV_UEMP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3: Внедрить на национальном уровне надлежащие системы и меры социальной защиты для всех, включая установление минимальных уровней, и к 2030 году достичь существенного охвата малообеспеченных и уязвимых слоев населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3: Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3.1 Доля населения, охватываемого минимальным уровнем/системами социальной защиты, в разбивке по полу, с выделением детей, безработных, пожилых, инвалидов, беременных, новорожденных, лиц, получивших трудовое увечье, и бедных и уязвимых]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел социальной статистики)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Этот показатель отражает долю населения, охваченную системами социальной защиты.                                                                                       Численность получателей государственных социальных пособий — число лиц на конец (начало) отчетного года, которым назначена ежемесячная денежная сумма на условиях, предусмотренных законом Кыргызской Республики «О государственных пособиях в Кыргызской Республике». Общая численность получателей государственных социальных пособий подсчитывается по числу лицевых счетов получателей, состоящих на учете в органах социальной защиты.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator reflects the proportion of persons effectively covered by a social protection system, including social protection floors. The number of social benefits recipients is the number of persons at the end (beginning) of the reporting year that have been assigned monthly amount under law of the Kyrgyz Republic on «State benefits in the Kyrgyz Republic». Effective coverage of social protection is measured by the number of personal accounts of recipients registered with the social protection agencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Минимальный уровень социальной защиты в КР является национально определенным набором основных гарантий социального обеспечения, которые должны обеспечивать, как минимум, то, что в течение всего жизненного цикла все нуждающиеся имеют доступ к основным медицинским услугам и обеспечению базового уровня доходов, которые вместе обеспечивают гарантированный эффективный доступ к товарам и услугам, определенных в качестве необходимых на национальном уровне.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The social protection floor in the Kyrgyz Republic is a nationally defined set of basic social security guarantees which should ensure that those in need have access to basic healthcare and income, which together ensure guaranteed access to country-specific basic goods and services.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источниками информации для расчета показателя является государственная статистический отчетность по формам №94 СОЦ «Отчет о численности пенсионеров и суммах назначенных им месячных пенсий», №94 СОЦ (военная служба) «Отчет о численности пенсионеров, и суммах назначенных пенсий, составляющих на учете в органах силовых структур», №2-собес(госпособия) «Сводный отчет о выплате и потребной сумме единого ежемесячного и социального пособия», Приложение №1 к ф. № 2-собес (госпособия) «Сводный отчет о получателях единых ежемесячных пособий и суммах назначенных им месячных пособий» и Приложение №2 к ф. № 2-собес (госпособия) «Сводный отчет получателях социальных пособий и суммах назначенных им месячных пособий» с годовой периодичностью. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator computation are obtained from the annual State statistical records: form 94 of the Social Protection System «Report on the number of old-age pensioners and monthly pensions they are entitled to», form 94 of the State Social Protection System (military service) «Report on the number of old-age pensioners registered with the security forces and their monthly pensions», form 2-State Benefits «Consolidated report on payment and amount of monthly and social benefits», Annex 1 to form 2- State Benefits «Consolidated report on recipients of monthly allowances and monthly benefits» and Annex 2 to form 2-State Benefits «Consolidated report on recipients of social and monthly benefits».]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель определяется как отношение численности получающих пенсий и пособий к общей численности постоянного населения и рассчитывается по формуле: 
+y=n/N*100  , где 
+n = общая численность получателей пенсий и пособий,
+N = общая численность постоянного населения. 
+
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator is defined as the ratio of persons receiving pensions and benefits to the total resident population and is calculated by: 
+y=n/N*100, where 
+n = total number of pensions and benefits recipients,
+N = total population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Существует риск двойного учета бенефициаров систем социального обеспечения или даже лиц, охваченных ими, из-за наличия «дополнительных» пенсионных схем. И даже если основные источники двойного подсчета исключены, может произойти двойной подсчет, если, например, получатели перемещаются между различными пенсионными схемами в течение своей жизни и получают преимущества от нескольких схем.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[There is a risk of double counting of beneficiaries of social protection systems and even of persons covered by them due to «supplementary» pension schemes. Even when main sources of double counting are excluded, double counting may occur if, for example, recipients move between different pension schemes over their lifetime and benefit from several schemes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Качество обеспечивается контролем за полнотой и достоверностью административных данных, которые осуществляются НСК КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee controls over the completeness and validity of administrative data to ensure quality.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные размещены с 2007 года. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data available since 2007 onwards. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="e5bff886-c03d-4f70-a861-ddf41c207b55">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_COV_VULN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3: Внедрить на национальном уровне надлежащие системы и меры социальной защиты для всех, включая установление минимальных уровней, и к 2030 году достичь существенного охвата малообеспеченных и уязвимых слоев населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3: Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3.1 Доля населения, охватываемого минимальным уровнем/системами социальной защиты, в разбивке по полу, с выделением детей, безработных, пожилых, инвалидов, беременных, новорожденных, лиц, получивших трудовое увечье, и бедных и уязвимых]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел социальной статистики)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Этот показатель отражает долю населения, охваченную системами социальной защиты.                                                                                       Численность получателей государственных социальных пособий — число лиц на конец (начало) отчетного года, которым назначена ежемесячная денежная сумма на условиях, предусмотренных законом Кыргызской Республики «О государственных пособиях в Кыргызской Республике». Общая численность получателей государственных социальных пособий подсчитывается по числу лицевых счетов получателей, состоящих на учете в органах социальной защиты.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator reflects the proportion of persons effectively covered by a social protection system, including social protection floors. The number of social benefits recipients is the number of persons at the end (beginning) of the reporting year that have been assigned monthly amount under law of the Kyrgyz Republic on «State benefits in the Kyrgyz Republic». Effective coverage of social protection is measured by the number of personal accounts of recipients registered with the social protection agencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Минимальный уровень социальной защиты в КР является национально определенным набором основных гарантий социального обеспечения, которые должны обеспечивать, как минимум, то, что в течение всего жизненного цикла все нуждающиеся имеют доступ к основным медицинским услугам и обеспечению базового уровня доходов, которые вместе обеспечивают гарантированный эффективный доступ к товарам и услугам, определенных в качестве необходимых на национальном уровне.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The social protection floor in the Kyrgyz Republic is a nationally defined set of basic social security guarantees which should ensure that those in need have access to basic healthcare and income, which together ensure guaranteed access to country-specific basic goods and services.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источниками информации для расчета показателя является государственная статистический отчетность по формам №94 СОЦ «Отчет о численности пенсионеров и суммах назначенных им месячных пенсий», №94 СОЦ (военная служба) «Отчет о численности пенсионеров, и суммах назначенных пенсий, составляющих на учете в органах силовых структур», №2-собес(госпособия) «Сводный отчет о выплате и потребной сумме единого ежемесячного и социального пособия», Приложение №1 к ф. № 2-собес (госпособия) «Сводный отчет о получателях единых ежемесячных пособий и суммах назначенных им месячных пособий» и Приложение №2 к ф. № 2-собес (госпособия) «Сводный отчет получателях социальных пособий и суммах назначенных им месячных пособий» с годовой периодичностью. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator computation are obtained from the annual State statistical records: form 94 of the Social Protection System «Report on the number of old-age pensioners and monthly pensions they are entitled to», form 94 of the State Social Protection System (military service) «Report on the number of old-age pensioners registered with the security forces and their monthly pensions», form 2-State Benefits «Consolidated report on payment and amount of monthly and social benefits», Annex 1 to form 2- State Benefits «Consolidated report on recipients of monthly allowances and monthly benefits» and Annex 2 to form 2-State Benefits «Consolidated report on recipients of social and monthly benefits».]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель определяется как отношение численности получающих пенсий и пособий к общей численности постоянного населения и рассчитывается по формуле: 
+y=n/N*100  , где 
+n = общая численность получателей пенсий и пособий,
+N = общая численность постоянного населения. 
+
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator is defined as the ratio of persons receiving pensions and benefits to the total resident population and is calculated by: 
+y=n/N*100, where 
+n = total number of pensions and benefits recipients,
+N = total population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Существует риск двойного учета бенефициаров систем социального обеспечения или даже лиц, охваченных ими, из-за наличия «дополнительных» пенсионных схем. И даже если основные источники двойного подсчета исключены, может произойти двойной подсчет, если, например, получатели перемещаются между различными пенсионными схемами в течение своей жизни и получают преимущества от нескольких схем.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[There is a risk of double counting of beneficiaries of social protection systems and even of persons covered by them due to «supplementary» pension schemes. Even when main sources of double counting are excluded, double counting may occur if, for example, recipients move between different pension schemes over their lifetime and benefit from several schemes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Качество обеспечивается контролем за полнотой и достоверностью административных данных, которые осуществляются НСК КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee controls over the completeness and validity of administrative data to ensure quality.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные размещены с 2007 года. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data available since 2007 onwards. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="db55f6b0-4110-428c-9e2b-b624385c8b0c">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_COV_WKINJRY</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3: Внедрить на национальном уровне надлежащие системы и меры социальной защиты для всех, включая установление минимальных уровней, и к 2030 году достичь существенного охвата малообеспеченных и уязвимых слоев населения]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3: Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[1.3.1 Доля населения, охватываемого минимальным уровнем/системами социальной защиты, в разбивке по полу, с выделением детей, безработных, пожилых, инвалидов, беременных, новорожденных, лиц, получивших трудовое увечье, и бедных и уязвимых]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел социальной статистики)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Этот показатель отражает долю населения, охваченную системами социальной защиты.                                                                                       Численность получателей государственных социальных пособий — число лиц на конец (начало) отчетного года, которым назначена ежемесячная денежная сумма на условиях, предусмотренных законом Кыргызской Республики «О государственных пособиях в Кыргызской Республике». Общая численность получателей государственных социальных пособий подсчитывается по числу лицевых счетов получателей, состоящих на учете в органах социальной защиты.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator reflects the proportion of persons effectively covered by a social protection system, including social protection floors. The number of social benefits recipients is the number of persons at the end (beginning) of the reporting year that have been assigned monthly amount under law of the Kyrgyz Republic on «State benefits in the Kyrgyz Republic». Effective coverage of social protection is measured by the number of personal accounts of recipients registered with the social protection agencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Минимальный уровень социальной защиты в КР является национально определенным набором основных гарантий социального обеспечения, которые должны обеспечивать, как минимум, то, что в течение всего жизненного цикла все нуждающиеся имеют доступ к основным медицинским услугам и обеспечению базового уровня доходов, которые вместе обеспечивают гарантированный эффективный доступ к товарам и услугам, определенных в качестве необходимых на национальном уровне.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The social protection floor in the Kyrgyz Republic is a nationally defined set of basic social security guarantees which should ensure that those in need have access to basic healthcare and income, which together ensure guaranteed access to country-specific basic goods and services.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источниками информации для расчета показателя является государственная статистический отчетность по формам №94 СОЦ «Отчет о численности пенсионеров и суммах назначенных им месячных пенсий», №94 СОЦ (военная служба) «Отчет о численности пенсионеров, и суммах назначенных пенсий, составляющих на учете в органах силовых структур», №2-собес(госпособия) «Сводный отчет о выплате и потребной сумме единого ежемесячного и социального пособия», Приложение №1 к ф. № 2-собес (госпособия) «Сводный отчет о получателях единых ежемесячных пособий и суммах назначенных им месячных пособий» и Приложение №2 к ф. № 2-собес (госпособия) «Сводный отчет получателях социальных пособий и суммах назначенных им месячных пособий» с годовой периодичностью. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator computation are obtained from the annual State statistical records: form 94 of the Social Protection System «Report on the number of old-age pensioners and monthly pensions they are entitled to», form 94 of the State Social Protection System (military service) «Report on the number of old-age pensioners registered with the security forces and their monthly pensions», form 2-State Benefits «Consolidated report on payment and amount of monthly and social benefits», Annex 1 to form 2- State Benefits «Consolidated report on recipients of monthly allowances and monthly benefits» and Annex 2 to form 2-State Benefits «Consolidated report on recipients of social and monthly benefits».]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Метод наблюдения – сплошное наблюдение: государственная статистическая отчетность.
+Объектом статистического наблюдения является численность и состав пенсионеров и лиц, получающих различного рода государственные пособия, а также общие выплаты пенсий и пособий (по категориям) и средние размеры пенсий и пособий.
+Единицами наблюдения являются статистические единицы, осуществляющие организацию пенсионного обеспечения и обязательного социального обеспечения.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Показатель определяется как отношение численности получающих пенсий и пособий к общей численности постоянного населения и рассчитывается по формуле: 
+y=n/N*100  , где 
+n = общая численность получателей пенсий и пособий,
+N = общая численность постоянного населения. 
+
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator is defined as the ratio of persons receiving pensions and benefits to the total resident population and is calculated by: 
+y=n/N*100, where 
+n = total number of pensions and benefits recipients,
+N = total population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="ru"><![CDATA[Существует риск двойного учета бенефициаров систем социального обеспечения или даже лиц, охваченных ими, из-за наличия «дополнительных» пенсионных схем. И даже если основные источники двойного подсчета исключены, может произойти двойной подсчет, если, например, получатели перемещаются между различными пенсионными схемами в течение своей жизни и получают преимущества от нескольких схем.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[There is a risk of double counting of beneficiaries of social protection systems and even of persons covered by them due to «supplementary» pension schemes. Even when main sources of double counting are excluded, double counting may occur if, for example, recipients move between different pension schemes over their lifetime and benefit from several schemes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Качество обеспечивается контролем за полнотой и достоверностью административных данных, которые осуществляются НСК КР.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee controls over the completeness and validity of administrative data to ensure quality.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Данные размещены с 2007 года. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Data available since 2007 onwards. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
+Закон Кыргызской Республики «О гарантированных государственных минимальных социальных стандартах»: http://cbd.minjust.gov.kg/act/view/ru-ru/202576?cl=ru-ru
+URL: www.ilo.org/ilostat
+Ссылки: Статистика МОТ: www.ilo.org/ilostat
+Статистика и показатели социальной защиты МОТ: http://www.socialsecurityextension.org/gimi/gess/ShowTheme.action?th.themeId=10
+Рекомендация МОТ по социальной защите (№ 202), 2012 год:
+http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID,
+P12100_LANG_CODE:3065524,en
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

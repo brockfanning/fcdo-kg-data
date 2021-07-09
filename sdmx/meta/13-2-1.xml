@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1625855322</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="37d2faa7-8c26-4378-8d0d-37f6dde9f9bf">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_NACOM_AIP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 13. Принятие срочных мер по борьбе с изменением климата и его последствиями]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 13. Take urgent action to combat climate change and its impacts.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[13.2 Включить меры реагирования на изменение климата в политику, стратегии и планирование на национальном уровне ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[13.2 Integrate climate change measures into national policies, strategies and planning]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[13.2.1 Число стран, сообщивших о создании или введении в действие комплексной политики/стратегии/ плана, повышающих их способность адаптироваться к неблагоприятным последствиям изменения климата и содействующих развитию их потенциала противодействия климатическим изменениям и снижению выбросов парниковых газов таким образом, чтобы это не ставило под угрозу производство продовольствия (включая национальный адаптационный план, определяемый на национальном уровне вклад, национальную систему информирования населения, подготовку двухгодичного обновленного доклада или другое)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[13.2.1 Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Государственное агентство охраны окружающей среды и лесного хозяйства при Правительстве Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The State Agency on Environment Protection and Forestry]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Байдакова Н.С. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[N. S. Baidakova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[banatalia@yandex.com ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[banatalia@yandex.com ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="16f85113-06e3-433f-b180-a30e3ace1305">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_BIUREP_AIP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 13. Принятие срочных мер по борьбе с изменением климата и его последствиями]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 13. Take urgent action to combat climate change and its impacts.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[13.2 Включить меры реагирования на изменение климата в политику, стратегии и планирование на национальном уровне ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[13.2 Integrate climate change measures into national policies, strategies and planning]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[13.2.1 Число стран, сообщивших о создании или введении в действие комплексной политики/стратегии/ плана, повышающих их способность адаптироваться к неблагоприятным последствиям изменения климата и содействующих развитию их потенциала противодействия климатическим изменениям и снижению выбросов парниковых газов таким образом, чтобы это не ставило под угрозу производство продовольствия (включая национальный адаптационный план, определяемый на национальном уровне вклад, национальную систему информирования населения, подготовку двухгодичного обновленного доклада или другое)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[13.2.1 Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Государственное агентство охраны окружающей среды и лесного хозяйства при Правительстве Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The State Agency on Environment Protection and Forestry]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Байдакова Н.С. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[N. S. Baidakova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[banatalia@yandex.com ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[banatalia@yandex.com ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="f57689a5-7273-4a5a-81a5-704e247d0a2c">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_NACOM_NAIP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 13. Принятие срочных мер по борьбе с изменением климата и его последствиями]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 13. Take urgent action to combat climate change and its impacts.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[13.2 Включить меры реагирования на изменение климата в политику, стратегии и планирование на национальном уровне ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[13.2 Integrate climate change measures into national policies, strategies and planning]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[13.2.1 Число стран, сообщивших о создании или введении в действие комплексной политики/стратегии/ плана, повышающих их способность адаптироваться к неблагоприятным последствиям изменения климата и содействующих развитию их потенциала противодействия климатическим изменениям и снижению выбросов парниковых газов таким образом, чтобы это не ставило под угрозу производство продовольствия (включая национальный адаптационный план, определяемый на национальном уровне вклад, национальную систему информирования населения, подготовку двухгодичного обновленного доклада или другое)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[13.2.1 Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Государственное агентство охраны окружающей среды и лесного хозяйства при Правительстве Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The State Agency on Environment Protection and Forestry]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Байдакова Н.С. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[N. S. Baidakova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[banatalia@yandex.com ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[banatalia@yandex.com ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="50330d99-9253-422e-8e89-a7c33c6207b6">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_BIUREP_NAIP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 13. Принятие срочных мер по борьбе с изменением климата и его последствиями]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 13. Take urgent action to combat climate change and its impacts.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[13.2 Включить меры реагирования на изменение климата в политику, стратегии и планирование на национальном уровне ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[13.2 Integrate climate change measures into national policies, strategies and planning]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[13.2.1 Число стран, сообщивших о создании или введении в действие комплексной политики/стратегии/ плана, повышающих их способность адаптироваться к неблагоприятным последствиям изменения климата и содействующих развитию их потенциала противодействия климатическим изменениям и снижению выбросов парниковых газов таким образом, чтобы это не ставило под угрозу производство продовольствия (включая национальный адаптационный план, определяемый на национальном уровне вклад, национальную систему информирования населения, подготовку двухгодичного обновленного доклада или другое)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[13.2.1 Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Государственное агентство охраны окружающей среды и лесного хозяйства при Правительстве Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The State Agency on Environment Protection and Forestry]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Байдакова Н.С. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[N. S. Baidakova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[banatalia@yandex.com ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[banatalia@yandex.com ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="e1419447-e730-406b-a218-816f22ed523e">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_ADAP_COM</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 13. Принятие срочных мер по борьбе с изменением климата и его последствиями]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 13. Take urgent action to combat climate change and its impacts.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[13.2 Включить меры реагирования на изменение климата в политику, стратегии и планирование на национальном уровне ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[13.2 Integrate climate change measures into national policies, strategies and planning]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[13.2.1 Число стран, сообщивших о создании или введении в действие комплексной политики/стратегии/ плана, повышающих их способность адаптироваться к неблагоприятным последствиям изменения климата и содействующих развитию их потенциала противодействия климатическим изменениям и снижению выбросов парниковых газов таким образом, чтобы это не ставило под угрозу производство продовольствия (включая национальный адаптационный план, определяемый на национальном уровне вклад, национальную систему информирования населения, подготовку двухгодичного обновленного доклада или другое)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[13.2.1 Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Государственное агентство охраны окружающей среды и лесного хозяйства при Правительстве Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The State Agency on Environment Protection and Forestry]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Байдакова Н.С. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[N. S. Baidakova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[banatalia@yandex.com ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[banatalia@yandex.com ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="72f6de00-a706-4d5c-b02d-1989ffbe761c">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_NAD_CONTR</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 13. Принятие срочных мер по борьбе с изменением климата и его последствиями]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 13. Take urgent action to combat climate change and its impacts.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[13.2 Включить меры реагирования на изменение климата в политику, стратегии и планирование на национальном уровне ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[13.2 Integrate climate change measures into national policies, strategies and planning]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[13.2.1 Число стран, сообщивших о создании или введении в действие комплексной политики/стратегии/ плана, повышающих их способность адаптироваться к неблагоприятным последствиям изменения климата и содействующих развитию их потенциала противодействия климатическим изменениям и снижению выбросов парниковых газов таким образом, чтобы это не ставило под угрозу производство продовольствия (включая национальный адаптационный план, определяемый на национальном уровне вклад, национальную систему информирования населения, подготовку двухгодичного обновленного доклада или другое)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[13.2.1 Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Государственное агентство охраны окружающей среды и лесного хозяйства при Правительстве Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The State Agency on Environment Protection and Forestry]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Байдакова Н.С. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[N. S. Baidakova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[banatalia@yandex.com ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[banatalia@yandex.com ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="efacb961-0661-431b-a021-938ccd5e9402">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_NAA_PLAN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 13. Принятие срочных мер по борьбе с изменением климата и его последствиями]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 13. Take urgent action to combat climate change and its impacts.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[13.2 Включить меры реагирования на изменение климата в политику, стратегии и планирование на национальном уровне ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[13.2 Integrate climate change measures into national policies, strategies and planning]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[13.2.1 Число стран, сообщивших о создании или введении в действие комплексной политики/стратегии/ плана, повышающих их способность адаптироваться к неблагоприятным последствиям изменения климата и содействующих развитию их потенциала противодействия климатическим изменениям и снижению выбросов парниковых газов таким образом, чтобы это не ставило под угрозу производство продовольствия (включая национальный адаптационный план, определяемый на национальном уровне вклад, национальную систему информирования населения, подготовку двухгодичного обновленного доклада или другое)]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[13.2.1 Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Государственное агентство охраны окружающей среды и лесного хозяйства при Правительстве Кыргызской Республики]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The State Agency on Environment Protection and Forestry]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Байдакова Н.С. ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[N. S. Baidakova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[banatalia@yandex.com ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[banatalia@yandex.com ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

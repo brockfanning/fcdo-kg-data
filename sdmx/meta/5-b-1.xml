@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1625855322</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="cd3f176c-e177-446c-a079-1486359c9968">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IT_MOB_OWN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Цель 5. Обеспечение гендерного равенства и расширение прав и возможностей всех женщин и девочек]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[5. Achieve gender equality and empower all women and girls]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="ru"><![CDATA[5.b. Активизировать использование соответствующих технологий, в частности информационно-коммуникационных технологий, для содействия расширению прав и возможностей женщин]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[5.b. Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="ru"><![CDATA[5.b.1. Доля людей, имеющих мобильный телефон, в разбивке по полу]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[5.b.1. Proportion of individuals who own a mobile telephone, by sex]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет Кыргызской Республики
+Отдел статистики домашних хозяйств]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="ru"><![CDATA[Доля лиц, владеющих мобильным телефоном, в разбивке по полу определяется отношением количества лиц, владеющих мобильным телефоном к численности населения, включенного в сферу охвата в разбивке по полу.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The proportion of individuals who own a mobile telephone, by sex is defined as the ‘proportion of individuals who own a mobile telephone, by sex’.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="ru"><![CDATA[За последнее десятилетие сети мобильных телефонов быстро распространились, а количество зарегистрированных учетных записей мобильных сотовых телефонов почти равно числу людей, живущих на Земле. Однако не каждый человек использует, либо владеет мобильным сотовым телефоном. Владение мобильным телефоном, в частности, имеет важное значение для отслеживания гендерного равенства, поскольку мобильный телефон является персональным устройством, которое, если оно принадлежит, а не только разделяется, предоставляет женщинам определенную степень независимости и автономию, в том числе в профессиональных целях.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Mobile phone networks have spread rapidly over the last decade and the number of mobile-cellular subscriptions is quasi equal to the number of the people living on earth. However, not every person uses, or owns a mobile-cellular telephone. Mobile phone ownership, in particular, is important to track gender equality since the mobile phone is a personal device that, if owned and not just shared, provides women with a degree of independence and autonomy, including for professional purposes. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="ru"><![CDATA[Интегрированное обследование бюджета домашних хозяйств и рабочей силы]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется посредством квартального вопросника №1 «Контрольного карточка домашнего хозяйства» и годового вопросника №2 «Социально-демографические характеристики лиц в домашнем хозяйстве», раздел 4 «Знания и навыки членов домашнего хозяйства» с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется посредством квартального вопросника №1 «Контрольного карточка домашнего хозяйства» и годового вопросника №2 «Социально-демографические характеристики лиц в домашнем хозяйстве», раздел 4 «Знания и навыки членов домашнего хозяйства» с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="ru"><![CDATA[Доля населения, имеющих мобильный телефон, определяется как доля лиц в возрасте 15 лет и старше, имеющих личный мобильный телефон, рассчитывается по формуле:
+y=n/N*100, где
+n = количество людей, которые имеют личный мобильный телефон
+N = общая численность населения в возрасте 15 лет и старше]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[The proportion of population who own a mobile telephone is defined as the proportion of individuals aged 15 and older who own a personal mobile telephone, calculated by the formula:
+y = n / N * 100 , where
+n = number of individuals who own a personal mobile telephone
+N = total number of people aged 15 and older]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="ru"><![CDATA[Источники расхождений отсутствуют. МСЭ использует данные, предоставленные странами, в том числе охват населения, который используется для расчета процентов. Данные обычно не корректируются, но расхождения в определении, возрастной шкале отдельных лиц, контрольном периоде или разрыв в сопоставимости между годами отмечены в примечании к данным. По этой причине данные не всегда строго сопоставимы.]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[No data discrepancies. ITU uses the data provided by countries, including the in-scope population that is used to calculate the percentages. Data are usually not adjusted, but discrepancies in the definition, age scope of individuals, reference period or the break in comparability between years are noted in a data note. For this reason, data are not always strictly comparable.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        
