@@ -11,39 +11,39 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "SEX",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "_L_KG_160701_1A",
                 "_L_KG_160701_1B",
-                "_L_KG_160701_1C",
-                ""
+                "_L_KG_160701_1C"
               ]
             },
             "title": "Series"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

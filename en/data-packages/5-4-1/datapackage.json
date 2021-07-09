@@ -11,19 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "SL_DOM_TSPD",
-                "SL_DOM_TSPDDC",
                 "SL_DOM_TSPDCW",
-                ""
+                "SL_DOM_TSPDDC"
               ]
             },
             "title": "Series"
@@ -32,6 +27,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

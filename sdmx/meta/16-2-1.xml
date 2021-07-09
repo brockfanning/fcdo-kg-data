@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="97f39f2e-7b10-40ad-98dd-b39b8349344a">
+  <mes:MetadataSet structureRef="MDS1" setID="521e03eb-3066-407f-b93a-5520c99b2e8f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 16. Содействие построению миролюбивого и открытого общества в интересах устойчивого развития, обеспечение доступа к правосудию для всех и создание эффективных, подотчетных и основанных на широком участии учреждений на всех уровнях]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[16.2. Положение конца надругательствам, эксплуатации, торговле и всем формам насилия и пыток в отношении детей]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[16.2. End abuse, exploitation, trafficking and all forms of violence against and torture of children ]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[16.2.1. Доля детей в возрасте от 1 года до 17 лет, в последний месяц подвергшихся любому физическому наказанию и/ или психологической агрессии со стороны тех, кто обеспечивает уход за ними]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[16.2.1. Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Калымбетова Ы.И.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Y. I. Kalymbetova]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
           
@@ -87,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 66 41 64]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 66 41 64]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля детей в возрасте 1-17 лет, которые испытали какое-либо физическое наказание и/или психологическую агрессию лиц-опекунов за последний месяц, в настоящее время оценивается по доле детей в возрасте 1-14 лет, которые подвергались физическому наказанию и/или психологической агрессии со стороны лиц-опекунов в прошлом месяце.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month is currently being measured by the proportion of children aged 1-14 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month. ]]></com:Text>
           
@@ -103,15 +87,11 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Слишком часто дети воспитываются с использованием методов, которые предполагают физическую силу или словесное запугивание, чтобы наказать нежелательное поведение и поощрять желаемые. Использование насильственной дисциплины с детьми представляет собой нарушение их прав. Физическая дисциплина и психологическая агрессия имеют тенденцию пересекаться и часто встречаться вместе, усугубляя кратковременный и долгосрочный вред, который они наносят. Последствия насильственной дисциплины варьируются от немедленного воздействия на долгосрочный ущерб, который дети хорошо переносят во взрослую жизнь. Насильственная дисциплина является наиболее распространенным и социально приемлемым типом насилия в отношении детей.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[All too often, children are raised using methods that rely on physical force or verbal intimidation to punish unwanted behaviours and encourage desired ones. The use of violent discipline with children represent a violation of their rights. Physical discipline and psychological aggression tend to overlap and frequently occur together, exacerbating the short- and long-term harm they inflict. The consequences of violent discipline range from immediate effects to long-term damage that children carry well into adulthood. Violent discipline is the most widespread, and socially accepted, type of violence against children.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Исследования домашних хозяйств, такие как MICS и DHS, поддерживаемые ЮНИСЕФ, которые собирают данные по этому показателю в странах с низким и средним уровнем дохода с 2005 года.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Household surveys such as UNICEF-supported MICS and DHS that have been collecting data on this indicator in low- and middle-income countries since around 2005. In some countries, such data are also collected through other national household surveys.]]></com:Text>
           
@@ -119,15 +99,11 @@
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[ЮНИСЕФ проводит ежегодный процесс обновления своих глобальных баз данных под названием «Отчетность по странам в отношении показателей для целей» (CRING). Это мероприятие проводится в тесном сотрудничестве с отделениями ЮНИСЕФ в странах с целью обеспечения того, чтобы глобальные базы данных ЮНИСЕФ содержали обновленные и сопоставимые на международном уровне данные. Отделениям ЮНИСЕФ в странах предлагается через онлайн-систему представить любые обновленные данные по ряду ключевых показателей благосостояния женщин и детей. Обновления, отправленные отделениями в странах, затем проверяются специалистами сектора в штаб-квартире ЮНИСЕФ для проверки согласованности и общего качества данных представленных оценок. Этот обзор основан на наборе объективных критериев для обеспечения включения в базы данных только самой последней и надежной информации. Обновленные базы данных также публикуются в Интернете по адресу data.unicef.org.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ЮНИСЕФ проводит ежегодный процесс обновления своих глобальных баз данных под названием «Отчетность по странам в отношении показателей для целей» (CRING). Это мероприятие проводится в тесном сотрудничестве с отделениями ЮНИСЕФ в странах с целью обеспечения того, чтобы глобальные базы данных ЮНИСЕФ содержали обновленные и сопоставимые на международном уровне данные. Отделениям ЮНИСЕФ в странах предлагается через онлайн-систему представить любые обновленные данные по ряду ключевых показателей благосостояния женщин и детей. Обновления, отправленные отделениями в странах, затем проверяются специалистами сектора в штаб-квартире ЮНИСЕФ для проверки согласованности и общего качества данных представленных оценок. Этот обзор основан на наборе объективных критериев для обеспечения включения в базы данных только самой последней и надежной информации. Обновленные базы данных также публикуются в Интернете по адресу data.unicef.org.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Число детей в возрасте 1-17 лет, которые, как сообщается, испытали какое-либо физическое наказание и/или психологическую агрессию лиц, опекунов за детьми в прошлом месяце, деленное на общее число детей в возрасте 1-17 лет в населении, умноженное на 100]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Number of children aged 1-17 years who are reported to have experienced any physical punishment and/or psychological aggression by caregivers in the past month divided by the total number of children aged 1-17 in the population multiplied by 100.]]></com:Text>
           
@@ -135,23 +111,17 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Определения как физического наказания, так и психологической агрессии должны быть очень четко обозначены для стран, но это не должно быть проблемой, поскольку существует множество доступных литературы и исследований в отношении насильственного наказания детей и Замечание общего порядка № 13 к Конвенции о «Права ребенка» также содержат определение «телесное» или «физическое» наказание, а также «психическое насилие».]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Definitions of both physical punishment and psychological aggression will need to be very clearly defined for countries but this should not be a problem as there is a wealth of available literature and research on the violent punishment of children and General Comment No.13 on the Convention of the Rights of the Child (CRC) also provides a definition for “corporal” or “physical” punishment as well as “mental violence”. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[В настоящее время имеются данные о национальных показателях и сопоставимых данных о распространенности для подвыборки детей в возрасте 1-14 лет для 73 стран с низким и средним уровнем дохода.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Nationally representative and comparable prevalence data are currently available for a sub-sample of children aged 1-14 years for 73 low- and middle-income countries. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           

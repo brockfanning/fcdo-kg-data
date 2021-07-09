@@ -11,23 +11,18 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Batken",
-                "Jalal-Abad",
+                "",
                 "Issyk-Kul",
+                "Jalal-Abad",
                 "Naryn",
+                "Batken",
                 "Osh",
                 "Talas",
-                "Chui",
-                ""
+                "Chui"
               ]
             },
             "title": "Reference area"
@@ -36,6 +31,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

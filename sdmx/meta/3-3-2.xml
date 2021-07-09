@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="52c95cbf-52b4-42a4-8ffe-d60cbc5231e3">
+  <mes:MetadataSet structureRef="MDS1" setID="09fc5677-fa76-478b-9b29-83da36cfeb1a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[3: Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[3.3. К 2030 году положить конец эпидемиям СПИДа, туберкулеза, малярии и тропических болезней, которым не уделяется должного внимания, и обеспечить борьбу с гепатитом, заболеваниями, передаваемыми через воду, и другими инфекционными заболеваниями]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[3.3. By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[3.3.2: Заболеваемость туберкулезом на 100 000 человек]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3.3.2: Tuberculosis incidence per 100,000 population]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР КР (отдел социальной статистики)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
@@ -87,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[+996 (0312) 32 46 52]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Показатель заболеваемости туберкулезом на 100 000 человек определяется как оцененное количество новых или вновь заболевших туберкулезом (учитываются все формы туберкулеза, в том числе у людей, болеющих СПИДом), возникших в данном году, в расчете на 100 000 населения.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The tuberculosis incidence per 100,000 population as defined as the estimated number of new and relapse TB cases (all forms of TB, including cases in people living with HIV) arising in a given year, expressed as a rate per 100 000 population.]]></com:Text>
           
@@ -103,15 +87,11 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Анализ показателя заболеваемости туберкулезом позволяет оценить состояние эпидемиологической ситуации среди населения республики в целом и в разрезе административных территорий, эффективность проводимых лечебных и профилактических мероприятий программ по борьбе с туберкулезом, действующих в республике. Данный показатель заболеваемости также используется для оценки здоровья населения в целом, социального благополучия, качества лечебно-профилактического обслуживания населения.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Analyzing tuberculosis incidence allows assessing epidemiological situation in the country as a whole and by region, as well as effectiveness of treatment and preventive measures taken to combat tuberculosis. This indicator is also used to assess public health, social well-being and quality of treatment and preventive measures.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Источниками информации для расчета показателя является государственная статистическая отчетность форма №8 «Отчет о заболеваниях активным туберкулезом», с годовой периодичностью, а также данные демографической статистики. ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data for calculating the indicator are obtained from the annual State statistical reporting form #8 «Tuberculosis Report», as well as demographic statistics.]]></com:Text>
           
@@ -119,21 +99,11 @@
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляют Центры семейной медицины, городские (ГЦБТ) и областные центры борьбы с туберкулезом (ОЦБТ, Национальный центр фтизиатрии (НЦФ).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляют Центры семейной медицины, городские (ГЦБТ) и областные центры борьбы с туберкулезом (ОЦБТ, Национальный центр фтизиатрии (НЦФ).]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Показатель рассчитывается как отношение числа больных туберкулезом с диагнозом, установленным впервые в жизни, к среднегодовой численности населения, умноженное на 100 000. 
-Заболеваемость населения туберкулезом (Зн) рассчитывается по формуле: 
- 
-Зн  	= 	З  * 100 000 / Н1 
- 
-где З – число впервые выявленных случаев заболеваний, зарегистрированных в течение отчетного года; 
-Н1 – среднегодовая численность постоянного населения.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The indicator is calculated as the ratio of newly diagnosed tuberculosis patients to the annual average population multiplied by 100,000.
  
@@ -149,24 +119,17 @@ P1 – annual average population.]]></com:Text>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные доступны с 2007 года.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data have been available since 2007 onwards]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Международная классификация болезней и причин смерти позволяет исследовать заболеваемость по единым принципам и получать сопоставимые итоги.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The International Classification of Diseases and Causes of Death allows studying diseases according to common principles and obtaining comparable results.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Подробная информация об источниках данных и методах доступна в следующем общедоступном документе: https://arxiv.org/ftp/arxiv/papers/1603/1603.00278.pdf
-Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Details on data sources and methodology available in the following publicly available document: https://arxiv.org/ftp/arxiv/papers/1603/1603.00278.pdf
 KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>

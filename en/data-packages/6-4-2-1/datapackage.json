@@ -11,45 +11,45 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "Water source: Aquifers",
+                "Water source: Natural"
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Batken",
-                "Jalal-Abad",
+                "",
                 "Issyk-Kul",
+                "Jalal-Abad",
                 "Naryn",
+                "Batken",
                 "Osh",
                 "Talas",
                 "Chui",
                 "Bishkek (city)",
-                "Osh (city)",
-                ""
+                "Osh (city)"
               ]
             },
             "title": "Reference area"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Water source: Natural",
-                "Water source: Aquifers",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

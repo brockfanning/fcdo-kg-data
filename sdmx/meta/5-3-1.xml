@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f420aad2-1d1e-44df-83db-c0fd40472cfa">
+  <mes:MetadataSet structureRef="MDS1" setID="42ffecb9-c8d6-4650-974e-b2028cec63ad">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 5. Обеспечение гендерного равенства и расширение прав и возможностей всех женщин и девочек]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5. Achieve gender equality and empower all women and girls]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[5.3. Ликвидация всех вредных видов практики, такие как детские, ранние и принудительные браки и калечащих операции на женских половых органах]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[5.3. Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation]]></com:Text>
           
@@ -55,16 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[5.3.1. Доля женщин в возрасте от 20 до 24 лет, вступивших в брак или союз до 15 лет и до 18 лет]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5.3.1. Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -72,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -88,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля женщин в возрасте от 20-24 лет, состоящих в браке или в союзе до 15 лет и в возрасте до 18 лет]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18]]></com:Text>
           
@@ -104,25 +87,17 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Брак до 18 лет является фундаментальным нарушением прав человека. Детский брак часто ставит под угрозу развитие девочки, приводя к ранней беременности и социальной изоляции, прерывая ее обучение, ограничивая ее возможности для карьерного роста и профессионального роста и повышая риск насилия со стороны интимных партнеров. Ожидается, что во многих культурах девочки, достигшие половой зрелости, возьмут на себя гендерные роли, связанные с женской жизнью. К ним относятся вступление в союз и становление матерью. 
-Практика раннего/детского брака является прямым проявлением гендерного неравенства. Вопрос о детском браке рассматривается в ряде международных конвенций и соглашений. Хотя брак не упоминается непосредственно в Конвенции о правах ребенка, детский брак связан с другими правами, такими как право на свободу выражения мнений, право на защиту от всех форм злоупотреблений и право на защиту от вредных традиционных практик.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Marriage before the age of 18 is a fundamental violation of human rights. Child marriage often compromises a girl’s development by resulting in early pregnancy and social isolation, interrupting her schooling, limiting her opportunities for career and vocational advancement and placing her at increased risk of intimate partner violence. In many cultures, girls reaching puberty are expected to assume gender roles associated with womanhood. These include entering a union and becoming a mother. The practice of early/child marriage is a direct manifestation of gender inequality. The issue of child marriage is addressed in a number of international conventions and agreements. Although marriage is not mentioned directly in the Convention on the Rights of the Child, child marriage is linked to other rights – such as the right to freedom of expression, the right to protection from all forms of abuse, and the right to be protected from harmful traditional practices.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Кластерное обследование по многим показателям (MICS)]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Multiple Indicator Cluster Survey (MICS)]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
-программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
 программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
@@ -131,15 +106,11 @@
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель рассчитывается, как число женщин в возрасте 20-24 лет, впервые вступившие в брак или в союзе до 15 лет (или до 18 лет), деленное на общее число женщин в возрасте 20-24 лет в популяции, умноженное на 100.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Number of women aged 20-24 who were first married or in union before age 15 (or before age 18) divided by the total number of women aged 20-24 in the population multiplied by 100]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
-          
-          <com:Text xml:lang="ru"><![CDATA[Государственным учреждениям ЮНИСЕФ предлагается через онлайн-систему представить любые обновленные данные по ряду ключевых показателей благосостояния женщин и детей. Обновления, отправленные государственными учреждениями, затем проверяются специалистами сектора в штаб-квартире ЮНИСЕФ для проверки согласованности и общего качества данных представленных оценок. Этот обзор основан на наборе объективных критериев для обеспечения включения в базы данных только самой последней и надежной информации. После рассмотрения обратная связь предоставляется по вопросу о том, принимаются ли конкретные точки данных, а если нет, причины.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[UNICEF Country Offices are invited to submit, through an online system, any updated data for a number of key indicators on the well-being of women and children. Updates sent by the country offices are then reviewed by sector specialists at UNICEF headquarters to check for consistency and overall data quality of the submitted estimates. This review is based on a set of objective criteria to ensure that only the most recent and reliable information is included in the databases. Once reviewed, feedback is made available on whether or not specific data points are accepted, and if not, the reasons why.]]></com:Text>
           
@@ -147,15 +118,11 @@
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[Существуют разработанные ранее инструменты и механизмы сбора данных, которые страны внедрили для мониторинга ситуации в отношении этого показателя. Модули, используемые для сбора информации о семейном положении среди женщин и мужчин репродуктивного возраста (15-49 лет) в DHS и MICS, были полностью согласованы.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[There are existing tools and mechanisms for data collection that countries have implemented to monitor the situation with regards to this indicator. The modules used to collect information on marital status among women and men of reproductive age (15-49 years) in the DHS and MICS have been fully harmonized.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сопоставимые данные по этому показателю в настоящее время имеются в 124 странах с низким и средним уровнем доходов]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Comparable data on this indicator are currently available for 124 low- and middle-income countries]]></com:Text>
           
@@ -163,19 +130,11 @@
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Глобальные агрегированные показатели являются средневзвешенными для всех субрегионов, составляющих весь мир. Региональные показатели являются средневзвешенными для всех стран региона.
-Сопоставимые данные по этому показателю в настоящее время имеются в 124 странах с низким и средним уровнем доходов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Global aggregates are weighted averages of all the sub-regions that make up the world. Regional aggregates are weighted averages of all the countries within the region. Comparable data on this indicator are currently available for 124 low- and middle-income countries]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
-http://www.stat.kg/media/files/d0f77c65-07d9-469d-879a-84dc5aae8833.pdf
-Публикация «Кластерное обследование по многим показателям, 2018»
-Data.unicef.org]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
 http://www.stat.kg/media/files/d0f77c65-07d9-469d-879a-84dc5aae8833.pdf
@@ -188,7 +147,7 @@ Data.unicef.org]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="909b346c-a8ca-4cc0-9fbc-0a36cb9cbe51">
+  <mes:MetadataSet structureRef="MDS1" setID="ea595250-7a12-430a-b241-c1deeedda7c4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -215,15 +174,11 @@ Data.unicef.org]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 5. Обеспечение гендерного равенства и расширение прав и возможностей всех женщин и девочек]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5. Achieve gender equality and empower all women and girls]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[5.3. Ликвидация всех вредных видов практики, такие как детские, ранние и принудительные браки и калечащих операции на женских половых органах]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[5.3. Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation]]></com:Text>
           
@@ -231,16 +186,11 @@ Data.unicef.org]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[5.3.1. Доля женщин в возрасте от 20 до 24 лет, вступивших в брак или союз до 15 лет и до 18 лет]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5.3.1. Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -248,15 +198,11 @@ Data.unicef.org]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -264,15 +210,11 @@ Data.unicef.org]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля женщин в возрасте от 20-24 лет, состоящих в браке или в союзе до 15 лет и в возрасте до 18 лет]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18]]></com:Text>
           
@@ -280,25 +222,17 @@ Data.unicef.org]]></com:Text>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Брак до 18 лет является фундаментальным нарушением прав человека. Детский брак часто ставит под угрозу развитие девочки, приводя к ранней беременности и социальной изоляции, прерывая ее обучение, ограничивая ее возможности для карьерного роста и профессионального роста и повышая риск насилия со стороны интимных партнеров. Ожидается, что во многих культурах девочки, достигшие половой зрелости, возьмут на себя гендерные роли, связанные с женской жизнью. К ним относятся вступление в союз и становление матерью. 
-Практика раннего/детского брака является прямым проявлением гендерного неравенства. Вопрос о детском браке рассматривается в ряде международных конвенций и соглашений. Хотя брак не упоминается непосредственно в Конвенции о правах ребенка, детский брак связан с другими правами, такими как право на свободу выражения мнений, право на защиту от всех форм злоупотреблений и право на защиту от вредных традиционных практик.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Marriage before the age of 18 is a fundamental violation of human rights. Child marriage often compromises a girl’s development by resulting in early pregnancy and social isolation, interrupting her schooling, limiting her opportunities for career and vocational advancement and placing her at increased risk of intimate partner violence. In many cultures, girls reaching puberty are expected to assume gender roles associated with womanhood. These include entering a union and becoming a mother. The practice of early/child marriage is a direct manifestation of gender inequality. The issue of child marriage is addressed in a number of international conventions and agreements. Although marriage is not mentioned directly in the Convention on the Rights of the Child, child marriage is linked to other rights – such as the right to freedom of expression, the right to protection from all forms of abuse, and the right to be protected from harmful traditional practices.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Кластерное обследование по многим показателям (MICS)]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Multiple Indicator Cluster Survey (MICS)]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
-программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
 программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
@@ -307,15 +241,11 @@ Data.unicef.org]]></com:Text>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель рассчитывается, как число женщин в возрасте 20-24 лет, впервые вступившие в брак или в союзе до 15 лет (или до 18 лет), деленное на общее число женщин в возрасте 20-24 лет в популяции, умноженное на 100.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Number of women aged 20-24 who were first married or in union before age 15 (or before age 18) divided by the total number of women aged 20-24 in the population multiplied by 100]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
-          
-          <com:Text xml:lang="ru"><![CDATA[Государственным учреждениям ЮНИСЕФ предлагается через онлайн-систему представить любые обновленные данные по ряду ключевых показателей благосостояния женщин и детей. Обновления, отправленные государственными учреждениями, затем проверяются специалистами сектора в штаб-квартире ЮНИСЕФ для проверки согласованности и общего качества данных представленных оценок. Этот обзор основан на наборе объективных критериев для обеспечения включения в базы данных только самой последней и надежной информации. После рассмотрения обратная связь предоставляется по вопросу о том, принимаются ли конкретные точки данных, а если нет, причины.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[UNICEF Country Offices are invited to submit, through an online system, any updated data for a number of key indicators on the well-being of women and children. Updates sent by the country offices are then reviewed by sector specialists at UNICEF headquarters to check for consistency and overall data quality of the submitted estimates. This review is based on a set of objective criteria to ensure that only the most recent and reliable information is included in the databases. Once reviewed, feedback is made available on whether or not specific data points are accepted, and if not, the reasons why.]]></com:Text>
           
@@ -323,15 +253,11 @@ Data.unicef.org]]></com:Text>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[Существуют разработанные ранее инструменты и механизмы сбора данных, которые страны внедрили для мониторинга ситуации в отношении этого показателя. Модули, используемые для сбора информации о семейном положении среди женщин и мужчин репродуктивного возраста (15-49 лет) в DHS и MICS, были полностью согласованы.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[There are existing tools and mechanisms for data collection that countries have implemented to monitor the situation with regards to this indicator. The modules used to collect information on marital status among women and men of reproductive age (15-49 years) in the DHS and MICS have been fully harmonized.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сопоставимые данные по этому показателю в настоящее время имеются в 124 странах с низким и средним уровнем доходов]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Comparable data on this indicator are currently available for 124 low- and middle-income countries]]></com:Text>
           
@@ -339,19 +265,11 @@ Data.unicef.org]]></com:Text>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Глобальные агрегированные показатели являются средневзвешенными для всех субрегионов, составляющих весь мир. Региональные показатели являются средневзвешенными для всех стран региона.
-Сопоставимые данные по этому показателю в настоящее время имеются в 124 странах с низким и средним уровнем доходов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Global aggregates are weighted averages of all the sub-regions that make up the world. Regional aggregates are weighted averages of all the countries within the region. Comparable data on this indicator are currently available for 124 low- and middle-income countries]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
-http://www.stat.kg/media/files/d0f77c65-07d9-469d-879a-84dc5aae8833.pdf
-Публикация «Кластерное обследование по многим показателям, 2018»
-Data.unicef.org]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
 http://www.stat.kg/media/files/d0f77c65-07d9-469d-879a-84dc5aae8833.pdf

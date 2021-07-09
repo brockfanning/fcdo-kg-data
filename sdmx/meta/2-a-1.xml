@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="49702173-f912-4f4b-bc2c-457beea3bf70">
+  <mes:MetadataSet structureRef="MDS1" setID="ad100dfe-342a-4bfb-a09a-1dc34856ec51">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[2. Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[2.a: Увеличить инвестирование, в том числе посредством активизации международного сотрудничества, в сельскую инфраструктуру, сельскохозяйственные исследования и агропропаганду, развитие технологий и создание генетических банков растений и животных в целях укрепления потенциала развивающихся стран, особенно наименее развитых стран, в области сельскохозяйственного производства]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[2.a: Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance
 agricultural productive capacity in developing countries, in
@@ -57,15 +53,11 @@ particular least developed countries.]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[2.a.1: Индекс ориентированности на сельское хозяйство, определяемый по структуре государственных расходов]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2.a.1: The agriculture orientation index for government expenditures]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики финансов).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Finance Statistics Division).]]></com:Text>
           
@@ -73,15 +65,11 @@ particular least developed countries.]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Жукова Е.Н.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Jukova E.N.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[e.jukova@stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[e.jukova@stat.kg]]></com:Text>
           
@@ -89,15 +77,11 @@ particular least developed countries.]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) -66-42-09]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) -66-42-09]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Индекс ориентации государственных расходов на сельское хозяйство (AOI) определяется как соотношение доли государственных расходов на сельское хозяйство к доле сельского хозяйства в ВВП, где сельское хозяйство включает в себя земледелие, лесное хозяйство, рыболовство и охоту.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Agriculture Orientation Index (AOI) for Government Expenditures is defined as the Agriculture Share of Government Expenditures, divided by the Agriculture Share of GDP, where Agriculture refers to the agriculture, forestry, fishing and hunting sector. T]]></com:Text>
           
@@ -105,16 +89,11 @@ particular least developed countries.]]></com:Text>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Если значение индекса ориентации на сельское хозяйство (AOI) превышает 1, то это говорит о высокой ориентации на сельскохозяйственный сектор, затраты на который превышают его вклад в экономическую добавленную стоимость. Значение AOI меньше 1 отражает более низкую ориентацию на сельское хозяйство, тогда как AOI, равный 1, показывает нейтралитет в ориентации правительства на сельскохозяйственный сектор.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[An Agriculture Orientation Index (AOI) greater than 1 reflects a higher orientation towards the agriculture sector, which receives a higher share of government spending relative to its contribution to economic value-added. An AOI less than 1 reflects a lower orientation to agriculture, while an AOI equal to 1 reflects neutrality in a government’s orientation to the agriculture sector.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные о государственных расходах - административные данные Центрального казначейства Министерства финансов КР из отчетов по исполнению государственного, республиканского и местных бюджетов.
-Данные о валовой добавленной стоимости сельского хозяйства и ВВП (или доле сельского хозяйства в ВВП) - Управление экономической статистики и национальных счетов НСК КР.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Government expenditure data - administrative data of the Central Treasury of the Ministry of Finance of the Kyrgyz Republic (CT MoF KR) from reports on national, republican and local budget implementation.
 Data on gross value added of agriculture and GDP (or GDP agriculture share) - Department of Economic Statistics and National Accounts of the National Statistical Committee of the Kyrgyz Republic.]]></com:Text>
@@ -123,20 +102,12 @@ Data on gross value added of agriculture and GDP (or GDP agriculture share) - De
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[ЦК МФ КР предоставляет отчеты об исполнении государственного, республиканского и местных бюджетов в Нацстатком на ежемесячной и годовой основе.  
-Данные по ВВП формируются Управлением экономической статистики и национальных счетов НСК КР, в соответствии с Программой статистических работ.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ЦК МФ КР предоставляет отчеты об исполнении государственного, республиканского и местных бюджетов в Нацстатком на ежемесячной и годовой основе.  
 Данные по ВВП формируются Управлением экономической статистики и национальных счетов НСК КР, в соответствии с Программой статистических работ.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Метод расчета: 
-AOI = (доля государственных расходов правительства) / (доля сельского хозяйства в ВВП), где 
-1) Доля сельского хозяйства в расходах правительства = (Расходы центрального правительства на сельское хозяйство) /(Общие расходы центрального правительства);  
-2) Доля сельского хозяйства в ВВП = (валовая добавленная стоимость сельского хозяйства) / ВВП]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Computation Method:
 AOI = (Agriculture Share of Government Expenditures) / (Agriculture Share of GDP), where
@@ -148,15 +119,11 @@ AOI = (Agriculture Share of Government Expenditures) / (Agriculture Share of GDP
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Поскольку числитель этих данных основан на административных источниках, нет доверительного интервала или стандартной ошибки, связанной с данными государственных расходов. Для знаменателя данные национальных счетов обычно не предоставляют никакой информации о стандартных ошибках или доверительных интервалах.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Since the numerator of this data is based on administrative sources, there is no confidence interval or standard error associated with government expenditure data. For the denominator, national accounts data typically do not provide any standard error or confidence interval information.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные по индикатору имеются в годовой динамике с 2007 года. Данные доступны на сайте НСК в разделе "Открытые данные" (Open Data) и разделе "Статистика" / "Цели устойчивого развития".]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Indicator data have been annually available since 2007. The data are available on the NSC website under "Open Data" and "Statistics" / "Sustainable Development Goals". Data are also available on the MoF  KR website.]]></com:Text>
           
@@ -164,17 +131,11 @@ AOI = (Agriculture Share of Government Expenditures) / (Agriculture Share of GDP
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель 2.a.1 находится под координацией ФАО ООН]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Indicator 2.a.1 coordinated by FAO]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Метаданные на сайте ООН: https://unstats.un.org/sdgs/metadata/
-Методология показателей на сайте Нацстаткома: www.stat.kg
-Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Metadata available on the UN website: https://unstats.un.org/sdgs/metadata/
 Indicator Methodology available on NSC website: www.stat.kg
@@ -186,7 +147,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="983740a3-e971-4a4f-9fd7-f250e2da2571">
+  <mes:MetadataSet structureRef="MDS1" setID="eb430429-87f5-49fd-8692-d79e56f6baf0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -213,15 +174,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[2. Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[2.a: Увеличить инвестирование, в том числе посредством активизации международного сотрудничества, в сельскую инфраструктуру, сельскохозяйственные исследования и агропропаганду, развитие технологий и создание генетических банков растений и животных в целях укрепления потенциала развивающихся стран, особенно наименее развитых стран, в области сельскохозяйственного производства]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[2.a: Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance
 agricultural productive capacity in developing countries, in
@@ -231,15 +188,11 @@ particular least developed countries.]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[2.a.1: Индекс ориентированности на сельское хозяйство, определяемый по структуре государственных расходов]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2.a.1: The agriculture orientation index for government expenditures]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики финансов).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Finance Statistics Division).]]></com:Text>
           
@@ -247,15 +200,11 @@ particular least developed countries.]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Жукова Е.Н.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Jukova E.N.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[e.jukova@stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[e.jukova@stat.kg]]></com:Text>
           
@@ -263,15 +212,11 @@ particular least developed countries.]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) -66-42-09]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) -66-42-09]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Индекс ориентации государственных расходов на сельское хозяйство (AOI) определяется как соотношение доли государственных расходов на сельское хозяйство к доле сельского хозяйства в ВВП, где сельское хозяйство включает в себя земледелие, лесное хозяйство, рыболовство и охоту.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Agriculture Orientation Index (AOI) for Government Expenditures is defined as the Agriculture Share of Government Expenditures, divided by the Agriculture Share of GDP, where Agriculture refers to the agriculture, forestry, fishing and hunting sector. T]]></com:Text>
           
@@ -279,16 +224,11 @@ particular least developed countries.]]></com:Text>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Если значение индекса ориентации на сельское хозяйство (AOI) превышает 1, то это говорит о высокой ориентации на сельскохозяйственный сектор, затраты на который превышают его вклад в экономическую добавленную стоимость. Значение AOI меньше 1 отражает более низкую ориентацию на сельское хозяйство, тогда как AOI, равный 1, показывает нейтралитет в ориентации правительства на сельскохозяйственный сектор.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[An Agriculture Orientation Index (AOI) greater than 1 reflects a higher orientation towards the agriculture sector, which receives a higher share of government spending relative to its contribution to economic value-added. An AOI less than 1 reflects a lower orientation to agriculture, while an AOI equal to 1 reflects neutrality in a government’s orientation to the agriculture sector.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные о государственных расходах - административные данные Центрального казначейства Министерства финансов КР из отчетов по исполнению государственного, республиканского и местных бюджетов.
-Данные о валовой добавленной стоимости сельского хозяйства и ВВП (или доле сельского хозяйства в ВВП) - Управление экономической статистики и национальных счетов НСК КР.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Government expenditure data - administrative data of the Central Treasury of the Ministry of Finance of the Kyrgyz Republic (CT MoF KR) from reports on national, republican and local budget implementation.
 Data on gross value added of agriculture and GDP (or GDP agriculture share) - Department of Economic Statistics and National Accounts of the National Statistical Committee of the Kyrgyz Republic.]]></com:Text>
@@ -297,20 +237,12 @@ Data on gross value added of agriculture and GDP (or GDP agriculture share) - De
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[ЦК МФ КР предоставляет отчеты об исполнении государственного, республиканского и местных бюджетов в Нацстатком на ежемесячной и годовой основе.  
-Данные по ВВП формируются Управлением экономической статистики и национальных счетов НСК КР, в соответствии с Программой статистических работ.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ЦК МФ КР предоставляет отчеты об исполнении государственного, республиканского и местных бюджетов в Нацстатком на ежемесячной и годовой основе.  
 Данные по ВВП формируются Управлением экономической статистики и национальных счетов НСК КР, в соответствии с Программой статистических работ.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Метод расчета: 
-AOI = (доля государственных расходов правительства) / (доля сельского хозяйства в ВВП), где 
-1) Доля сельского хозяйства в расходах правительства = (Расходы центрального правительства на сельское хозяйство) /(Общие расходы центрального правительства);  
-2) Доля сельского хозяйства в ВВП = (валовая добавленная стоимость сельского хозяйства) / ВВП]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Computation Method:
 AOI = (Agriculture Share of Government Expenditures) / (Agriculture Share of GDP), where
@@ -322,15 +254,11 @@ AOI = (Agriculture Share of Government Expenditures) / (Agriculture Share of GDP
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Поскольку числитель этих данных основан на административных источниках, нет доверительного интервала или стандартной ошибки, связанной с данными государственных расходов. Для знаменателя данные национальных счетов обычно не предоставляют никакой информации о стандартных ошибках или доверительных интервалах.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Since the numerator of this data is based on administrative sources, there is no confidence interval or standard error associated with government expenditure data. For the denominator, national accounts data typically do not provide any standard error or confidence interval information.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные по индикатору имеются в годовой динамике с 2007 года. Данные доступны на сайте НСК в разделе "Открытые данные" (Open Data) и разделе "Статистика" / "Цели устойчивого развития".]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Indicator data have been annually available since 2007. The data are available on the NSC website under "Open Data" and "Statistics" / "Sustainable Development Goals". Data are also available on the MoF  KR website.]]></com:Text>
           
@@ -338,17 +266,11 @@ AOI = (Agriculture Share of Government Expenditures) / (Agriculture Share of GDP
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель 2.a.1 находится под координацией ФАО ООН]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Indicator 2.a.1 coordinated by FAO]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Метаданные на сайте ООН: https://unstats.un.org/sdgs/metadata/
-Методология показателей на сайте Нацстаткома: www.stat.kg
-Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Metadata available on the UN website: https://unstats.un.org/sdgs/metadata/
 Indicator Methodology available on NSC website: www.stat.kg
@@ -360,7 +282,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="fe400f8d-4fc4-45be-99dc-179dd866861b">
+  <mes:MetadataSet structureRef="MDS1" setID="e4929ef9-f671-4754-b521-7c85847ce17e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -387,15 +309,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[2. Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[2.a: Увеличить инвестирование, в том числе посредством активизации международного сотрудничества, в сельскую инфраструктуру, сельскохозяйственные исследования и агропропаганду, развитие технологий и создание генетических банков растений и животных в целях укрепления потенциала развивающихся стран, особенно наименее развитых стран, в области сельскохозяйственного производства]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[2.a: Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance
 agricultural productive capacity in developing countries, in
@@ -405,15 +323,11 @@ particular least developed countries.]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[2.a.1: Индекс ориентированности на сельское хозяйство, определяемый по структуре государственных расходов]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2.a.1: The agriculture orientation index for government expenditures]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики финансов).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Finance Statistics Division).]]></com:Text>
           
@@ -421,15 +335,11 @@ particular least developed countries.]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Жукова Е.Н.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Jukova E.N.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[e.jukova@stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[e.jukova@stat.kg]]></com:Text>
           
@@ -437,15 +347,11 @@ particular least developed countries.]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) -66-42-09]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) -66-42-09]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Индекс ориентации государственных расходов на сельское хозяйство (AOI) определяется как соотношение доли государственных расходов на сельское хозяйство к доле сельского хозяйства в ВВП, где сельское хозяйство включает в себя земледелие, лесное хозяйство, рыболовство и охоту.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Agriculture Orientation Index (AOI) for Government Expenditures is defined as the Agriculture Share of Government Expenditures, divided by the Agriculture Share of GDP, where Agriculture refers to the agriculture, forestry, fishing and hunting sector. T]]></com:Text>
           
@@ -453,16 +359,11 @@ particular least developed countries.]]></com:Text>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Если значение индекса ориентации на сельское хозяйство (AOI) превышает 1, то это говорит о высокой ориентации на сельскохозяйственный сектор, затраты на который превышают его вклад в экономическую добавленную стоимость. Значение AOI меньше 1 отражает более низкую ориентацию на сельское хозяйство, тогда как AOI, равный 1, показывает нейтралитет в ориентации правительства на сельскохозяйственный сектор.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[An Agriculture Orientation Index (AOI) greater than 1 reflects a higher orientation towards the agriculture sector, which receives a higher share of government spending relative to its contribution to economic value-added. An AOI less than 1 reflects a lower orientation to agriculture, while an AOI equal to 1 reflects neutrality in a government’s orientation to the agriculture sector.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные о государственных расходах - административные данные Центрального казначейства Министерства финансов КР из отчетов по исполнению государственного, республиканского и местных бюджетов.
-Данные о валовой добавленной стоимости сельского хозяйства и ВВП (или доле сельского хозяйства в ВВП) - Управление экономической статистики и национальных счетов НСК КР.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Government expenditure data - administrative data of the Central Treasury of the Ministry of Finance of the Kyrgyz Republic (CT MoF KR) from reports on national, republican and local budget implementation.
 Data on gross value added of agriculture and GDP (or GDP agriculture share) - Department of Economic Statistics and National Accounts of the National Statistical Committee of the Kyrgyz Republic.]]></com:Text>
@@ -471,20 +372,12 @@ Data on gross value added of agriculture and GDP (or GDP agriculture share) - De
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[ЦК МФ КР предоставляет отчеты об исполнении государственного, республиканского и местных бюджетов в Нацстатком на ежемесячной и годовой основе.  
-Данные по ВВП формируются Управлением экономической статистики и национальных счетов НСК КР, в соответствии с Программой статистических работ.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ЦК МФ КР предоставляет отчеты об исполнении государственного, республиканского и местных бюджетов в Нацстатком на ежемесячной и годовой основе.  
 Данные по ВВП формируются Управлением экономической статистики и национальных счетов НСК КР, в соответствии с Программой статистических работ.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Метод расчета: 
-AOI = (доля государственных расходов правительства) / (доля сельского хозяйства в ВВП), где 
-1) Доля сельского хозяйства в расходах правительства = (Расходы центрального правительства на сельское хозяйство) /(Общие расходы центрального правительства);  
-2) Доля сельского хозяйства в ВВП = (валовая добавленная стоимость сельского хозяйства) / ВВП]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Computation Method:
 AOI = (Agriculture Share of Government Expenditures) / (Agriculture Share of GDP), where
@@ -496,15 +389,11 @@ AOI = (Agriculture Share of Government Expenditures) / (Agriculture Share of GDP
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Поскольку числитель этих данных основан на административных источниках, нет доверительного интервала или стандартной ошибки, связанной с данными государственных расходов. Для знаменателя данные национальных счетов обычно не предоставляют никакой информации о стандартных ошибках или доверительных интервалах.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Since the numerator of this data is based on administrative sources, there is no confidence interval or standard error associated with government expenditure data. For the denominator, national accounts data typically do not provide any standard error or confidence interval information.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные по индикатору имеются в годовой динамике с 2007 года. Данные доступны на сайте НСК в разделе "Открытые данные" (Open Data) и разделе "Статистика" / "Цели устойчивого развития".]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Indicator data have been annually available since 2007. The data are available on the NSC website under "Open Data" and "Statistics" / "Sustainable Development Goals". Data are also available on the MoF  KR website.]]></com:Text>
           
@@ -512,17 +401,11 @@ AOI = (Agriculture Share of Government Expenditures) / (Agriculture Share of GDP
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель 2.a.1 находится под координацией ФАО ООН]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Indicator 2.a.1 coordinated by FAO]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Метаданные на сайте ООН: https://unstats.un.org/sdgs/metadata/
-Методология показателей на сайте Нацстаткома: www.stat.kg
-Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Metadata available on the UN website: https://unstats.un.org/sdgs/metadata/
 Indicator Methodology available on NSC website: www.stat.kg

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6409ac4b-162f-4cfe-8710-aa8f5f124e90">
+  <mes:MetadataSet structureRef="MDS1" setID="a96ba2cd-92e7-489b-8aea-c8e3e8241e93">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 10. Сокращение неравенства внутри стран и между ними]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 10. Reduce inequality within and among countries]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[10.4 Принять соответствующую политику, особенно бюджетно-налоговую политику и политику в вопросах заработной платы и социальной защиты, и постепенно добиваться обеспечения большего равенства ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[10.4 Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[10.4.1.Доля доходов в ВВП, включая заработную плату и выплаты по линии социальной защиты]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[10.4.1. Labour share of GDP, comprising wages and social protection transfers]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Управление экономической статистики и национальных счетов)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Office for Economic Statistics and National Accounts)]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Исенкулова Э. К.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[E. K. Isenkulova]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[eisenkulova@stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[eisenkulova@stat.kg]]></com:Text>
           
@@ -87,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 95]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 95]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля рабочей силы в валовом внутреннем продукте (ВВП) - это совокупная заработная плата работников, выраженная в процентах от ВВП, которая является мерой общего объема производства. Он содержит информацию об относительной доле продукции, выплачиваемой в качестве компенсации работникам, по сравнению с долей, выплачиваемой капиталу в производственном процессе за данный отчетный период.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Labour share of Gross Domestic Product (GDP) is the total compensation of employees given as a percent of GDP, which is a measure of total output. It provides information about the relative share of output which is paid as compensation to employees as compared with the share paid to capital in the production process for a given reference period.]]></com:Text>
           
@@ -103,15 +87,11 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Метод формирования ВВП по источникам дохода является одним из трех методов исчисления ВВП, применяемых Нацстаткомом Кыргызской Республики в рамках расчетов по СНС-1993 и 2008. Однако он не является основным, поскольку в соответствии с принятой методологией не все показатели доходов получаются путем прямого счета, часть из них исчисляется балансовым методом.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The method of GDP formation by sources of income is one of the three methods used by the National Statistical Committee of the Kyrgyz Republic to calculate GDP under SNA-1993 and 2008. However, it is not the main method, because according to the adopted methodology not all income indicators are obtained by direct account, some of them are calculated using the balance method.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных, обработка и расчет осуществляется Национальным статистическим комитетом.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee performs data collection, processing and calculation.]]></com:Text>
           
@@ -119,20 +99,11 @@
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики, Министерства финансов, Социального фонда и Национального банка Кыргызской Республики Периодичность: годовая.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики, Министерства финансов, Социального фонда и Национального банка Кыргызской Республики Периодичность: годовая.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Расчет показателя «Доля доходов в ВВП, включая заработную плату и выплаты по линии социальной защиты» производится следующим образом: 
-LF share = Salary / GDP * 100,
-где
-LF share – доля рабочей силы,
-Salary – оплата труда,
-GDP – валовой внутренний продукт (ВВП).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The indicator on labour share of GDP, including compensations and salaries and social security payments is calculated as follows: 
 LF share = Wage/GDP*100,
@@ -145,10 +116,6 @@ GDP - Gross Domestic Product (GDP).]]></com:Text>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[В целом доля рабочей силы в ВВП будет занижать долю начисленного ВВП в общей занятости, поскольку она охватывает только оплату труда работников и не включает в себя трудовой доход самозанятых.
-Таким образом, показатель может быть менее релевантным в странах, где большая доля занятости занимается самозанятостью. Однако скорректированная доля рабочей силы может быть оценена с учетом трудовых доходов самозанятых работников.
-ВВП может исключать или недооценивать виды деятельности, которые трудно измерить, такие как операции в неформальном секторе или на нелегальных рынках, и т. д. тем самым занижая ВВП. Более того, ВВП не учитывает социальные и экологические издержки производства, и поэтому не является хорошим показателем уровня общего благополучия.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[In general, labour share in GDP will underestimate the proportion of GDP accrued to total employment, as it covers only the compensation of employees and does not include the labour income of the selfemployed. 
 Thus the indicator may be less relevant in countries where a large proportion of employment is in self-employment. However, an adjusted labour share may be estimated to take into account the labour income of self-employed workers.
 GDP may exclude or underreport activities that are difficult to measure, such as transactions in the informal sector or in illegal markets, etc. thus understating the GDP. Moreover, GDP does not account for the social and environmental costs of production, and is therefore is not a good measure of the level of over-all wellbeing.]]></com:Text>
@@ -157,15 +124,11 @@ GDP may exclude or underreport activities that are difficult to measure, such as
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[ Проводится логический и арифметический контроль отчетных данных.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of the reporting data is conducted.ik5r6]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Имеются динамические данные, которые рассчитаны с 1993 года и размещены на сайте Нацстаткома.www.stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Dynamic data since 1993 are available at the website of the National Statistical Committee.www.stat.kg]]></com:Text>
           
@@ -173,17 +136,11 @@ GDP may exclude or underreport activities that are difficult to measure, such as
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Для сопоставления с другими странами данные по оплате труда Кыргызской Республики по запросу Международных организаций (заполняются их вопросники).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic payroll data are available to be compared upon request from international organizations (questionnaires are completed).]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io/16-7-1/ 
-Система национальных счетов-СНС ООН -1993 и СНС 2008:
-Рекомендации Статкомитета СНГ по составлению счет образования доходов. Москва, 1995г: Европейская система интегрированных экономических счетов 1995г.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io/16-7-1/ 
 The UN System of National Accounts – UN SNA-1993 and SNA 2008:

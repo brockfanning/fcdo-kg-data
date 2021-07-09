@@ -11,21 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "_L_KG_050201_1A1",
                 "_L_KG_050201_1A2",
                 "_L_KG_050201_1A3",
                 "_L_KG_050201_1A4",
-                "_L_KG_050201_1A5",
-                ""
+                "_L_KG_050201_1A5"
               ]
             },
             "title": "Series"
@@ -34,6 +29,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

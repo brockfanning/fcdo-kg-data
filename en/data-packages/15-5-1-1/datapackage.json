@@ -11,22 +11,17 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Species: Plants and mushrooms",
-                "Species: Mammals",
-                "Species: Birds",
-                "Species: Insects",
+                "",
                 "Species: Amphibians and Reptiles",
+                "Species: Birds",
                 "Species: Fish",
-                ""
+                "Species: Insects",
+                "Species: Mammals",
+                "Species: Plants and mushrooms"
               ]
             },
             "title": "Composite breakdown"
@@ -35,6 +30,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

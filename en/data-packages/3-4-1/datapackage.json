@@ -11,47 +11,47 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "Non-communicable disease: Cardiovascular disease",
+                "Non-communicable disease: Cancer",
+                "Non-communicable disease: Chronic respiratory disease",
+                "Non-communicable disease: Diabetes"
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Batken",
-                "Jalal-Abad",
+                "",
                 "Issyk-Kul",
+                "Jalal-Abad",
                 "Naryn",
+                "Batken",
                 "Osh",
                 "Talas",
                 "Chui",
                 "Bishkek (city)",
-                "Osh (city)",
-                ""
+                "Osh (city)"
               ]
             },
             "title": "Reference area"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Non-communicable disease: Cardiovascular disease",
-                "Non-communicable disease: Cancer",
-                "Non-communicable disease: Diabetes",
-                "Non-communicable disease: Chronic respiratory disease",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

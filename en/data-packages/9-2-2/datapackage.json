@@ -11,25 +11,31 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "COMMENT_TS",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "Until 2013 - including Osh."
+              ]
+            },
+            "title": "Time series-level footnotes"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Batken",
-                "Jalal-Abad",
+                "",
                 "Issyk-Kul",
+                "Jalal-Abad",
                 "Naryn",
+                "Batken",
                 "Osh",
                 "Talas",
                 "Chui",
                 "Bishkek (city)",
-                "Osh (city)",
-                ""
+                "Osh (city)"
               ]
             },
             "title": "Reference area"
@@ -39,28 +45,22 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Female",
-                "Male",
-                ""
+                "Male"
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "COMMENT_TS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Until 2013 - including Osh.",
-                ""
-              ]
-            },
-            "title": "Time series-level footnotes"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

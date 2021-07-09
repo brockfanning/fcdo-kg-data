@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="531bc670-1d91-4a4f-a7b1-90d6de3a0528">
+  <mes:MetadataSet structureRef="MDS1" setID="2035e371-d4ac-415d-a6d5-63ee1c65202c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[3. Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3. Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[3.7. К 2030 году обеспечить всеобщий доступ к услугам по охране сексуального и репродуктивного здоровья, включая услуги по планированию семьи, информирование и просвещение, и учет вопросов охраны репродуктивного здоровья в национальных стратегиях и программах]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[3.7. By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[3.7.1. Доля женщин репродуктивного возраста (от 15 до 49 лет), чьи потребности по планированию семьи удовлетворяются современными методами]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3.7.1. Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет (Отдел статистики домашних хозяйств) в рамках глобальной программы MICS ЮНИСЕФ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz republic (Household Statistics Division) under the UNICEF MICS global programme]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -87,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Процент женщин репродуктивного возраста (15-49 лет), которые желают либо не иметь (дополнительно) детей, либо переносят дату рождения следующего ребенка и в настоящее время используют современный метод контрацепции.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The percentage of women of reproductive age (15-49 years) who desire either to have no (additional) children or to postpone the next child and who are currently using a modern contraceptive method.]]></com:Text>
           
@@ -103,15 +87,11 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля спроса на планирование семьи, удовлетворяющая современным методам, полезна для оценки общего уровня охвата программ и услуг по планированию семьи. Доступность и использование эффективных средств предотвращения беременности позволяют женщинам и их партнерам осуществлять свои права свободно и ответственно принимать решение о числе детей и промежутках между их рождениями и иметь информацию, образование и средства для этого. Удовлетворение спроса на планирование семьи с использованием современных методов также способствует здоровью матери и ребенка путем предотвращения нежелательных беременностей и частых беременностей, которые подвергаются более высокому риску для плохих акушерских результатов. Уровни спроса на планирование семьи, удовлетворяющие современным методам в 75 процентов и более, обычно считаются высокими, а значения 50 процентов или менее обычно считаются очень низкими.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The proportion of demand for family planning satisfied with modern methods is useful in assessing overall levels of coverage for family planning programmes and services. Access to and use of an effective means to prevent pregnancy helps enable women and their partners to exercise their rights to decide freely and responsibly the number and spacing of their children and to have the information, education and means to do so. Meeting demand for family planning with modern methods also contributes to maternal and child health by preventing unintended pregnancies and closely spaced pregnancies, which are at higher risk for poor obstetrical outcomes. Levels of demand for family planning satisfied with modern methods of 75 per cent or more are generally considered high, and values of 50 per cent or less are generally considered as very low.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Кластерное обследование по многим показателям «О положении женщин и детей», проводимое в Кыргызской Республике в соответствии с раундами глобального исследования MICS.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[«On the situation of children and women» Multiple Indicator Cluster Survey conducted in the Kyrgyz Republic in accordance with the rounds of MICS international household survey.]]></com:Text>
           
@@ -119,15 +99,11 @@
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий вопросник для женщин в возрасте 15-49 лет, который заполнялся для всех женщин целевой возрастной группы, проживавших в домохозяйстве. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий вопросник для женщин в возрасте 15-49 лет, который заполнялся для всех женщин целевой возрастной группы, проживавших в домохозяйстве. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Показатель удовлетворенной потребности в контрацепции для ограничения числа детей включают число женщин, которые используют (или партнер которых использует) какой-либо метод контрацепции и которые больше не хотят иметь детей, женщин, которые используют мужскую или женскую стерилизацию, и женщин, которые ответили, что они бесплодны. В удовлетворенную потребность в контрацепции для планирования сроков рождения детей включают число женщин, которые используют (или партнер которых использует) какой-либо метод контрацепции и которые хотят иметь еще одного ребенка или не определились, хотят ли они иметь еще одного ребенка. Сумма показателей удовлетворенных потребностей для планирования сроков рождения и ограничении числа детей составляет общую удовлетворенную потребность в контрацепции.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The contraception satisfaction rate for limiting the number of children includes the number of women who are using (or whose sexual partner is using) at least one method of contraception and who no longer want to have children, women using male or female sterilization and women who say they are infertile. The met need for contraception for child-spacing includes the number of women who are using (or whose sexual partner is using) at least one method of contraception who either want other children or not decided. Sum of needs met for family planning including births timing and limiting the number of children constitutes the total contraception needs met.]]></com:Text>
           
@@ -135,15 +111,11 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[В расчете участвуют данные, прошедшие контроль качества данных. Любые технические ошибки, такие как ошибка измерения, ошибка записи исключаются из расчетов на всех уровнях: страновом, региональном и глобальном.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Only data that have passed data quality control is used for estimates. Any technical errors, such as measurement errors, recording errors are excluded from calculations at all levels: country, regional and global.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Контроль качества данных осуществлялся на всех этапах исследования: подготовка инструментария, разработка выборки, обучение, техника проведения опросов, контроль данных с еженедельной выдачей таблиц качества данных, расчет весовых коэффициентов, методики расчета показателей, подготовка отчета. Проверка осуществлялась экспертами странового, регионального и главного офисами ЮНИСЕФ. ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data quality control ensured at all survey stages: toolset design, sampling, training, interview techniques, data control with weekly production of data quality tables, calculation of weights, calculation of indicators, report preparation. The audit was conducted by experts from UNICEF country, regional and headquarters offices.]]></com:Text>
           
@@ -151,26 +123,17 @@
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Наличие оценок по стране с периодичностью раундов глобальной программы MICS ЮНИСЕФ. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Availability of country assessments in accordance with the UNICEF MICS international rounds.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные собраны и разработаны в соответствии с международными стандартами и сопоставимы по странам.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data are collected and produced in accordance with international standards and are comparable across countries.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[http://www.un.org/en/development/desa/population/
-www.Unfpa.org/data
-https://www.unicef.org
-Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[http://www.un.org/en/development/desa/population/
 www.Unfpa.org/data

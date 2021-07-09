@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="fcdbdfb6-8036-464b-8595-f10e020970d7">
+  <mes:MetadataSet structureRef="MDS1" setID="c57a50d2-2ac5-4989-af69-483c0f4aa2d8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 4: Обеспечение всестороннего и справедливого качественного образования и расширение возможностей обучения на протяжении всей жизни для всех]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[4.2. К 2030 году обеспечить всем девочкам и мальчикам доступ к качественным системам развития, ухода и дошкольного обучения детей младшего возраста с тем, чтобы они были готовы к получению начального образования]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[4.2. By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[4.2.1. Доля детей в возрасте до пяти лет, которые развиваются без отклонений в плане здоровья, обучения и психосоциального благополучия, в разбивке по полу]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4.2.1. Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет Кыргызской Республики (Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -87,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля детей в возрасте до 5 лет, которые развиваются в процессе развития в области здравоохранения, обучения и психосоциального благополучия, в настоящее время измеряется процентной долей детей в возрасте 36-59 месяцев, которые находятся в процессе развития в течение, по меньшей мере, трех из следующих четырех доменов: числовая грамотность, физическое, социально-эмоциональное воспитание и обучение.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being is currently being measured by the percentage of children aged 36-59 months who are developmentally on-track in at least three of the following four domains: literacy-numeracy, physical, socio-emotional and learning.]]></com:Text>
           
@@ -103,15 +87,11 @@
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Кластерное обследование по многим показателям (MICS)]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Multiple Indicator Cluster Survey (MICS)]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
           
@@ -119,15 +99,11 @@
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Число детей в возрасте до пяти лет, которые находятся в процессе развития в области здравоохранения, обучения и психосоциального благополучия, делятся на общее число детей в возрасте до пяти лет в популяции, умноженное на 100 человек.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The number of children under the age of five who are developmentally on track in health, learning and psychosocial well-being divided by the total number of children under the age of five in the population multiplied by 100.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Число детей в возрасте до пяти лет, которые находятся в процессе развития в области здравоохранения, обучения и психосоциального благополучия, делятся на общее число детей в возрасте до пяти лет в популяции, умноженное на 100 человек.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The number of children under the age of five who are developmentally on track in health, learning and psychosocial well-being divided by the total number of children under the age of five in the population multiplied by 100.]]></com:Text>
           
@@ -135,16 +111,11 @@
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Когда данные для страны полностью отсутствуют, ЮНИСЕФ не публикует ни одной оценки на уровне страны. Среднее региональное значение применяется к тем странам региона с недостающими значениями для целей расчета региональных агрегатов, но не публикуется в качестве оценок на уровне стран.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[When data for a country are entirely missing, UNICEF does not publish any country-level estimate. The regional average is applied to those countries within the region with missing values for the purposes of calculating regional aggregates only but are not published as country-level estimates.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[data.unicef.org,  http://data.unicef.org/ecd/development-status.html
-Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ data.unicef.org,  http://data.unicef.org/ecd/development-status.html
 KR National SDG Reporting Platform:

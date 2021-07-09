@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4f671231-a81d-4471-aa48-5e9ae77c0a6e">
+  <mes:MetadataSet structureRef="MDS1" setID="8c3954d7-a822-43a0-b3bf-c6b7e39dd61e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[1.2: К 2030 году сократить долю мужчин, женщин и детей всех возрастов, живущих в нищете во всех её проявлениях, согласно национальным определениям, по крайней мере наполовину]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[1.2: By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[1.2.2: Доля мужчин, женщин и детей всех возрастов, живущих в бедности во всех ее проявлениях, согласно национальным определениям]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1.2.2: Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -87,25 +75,17 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля мужчин, женщин и детей всех возрастов, живущих в бедности во всех ее проявлениях (многомерная бедность) характеризует состояние, когда индивид не может обеспечивать существование с учётом сложившихся в обществе социальных норм и общепринятых стандартов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Proportion of men, women and children of all ages living in poverty in all its dimensions (multidimensional poverty) is when an individual is unable to meet his basic needs in accordance with social norms and generally accepted standards.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Измерения и индикаторы были выбраны в соответствии с несколькими руководящими принципами: устоявшая практика в рамках многомерных индексов благосостояния, актуальность для контекста Кыргызской Республики, актуальность в контексте Целей устойчивого развития (ЦУР) и доступность данных.
-По каждому измерению представлены теоретические и практические обоснования, подчеркивающие их значимость как серьезных определяющих факторов благополучия населения. В НСУР Кыргызской Республики обозначены цели достижения к 2040 году по каждому из аспектов измерения многомерной бедности.
-]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Dimensions and indicators were selected in accordance with several guiding principles: well established multidimensional welfare indices, applicability to the Kyrgyz Republic context, relevance in the context of the Sustainable Development Goals (SDGs) and data availability.
 There are theoretical and practical justifications for each dimension, emphasizing their importance as major welfare determinants. The NSDS of the Kyrgyz Republic sets targets for achieving by 2040 for each aspect of multidimensional poverty.]]></com:Text>
@@ -114,17 +94,11 @@ There are theoretical and practical justifications for each dimension, emphasizi
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы (далее ИОДХ).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey (hereinafter IHBLFSS).]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется посредством вопросников ИОДХ с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).
-Сбор данных осуществляется на ежеквартальной основе, разработка индикатора производится по итогам года. 
-]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется посредством вопросников ИОДХ с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).
 Сбор данных осуществляется на ежеквартальной основе, разработка индикатора производится по итогам года. 
@@ -134,8 +108,6 @@ There are theoretical and practical justifications for each dimension, emphasizi
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Национальный индекс многомерной бедности (НИМБ) разработан Национальным статистическим комитетом Кыргызской Республики, при поддержке Детского фонда ООН и Программы развития ООН. При расчете НИМБ была использована международно признанная методология Сабины Алкир и Джеймса Фостера. НИМБ характеризуется основными тремя показателями многомерной бедности. Это – распространённость многомерной бедности (Н), средняя интенсивность лишений среди бедных (А) и Национальный индекс многомерной бедности (М).                                                К числу многомерно бедных отнесены лица, испытывающие лишения по крайней мере, по одной трети взвешенных индикаторов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The National Multidimensional Poverty Index (NMPI) has been developed by the National Statistical Committee of the Kyrgyz Republic in cooperation with the United Nations Children’s Fund and the United Nations Development Programme. NMIP is calculated using the internationally recognized methodology of Sabina Alkire and James Foster. It is characterized by three main multidimensional poverty indicators. These are multidimensional poverty incidence (H), the average intensity of deprivation among the poor (A) and the National Multidimensional Poverty Index (M). 
 Under these poor are considered those deprived of at least one third of the weighted indicators.]]></com:Text>
           
@@ -143,15 +115,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Национальный индекс многомерной бедности и его составляющие позволят оценить, какие изменения происходят в качестве жизни населения с течением времени и для каких групп трансформация является более динамичной. Будучи реализованными на межстрановом уровне, подобные исследования дают возможность сопоставить результаты политики отдельных государств, на национальном – отвечают потребности сравнительного анализа ситуации в отдельных регионах страны.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The National Multidimensional Poverty Index and its components allow assessing changes in the population’s quality of life over time and dynamics for different groups. When implemented at the inter-country level, such studies make it possible to compare States policies outcomes and, at the national level, meet the needs of comparative analysis of situation in country’s regions.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Исходные данные, проверяются на качество, прежде чем они будут использованы для дальнейшего анализа.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The raw data are checked for quality before being submitted for further analysis.]]></com:Text>
           
@@ -159,23 +127,17 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные доступны с 2016 года. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data has been available since 2016.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Используется стандартная методология, при этом набор индикаторов, включенных в измерения характерен для Кыргызской Республики.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Standard methodology is used, and the set of indicators included in the measurements is relevant for the Kyrgyz Republic]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР:  https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform:  https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
@@ -185,7 +147,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8c0257b4-aea6-4b6a-bfac-5422afa176b8">
+  <mes:MetadataSet structureRef="MDS1" setID="af0713e5-0bf5-4e25-854a-c0207ca217c2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -212,15 +174,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[1.2: К 2030 году сократить долю мужчин, женщин и детей всех возрастов, живущих в нищете во всех её проявлениях, согласно национальным определениям, по крайней мере наполовину]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[1.2: By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions]]></com:Text>
           
@@ -228,15 +186,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[1.2.2: Доля мужчин, женщин и детей всех возрастов, живущих в бедности во всех ее проявлениях, согласно национальным определениям]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1.2.2: Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -244,15 +198,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -260,25 +210,17 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля мужчин, женщин и детей всех возрастов, живущих в бедности во всех ее проявлениях (многомерная бедность) характеризует состояние, когда индивид не может обеспечивать существование с учётом сложившихся в обществе социальных норм и общепринятых стандартов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Proportion of men, women and children of all ages living in poverty in all its dimensions (multidimensional poverty) is when an individual is unable to meet his basic needs in accordance with social norms and generally accepted standards.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Измерения и индикаторы были выбраны в соответствии с несколькими руководящими принципами: устоявшая практика в рамках многомерных индексов благосостояния, актуальность для контекста Кыргызской Республики, актуальность в контексте Целей устойчивого развития (ЦУР) и доступность данных.
-По каждому измерению представлены теоретические и практические обоснования, подчеркивающие их значимость как серьезных определяющих факторов благополучия населения. В НСУР Кыргызской Республики обозначены цели достижения к 2040 году по каждому из аспектов измерения многомерной бедности.
-]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Dimensions and indicators were selected in accordance with several guiding principles: well established multidimensional welfare indices, applicability to the Kyrgyz Republic context, relevance in the context of the Sustainable Development Goals (SDGs) and data availability.
 There are theoretical and practical justifications for each dimension, emphasizing their importance as major welfare determinants. The NSDS of the Kyrgyz Republic sets targets for achieving by 2040 for each aspect of multidimensional poverty.]]></com:Text>
@@ -287,17 +229,11 @@ There are theoretical and practical justifications for each dimension, emphasizi
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы (далее ИОДХ).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey (hereinafter IHBLFSS).]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется посредством вопросников ИОДХ с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).
-Сбор данных осуществляется на ежеквартальной основе, разработка индикатора производится по итогам года. 
-]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется посредством вопросников ИОДХ с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).
 Сбор данных осуществляется на ежеквартальной основе, разработка индикатора производится по итогам года. 
@@ -307,8 +243,6 @@ There are theoretical and practical justifications for each dimension, emphasizi
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Национальный индекс многомерной бедности (НИМБ) разработан Национальным статистическим комитетом Кыргызской Республики, при поддержке Детского фонда ООН и Программы развития ООН. При расчете НИМБ была использована международно признанная методология Сабины Алкир и Джеймса Фостера. НИМБ характеризуется основными тремя показателями многомерной бедности. Это – распространённость многомерной бедности (Н), средняя интенсивность лишений среди бедных (А) и Национальный индекс многомерной бедности (М).                                                К числу многомерно бедных отнесены лица, испытывающие лишения по крайней мере, по одной трети взвешенных индикаторов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The National Multidimensional Poverty Index (NMPI) has been developed by the National Statistical Committee of the Kyrgyz Republic in cooperation with the United Nations Children’s Fund and the United Nations Development Programme. NMIP is calculated using the internationally recognized methodology of Sabina Alkire and James Foster. It is characterized by three main multidimensional poverty indicators. These are multidimensional poverty incidence (H), the average intensity of deprivation among the poor (A) and the National Multidimensional Poverty Index (M). 
 Under these poor are considered those deprived of at least one third of the weighted indicators.]]></com:Text>
           
@@ -316,15 +250,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Национальный индекс многомерной бедности и его составляющие позволят оценить, какие изменения происходят в качестве жизни населения с течением времени и для каких групп трансформация является более динамичной. Будучи реализованными на межстрановом уровне, подобные исследования дают возможность сопоставить результаты политики отдельных государств, на национальном – отвечают потребности сравнительного анализа ситуации в отдельных регионах страны.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The National Multidimensional Poverty Index and its components allow assessing changes in the population’s quality of life over time and dynamics for different groups. When implemented at the inter-country level, such studies make it possible to compare States policies outcomes and, at the national level, meet the needs of comparative analysis of situation in country’s regions.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Исходные данные, проверяются на качество, прежде чем они будут использованы для дальнейшего анализа.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The raw data are checked for quality before being submitted for further analysis.]]></com:Text>
           
@@ -332,23 +262,17 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные доступны с 2016 года. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data has been available since 2016.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Используется стандартная методология, при этом набор индикаторов, включенных в измерения характерен для Кыргызской Республики.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Standard methodology is used, and the set of indicators included in the measurements is relevant for the Kyrgyz Republic]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР:  https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform:  https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
@@ -358,7 +282,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d3b3c57e-9049-4392-9c76-74f1c279d8d4">
+  <mes:MetadataSet structureRef="MDS1" setID="e61f6723-2873-47a6-b98c-2413ae3f2fb3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -385,15 +309,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[1.2: К 2030 году сократить долю мужчин, женщин и детей всех возрастов, живущих в нищете во всех её проявлениях, согласно национальным определениям, по крайней мере наполовину]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[1.2: By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions]]></com:Text>
           
@@ -401,15 +321,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[1.2.2: Доля мужчин, женщин и детей всех возрастов, живущих в бедности во всех ее проявлениях, согласно национальным определениям]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1.2.2: Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -417,15 +333,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -433,25 +345,17 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля мужчин, женщин и детей всех возрастов, живущих в бедности во всех ее проявлениях (многомерная бедность) характеризует состояние, когда индивид не может обеспечивать существование с учётом сложившихся в обществе социальных норм и общепринятых стандартов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Proportion of men, women and children of all ages living in poverty in all its dimensions (multidimensional poverty) is when an individual is unable to meet his basic needs in accordance with social norms and generally accepted standards.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Измерения и индикаторы были выбраны в соответствии с несколькими руководящими принципами: устоявшая практика в рамках многомерных индексов благосостояния, актуальность для контекста Кыргызской Республики, актуальность в контексте Целей устойчивого развития (ЦУР) и доступность данных.
-По каждому измерению представлены теоретические и практические обоснования, подчеркивающие их значимость как серьезных определяющих факторов благополучия населения. В НСУР Кыргызской Республики обозначены цели достижения к 2040 году по каждому из аспектов измерения многомерной бедности.
-]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Dimensions and indicators were selected in accordance with several guiding principles: well established multidimensional welfare indices, applicability to the Kyrgyz Republic context, relevance in the context of the Sustainable Development Goals (SDGs) and data availability.
 There are theoretical and practical justifications for each dimension, emphasizing their importance as major welfare determinants. The NSDS of the Kyrgyz Republic sets targets for achieving by 2040 for each aspect of multidimensional poverty.]]></com:Text>
@@ -460,17 +364,11 @@ There are theoretical and practical justifications for each dimension, emphasizi
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы (далее ИОДХ).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey (hereinafter IHBLFSS).]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется посредством вопросников ИОДХ с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).
-Сбор данных осуществляется на ежеквартальной основе, разработка индикатора производится по итогам года. 
-]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется посредством вопросников ИОДХ с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).
 Сбор данных осуществляется на ежеквартальной основе, разработка индикатора производится по итогам года. 
@@ -480,8 +378,6 @@ There are theoretical and practical justifications for each dimension, emphasizi
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Национальный индекс многомерной бедности (НИМБ) разработан Национальным статистическим комитетом Кыргызской Республики, при поддержке Детского фонда ООН и Программы развития ООН. При расчете НИМБ была использована международно признанная методология Сабины Алкир и Джеймса Фостера. НИМБ характеризуется основными тремя показателями многомерной бедности. Это – распространённость многомерной бедности (Н), средняя интенсивность лишений среди бедных (А) и Национальный индекс многомерной бедности (М).                                                К числу многомерно бедных отнесены лица, испытывающие лишения по крайней мере, по одной трети взвешенных индикаторов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The National Multidimensional Poverty Index (NMPI) has been developed by the National Statistical Committee of the Kyrgyz Republic in cooperation with the United Nations Children’s Fund and the United Nations Development Programme. NMIP is calculated using the internationally recognized methodology of Sabina Alkire and James Foster. It is characterized by three main multidimensional poverty indicators. These are multidimensional poverty incidence (H), the average intensity of deprivation among the poor (A) and the National Multidimensional Poverty Index (M). 
 Under these poor are considered those deprived of at least one third of the weighted indicators.]]></com:Text>
           
@@ -489,15 +385,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Национальный индекс многомерной бедности и его составляющие позволят оценить, какие изменения происходят в качестве жизни населения с течением времени и для каких групп трансформация является более динамичной. Будучи реализованными на межстрановом уровне, подобные исследования дают возможность сопоставить результаты политики отдельных государств, на национальном – отвечают потребности сравнительного анализа ситуации в отдельных регионах страны.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The National Multidimensional Poverty Index and its components allow assessing changes in the population’s quality of life over time and dynamics for different groups. When implemented at the inter-country level, such studies make it possible to compare States policies outcomes and, at the national level, meet the needs of comparative analysis of situation in country’s regions.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Исходные данные, проверяются на качество, прежде чем они будут использованы для дальнейшего анализа.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The raw data are checked for quality before being submitted for further analysis.]]></com:Text>
           
@@ -505,23 +397,17 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные доступны с 2016 года. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data has been available since 2016.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Используется стандартная методология, при этом набор индикаторов, включенных в измерения характерен для Кыргызской Республики.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Standard methodology is used, and the set of indicators included in the measurements is relevant for the Kyrgyz Republic]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР:  https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform:  https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
@@ -531,7 +417,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2e5183bb-43f4-4c81-bd1b-943bf4cfe05d">
+  <mes:MetadataSet structureRef="MDS1" setID="873ffa51-a1eb-4dab-a9b4-fefad5f0ff9e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -558,15 +444,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[1.2: К 2030 году сократить долю мужчин, женщин и детей всех возрастов, живущих в нищете во всех её проявлениях, согласно национальным определениям, по крайней мере наполовину]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[1.2: By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions]]></com:Text>
           
@@ -574,15 +456,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[1.2.2: Доля мужчин, женщин и детей всех возрастов, живущих в бедности во всех ее проявлениях, согласно национальным определениям]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1.2.2: Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -590,15 +468,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -606,25 +480,17 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля мужчин, женщин и детей всех возрастов, живущих в бедности во всех ее проявлениях (многомерная бедность) характеризует состояние, когда индивид не может обеспечивать существование с учётом сложившихся в обществе социальных норм и общепринятых стандартов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Proportion of men, women and children of all ages living in poverty in all its dimensions (multidimensional poverty) is when an individual is unable to meet his basic needs in accordance with social norms and generally accepted standards.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Измерения и индикаторы были выбраны в соответствии с несколькими руководящими принципами: устоявшая практика в рамках многомерных индексов благосостояния, актуальность для контекста Кыргызской Республики, актуальность в контексте Целей устойчивого развития (ЦУР) и доступность данных.
-По каждому измерению представлены теоретические и практические обоснования, подчеркивающие их значимость как серьезных определяющих факторов благополучия населения. В НСУР Кыргызской Республики обозначены цели достижения к 2040 году по каждому из аспектов измерения многомерной бедности.
-]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Dimensions and indicators were selected in accordance with several guiding principles: well established multidimensional welfare indices, applicability to the Kyrgyz Republic context, relevance in the context of the Sustainable Development Goals (SDGs) and data availability.
 There are theoretical and practical justifications for each dimension, emphasizing their importance as major welfare determinants. The NSDS of the Kyrgyz Republic sets targets for achieving by 2040 for each aspect of multidimensional poverty.]]></com:Text>
@@ -633,17 +499,11 @@ There are theoretical and practical justifications for each dimension, emphasizi
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы (далее ИОДХ).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey (hereinafter IHBLFSS).]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется посредством вопросников ИОДХ с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).
-Сбор данных осуществляется на ежеквартальной основе, разработка индикатора производится по итогам года. 
-]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется посредством вопросников ИОДХ с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).
 Сбор данных осуществляется на ежеквартальной основе, разработка индикатора производится по итогам года. 
@@ -653,8 +513,6 @@ There are theoretical and practical justifications for each dimension, emphasizi
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Национальный индекс многомерной бедности (НИМБ) разработан Национальным статистическим комитетом Кыргызской Республики, при поддержке Детского фонда ООН и Программы развития ООН. При расчете НИМБ была использована международно признанная методология Сабины Алкир и Джеймса Фостера. НИМБ характеризуется основными тремя показателями многомерной бедности. Это – распространённость многомерной бедности (Н), средняя интенсивность лишений среди бедных (А) и Национальный индекс многомерной бедности (М).                                                К числу многомерно бедных отнесены лица, испытывающие лишения по крайней мере, по одной трети взвешенных индикаторов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The National Multidimensional Poverty Index (NMPI) has been developed by the National Statistical Committee of the Kyrgyz Republic in cooperation with the United Nations Children’s Fund and the United Nations Development Programme. NMIP is calculated using the internationally recognized methodology of Sabina Alkire and James Foster. It is characterized by three main multidimensional poverty indicators. These are multidimensional poverty incidence (H), the average intensity of deprivation among the poor (A) and the National Multidimensional Poverty Index (M). 
 Under these poor are considered those deprived of at least one third of the weighted indicators.]]></com:Text>
           
@@ -662,15 +520,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Национальный индекс многомерной бедности и его составляющие позволят оценить, какие изменения происходят в качестве жизни населения с течением времени и для каких групп трансформация является более динамичной. Будучи реализованными на межстрановом уровне, подобные исследования дают возможность сопоставить результаты политики отдельных государств, на национальном – отвечают потребности сравнительного анализа ситуации в отдельных регионах страны.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The National Multidimensional Poverty Index and its components allow assessing changes in the population’s quality of life over time and dynamics for different groups. When implemented at the inter-country level, such studies make it possible to compare States policies outcomes and, at the national level, meet the needs of comparative analysis of situation in country’s regions.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Исходные данные, проверяются на качество, прежде чем они будут использованы для дальнейшего анализа.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The raw data are checked for quality before being submitted for further analysis.]]></com:Text>
           
@@ -678,23 +532,17 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные доступны с 2016 года. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data has been available since 2016.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Используется стандартная методология, при этом набор индикаторов, включенных в измерения характерен для Кыргызской Республики.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Standard methodology is used, and the set of indicators included in the measurements is relevant for the Kyrgyz Republic]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР:  https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform:  https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
@@ -704,7 +552,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1a2a3beb-1f66-43f5-87ae-65a63fa529de">
+  <mes:MetadataSet structureRef="MDS1" setID="e183510a-bee6-4444-9bad-a34cb76da0db">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -731,15 +579,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[1.2: К 2030 году сократить долю мужчин, женщин и детей всех возрастов, живущих в нищете во всех её проявлениях, согласно национальным определениям, по крайней мере наполовину]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[1.2: By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions]]></com:Text>
           
@@ -747,15 +591,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[1.2.2: Доля мужчин, женщин и детей всех возрастов, живущих в бедности во всех ее проявлениях, согласно национальным определениям]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1.2.2: Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -763,15 +603,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -779,25 +615,17 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля мужчин, женщин и детей всех возрастов, живущих в бедности во всех ее проявлениях (многомерная бедность) характеризует состояние, когда индивид не может обеспечивать существование с учётом сложившихся в обществе социальных норм и общепринятых стандартов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Proportion of men, women and children of all ages living in poverty in all its dimensions (multidimensional poverty) is when an individual is unable to meet his basic needs in accordance with social norms and generally accepted standards.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Измерения и индикаторы были выбраны в соответствии с несколькими руководящими принципами: устоявшая практика в рамках многомерных индексов благосостояния, актуальность для контекста Кыргызской Республики, актуальность в контексте Целей устойчивого развития (ЦУР) и доступность данных.
-По каждому измерению представлены теоретические и практические обоснования, подчеркивающие их значимость как серьезных определяющих факторов благополучия населения. В НСУР Кыргызской Республики обозначены цели достижения к 2040 году по каждому из аспектов измерения многомерной бедности.
-]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Dimensions and indicators were selected in accordance with several guiding principles: well established multidimensional welfare indices, applicability to the Kyrgyz Republic context, relevance in the context of the Sustainable Development Goals (SDGs) and data availability.
 There are theoretical and practical justifications for each dimension, emphasizing their importance as major welfare determinants. The NSDS of the Kyrgyz Republic sets targets for achieving by 2040 for each aspect of multidimensional poverty.]]></com:Text>
@@ -806,17 +634,11 @@ There are theoretical and practical justifications for each dimension, emphasizi
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы (далее ИОДХ).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey (hereinafter IHBLFSS).]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется посредством вопросников ИОДХ с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).
-Сбор данных осуществляется на ежеквартальной основе, разработка индикатора производится по итогам года. 
-]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется посредством вопросников ИОДХ с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).
 Сбор данных осуществляется на ежеквартальной основе, разработка индикатора производится по итогам года. 
@@ -826,8 +648,6 @@ There are theoretical and practical justifications for each dimension, emphasizi
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Национальный индекс многомерной бедности (НИМБ) разработан Национальным статистическим комитетом Кыргызской Республики, при поддержке Детского фонда ООН и Программы развития ООН. При расчете НИМБ была использована международно признанная методология Сабины Алкир и Джеймса Фостера. НИМБ характеризуется основными тремя показателями многомерной бедности. Это – распространённость многомерной бедности (Н), средняя интенсивность лишений среди бедных (А) и Национальный индекс многомерной бедности (М).                                                К числу многомерно бедных отнесены лица, испытывающие лишения по крайней мере, по одной трети взвешенных индикаторов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The National Multidimensional Poverty Index (NMPI) has been developed by the National Statistical Committee of the Kyrgyz Republic in cooperation with the United Nations Children’s Fund and the United Nations Development Programme. NMIP is calculated using the internationally recognized methodology of Sabina Alkire and James Foster. It is characterized by three main multidimensional poverty indicators. These are multidimensional poverty incidence (H), the average intensity of deprivation among the poor (A) and the National Multidimensional Poverty Index (M). 
 Under these poor are considered those deprived of at least one third of the weighted indicators.]]></com:Text>
           
@@ -835,15 +655,11 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Национальный индекс многомерной бедности и его составляющие позволят оценить, какие изменения происходят в качестве жизни населения с течением времени и для каких групп трансформация является более динамичной. Будучи реализованными на межстрановом уровне, подобные исследования дают возможность сопоставить результаты политики отдельных государств, на национальном – отвечают потребности сравнительного анализа ситуации в отдельных регионах страны.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The National Multidimensional Poverty Index and its components allow assessing changes in the population’s quality of life over time and dynamics for different groups. When implemented at the inter-country level, such studies make it possible to compare States policies outcomes and, at the national level, meet the needs of comparative analysis of situation in country’s regions.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Исходные данные, проверяются на качество, прежде чем они будут использованы для дальнейшего анализа.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The raw data are checked for quality before being submitted for further analysis.]]></com:Text>
           
@@ -851,23 +667,17 @@ Under these poor are considered those deprived of at least one third of the weig
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные доступны с 2016 года. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data has been available since 2016.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Используется стандартная методология, при этом набор индикаторов, включенных в измерения характерен для Кыргызской Республики.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Standard methodology is used, and the set of indicators included in the measurements is relevant for the Kyrgyz Republic]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР:  https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform:  https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           

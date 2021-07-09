@@ -11,15 +11,11 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
             "name": "ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Agriculture, forestry and fishing",
                 "Mining and quarrying",
                 "Manufacturing",
@@ -37,8 +33,7 @@
                 "Education",
                 "Human health and social work activities",
                 "Arts, entertainment and recreation",
-                "Other service activities",
-                ""
+                "Other service activities"
               ]
             },
             "title": "Economic activity"
@@ -47,6 +42,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6c445caf-4131-4ca2-812c-123228d1730c">
+  <mes:MetadataSet structureRef="MDS1" setID="47e273ba-5124-4d8e-9ee4-59c8622426ce">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 9: Создание стойкой инфраструктуры, содействие всеохватной и устойчивой индустриализации и инновациям  ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[9.3 Расширить доступ мелких промышленных и прочих предприятий, особенно в развивающихся странах, к финансовым услугам, в том числе к недорогим кредитам, и усилить их интеграцию в производственно-сбытовые цепочки и рынки]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[9.3 Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[9.3.1.  Доля малых предприятий в валовой добавленной стоимости промышленности]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[9.3.1.  Proportion of small-scale industries in total industry value added]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Управление экономической статистики труда и занятости национальных счетов)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
 (Economic Statistics and National Accounts Division)]]></com:Text>
@@ -72,15 +64,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Исенкулова Э. К.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Isenkulova E. K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[eisenkulova@stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[eisenkulova@stat.kg]]></com:Text>
           
@@ -88,24 +76,17 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 95]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 95]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="ru"><![CDATA[ Отношение валовой добавленной стоимости малых предприятий (имеющих численность работающих в сфере производства товаров - до 50 человек, а в сфере услуг - до 15 человек) – к валовой добавленной стоимости промышленности.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Proportion of small-scale industries (up to 50 persons employed in production and up to 15 persons employed in services) gross value added to gross value added of industry.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Статистика малого предпринимательства изучает количественную сторону состояния и развития субъектов малого бизнеса в неразрывной связи с их качественной стороной. Статистикой малого предпринимательства является сбор и обработка статистических показателей, позволяющих проводить анализ финансово-экономической деятельности субъектов малого предпринимательства всех видов деятельности, в том числе в отрасли малых промышленных предприятий, выходящий на макро экономический анализ и систему национальных счетов. Малое предприятие - один из важнейших элементов рыночной структуры. Создание малого предприятия - необходимое условие формирования конкурентной среды, создания новых рабочих мест, насыщения рынка товарами и услугами. Малые предприятия в большей мере, чем крупные и средние предприятия, способны быстро реагировать на изменение конъюнктуры рынка, диверсифицировать производство, осуществлять инновационную деятельность.  Разработка методологии статистического учета требует четкого отнесения к той или иной категории хозяйствующих субъектов. 
-Субъектами малого предпринимательства являются физические и юридические лица, зарегистрированные в установленном законом порядке и осуществляющие на свой риск и под свою имущественную ответственность, не запрещенную законодательством деятельность с целью извлечения прибыли вне зависимости от их организационно-правовых форм и форм собственности.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Small-scale industry statistics examine the quantitative aspects of operations and development of small business entities in relationship to quality. Small-industry statistics collect and process statistical indicators to analyze financial and economic activities of small business entities of all types of activities, including small industrial enterprises, macro-economic analysis and system of national accounts. A small-scale industry is one of the key elements of the market structure. Establishing small enterprises is a prerequisite for competitive environment, job creation and bringing in new goods and services. Small enterprises are better suited than large and medium-sized enterprises to respond quickly to market changes diversify production and innovate. Development of statistical methodology requires a clear identification of economic entities.
 Small-scale industry entities are private and legal persons registered in accordance with procedures established by law and exercising at their own risk and under their property liability activities not prohibited by law, irrespective of their organizational and legal forms and forms of ownership.]]></com:Text>
@@ -114,28 +95,17 @@ Small-scale industry entities are private and legal persons registered in accord
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных, обработка и расчет осуществляется Национальным статистическим комитетом.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee collects, processes and calculates the data.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики. Периодичность: квартальная, годовая.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики. Периодичность: квартальная, годовая.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля малых предприятий в валовой добавленной стоимости промышленности – это показатель, вычисляемый как доля добавленной стоимости малых предприятий в общем объеме добавленной стоимости промышленности: 
-GVA share micro ent = GVA micro ent/ GVA manufactory * 100,
-где 
-GVA share micro ent –  доля ВДС малых предприятий;
-GVA micro ent - ВДС малых предприятий промышленности;
-GVA manufactory - ВДС промышленности.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of “small-scale industries” in total value added is an indicator calculated as a share of value added for small-scale manufacturing enterprises in total manufacturing value added:
 GVA share micro ent = GVA micro ent/ GVA manufactory * 100,
@@ -148,15 +118,11 @@ GVA manufactory - MVA.]]></com:Text>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Определение размера класса во многих странах связано с правовой и политической базой страны. Это имеет значение для процедуры регистрации, налогообложения и различных временных освобождений, и послаблений, направленных на продвижение «малых предприятий». Основным ограничением существующих национальных данных являются различные классы размеров по странам. Данные одной страны несопоставимы с данными других стран.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The definition of size class in many countries is tied up with the legal and policy framework of the country. It has implications on registration procedure, taxation and different waivers aimed to promote “small-scale industries”. The main limitation of existing national data is varying size classes by country indicating that data are obtained from different target populations. Data of one country are not comparable to another.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="ru"><![CDATA[ Проводится логический и арифметический контроль отчетных данных.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ Logical and arithmetic control of recorded data is carried out.]]></com:Text>
           
@@ -164,15 +130,11 @@ GVA manufactory - MVA.]]></com:Text>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Используются данные отраслевой статистики НСК]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[NSC sectoral statistics used]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           

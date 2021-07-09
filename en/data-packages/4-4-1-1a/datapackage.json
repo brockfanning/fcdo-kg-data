@@ -11,39 +11,39 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "EDUCATION_LEV",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "Secondary and post-secondary non-tertiary education (intermediate)",
+                "Short-cycle tertiary education",
+                "Tertiary education (Bachelor’s and Master's or equivalent)"
+              ]
+            },
+            "title": "Education level"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Female",
-                "Male",
-                ""
+                "Male"
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Secondary and post-secondary non-tertiary education (intermediate)",
-                "Short-cycle tertiary education",
-                "Tertiary education (Bachelor’s and Master's or equivalent)",
-                ""
-              ]
-            },
-            "title": "Education level"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

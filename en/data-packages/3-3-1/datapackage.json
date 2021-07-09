@@ -11,46 +11,46 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "under 14 years old",
+                "15 to 24 years old",
+                "25 years old and over"
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Batken",
-                "Jalal-Abad",
+                "",
                 "Issyk-Kul",
+                "Jalal-Abad",
                 "Naryn",
+                "Batken",
                 "Osh",
                 "Talas",
                 "Chui",
                 "Bishkek (city)",
-                "Osh (city)",
-                ""
+                "Osh (city)"
               ]
             },
             "title": "Reference area"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "under 14 years old",
-                "15 to 24 years old",
-                "25 years old and over",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

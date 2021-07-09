@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="12153630-6569-44d2-928a-9f9a41a1dc32">
+  <mes:MetadataSet structureRef="MDS1" setID="9b3f17af-32af-4d90-8e38-4f1dd42f1f67">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 8. Содействие поступательному, всеохватному и устойчивому экономическому росту, полной и производительной занятости и достойной работе для всех ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[8.7. Принятие срочных и эффективных мер для того, чтобы искоренить принудительный труд, покончить с современным рабством и торговлей людьми и обеспечить запрет и ликвидацию наихудших форм детского труда, включая вербовку и использование детей-солдат, а к 2025 году покончить с детским трудом во всех его формах]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[8.7. Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms]]></com:Text>
           
@@ -55,16 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[8.7.1. Доля и число детей в возрасте от 5 до 17 лет, занятых детским трудом, в разбивке по полу и возрасту]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[8.7.1. Proportion and number of children aged 5-17 years engaged in child labour, by sex and age]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -72,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -88,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Число детей, занятых детским трудом, соответствует числу детей, которые, как сообщается, находятся в детском труде в течение отчетного периода (обычно за неделю до обследования).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The number of children engaged in child labour corresponds to the number of children reported to be in child labour during the reference period (usually the week prior to the survey).]]></com:Text>
           
@@ -104,15 +87,11 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Слишком много детей в мире остаются в ловушке детского труда, ставя под угрозу их индивидуальное будущее. Согласно последним мировым оценкам, МОТ, около 168 миллионов детей во всем мире являются детьми-работниками, на которые приходится почти 11 процентов детского населения. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Far too many children in the world remain trapped in child labour, compromising their individual future. According to the latest ILO global estimates, about 168 million children worldwide are child labourers, accounting for almost 11 percent of the child population.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Кластерное обследование по многим показателям (MICS)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Multiple Indicator Cluster Survey (MICS)]]></com:Text>
           
@@ -120,24 +99,12 @@
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
-программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
 программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Методология измерения, используемая МОТ в ее глобальных оценках по детскому труду, основанная на статистическом определении МКНС, классифицирует детский труд на основе следующих критериев:
-• Возраст 5-11: не менее 1 часа экономической активности в неделю;
-• Возраст 12-14 лет: не менее 14 часов экономической активности в неделю во всех видах экономической деятельности, за исключением разрешенной «легкой» работы, где легкая работа определяется оперативно, как экономическая деятельность, которая (i) не превышает 14 часов в неделю и что (ii) не является опасным по своей природе; и
-• В возрасте от 15 до 17 лет: работа в определенных опасных отраслях промышленности или в определенных опасных профессиях, или в течение долгих часов. Длительные часы определяются как 43 или более часов в течение базовой недели.
-Доля детей в детском труде рассчитывается как количество детей в детском труде, деленное на общее число детей в населении. Для целей этого показателя дети включают всех лиц в возрасте от 5 до 17 лет. 
-Дети в возрасте от 5 до 17 лет: число детей в возрасте от 5 до 17 лет, зарегистрированных в детском труде в течение недели до обследования, деленное на общее число детей в возрасте 5-17 лет в населении, умноженное на 100 человек.
-Дети в возрасте от 5 до 14 лет: число детей в возрасте от 5 до 14 лет, зарегистрированных в детском труде в течение недели до обследования, деленное на общее число детей в возрасте 5-14 лет в населении, умноженное на 100 человек.
-Дети в возрасте 15-17 лет: число детей в возрасте от 15 до 17 лет сообщало о детском труде в течение недели до обследования, деленное на общее число детей в возрасте 15-17 лет в населении, умноженное на 100 человек.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The measurement methodology used by the ILO in its global estimates on child labour, building on the ICLS statistical definition, classifies child labour on the basis of the following criteria:
 • Ages 5 to 11: at least 1 hour of economic activity per week;
@@ -155,15 +122,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Оценки детского труда, основанные на статистических стандартах, изложенных в резолюции ICLS, являются полезными ориентирами для международных сравнительных целей, но не обязательно соответствуют оценкам, основанным на национальном законодательстве в области детского труда.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Child labour estimates based on the statistical standards set out in the ICLS resolution represent useful benchmarks for international comparative purposes but are not necessarily consistent with estimates based on national child labour legislation. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[В настоящее время доступны национальные и сопоставимые данные для 102 стран, включая КР, с низким и средним уровнем дохода.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Nationally representative and comparable data are currently available for 102 countries, including Kyrgyz Republic.]]></com:Text>
           
@@ -171,15 +134,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Конвенция МОТ № 138 содержит ряд положений о гибкости, оставленных на усмотрение компетентного национального органа в консультации (где это уместно) с организациями работников и работодателей (например, минимальный возраст, область применения). Это означает, что нет единого юридического определения детского труда в разных странах, и, таким образом, ни одна статистическая мера детского труда не соответствует национальному законодательству в разных странах.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ILO Convention №138 contains a number of flexibility clauses left to the discretion of the competent national authority in consultation (where relevant) with workers’ and employers’ organizations (e.g., minimum ages, scope of application). This means that there is no single legal definition of child labour across countries, and thus, no single statistical measure of child labour consistent with national legislation across countries. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
@@ -189,7 +148,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="680b48fc-a36d-4533-b280-30ccc321962a">
+  <mes:MetadataSet structureRef="MDS1" setID="e927e42f-e38d-4d54-b321-0539cb573161">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -216,15 +175,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 8. Содействие поступательному, всеохватному и устойчивому экономическому росту, полной и производительной занятости и достойной работе для всех ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[8.7. Принятие срочных и эффективных мер для того, чтобы искоренить принудительный труд, покончить с современным рабством и торговлей людьми и обеспечить запрет и ликвидацию наихудших форм детского труда, включая вербовку и использование детей-солдат, а к 2025 году покончить с детским трудом во всех его формах]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[8.7. Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms]]></com:Text>
           
@@ -232,16 +187,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[8.7.1. Доля и число детей в возрасте от 5 до 17 лет, занятых детским трудом, в разбивке по полу и возрасту]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[8.7.1. Proportion and number of children aged 5-17 years engaged in child labour, by sex and age]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -249,15 +199,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -265,15 +211,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Число детей, занятых детским трудом, соответствует числу детей, которые, как сообщается, находятся в детском труде в течение отчетного периода (обычно за неделю до обследования).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The number of children engaged in child labour corresponds to the number of children reported to be in child labour during the reference period (usually the week prior to the survey).]]></com:Text>
           
@@ -281,15 +223,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Слишком много детей в мире остаются в ловушке детского труда, ставя под угрозу их индивидуальное будущее. Согласно последним мировым оценкам, МОТ, около 168 миллионов детей во всем мире являются детьми-работниками, на которые приходится почти 11 процентов детского населения. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Far too many children in the world remain trapped in child labour, compromising their individual future. According to the latest ILO global estimates, about 168 million children worldwide are child labourers, accounting for almost 11 percent of the child population.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Кластерное обследование по многим показателям (MICS)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Multiple Indicator Cluster Survey (MICS)]]></com:Text>
           
@@ -297,24 +235,12 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
-программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
 программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Методология измерения, используемая МОТ в ее глобальных оценках по детскому труду, основанная на статистическом определении МКНС, классифицирует детский труд на основе следующих критериев:
-• Возраст 5-11: не менее 1 часа экономической активности в неделю;
-• Возраст 12-14 лет: не менее 14 часов экономической активности в неделю во всех видах экономической деятельности, за исключением разрешенной «легкой» работы, где легкая работа определяется оперативно, как экономическая деятельность, которая (i) не превышает 14 часов в неделю и что (ii) не является опасным по своей природе; и
-• В возрасте от 15 до 17 лет: работа в определенных опасных отраслях промышленности или в определенных опасных профессиях, или в течение долгих часов. Длительные часы определяются как 43 или более часов в течение базовой недели.
-Доля детей в детском труде рассчитывается как количество детей в детском труде, деленное на общее число детей в населении. Для целей этого показателя дети включают всех лиц в возрасте от 5 до 17 лет. 
-Дети в возрасте от 5 до 17 лет: число детей в возрасте от 5 до 17 лет, зарегистрированных в детском труде в течение недели до обследования, деленное на общее число детей в возрасте 5-17 лет в населении, умноженное на 100 человек.
-Дети в возрасте от 5 до 14 лет: число детей в возрасте от 5 до 14 лет, зарегистрированных в детском труде в течение недели до обследования, деленное на общее число детей в возрасте 5-14 лет в населении, умноженное на 100 человек.
-Дети в возрасте 15-17 лет: число детей в возрасте от 15 до 17 лет сообщало о детском труде в течение недели до обследования, деленное на общее число детей в возрасте 15-17 лет в населении, умноженное на 100 человек.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The measurement methodology used by the ILO in its global estimates on child labour, building on the ICLS statistical definition, classifies child labour on the basis of the following criteria:
 • Ages 5 to 11: at least 1 hour of economic activity per week;
@@ -332,15 +258,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Оценки детского труда, основанные на статистических стандартах, изложенных в резолюции ICLS, являются полезными ориентирами для международных сравнительных целей, но не обязательно соответствуют оценкам, основанным на национальном законодательстве в области детского труда.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Child labour estimates based on the statistical standards set out in the ICLS resolution represent useful benchmarks for international comparative purposes but are not necessarily consistent with estimates based on national child labour legislation. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[В настоящее время доступны национальные и сопоставимые данные для 102 стран, включая КР, с низким и средним уровнем дохода.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Nationally representative and comparable data are currently available for 102 countries, including Kyrgyz Republic.]]></com:Text>
           
@@ -348,15 +270,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Конвенция МОТ № 138 содержит ряд положений о гибкости, оставленных на усмотрение компетентного национального органа в консультации (где это уместно) с организациями работников и работодателей (например, минимальный возраст, область применения). Это означает, что нет единого юридического определения детского труда в разных странах, и, таким образом, ни одна статистическая мера детского труда не соответствует национальному законодательству в разных странах.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ILO Convention №138 contains a number of flexibility clauses left to the discretion of the competent national authority in consultation (where relevant) with workers’ and employers’ organizations (e.g., minimum ages, scope of application). This means that there is no single legal definition of child labour across countries, and thus, no single statistical measure of child labour consistent with national legislation across countries. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
@@ -366,7 +284,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d67b4bf2-aecf-44fd-b86b-603f4df8e847">
+  <mes:MetadataSet structureRef="MDS1" setID="8ed68753-5987-4a5e-8166-d6bda4004878">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -393,15 +311,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 8. Содействие поступательному, всеохватному и устойчивому экономическому росту, полной и производительной занятости и достойной работе для всех ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[8.7. Принятие срочных и эффективных мер для того, чтобы искоренить принудительный труд, покончить с современным рабством и торговлей людьми и обеспечить запрет и ликвидацию наихудших форм детского труда, включая вербовку и использование детей-солдат, а к 2025 году покончить с детским трудом во всех его формах]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[8.7. Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms]]></com:Text>
           
@@ -409,16 +323,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[8.7.1. Доля и число детей в возрасте от 5 до 17 лет, занятых детским трудом, в разбивке по полу и возрасту]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[8.7.1. Proportion and number of children aged 5-17 years engaged in child labour, by sex and age]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -426,15 +335,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -442,15 +347,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Число детей, занятых детским трудом, соответствует числу детей, которые, как сообщается, находятся в детском труде в течение отчетного периода (обычно за неделю до обследования).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The number of children engaged in child labour corresponds to the number of children reported to be in child labour during the reference period (usually the week prior to the survey).]]></com:Text>
           
@@ -458,15 +359,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Слишком много детей в мире остаются в ловушке детского труда, ставя под угрозу их индивидуальное будущее. Согласно последним мировым оценкам, МОТ, около 168 миллионов детей во всем мире являются детьми-работниками, на которые приходится почти 11 процентов детского населения. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Far too many children in the world remain trapped in child labour, compromising their individual future. According to the latest ILO global estimates, about 168 million children worldwide are child labourers, accounting for almost 11 percent of the child population.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Кластерное обследование по многим показателям (MICS)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Multiple Indicator Cluster Survey (MICS)]]></com:Text>
           
@@ -474,24 +371,12 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
-программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
 программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Методология измерения, используемая МОТ в ее глобальных оценках по детскому труду, основанная на статистическом определении МКНС, классифицирует детский труд на основе следующих критериев:
-• Возраст 5-11: не менее 1 часа экономической активности в неделю;
-• Возраст 12-14 лет: не менее 14 часов экономической активности в неделю во всех видах экономической деятельности, за исключением разрешенной «легкой» работы, где легкая работа определяется оперативно, как экономическая деятельность, которая (i) не превышает 14 часов в неделю и что (ii) не является опасным по своей природе; и
-• В возрасте от 15 до 17 лет: работа в определенных опасных отраслях промышленности или в определенных опасных профессиях, или в течение долгих часов. Длительные часы определяются как 43 или более часов в течение базовой недели.
-Доля детей в детском труде рассчитывается как количество детей в детском труде, деленное на общее число детей в населении. Для целей этого показателя дети включают всех лиц в возрасте от 5 до 17 лет. 
-Дети в возрасте от 5 до 17 лет: число детей в возрасте от 5 до 17 лет, зарегистрированных в детском труде в течение недели до обследования, деленное на общее число детей в возрасте 5-17 лет в населении, умноженное на 100 человек.
-Дети в возрасте от 5 до 14 лет: число детей в возрасте от 5 до 14 лет, зарегистрированных в детском труде в течение недели до обследования, деленное на общее число детей в возрасте 5-14 лет в населении, умноженное на 100 человек.
-Дети в возрасте 15-17 лет: число детей в возрасте от 15 до 17 лет сообщало о детском труде в течение недели до обследования, деленное на общее число детей в возрасте 15-17 лет в населении, умноженное на 100 человек.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The measurement methodology used by the ILO in its global estimates on child labour, building on the ICLS statistical definition, classifies child labour on the basis of the following criteria:
 • Ages 5 to 11: at least 1 hour of economic activity per week;
@@ -509,15 +394,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Оценки детского труда, основанные на статистических стандартах, изложенных в резолюции ICLS, являются полезными ориентирами для международных сравнительных целей, но не обязательно соответствуют оценкам, основанным на национальном законодательстве в области детского труда.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Child labour estimates based on the statistical standards set out in the ICLS resolution represent useful benchmarks for international comparative purposes but are not necessarily consistent with estimates based on national child labour legislation. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[В настоящее время доступны национальные и сопоставимые данные для 102 стран, включая КР, с низким и средним уровнем дохода.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Nationally representative and comparable data are currently available for 102 countries, including Kyrgyz Republic.]]></com:Text>
           
@@ -525,15 +406,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Конвенция МОТ № 138 содержит ряд положений о гибкости, оставленных на усмотрение компетентного национального органа в консультации (где это уместно) с организациями работников и работодателей (например, минимальный возраст, область применения). Это означает, что нет единого юридического определения детского труда в разных странах, и, таким образом, ни одна статистическая мера детского труда не соответствует национальному законодательству в разных странах.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ILO Convention №138 contains a number of flexibility clauses left to the discretion of the competent national authority in consultation (where relevant) with workers’ and employers’ organizations (e.g., minimum ages, scope of application). This means that there is no single legal definition of child labour across countries, and thus, no single statistical measure of child labour consistent with national legislation across countries. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
@@ -543,7 +420,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d9bb2616-9b6c-439c-9eb4-cd72aa8487fb">
+  <mes:MetadataSet structureRef="MDS1" setID="1305ac9c-236a-4c7e-96f8-d9a5528cd91e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -570,15 +447,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 8. Содействие поступательному, всеохватному и устойчивому экономическому росту, полной и производительной занятости и достойной работе для всех ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[8.7. Принятие срочных и эффективных мер для того, чтобы искоренить принудительный труд, покончить с современным рабством и торговлей людьми и обеспечить запрет и ликвидацию наихудших форм детского труда, включая вербовку и использование детей-солдат, а к 2025 году покончить с детским трудом во всех его формах]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[8.7. Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms]]></com:Text>
           
@@ -586,16 +459,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[8.7.1. Доля и число детей в возрасте от 5 до 17 лет, занятых детским трудом, в разбивке по полу и возрасту]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[8.7.1. Proportion and number of children aged 5-17 years engaged in child labour, by sex and age]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -603,15 +471,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -619,15 +483,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Число детей, занятых детским трудом, соответствует числу детей, которые, как сообщается, находятся в детском труде в течение отчетного периода (обычно за неделю до обследования).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The number of children engaged in child labour corresponds to the number of children reported to be in child labour during the reference period (usually the week prior to the survey).]]></com:Text>
           
@@ -635,15 +495,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Слишком много детей в мире остаются в ловушке детского труда, ставя под угрозу их индивидуальное будущее. Согласно последним мировым оценкам, МОТ, около 168 миллионов детей во всем мире являются детьми-работниками, на которые приходится почти 11 процентов детского населения. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Far too many children in the world remain trapped in child labour, compromising their individual future. According to the latest ILO global estimates, about 168 million children worldwide are child labourers, accounting for almost 11 percent of the child population.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Кластерное обследование по многим показателям (MICS)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Multiple Indicator Cluster Survey (MICS)]]></com:Text>
           
@@ -651,24 +507,12 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
-программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
 программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Методология измерения, используемая МОТ в ее глобальных оценках по детскому труду, основанная на статистическом определении МКНС, классифицирует детский труд на основе следующих критериев:
-• Возраст 5-11: не менее 1 часа экономической активности в неделю;
-• Возраст 12-14 лет: не менее 14 часов экономической активности в неделю во всех видах экономической деятельности, за исключением разрешенной «легкой» работы, где легкая работа определяется оперативно, как экономическая деятельность, которая (i) не превышает 14 часов в неделю и что (ii) не является опасным по своей природе; и
-• В возрасте от 15 до 17 лет: работа в определенных опасных отраслях промышленности или в определенных опасных профессиях, или в течение долгих часов. Длительные часы определяются как 43 или более часов в течение базовой недели.
-Доля детей в детском труде рассчитывается как количество детей в детском труде, деленное на общее число детей в населении. Для целей этого показателя дети включают всех лиц в возрасте от 5 до 17 лет. 
-Дети в возрасте от 5 до 17 лет: число детей в возрасте от 5 до 17 лет, зарегистрированных в детском труде в течение недели до обследования, деленное на общее число детей в возрасте 5-17 лет в населении, умноженное на 100 человек.
-Дети в возрасте от 5 до 14 лет: число детей в возрасте от 5 до 14 лет, зарегистрированных в детском труде в течение недели до обследования, деленное на общее число детей в возрасте 5-14 лет в населении, умноженное на 100 человек.
-Дети в возрасте 15-17 лет: число детей в возрасте от 15 до 17 лет сообщало о детском труде в течение недели до обследования, деленное на общее число детей в возрасте 15-17 лет в населении, умноженное на 100 человек.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The measurement methodology used by the ILO in its global estimates on child labour, building on the ICLS statistical definition, classifies child labour on the basis of the following criteria:
 • Ages 5 to 11: at least 1 hour of economic activity per week;
@@ -686,15 +530,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Оценки детского труда, основанные на статистических стандартах, изложенных в резолюции ICLS, являются полезными ориентирами для международных сравнительных целей, но не обязательно соответствуют оценкам, основанным на национальном законодательстве в области детского труда.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Child labour estimates based on the statistical standards set out in the ICLS resolution represent useful benchmarks for international comparative purposes but are not necessarily consistent with estimates based on national child labour legislation. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[В настоящее время доступны национальные и сопоставимые данные для 102 стран, включая КР, с низким и средним уровнем дохода.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Nationally representative and comparable data are currently available for 102 countries, including Kyrgyz Republic.]]></com:Text>
           
@@ -702,15 +542,11 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Конвенция МОТ № 138 содержит ряд положений о гибкости, оставленных на усмотрение компетентного национального органа в консультации (где это уместно) с организациями работников и работодателей (например, минимальный возраст, область применения). Это означает, что нет единого юридического определения детского труда в разных странах, и, таким образом, ни одна статистическая мера детского труда не соответствует национальному законодательству в разных странах.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ILO Convention №138 contains a number of flexibility clauses left to the discretion of the competent national authority in consultation (where relevant) with workers’ and employers’ organizations (e.g., minimum ages, scope of application). This means that there is no single legal definition of child labour across countries, and thus, no single statistical measure of child labour consistent with national legislation across countries. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
           

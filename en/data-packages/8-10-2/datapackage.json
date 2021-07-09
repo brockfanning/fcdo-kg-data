@@ -11,25 +11,64 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "15 to 28 years old",
+                "29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",
+                "15 years old and over",
+                "58 years old and over (population over working age: women 58 years and older, men 63 years and older)"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Primary education",
+                "Lower secondary education",
+                "Upper secondary education",
+                "Post-secondary non-tertiary education",
+                "Tertiary education (Bachelor’s and Master's or equivalent)"
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)"
+              ]
+            },
+            "title": "Income or wealth quantile"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Batken",
-                "Jalal-Abad",
+                "",
                 "Issyk-Kul",
+                "Jalal-Abad",
                 "Naryn",
+                "Batken",
                 "Osh",
                 "Talas",
                 "Chui",
                 "Bishkek (city)",
-                "Osh (city)",
-                ""
+                "Osh (city)"
               ]
             },
             "title": "Reference area"
@@ -39,73 +78,34 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
+                "",
                 "Female",
-                ""
+                "Male"
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 years old and over",
-                "15 to 28 years old",
-                "29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",
-                "58 years old and over (population over working age: women 58 years and older, men 63 years and older)",
-                ""
-              ]
-            },
-            "title": "Age"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
+                "",
                 "Rural",
-                ""
+                "Urban"
               ]
             },
             "title": "Degree of urbanisation"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Quintile 1 (poorest)",
-                "Quintile 2",
-                "Quintile 3",
-                "Quintile 4",
-                "Quintile 5 (richest)",
-                ""
-              ]
-            },
-            "title": "Income or wealth quantile"
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary education",
-                "Lower secondary education",
-                "Upper secondary education",
-                "Post-secondary non-tertiary education",
-                "Tertiary education (Bachelor’s and Master's or equivalent)",
-                ""
-              ]
-            },
-            "title": "Education level"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

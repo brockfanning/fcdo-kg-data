@@ -11,21 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Income: Tax revenues",
+                "",
                 "Income: Contributions / deductions for social needs",
-                "Income: Received official transfers",
-                "Income: Non-tax revenues",
                 "Income: Income from sale of non-financial assets",
-                ""
+                "Income: Non-tax revenues",
+                "Income: Received official transfers",
+                "Income: Tax revenues"
               ]
             },
             "title": "Composite breakdown"
@@ -34,6 +29,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

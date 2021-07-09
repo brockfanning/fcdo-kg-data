@@ -11,41 +11,41 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "Sector: Economic affairs",
+                "Sector: Housing and community amenities",
+                "Sector: Health",
+                "Sector: Education",
+                "Sector: Total"
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "_L_KG_010B01_11",
-                "_L_KG_010B01_12",
-                ""
+                "_L_KG_010B01_12"
               ]
             },
             "title": "Series"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sector: Total",
-                "Sector: Economic affairs",
-                "Sector: Health",
-                "Sector: Education",
-                "Sector: Housing and community amenities",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

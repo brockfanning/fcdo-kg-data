@@ -11,20 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KG_150201_1",
+                "",
                 "AG_LND_FRSTBIOPHA",
-                "AG_LND_FRSTPRCT",
                 "AG_LND_FRSTMGT",
-                ""
+                "AG_LND_FRSTPRCT",
+                "_L_KG_150201_1"
               ]
             },
             "title": "Series"
@@ -33,6 +28,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

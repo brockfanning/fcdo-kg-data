@@ -11,51 +11,51 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "Cause: does not match the age of the given class",
+                "Cause: Children with disabilities",
+                "Cause: for domestic reasons",
+                "Cause: troubled families",
+                "Cause: married, pregnant, they became parents ( mother, father )",
+                "Cause: material difficulty",
+                "Cause: lack of the necessary documents ( birth certificates, registration)",
+                "Cause: lack knowledge of language",
+                "Cause: other reasons",
+                "Cause: unwillingness of parents",
+                "Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",
+                "Cause: because of sickness ",
+                "Cause: lack of transportation (school too far from home)",
+                "Cause: no wishes to learn",
+                "Cause: working"
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
+                "",
                 "Female",
-                ""
+                "Male"
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Cause: material difficulty",
-                "Cause: unwillingness of parents",
-                "Cause: lack of the necessary documents ( birth certificates, registration)",
-                "Cause: for domestic reasons",
-                "Cause: no wishes to learn",
-                "Cause: troubled families",
-                "Cause: lack knowledge of language",
-                "Cause: married, pregnant, they became parents ( mother, father )",
-                "Cause: working",
-                "Cause: lack of transportation (school too far from home)",
-                "Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",
-                "Cause: does not match the age of the given class",
-                "Cause: because of sickness ",
-                "Cause: Children with disabilities",
-                "Cause: other reasons",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

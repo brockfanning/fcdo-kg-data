@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7ae09a7f-3113-407d-9913-ce9bf0f37ce9">
+  <mes:MetadataSet structureRef="MDS1" setID="12ac94c1-b657-42a7-8236-0621162f9e96">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 16. Содействие построению миролюбивого и открытого общества в интересах устойчивого развития, обеспечение доступа к правосудию для всех и создание эффективных, подотчетных и основанных на широком участии учреждений на всех уровнях ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[16.7 Обеспечить ответственное принятие решений репрезентативными органами на всех уровнях с участием всех слоев общества ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels]]></com:Text>
           
@@ -55,16 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[16.7.1 Доля должностей (в разбивке по полу, возрасту, инвалидности и группе населения) в государственных учреждениях (национальных и местных законодательных собраниях, государственной службе и судебных органах) в сравнении с национальным распределением]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[16.7.1 Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики труда и занятости)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic
 (Labour and Employment Statistics Unit)]]></com:Text>
@@ -73,15 +64,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Джайлобаева Г.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[G.J. Jailobaeva]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
@@ -89,15 +76,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 62 60 76]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 62 60 76]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля занятых на политических, специальных и административных должностях в государственных учреждениях рассчитываются по отношению к численности государственных служащих в органах государственного управления]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of persons employed in political, special and administrative positions in the public institution is calculated compared to to the number of civil servants in public/administrative authorities.]]></com:Text>
           
@@ -105,17 +88,11 @@
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственная статистическая отчетность по форме №1-ГОС (краткая) Отчет о численности работников, занятых в органах государственного управления на 1 января]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[State statistical reporting Form No. 1-GOS (brief) - Report on the number of officials in public/administrative authorities as of January 1.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
-Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
-Сбор данных осуществляется на ежегодной основе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
 Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
@@ -125,24 +102,17 @@
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Для расчета этого показателя необходимы данные по численности государственных служащих по государственным органам по всем должностям. Также нужна разбивка численности госслужащих по занимаемым государственным должностям (политические, специальные и административные).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data on the number of civil servants in all positions by public bodies are required to calculate this indicator. Disaggregation of civil servants by position (political, special and administrative) is required.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по возрасту, стажу и инвалидности имеются в Государственной кадровой службе КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Disaggregated data by age, length of service and disability is available in the State Personnel Service of the Kyrgyz Republic.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
-Публикуются в статистическом сборнике "Женщины и мужчины Кыргызской Республики"]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
 Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com:Text>
@@ -153,7 +123,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6f727749-f085-47c7-93c0-9caf1a2bdd59">
+  <mes:MetadataSet structureRef="MDS1" setID="17ecde05-2e5d-4e36-b6f6-da0cbf3e7a47">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -180,15 +150,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 16. Содействие построению миролюбивого и открытого общества в интересах устойчивого развития, обеспечение доступа к правосудию для всех и создание эффективных, подотчетных и основанных на широком участии учреждений на всех уровнях ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[16.7 Обеспечить ответственное принятие решений репрезентативными органами на всех уровнях с участием всех слоев общества ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels]]></com:Text>
           
@@ -196,16 +162,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[16.7.1 Доля должностей (в разбивке по полу, возрасту, инвалидности и группе населения) в государственных учреждениях (национальных и местных законодательных собраниях, государственной службе и судебных органах) в сравнении с национальным распределением]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[16.7.1 Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики труда и занятости)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic
 (Labour and Employment Statistics Unit)]]></com:Text>
@@ -214,15 +175,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Джайлобаева Г.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[G.J. Jailobaeva]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
@@ -230,15 +187,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 62 60 76]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 62 60 76]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля занятых на политических, специальных и административных должностях в государственных учреждениях рассчитываются по отношению к численности государственных служащих в органах государственного управления]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of persons employed in political, special and administrative positions in the public institution is calculated compared to to the number of civil servants in public/administrative authorities.]]></com:Text>
           
@@ -246,17 +199,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственная статистическая отчетность по форме №1-ГОС (краткая) Отчет о численности работников, занятых в органах государственного управления на 1 января]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[State statistical reporting Form No. 1-GOS (brief) - Report on the number of officials in public/administrative authorities as of January 1.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
-Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
-Сбор данных осуществляется на ежегодной основе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
 Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
@@ -266,24 +213,17 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Для расчета этого показателя необходимы данные по численности государственных служащих по государственным органам по всем должностям. Также нужна разбивка численности госслужащих по занимаемым государственным должностям (политические, специальные и административные).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data on the number of civil servants in all positions by public bodies are required to calculate this indicator. Disaggregation of civil servants by position (political, special and administrative) is required.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по возрасту, стажу и инвалидности имеются в Государственной кадровой службе КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Disaggregated data by age, length of service and disability is available in the State Personnel Service of the Kyrgyz Republic.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
-Публикуются в статистическом сборнике "Женщины и мужчины Кыргызской Республики"]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
 Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com:Text>
@@ -294,7 +234,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="63ba6b2f-20bf-43f6-bb8d-f8c465b8d3ed">
+  <mes:MetadataSet structureRef="MDS1" setID="8098c8f4-8049-4c6d-8ddb-589900a4c942">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -321,15 +261,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 16. Содействие построению миролюбивого и открытого общества в интересах устойчивого развития, обеспечение доступа к правосудию для всех и создание эффективных, подотчетных и основанных на широком участии учреждений на всех уровнях ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[16.7 Обеспечить ответственное принятие решений репрезентативными органами на всех уровнях с участием всех слоев общества ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels]]></com:Text>
           
@@ -337,16 +273,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[16.7.1 Доля должностей (в разбивке по полу, возрасту, инвалидности и группе населения) в государственных учреждениях (национальных и местных законодательных собраниях, государственной службе и судебных органах) в сравнении с национальным распределением]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[16.7.1 Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики труда и занятости)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic
 (Labour and Employment Statistics Unit)]]></com:Text>
@@ -355,15 +286,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Джайлобаева Г.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[G.J. Jailobaeva]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
@@ -371,15 +298,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 62 60 76]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 62 60 76]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля занятых на политических, специальных и административных должностях в государственных учреждениях рассчитываются по отношению к численности государственных служащих в органах государственного управления]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of persons employed in political, special and administrative positions in the public institution is calculated compared to to the number of civil servants in public/administrative authorities.]]></com:Text>
           
@@ -387,17 +310,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственная статистическая отчетность по форме №1-ГОС (краткая) Отчет о численности работников, занятых в органах государственного управления на 1 января]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[State statistical reporting Form No. 1-GOS (brief) - Report on the number of officials in public/administrative authorities as of January 1.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
-Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
-Сбор данных осуществляется на ежегодной основе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
 Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
@@ -407,24 +324,17 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Для расчета этого показателя необходимы данные по численности государственных служащих по государственным органам по всем должностям. Также нужна разбивка численности госслужащих по занимаемым государственным должностям (политические, специальные и административные).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data on the number of civil servants in all positions by public bodies are required to calculate this indicator. Disaggregation of civil servants by position (political, special and administrative) is required.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по возрасту, стажу и инвалидности имеются в Государственной кадровой службе КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Disaggregated data by age, length of service and disability is available in the State Personnel Service of the Kyrgyz Republic.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
-Публикуются в статистическом сборнике "Женщины и мужчины Кыргызской Республики"]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
 Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com:Text>
@@ -435,7 +345,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="209364ba-f1f7-436f-a387-2a32ac9607fc">
+  <mes:MetadataSet structureRef="MDS1" setID="3a1c7ca7-fe65-4788-8378-32809161db6b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -462,15 +372,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 16. Содействие построению миролюбивого и открытого общества в интересах устойчивого развития, обеспечение доступа к правосудию для всех и создание эффективных, подотчетных и основанных на широком участии учреждений на всех уровнях ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[16.7 Обеспечить ответственное принятие решений репрезентативными органами на всех уровнях с участием всех слоев общества ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels]]></com:Text>
           
@@ -478,16 +384,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[16.7.1 Доля должностей (в разбивке по полу, возрасту, инвалидности и группе населения) в государственных учреждениях (национальных и местных законодательных собраниях, государственной службе и судебных органах) в сравнении с национальным распределением]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[16.7.1 Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики труда и занятости)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic
 (Labour and Employment Statistics Unit)]]></com:Text>
@@ -496,15 +397,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Джайлобаева Г.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[G.J. Jailobaeva]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
@@ -512,15 +409,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 62 60 76]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 62 60 76]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля занятых на политических, специальных и административных должностях в государственных учреждениях рассчитываются по отношению к численности государственных служащих в органах государственного управления]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of persons employed in political, special and administrative positions in the public institution is calculated compared to to the number of civil servants in public/administrative authorities.]]></com:Text>
           
@@ -528,17 +421,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственная статистическая отчетность по форме №1-ГОС (краткая) Отчет о численности работников, занятых в органах государственного управления на 1 января]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[State statistical reporting Form No. 1-GOS (brief) - Report on the number of officials in public/administrative authorities as of January 1.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
-Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
-Сбор данных осуществляется на ежегодной основе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
 Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
@@ -548,24 +435,17 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Для расчета этого показателя необходимы данные по численности государственных служащих по государственным органам по всем должностям. Также нужна разбивка численности госслужащих по занимаемым государственным должностям (политические, специальные и административные).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data on the number of civil servants in all positions by public bodies are required to calculate this indicator. Disaggregation of civil servants by position (political, special and administrative) is required.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по возрасту, стажу и инвалидности имеются в Государственной кадровой службе КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Disaggregated data by age, length of service and disability is available in the State Personnel Service of the Kyrgyz Republic.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
-Публикуются в статистическом сборнике "Женщины и мужчины Кыргызской Республики"]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
 Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com:Text>
@@ -576,7 +456,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e278c9d8-d1c7-4795-830b-3f658408456b">
+  <mes:MetadataSet structureRef="MDS1" setID="de7ec523-183f-4dec-9d1a-ea0f7f058145">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -603,15 +483,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 16. Содействие построению миролюбивого и открытого общества в интересах устойчивого развития, обеспечение доступа к правосудию для всех и создание эффективных, подотчетных и основанных на широком участии учреждений на всех уровнях ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[16.7 Обеспечить ответственное принятие решений репрезентативными органами на всех уровнях с участием всех слоев общества ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels]]></com:Text>
           
@@ -619,16 +495,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[16.7.1 Доля должностей (в разбивке по полу, возрасту, инвалидности и группе населения) в государственных учреждениях (национальных и местных законодательных собраниях, государственной службе и судебных органах) в сравнении с национальным распределением]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[16.7.1 Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики труда и занятости)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic
 (Labour and Employment Statistics Unit)]]></com:Text>
@@ -637,15 +508,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Джайлобаева Г.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[G.J. Jailobaeva]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
@@ -653,15 +520,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 62 60 76]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 62 60 76]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля занятых на политических, специальных и административных должностях в государственных учреждениях рассчитываются по отношению к численности государственных служащих в органах государственного управления]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of persons employed in political, special and administrative positions in the public institution is calculated compared to to the number of civil servants in public/administrative authorities.]]></com:Text>
           
@@ -669,17 +532,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственная статистическая отчетность по форме №1-ГОС (краткая) Отчет о численности работников, занятых в органах государственного управления на 1 января]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[State statistical reporting Form No. 1-GOS (brief) - Report on the number of officials in public/administrative authorities as of January 1.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
-Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
-Сбор данных осуществляется на ежегодной основе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
 Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
@@ -689,24 +546,17 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Для расчета этого показателя необходимы данные по численности государственных служащих по государственным органам по всем должностям. Также нужна разбивка численности госслужащих по занимаемым государственным должностям (политические, специальные и административные).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data on the number of civil servants in all positions by public bodies are required to calculate this indicator. Disaggregation of civil servants by position (political, special and administrative) is required.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по возрасту, стажу и инвалидности имеются в Государственной кадровой службе КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Disaggregated data by age, length of service and disability is available in the State Personnel Service of the Kyrgyz Republic.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
-Публикуются в статистическом сборнике "Женщины и мужчины Кыргызской Республики"]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
 Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com:Text>
@@ -717,7 +567,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0c90c624-2690-4f5f-b12a-b5f2cd525ed8">
+  <mes:MetadataSet structureRef="MDS1" setID="563110ec-4cd2-4ec0-b465-951295c0545a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -744,15 +594,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 16. Содействие построению миролюбивого и открытого общества в интересах устойчивого развития, обеспечение доступа к правосудию для всех и создание эффективных, подотчетных и основанных на широком участии учреждений на всех уровнях ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[16.7 Обеспечить ответственное принятие решений репрезентативными органами на всех уровнях с участием всех слоев общества ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels]]></com:Text>
           
@@ -760,16 +606,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[16.7.1 Доля должностей (в разбивке по полу, возрасту, инвалидности и группе населения) в государственных учреждениях (национальных и местных законодательных собраниях, государственной службе и судебных органах) в сравнении с национальным распределением]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[16.7.1 Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики труда и занятости)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic
 (Labour and Employment Statistics Unit)]]></com:Text>
@@ -778,15 +619,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Джайлобаева Г.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[G.J. Jailobaeva]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
@@ -794,15 +631,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 62 60 76]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 62 60 76]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля занятых на политических, специальных и административных должностях в государственных учреждениях рассчитываются по отношению к численности государственных служащих в органах государственного управления]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of persons employed in political, special and administrative positions in the public institution is calculated compared to to the number of civil servants in public/administrative authorities.]]></com:Text>
           
@@ -810,17 +643,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственная статистическая отчетность по форме №1-ГОС (краткая) Отчет о численности работников, занятых в органах государственного управления на 1 января]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[State statistical reporting Form No. 1-GOS (brief) - Report on the number of officials in public/administrative authorities as of January 1.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
-Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
-Сбор данных осуществляется на ежегодной основе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
 Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
@@ -830,24 +657,17 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Для расчета этого показателя необходимы данные по численности государственных служащих по государственным органам по всем должностям. Также нужна разбивка численности госслужащих по занимаемым государственным должностям (политические, специальные и административные).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data on the number of civil servants in all positions by public bodies are required to calculate this indicator. Disaggregation of civil servants by position (political, special and administrative) is required.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по возрасту, стажу и инвалидности имеются в Государственной кадровой службе КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Disaggregated data by age, length of service and disability is available in the State Personnel Service of the Kyrgyz Republic.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
-Публикуются в статистическом сборнике "Женщины и мужчины Кыргызской Республики"]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
 Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com:Text>
@@ -858,7 +678,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d7fcc2dd-724e-4be2-9881-27b2727da93d">
+  <mes:MetadataSet structureRef="MDS1" setID="ba8c5f49-b0e5-4eb7-a687-450e950df740">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -885,15 +705,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 16. Содействие построению миролюбивого и открытого общества в интересах устойчивого развития, обеспечение доступа к правосудию для всех и создание эффективных, подотчетных и основанных на широком участии учреждений на всех уровнях ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[16.7 Обеспечить ответственное принятие решений репрезентативными органами на всех уровнях с участием всех слоев общества ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels]]></com:Text>
           
@@ -901,16 +717,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[16.7.1 Доля должностей (в разбивке по полу, возрасту, инвалидности и группе населения) в государственных учреждениях (национальных и местных законодательных собраниях, государственной службе и судебных органах) в сравнении с национальным распределением]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[16.7.1 Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики труда и занятости)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic
 (Labour and Employment Statistics Unit)]]></com:Text>
@@ -919,15 +730,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Джайлобаева Г.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[G.J. Jailobaeva]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
@@ -935,15 +742,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 62 60 76]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 62 60 76]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля занятых на политических, специальных и административных должностях в государственных учреждениях рассчитываются по отношению к численности государственных служащих в органах государственного управления]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of persons employed in political, special and administrative positions in the public institution is calculated compared to to the number of civil servants in public/administrative authorities.]]></com:Text>
           
@@ -951,17 +754,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственная статистическая отчетность по форме №1-ГОС (краткая) Отчет о численности работников, занятых в органах государственного управления на 1 января]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[State statistical reporting Form No. 1-GOS (brief) - Report on the number of officials in public/administrative authorities as of January 1.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
-Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
-Сбор данных осуществляется на ежегодной основе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
 Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
@@ -971,24 +768,17 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Для расчета этого показателя необходимы данные по численности государственных служащих по государственным органам по всем должностям. Также нужна разбивка численности госслужащих по занимаемым государственным должностям (политические, специальные и административные).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data on the number of civil servants in all positions by public bodies are required to calculate this indicator. Disaggregation of civil servants by position (political, special and administrative) is required.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по возрасту, стажу и инвалидности имеются в Государственной кадровой службе КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Disaggregated data by age, length of service and disability is available in the State Personnel Service of the Kyrgyz Republic.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
-Публикуются в статистическом сборнике "Женщины и мужчины Кыргызской Республики"]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
 Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com:Text>
@@ -999,7 +789,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="91f24164-f2c4-4aab-9f2c-5a17947ec59b">
+  <mes:MetadataSet structureRef="MDS1" setID="074d24d1-6f92-47ff-9520-d676a8e74a3c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1026,15 +816,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 16. Содействие построению миролюбивого и открытого общества в интересах устойчивого развития, обеспечение доступа к правосудию для всех и создание эффективных, подотчетных и основанных на широком участии учреждений на всех уровнях ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[16.7 Обеспечить ответственное принятие решений репрезентативными органами на всех уровнях с участием всех слоев общества ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels]]></com:Text>
           
@@ -1042,16 +828,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[16.7.1 Доля должностей (в разбивке по полу, возрасту, инвалидности и группе населения) в государственных учреждениях (национальных и местных законодательных собраниях, государственной службе и судебных органах) в сравнении с национальным распределением]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[16.7.1 Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики труда и занятости)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic
 (Labour and Employment Statistics Unit)]]></com:Text>
@@ -1060,15 +841,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Джайлобаева Г.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[G.J. Jailobaeva]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
@@ -1076,15 +853,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 62 60 76]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 62 60 76]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля занятых на политических, специальных и административных должностях в государственных учреждениях рассчитываются по отношению к численности государственных служащих в органах государственного управления]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of persons employed in political, special and administrative positions in the public institution is calculated compared to to the number of civil servants in public/administrative authorities.]]></com:Text>
           
@@ -1092,17 +865,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственная статистическая отчетность по форме №1-ГОС (краткая) Отчет о численности работников, занятых в органах государственного управления на 1 января]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[State statistical reporting Form No. 1-GOS (brief) - Report on the number of officials in public/administrative authorities as of January 1.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
-Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
-Сбор данных осуществляется на ежегодной основе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
 Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
@@ -1112,24 +879,17 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Для расчета этого показателя необходимы данные по численности государственных служащих по государственным органам по всем должностям. Также нужна разбивка численности госслужащих по занимаемым государственным должностям (политические, специальные и административные).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data on the number of civil servants in all positions by public bodies are required to calculate this indicator. Disaggregation of civil servants by position (political, special and administrative) is required.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по возрасту, стажу и инвалидности имеются в Государственной кадровой службе КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Disaggregated data by age, length of service and disability is available in the State Personnel Service of the Kyrgyz Republic.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
-Публикуются в статистическом сборнике "Женщины и мужчины Кыргызской Республики"]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
 Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com:Text>
@@ -1140,7 +900,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7fa3601e-c943-46e0-bc06-4040fd1c1d7d">
+  <mes:MetadataSet structureRef="MDS1" setID="0c76d25d-bca7-497f-9c2e-3db7067241af">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1167,15 +927,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 16. Содействие построению миролюбивого и открытого общества в интересах устойчивого развития, обеспечение доступа к правосудию для всех и создание эффективных, подотчетных и основанных на широком участии учреждений на всех уровнях ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[16.7 Обеспечить ответственное принятие решений репрезентативными органами на всех уровнях с участием всех слоев общества ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels]]></com:Text>
           
@@ -1183,16 +939,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[16.7.1 Доля должностей (в разбивке по полу, возрасту, инвалидности и группе населения) в государственных учреждениях (национальных и местных законодательных собраниях, государственной службе и судебных органах) в сравнении с национальным распределением]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[16.7.1 Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики труда и занятости)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic
 (Labour and Employment Statistics Unit)]]></com:Text>
@@ -1201,15 +952,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Джайлобаева Г.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[G.J. Jailobaeva]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
@@ -1217,15 +964,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 62 60 76]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 62 60 76]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля занятых на политических, специальных и административных должностях в государственных учреждениях рассчитываются по отношению к численности государственных служащих в органах государственного управления]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of persons employed in political, special and administrative positions in the public institution is calculated compared to to the number of civil servants in public/administrative authorities.]]></com:Text>
           
@@ -1233,17 +976,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственная статистическая отчетность по форме №1-ГОС (краткая) Отчет о численности работников, занятых в органах государственного управления на 1 января]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[State statistical reporting Form No. 1-GOS (brief) - Report on the number of officials in public/administrative authorities as of January 1.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
-Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
-Сбор данных осуществляется на ежегодной основе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
 Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
@@ -1253,24 +990,17 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Для расчета этого показателя необходимы данные по численности государственных служащих по государственным органам по всем должностям. Также нужна разбивка численности госслужащих по занимаемым государственным должностям (политические, специальные и административные).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data on the number of civil servants in all positions by public bodies are required to calculate this indicator. Disaggregation of civil servants by position (political, special and administrative) is required.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по возрасту, стажу и инвалидности имеются в Государственной кадровой службе КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Disaggregated data by age, length of service and disability is available in the State Personnel Service of the Kyrgyz Republic.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
-Публикуются в статистическом сборнике "Женщины и мужчины Кыргызской Республики"]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
 Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com:Text>
@@ -1281,7 +1011,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1d296ca0-fb18-4dc8-9adf-f25c03430ae6">
+  <mes:MetadataSet structureRef="MDS1" setID="9d8135a9-a750-48a9-92a3-3651955ee740">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1308,15 +1038,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 16. Содействие построению миролюбивого и открытого общества в интересах устойчивого развития, обеспечение доступа к правосудию для всех и создание эффективных, подотчетных и основанных на широком участии учреждений на всех уровнях ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[16.7 Обеспечить ответственное принятие решений репрезентативными органами на всех уровнях с участием всех слоев общества ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels]]></com:Text>
           
@@ -1324,16 +1050,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[16.7.1 Доля должностей (в разбивке по полу, возрасту, инвалидности и группе населения) в государственных учреждениях (национальных и местных законодательных собраниях, государственной службе и судебных органах) в сравнении с национальным распределением]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[16.7.1 Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики труда и занятости)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic
 (Labour and Employment Statistics Unit)]]></com:Text>
@@ -1342,15 +1063,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Джайлобаева Г.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[G.J. Jailobaeva]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
@@ -1358,15 +1075,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 62 60 76]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 62 60 76]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля занятых на политических, специальных и административных должностях в государственных учреждениях рассчитываются по отношению к численности государственных служащих в органах государственного управления]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of persons employed in political, special and administrative positions in the public institution is calculated compared to to the number of civil servants in public/administrative authorities.]]></com:Text>
           
@@ -1374,17 +1087,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственная статистическая отчетность по форме №1-ГОС (краткая) Отчет о численности работников, занятых в органах государственного управления на 1 января]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[State statistical reporting Form No. 1-GOS (brief) - Report on the number of officials in public/administrative authorities as of January 1.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
-Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
-Сбор данных осуществляется на ежегодной основе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
 Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
@@ -1394,24 +1101,17 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Для расчета этого показателя необходимы данные по численности государственных служащих по государственным органам по всем должностям. Также нужна разбивка численности госслужащих по занимаемым государственным должностям (политические, специальные и административные).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data on the number of civil servants in all positions by public bodies are required to calculate this indicator. Disaggregation of civil servants by position (political, special and administrative) is required.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по возрасту, стажу и инвалидности имеются в Государственной кадровой службе КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Disaggregated data by age, length of service and disability is available in the State Personnel Service of the Kyrgyz Republic.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
-Публикуются в статистическом сборнике "Женщины и мужчины Кыргызской Республики"]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
 Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com:Text>
@@ -1422,7 +1122,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bb044e3e-0f9c-403f-9e4b-f70a91ffd906">
+  <mes:MetadataSet structureRef="MDS1" setID="995bc744-785c-4c51-8b04-93b6b97e3693">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1449,15 +1149,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 16. Содействие построению миролюбивого и открытого общества в интересах устойчивого развития, обеспечение доступа к правосудию для всех и создание эффективных, подотчетных и основанных на широком участии учреждений на всех уровнях ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[16.7 Обеспечить ответственное принятие решений репрезентативными органами на всех уровнях с участием всех слоев общества ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels]]></com:Text>
           
@@ -1465,16 +1161,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[16.7.1 Доля должностей (в разбивке по полу, возрасту, инвалидности и группе населения) в государственных учреждениях (национальных и местных законодательных собраниях, государственной службе и судебных органах) в сравнении с национальным распределением]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[16.7.1 Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики труда и занятости)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic
 (Labour and Employment Statistics Unit)]]></com:Text>
@@ -1483,15 +1174,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Джайлобаева Г.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[G.J. Jailobaeva]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
@@ -1499,15 +1186,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 62 60 76]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 62 60 76]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля занятых на политических, специальных и административных должностях в государственных учреждениях рассчитываются по отношению к численности государственных служащих в органах государственного управления]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of persons employed in political, special and administrative positions in the public institution is calculated compared to to the number of civil servants in public/administrative authorities.]]></com:Text>
           
@@ -1515,17 +1198,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственная статистическая отчетность по форме №1-ГОС (краткая) Отчет о численности работников, занятых в органах государственного управления на 1 января]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[State statistical reporting Form No. 1-GOS (brief) - Report on the number of officials in public/administrative authorities as of January 1.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
-Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
-Сбор данных осуществляется на ежегодной основе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
 Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
@@ -1535,24 +1212,17 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Для расчета этого показателя необходимы данные по численности государственных служащих по государственным органам по всем должностям. Также нужна разбивка численности госслужащих по занимаемым государственным должностям (политические, специальные и административные).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data on the number of civil servants in all positions by public bodies are required to calculate this indicator. Disaggregation of civil servants by position (political, special and administrative) is required.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по возрасту, стажу и инвалидности имеются в Государственной кадровой службе КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Disaggregated data by age, length of service and disability is available in the State Personnel Service of the Kyrgyz Republic.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
-Публикуются в статистическом сборнике "Женщины и мужчины Кыргызской Республики"]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
 Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com:Text>
@@ -1563,7 +1233,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="306a540c-386d-4fbf-a325-e6623959a60d">
+  <mes:MetadataSet structureRef="MDS1" setID="a35dc7e0-cc9b-4c4b-b667-498f5d98b8a9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1590,15 +1260,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 16. Содействие построению миролюбивого и открытого общества в интересах устойчивого развития, обеспечение доступа к правосудию для всех и создание эффективных, подотчетных и основанных на широком участии учреждений на всех уровнях ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[16.7 Обеспечить ответственное принятие решений репрезентативными органами на всех уровнях с участием всех слоев общества ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels]]></com:Text>
           
@@ -1606,16 +1272,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[16.7.1 Доля должностей (в разбивке по полу, возрасту, инвалидности и группе населения) в государственных учреждениях (национальных и местных законодательных собраниях, государственной службе и судебных органах) в сравнении с национальным распределением]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[16.7.1 Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики труда и занятости)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic
 (Labour and Employment Statistics Unit)]]></com:Text>
@@ -1624,15 +1285,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Джайлобаева Г.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[G.J. Jailobaeva]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
@@ -1640,15 +1297,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 62 60 76]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 62 60 76]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля занятых на политических, специальных и административных должностях в государственных учреждениях рассчитываются по отношению к численности государственных служащих в органах государственного управления]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of persons employed in political, special and administrative positions in the public institution is calculated compared to to the number of civil servants in public/administrative authorities.]]></com:Text>
           
@@ -1656,17 +1309,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственная статистическая отчетность по форме №1-ГОС (краткая) Отчет о численности работников, занятых в органах государственного управления на 1 января]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[State statistical reporting Form No. 1-GOS (brief) - Report on the number of officials in public/administrative authorities as of January 1.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
-Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
-Сбор данных осуществляется на ежегодной основе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
 Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
@@ -1676,24 +1323,17 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Для расчета этого показателя необходимы данные по численности государственных служащих по государственным органам по всем должностям. Также нужна разбивка численности госслужащих по занимаемым государственным должностям (политические, специальные и административные).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data on the number of civil servants in all positions by public bodies are required to calculate this indicator. Disaggregation of civil servants by position (political, special and administrative) is required.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по возрасту, стажу и инвалидности имеются в Государственной кадровой службе КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Disaggregated data by age, length of service and disability is available in the State Personnel Service of the Kyrgyz Republic.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
-Публикуются в статистическом сборнике "Женщины и мужчины Кыргызской Республики"]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
 Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com:Text>
@@ -1704,7 +1344,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4dc4f5a1-96af-4b3b-bff9-cfae0f6ecb1c">
+  <mes:MetadataSet structureRef="MDS1" setID="0ca1e031-ff9d-4e2a-bbbf-367df5b7481f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1731,15 +1371,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 16. Содействие построению миролюбивого и открытого общества в интересах устойчивого развития, обеспечение доступа к правосудию для всех и создание эффективных, подотчетных и основанных на широком участии учреждений на всех уровнях ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[16.7 Обеспечить ответственное принятие решений репрезентативными органами на всех уровнях с участием всех слоев общества ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels]]></com:Text>
           
@@ -1747,16 +1383,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[16.7.1 Доля должностей (в разбивке по полу, возрасту, инвалидности и группе населения) в государственных учреждениях (национальных и местных законодательных собраниях, государственной службе и судебных органах) в сравнении с национальным распределением]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[16.7.1 Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики труда и занятости)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic
 (Labour and Employment Statistics Unit)]]></com:Text>
@@ -1765,15 +1396,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Джайлобаева Г.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[G.J. Jailobaeva]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg ]]></com:Text>
           
@@ -1781,15 +1408,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 62 60 76]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 62 60 76]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля занятых на политических, специальных и административных должностях в государственных учреждениях рассчитываются по отношению к численности государственных служащих в органах государственного управления]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of persons employed in political, special and administrative positions in the public institution is calculated compared to to the number of civil servants in public/administrative authorities.]]></com:Text>
           
@@ -1797,17 +1420,11 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственная статистическая отчетность по форме №1-ГОС (краткая) Отчет о численности работников, занятых в органах государственного управления на 1 января]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[State statistical reporting Form No. 1-GOS (brief) - Report on the number of officials in public/administrative authorities as of January 1.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
-Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
-Сбор данных осуществляется на ежегодной основе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется по форме государственной статистической отчетности по № 1-ГОС (краткая). Форма представляется самостоятельными (обладающие правом юридического лица) учреждениями, организациями, зарегистрированные в ЕГРСЕ как органы государственного управления. 
 Органы государственного управления после отчетного года на бумажных носителях-территориальным органам статистики по месту нахождения или электронный формат - Нацстаткому Кыргызской Республики.
@@ -1817,24 +1434,17 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Для расчета этого показателя необходимы данные по численности государственных служащих по государственным органам по всем должностям. Также нужна разбивка численности госслужащих по занимаемым государственным должностям (политические, специальные и административные).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data on the number of civil servants in all positions by public bodies are required to calculate this indicator. Disaggregation of civil servants by position (political, special and administrative) is required.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по возрасту, стажу и инвалидности имеются в Государственной кадровой службе КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Disaggregated data by age, length of service and disability is available in the State Personnel Service of the Kyrgyz Republic.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
-Публикуются в статистическом сборнике "Женщины и мужчины Кыргызской Республики"]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
 Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com:Text>

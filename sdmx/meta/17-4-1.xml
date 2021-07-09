@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="781b80b2-5ba4-4fb2-899f-b1d846ddb59d">
+  <mes:MetadataSet structureRef="MDS1" setID="77016e88-76f8-4c5b-965d-614e442dd2e0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[17. Укрепление средств осуществления и активизация работы в рамках Глобального партнерства в интересах устойчивого развития]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[17. Strengthen the means of implementation and revitalize the global partnership for sustainable development]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[17.4 Оказывать развивающимся странам помощь в целях обеспечения долгосрочной приемлемости уровня их задолженности благодаря проведению скоординированной политики, направленной на поощрение, в зависимости от обстоятельств, финансирования за счет заемных средств, облегчения долгового бремени и реструктуризации задолженности, и решить проблему внешней задолженности бедных стран с крупной задолженностью, с тем чтобы облегчить их долговое бремя]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[17.4 Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing, debt relief and debt restructuring, as appropriate, and address the external debt of highly indebted poor countries to reduce debt distress ]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[17.4.1 Расходы на обслуживание долга в процентном отношении к экспорту товаров и услуг]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[17.4.1 Debt service as a proportion of exports of goods and services]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство финансов Кыргызской Республики (Управление государственного долга)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Finance of the Kyrgyz Republic (Government Debt Department)]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Татиков Р.С.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[R.S. Tatikov]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[ r.tatikov@minfin.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ r.tatikov@minfin.kg]]></com:Text>
           
@@ -87,24 +75,17 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[ +996-0312-62-53-13 (доб. 2010, 2023)]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ +996-0312-62-53-13 (add. 2010, 2023)]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="ru"><![CDATA[Расходы на обслуживание государственного долга (основная сумма + проценты) в качестве доли к экспорту товаров и услуг ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Debt service as a proportion of exports of goods and services is the percentage of debt services (principle and interest payments) to the exports of goods and services. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Показатель исчисляется в рамках анализа устойчивости государственного долга. Существуют рекомендуемые МВФ пороговые уровни устойчивости государственного долга для стран с низким уровнем дохода, где соотношение обслуживания внешнего долга к экспорту не должно превышать 15%.
-Данный показатель рассчитывается, как один из показателей при изучении уровня государственного долга и его устойчивости.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The indicator is calculated based on the public debt sustainability analysis. There are IMF recommended public debt sustainability thresholds for low-income countries, where the ratio of external debt service to exports should not exceed 15 per cent.
 The indicator is calculated as a ratio of the public debt level and its sustainability.]]></com:Text>
@@ -113,18 +94,12 @@ The indicator is calculated as a ratio of the public debt level and its sustaina
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные об объеме экспорта товаров и услуг доступны в Бюллетене НБКР.
-Расходы на обслуживание государственного долга - данные МФ КР.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data on goods and services exports are available in the National Bank of the Kyrgyz Republic (NBKR) Bulletin.
 Public debt management costs - data from the MF.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных по обслуживанию государственного долга производится по окончанию отчетного периода (года). 
-Данные об объеме экспорта товаров и услуг - из Бюллетеня НБКР.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных по обслуживанию государственного долга производится по окончанию отчетного периода (года). 
 Данные об объеме экспорта товаров и услуг - из Бюллетеня НБКР.]]></com:Text>
@@ -133,25 +108,17 @@ Public debt management costs - data from the MF.]]></com:Text>
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Процентное соотношение расходов на обслуживания государственного долга к объему экспорта товаров и услуг за отчетный период (год).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Процентное соотношение расходов на обслуживания государственного долга к объему экспорта товаров и услуг за отчетный период (год).]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данный показатель рассчитывается по истечению отчетного периода (на конец года) с 2005 года в годовой динамике.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[This Indicator is calculated in annual dynamics at the end of the reporting period (end of year) since 2005.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[ Бюллетень Национального банка Кыргызской Республики - https://www.nbkr.kg/index1.jsp?item=137&lang=RUS  
- Метаданные на сайте ООН - https://unstats.un.org/sdgs/Metadata-17-04-01.pdf
- Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ The National Bank of the Kyrgyz Republic Bulletin - https://www.nbkr.kg/index1.jsp?item=137&lang=RUS  
  Metadata at the UN website- https://unstats.un.org/sdgs/Metadata-17-04-01.pdf

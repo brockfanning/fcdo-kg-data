@@ -11,31 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "15 to 17 years old",
                 "17 to 20 years old",
-                "17 to 24 years old",
-                ""
+                "17 to 24 years old"
               ]
             },
             "title": "Age"
@@ -45,18 +28,35 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Secondary and post-secondary non-tertiary education (intermediate)",
                 "Short-cycle tertiary education",
-                "Tertiary education (Bachelor’s and Master's or equivalent)",
-                ""
+                "Tertiary education (Bachelor’s and Master's or equivalent)"
               ]
             },
             "title": "Education level"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

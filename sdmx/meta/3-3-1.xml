@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b01f62e4-5586-40be-9903-76e0050636dd">
+  <mes:MetadataSet structureRef="MDS1" setID="2189faba-da5d-4bce-946c-51d84a49c9eb">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[3: Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[3.3. К 2030 году положить конец эпидемиям СПИДа, туберкулеза, малярии и тропических болезней, которым не уделяется должного внимания, и обеспечить борьбу с гепатитом, заболеваниями, передаваемыми через воду, и другими инфекционными заболеваниями]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[3.3. By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[3.3.1 Число новых заражений ВИЧ на 1000 неинфицированных в разбивке по полу, возрасту и принадлежности к основным группам населения]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел социальной статистики)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
@@ -87,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[+996 (0312) 32 46 52]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Число новых заражений ВИЧ на 1000 неинфицированных относится к основным группам населения и определяется как число новых случаев заражений ВИЧ на 1000 человек неинфицированного населения. Число больных с впервые установленным диагнозом – это впервые зарегистрированные в отчетном году случаи заболеваний.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The number of new HIV infections per 1,000 uninfected key populations defined as the number of new HIV infections per 1000 uninfected population. The number of cases diagnosed for the first time is cases recorded in the reporting year. ]]></com:Text>
           
@@ -103,15 +87,11 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Уровень заболеваемости является мерой прогресса в предотвращении дальнейшей передачи ВИЧ.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The incidence rate provides a measure of progress toward preventing onward transmission of HIV.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Минздрав КР предоставляет сводный отчет в разрезе областей по форме государственной статистической отчетности №4А "О ВИЧ - инфекционных и больных СПИДом".]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Ministry of Health of the Kyrgyz Republic provides a consolidated report, with data broken down by region, in the State statistical reporting form 4A "On HIV – Communicable diseases and AIDS patients".]]></com:Text>
           
@@ -119,18 +99,11 @@
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных осуществляют областные и Республиканский центры “СПИД” с годовой периодичностью. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляют областные и Республиканский центры “СПИД” с годовой периодичностью. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Заболеваемость ВИЧ- инфекцией, распространённость болезни среди населения впервые выявленных в отчетном году, рассчитывается по формуле: 
-y = n / N * 1000  , где 
-n - Количество всех новых случаев ВИЧ,
-N – Среднегодовая численность постоянного населения страны минус количество ВИЧ-инфицированных лиц.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[HIV incidence among newly diagnosed population in reporting year is calculated by formula:
  y=n/N*1000, where 
@@ -141,8 +114,6 @@ N – Annual average country’s population minus the number of HIV-infected per
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Динамические данные по отдельным лицам являются лучшим источником данных, но редко доступны для больших групп населения. Специальные диагностические тесты в исследованиях или в медицинских учреждениях могут использоваться для получения данных о распространённости ВИЧ. Таким образом, показатель заболеваемости ВИЧ моделируется с использованием программного обеспечения Spectrum.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Longitudinal data on individuals are the best source of data but are rarely available for large populations. Special diagnostic tests in surveys or from health facilities can be used to obtain data on HIV incidence.
 HIV incidence is thus modeled using the Spectrum software.]]></com:Text>
           
@@ -150,23 +121,17 @@ HIV incidence is thus modeled using the Spectrum software.]]></com:Text>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные доступны с 2007 года.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data have been available since 2007 onwards.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Международная классификация болезней и причин смерти позволяет исследовать заболевания по единым принципам и получать сопоставимые итоги.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The International Classification of Diseases and Causes of Death allows studying diseases according to common principles and obtaining comparable results.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           

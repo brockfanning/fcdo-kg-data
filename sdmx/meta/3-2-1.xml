@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="886d299c-ff4c-4715-8ea4-fb90eb2afc93">
+  <mes:MetadataSet structureRef="MDS1" setID="e4f7b6e8-08b9-48de-a25c-2d8d6f001cf1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[3: Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[3.2: К 2030 году положить конец предотвратимой смертности новорожденных и детей в возрасте до пяти лет, при этом все страны должны стремиться снизить уменьшить неонатальную смертность до не более 12 случаев на 1000 живорождений, а смертность детей в возрасте до пяти лет до не более 25 на 1000 живорождений.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[3.2: By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[3.2.1: Коэффициент детской смертности на 1000 живорождений (в возрасте до 5 лет)]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3.2.1: Under-five mortality rate per 1,000 live births]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел демографической статистики)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Demographic Statistics Division)]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Мааткулова Ж.Б.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Maatkulova J.B.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Jmaatkulova@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Jmaatkulova@stat.kg ]]></com:Text>
           
@@ -87,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Показатель, определяющий уровень смертности детей в возрасте до пяти лет, который показывает вероятность того, что ребенок, родившийся в определенный год, умрет до достижения пятилетнего возраст. ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Under-five mortality is the probability of a child born in a specific year or period dying before reaching the age of 5 years.]]></com:Text>
           
@@ -103,15 +87,11 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Анализ показателя позволяет оценить уровень эффективности государственной политики в области охраны материнства и детства в республике. Показатели смертности среди детей младшего возраста являются результирующим показателем здоровья и благополучия детей и, в более широком смысле, социально-экономического развития. Показатель отражает состояние общественного здравоохранения, так как он характеризует доступ детей и сообщества к основным медико-санитарным вмешательствам, таким как вакцинация, лечение инфекционных заболеваний и адекватное питание.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Analysis of indicator allows assessing maternal and child protection State policy effectiveness in the country. Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. The indicator assesses the state of public health, because it reflects the access of children and communities to basic health interventions such as vaccination, medical treatment of infectious diseases and adequate nutrition.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Источником информации о смертности детей в возрасте до пяти лет являются записи в медицинских свидетельствах о смерти, составляемые врачом или средним медицинским персоналом относительно заболевания, несчастного случая, убийства, самоубийства и другого внешнего воздействия, послуживших причиной смерти. Эти документы вместе с Записями актов гражданского состояния о смерти, составляемыми в органах ЗАГС (находятся в подчинении Государственной регистрационной службы при Правительстве КР), направляются для разработки в территориальные органы статистики по месту нахождения.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data source for under-five mortality are medical death certificates drawn up by doctors or medical officers concerning illness, accident, homicide, suicide and other external causes of death. These documents, together with the civil registration of deaths drawn up by civil registration offices (which are subordinate to the State Registration Service), are sent to the local statistical offices for processing.]]></com:Text>
           
@@ -119,15 +99,11 @@
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных проводится на основании представленных записей актов гражданского состояния о смерти и приложенных медицинских свидетельств о смерти и перинатальной смерти, представляемых ГРС при ПКР на регулярной основе. Первичная обработка и свод данных о числе умерших детей осуществляется на уровне областных органов государственной статистики. Свод данных по республике осуществляется НСК. Период между сбором данных и их представлением составляет 38 дней.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Сбор данных проводится на основании представленных записей актов гражданского состояния о смерти и приложенных медицинских свидетельств о смерти и перинатальной смерти, представляемых ГРС при ПКР на регулярной основе. Первичная обработка и свод данных о числе умерших детей осуществляется на уровне областных органов государственной статистики. Свод данных по республике осуществляется НСК. Период между сбором данных и их представлением составляет 38 дней.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Коэффициент детской смертности - показатель, определяющий уровень смертности детей в возрасте до пяти лет (0-4 года). Рассчитывается как отношение числа умерших в возрасте до пяти лет к числу родившихся живыми, умноженное на 1000. Коэффициент выражается в промилле. ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Under-five mortality - indicator determining mortality rate of children under five years of age (0-4 years). Calculated as the ratio of deaths under five years of age to live births, multiplied by 1,000. The coefficient is expressed in per mille.]]></com:Text>
           
@@ -135,15 +111,11 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[По оценке экспертов, охват системы регистрации актов гражданского состояния считается удовлетворительным, но нуждается в совершенствовании, т.к. основан на использовании бумажных носителей. С декабря 2014г. начала функционировать автоматизированная электронная истема АИС "ЗАГС", как один из компонентов информационных систем ГРС. Однако, в органы статистики данные поступают на бумажных носителях и затем вводятся в специальное программное обеспечение сотрудниками статорганов, что иногда приводит к ошибкам, пропускам данных. В ближайшей перспективе (до конца 2020г.) одним из источников статистических данных о населении станет база данных по естественному и миграционному движению населения, создаваемая на основе данных ГРС.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[This indicator reflects maternal mortality risks in relation to the number of children born alive and essentially records the risk of death from pregnancy or live birth. According to experts, coverage of civil registration system is considered satisfactory though needs to be improved due to being paper-based. Since December 2014 an automated electronic system AIS "Registration Office"(ZAGS) has been in operation as a component of SRS information systems. However, upon receipt by statistical authorities paper-based data then entered into special software by statistical agencies employees, which sometimes leads to errors and omissions. Soon (until the end of 2020th) a database on natural and migratory population movements being derived from the SRS data will become one of population statistics sources.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных. Процедура проверки правильности данных в актовых записях осуществляется путем логического контроля, заложенного в программном обеспечении по вводу и разработке данных.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. Data control in data records is carried out by logical control procedure embedded in the data input and processing software.]]></com:Text>
           
@@ -151,25 +123,17 @@
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные распространяются в статистических публикациях НСК: «Демографический ежегодник КР», «Социальные тенденции КР», «Женщины и мужчины КР», «Здоровье населения и здравоохранение в КР», на официальном сайте НСК КР: http://www.stat.kg/ru/publications/. Имеются динамические ряды с 1990 года.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data are distributed via the National Statistical Committee publications: «Demographic yearbook of the Kyrgyz Republic», «Social trends of the Kyrgyz Republic», «Women and men of the Kyrgyz Republic», «Health of population and healthcare in the Kyrgyz Republic», available on the official website of NSC KR: http://www.stat.kg/ru/publications/ Time series have been available since 1990.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Национальное определение показателя, используемое в статистике, соответствует его международному определению. С 2004 года КР осуществлен переход на международные критерии живорождения и, соответственно, младенческой и детской смертности, рекомендованные Всемирной организацией здравоохранения (ВОЗ).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[International definition of the indicator is used for national statistics. Since 2004, the Kyrgyz Republic has adopted the international criteria recommended by the World Health Organization (WHO) for live births and infant and child mortality. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Ссылки на НПА и методологию: http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. Статистические публикации НСК: ежемесячный доклад «Социально-экономическое положение КР», статистические сборники «Демографический ежегодник КР», «Социальные тенденции КР», «Женщины и мужчины КР», "Уровень жизни населения КР", «Здоровье населения и здравоохранение в КР» на официальном сайте НСК КР: http://www.stat.kg/ru/publications/
-
-Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[References to RLA and methodology: 
 http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. 
@@ -183,7 +147,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="71df6c12-620d-477f-a8a7-d9b874a14c8c">
+  <mes:MetadataSet structureRef="MDS1" setID="2402a65e-1064-49e4-9201-871c0ccbe730">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -210,15 +174,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[3: Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[3.2: К 2030 году положить конец предотвратимой смертности новорожденных и детей в возрасте до пяти лет, при этом все страны должны стремиться снизить уменьшить неонатальную смертность до не более 12 случаев на 1000 живорождений, а смертность детей в возрасте до пяти лет до не более 25 на 1000 живорождений.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[3.2: By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births]]></com:Text>
           
@@ -226,15 +186,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[3.2.1: Коэффициент детской смертности на 1000 живорождений (в возрасте до 5 лет)]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3.2.1: Under-five mortality rate per 1,000 live births]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел демографической статистики)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Demographic Statistics Division)]]></com:Text>
           
@@ -242,15 +198,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Мааткулова Ж.Б.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Maatkulova J.B.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Jmaatkulova@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Jmaatkulova@stat.kg ]]></com:Text>
           
@@ -258,15 +210,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Показатель, определяющий уровень смертности детей в возрасте до пяти лет, который показывает вероятность того, что ребенок, родившийся в определенный год, умрет до достижения пятилетнего возраст. ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Under-five mortality is the probability of a child born in a specific year or period dying before reaching the age of 5 years.]]></com:Text>
           
@@ -274,15 +222,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Анализ показателя позволяет оценить уровень эффективности государственной политики в области охраны материнства и детства в республике. Показатели смертности среди детей младшего возраста являются результирующим показателем здоровья и благополучия детей и, в более широком смысле, социально-экономического развития. Показатель отражает состояние общественного здравоохранения, так как он характеризует доступ детей и сообщества к основным медико-санитарным вмешательствам, таким как вакцинация, лечение инфекционных заболеваний и адекватное питание.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Analysis of indicator allows assessing maternal and child protection State policy effectiveness in the country. Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. The indicator assesses the state of public health, because it reflects the access of children and communities to basic health interventions such as vaccination, medical treatment of infectious diseases and adequate nutrition.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Источником информации о смертности детей в возрасте до пяти лет являются записи в медицинских свидетельствах о смерти, составляемые врачом или средним медицинским персоналом относительно заболевания, несчастного случая, убийства, самоубийства и другого внешнего воздействия, послуживших причиной смерти. Эти документы вместе с Записями актов гражданского состояния о смерти, составляемыми в органах ЗАГС (находятся в подчинении Государственной регистрационной службы при Правительстве КР), направляются для разработки в территориальные органы статистики по месту нахождения.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data source for under-five mortality are medical death certificates drawn up by doctors or medical officers concerning illness, accident, homicide, suicide and other external causes of death. These documents, together with the civil registration of deaths drawn up by civil registration offices (which are subordinate to the State Registration Service), are sent to the local statistical offices for processing.]]></com:Text>
           
@@ -290,15 +234,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных проводится на основании представленных записей актов гражданского состояния о смерти и приложенных медицинских свидетельств о смерти и перинатальной смерти, представляемых ГРС при ПКР на регулярной основе. Первичная обработка и свод данных о числе умерших детей осуществляется на уровне областных органов государственной статистики. Свод данных по республике осуществляется НСК. Период между сбором данных и их представлением составляет 38 дней.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Сбор данных проводится на основании представленных записей актов гражданского состояния о смерти и приложенных медицинских свидетельств о смерти и перинатальной смерти, представляемых ГРС при ПКР на регулярной основе. Первичная обработка и свод данных о числе умерших детей осуществляется на уровне областных органов государственной статистики. Свод данных по республике осуществляется НСК. Период между сбором данных и их представлением составляет 38 дней.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Коэффициент детской смертности - показатель, определяющий уровень смертности детей в возрасте до пяти лет (0-4 года). Рассчитывается как отношение числа умерших в возрасте до пяти лет к числу родившихся живыми, умноженное на 1000. Коэффициент выражается в промилле. ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Under-five mortality - indicator determining mortality rate of children under five years of age (0-4 years). Calculated as the ratio of deaths under five years of age to live births, multiplied by 1,000. The coefficient is expressed in per mille.]]></com:Text>
           
@@ -306,15 +246,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[По оценке экспертов, охват системы регистрации актов гражданского состояния считается удовлетворительным, но нуждается в совершенствовании, т.к. основан на использовании бумажных носителей. С декабря 2014г. начала функционировать автоматизированная электронная истема АИС "ЗАГС", как один из компонентов информационных систем ГРС. Однако, в органы статистики данные поступают на бумажных носителях и затем вводятся в специальное программное обеспечение сотрудниками статорганов, что иногда приводит к ошибкам, пропускам данных. В ближайшей перспективе (до конца 2020г.) одним из источников статистических данных о населении станет база данных по естественному и миграционному движению населения, создаваемая на основе данных ГРС.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[This indicator reflects maternal mortality risks in relation to the number of children born alive and essentially records the risk of death from pregnancy or live birth. According to experts, coverage of civil registration system is considered satisfactory though needs to be improved due to being paper-based. Since December 2014 an automated electronic system AIS "Registration Office"(ZAGS) has been in operation as a component of SRS information systems. However, upon receipt by statistical authorities paper-based data then entered into special software by statistical agencies employees, which sometimes leads to errors and omissions. Soon (until the end of 2020th) a database on natural and migratory population movements being derived from the SRS data will become one of population statistics sources.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных. Процедура проверки правильности данных в актовых записях осуществляется путем логического контроля, заложенного в программном обеспечении по вводу и разработке данных.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. Data control in data records is carried out by logical control procedure embedded in the data input and processing software.]]></com:Text>
           
@@ -322,25 +258,17 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные распространяются в статистических публикациях НСК: «Демографический ежегодник КР», «Социальные тенденции КР», «Женщины и мужчины КР», «Здоровье населения и здравоохранение в КР», на официальном сайте НСК КР: http://www.stat.kg/ru/publications/. Имеются динамические ряды с 1990 года.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data are distributed via the National Statistical Committee publications: «Demographic yearbook of the Kyrgyz Republic», «Social trends of the Kyrgyz Republic», «Women and men of the Kyrgyz Republic», «Health of population and healthcare in the Kyrgyz Republic», available on the official website of NSC KR: http://www.stat.kg/ru/publications/ Time series have been available since 1990.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Национальное определение показателя, используемое в статистике, соответствует его международному определению. С 2004 года КР осуществлен переход на международные критерии живорождения и, соответственно, младенческой и детской смертности, рекомендованные Всемирной организацией здравоохранения (ВОЗ).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[International definition of the indicator is used for national statistics. Since 2004, the Kyrgyz Republic has adopted the international criteria recommended by the World Health Organization (WHO) for live births and infant and child mortality. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Ссылки на НПА и методологию: http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. Статистические публикации НСК: ежемесячный доклад «Социально-экономическое положение КР», статистические сборники «Демографический ежегодник КР», «Социальные тенденции КР», «Женщины и мужчины КР», "Уровень жизни населения КР", «Здоровье населения и здравоохранение в КР» на официальном сайте НСК КР: http://www.stat.kg/ru/publications/
-
-Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[References to RLA and methodology: 
 http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. 
@@ -354,7 +282,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1c16a24f-0184-4b26-8619-eb60871a41d3">
+  <mes:MetadataSet structureRef="MDS1" setID="52561af5-ceac-44f5-83df-349212fc8cce">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -381,15 +309,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[3: Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[3.2: К 2030 году положить конец предотвратимой смертности новорожденных и детей в возрасте до пяти лет, при этом все страны должны стремиться снизить уменьшить неонатальную смертность до не более 12 случаев на 1000 живорождений, а смертность детей в возрасте до пяти лет до не более 25 на 1000 живорождений.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[3.2: By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births]]></com:Text>
           
@@ -397,15 +321,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[3.2.1: Коэффициент детской смертности на 1000 живорождений (в возрасте до 5 лет)]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3.2.1: Under-five mortality rate per 1,000 live births]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел демографической статистики)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Demographic Statistics Division)]]></com:Text>
           
@@ -413,15 +333,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Мааткулова Ж.Б.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Maatkulova J.B.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Jmaatkulova@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Jmaatkulova@stat.kg ]]></com:Text>
           
@@ -429,15 +345,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Показатель, определяющий уровень смертности детей в возрасте до пяти лет, который показывает вероятность того, что ребенок, родившийся в определенный год, умрет до достижения пятилетнего возраст. ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Under-five mortality is the probability of a child born in a specific year or period dying before reaching the age of 5 years.]]></com:Text>
           
@@ -445,15 +357,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Анализ показателя позволяет оценить уровень эффективности государственной политики в области охраны материнства и детства в республике. Показатели смертности среди детей младшего возраста являются результирующим показателем здоровья и благополучия детей и, в более широком смысле, социально-экономического развития. Показатель отражает состояние общественного здравоохранения, так как он характеризует доступ детей и сообщества к основным медико-санитарным вмешательствам, таким как вакцинация, лечение инфекционных заболеваний и адекватное питание.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Analysis of indicator allows assessing maternal and child protection State policy effectiveness in the country. Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. The indicator assesses the state of public health, because it reflects the access of children and communities to basic health interventions such as vaccination, medical treatment of infectious diseases and adequate nutrition.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Источником информации о смертности детей в возрасте до пяти лет являются записи в медицинских свидетельствах о смерти, составляемые врачом или средним медицинским персоналом относительно заболевания, несчастного случая, убийства, самоубийства и другого внешнего воздействия, послуживших причиной смерти. Эти документы вместе с Записями актов гражданского состояния о смерти, составляемыми в органах ЗАГС (находятся в подчинении Государственной регистрационной службы при Правительстве КР), направляются для разработки в территориальные органы статистики по месту нахождения.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data source for under-five mortality are medical death certificates drawn up by doctors or medical officers concerning illness, accident, homicide, suicide and other external causes of death. These documents, together with the civil registration of deaths drawn up by civil registration offices (which are subordinate to the State Registration Service), are sent to the local statistical offices for processing.]]></com:Text>
           
@@ -461,15 +369,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных проводится на основании представленных записей актов гражданского состояния о смерти и приложенных медицинских свидетельств о смерти и перинатальной смерти, представляемых ГРС при ПКР на регулярной основе. Первичная обработка и свод данных о числе умерших детей осуществляется на уровне областных органов государственной статистики. Свод данных по республике осуществляется НСК. Период между сбором данных и их представлением составляет 38 дней.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Сбор данных проводится на основании представленных записей актов гражданского состояния о смерти и приложенных медицинских свидетельств о смерти и перинатальной смерти, представляемых ГРС при ПКР на регулярной основе. Первичная обработка и свод данных о числе умерших детей осуществляется на уровне областных органов государственной статистики. Свод данных по республике осуществляется НСК. Период между сбором данных и их представлением составляет 38 дней.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Коэффициент детской смертности - показатель, определяющий уровень смертности детей в возрасте до пяти лет (0-4 года). Рассчитывается как отношение числа умерших в возрасте до пяти лет к числу родившихся живыми, умноженное на 1000. Коэффициент выражается в промилле. ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Under-five mortality - indicator determining mortality rate of children under five years of age (0-4 years). Calculated as the ratio of deaths under five years of age to live births, multiplied by 1,000. The coefficient is expressed in per mille.]]></com:Text>
           
@@ -477,15 +381,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[По оценке экспертов, охват системы регистрации актов гражданского состояния считается удовлетворительным, но нуждается в совершенствовании, т.к. основан на использовании бумажных носителей. С декабря 2014г. начала функционировать автоматизированная электронная истема АИС "ЗАГС", как один из компонентов информационных систем ГРС. Однако, в органы статистики данные поступают на бумажных носителях и затем вводятся в специальное программное обеспечение сотрудниками статорганов, что иногда приводит к ошибкам, пропускам данных. В ближайшей перспективе (до конца 2020г.) одним из источников статистических данных о населении станет база данных по естественному и миграционному движению населения, создаваемая на основе данных ГРС.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[This indicator reflects maternal mortality risks in relation to the number of children born alive and essentially records the risk of death from pregnancy or live birth. According to experts, coverage of civil registration system is considered satisfactory though needs to be improved due to being paper-based. Since December 2014 an automated electronic system AIS "Registration Office"(ZAGS) has been in operation as a component of SRS information systems. However, upon receipt by statistical authorities paper-based data then entered into special software by statistical agencies employees, which sometimes leads to errors and omissions. Soon (until the end of 2020th) a database on natural and migratory population movements being derived from the SRS data will become one of population statistics sources.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных. Процедура проверки правильности данных в актовых записях осуществляется путем логического контроля, заложенного в программном обеспечении по вводу и разработке данных.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. Data control in data records is carried out by logical control procedure embedded in the data input and processing software.]]></com:Text>
           
@@ -493,25 +393,17 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные распространяются в статистических публикациях НСК: «Демографический ежегодник КР», «Социальные тенденции КР», «Женщины и мужчины КР», «Здоровье населения и здравоохранение в КР», на официальном сайте НСК КР: http://www.stat.kg/ru/publications/. Имеются динамические ряды с 1990 года.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data are distributed via the National Statistical Committee publications: «Demographic yearbook of the Kyrgyz Republic», «Social trends of the Kyrgyz Republic», «Women and men of the Kyrgyz Republic», «Health of population and healthcare in the Kyrgyz Republic», available on the official website of NSC KR: http://www.stat.kg/ru/publications/ Time series have been available since 1990.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Национальное определение показателя, используемое в статистике, соответствует его международному определению. С 2004 года КР осуществлен переход на международные критерии живорождения и, соответственно, младенческой и детской смертности, рекомендованные Всемирной организацией здравоохранения (ВОЗ).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[International definition of the indicator is used for national statistics. Since 2004, the Kyrgyz Republic has adopted the international criteria recommended by the World Health Organization (WHO) for live births and infant and child mortality. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Ссылки на НПА и методологию: http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. Статистические публикации НСК: ежемесячный доклад «Социально-экономическое положение КР», статистические сборники «Демографический ежегодник КР», «Социальные тенденции КР», «Женщины и мужчины КР», "Уровень жизни населения КР", «Здоровье населения и здравоохранение в КР» на официальном сайте НСК КР: http://www.stat.kg/ru/publications/
-
-Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[References to RLA and methodology: 
 http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. 
@@ -525,7 +417,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8bfbb0bf-2561-4305-af13-d245fc63d6da">
+  <mes:MetadataSet structureRef="MDS1" setID="88b23c92-8540-46cd-917c-9a91d8b0c593">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -552,15 +444,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[3: Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[3.2: К 2030 году положить конец предотвратимой смертности новорожденных и детей в возрасте до пяти лет, при этом все страны должны стремиться снизить уменьшить неонатальную смертность до не более 12 случаев на 1000 живорождений, а смертность детей в возрасте до пяти лет до не более 25 на 1000 живорождений.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[3.2: By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births]]></com:Text>
           
@@ -568,15 +456,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[3.2.1: Коэффициент детской смертности на 1000 живорождений (в возрасте до 5 лет)]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3.2.1: Under-five mortality rate per 1,000 live births]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел демографической статистики)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Demographic Statistics Division)]]></com:Text>
           
@@ -584,15 +468,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Мааткулова Ж.Б.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Maatkulova J.B.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Jmaatkulova@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Jmaatkulova@stat.kg ]]></com:Text>
           
@@ -600,15 +480,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Показатель, определяющий уровень смертности детей в возрасте до пяти лет, который показывает вероятность того, что ребенок, родившийся в определенный год, умрет до достижения пятилетнего возраст. ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Under-five mortality is the probability of a child born in a specific year or period dying before reaching the age of 5 years.]]></com:Text>
           
@@ -616,15 +492,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Анализ показателя позволяет оценить уровень эффективности государственной политики в области охраны материнства и детства в республике. Показатели смертности среди детей младшего возраста являются результирующим показателем здоровья и благополучия детей и, в более широком смысле, социально-экономического развития. Показатель отражает состояние общественного здравоохранения, так как он характеризует доступ детей и сообщества к основным медико-санитарным вмешательствам, таким как вакцинация, лечение инфекционных заболеваний и адекватное питание.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Analysis of indicator allows assessing maternal and child protection State policy effectiveness in the country. Mortality rates among young children are a key output indicator for child health and well-being, and, more broadly, for social and economic development. The indicator assesses the state of public health, because it reflects the access of children and communities to basic health interventions such as vaccination, medical treatment of infectious diseases and adequate nutrition.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Источником информации о смертности детей в возрасте до пяти лет являются записи в медицинских свидетельствах о смерти, составляемые врачом или средним медицинским персоналом относительно заболевания, несчастного случая, убийства, самоубийства и другого внешнего воздействия, послуживших причиной смерти. Эти документы вместе с Записями актов гражданского состояния о смерти, составляемыми в органах ЗАГС (находятся в подчинении Государственной регистрационной службы при Правительстве КР), направляются для разработки в территориальные органы статистики по месту нахождения.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data source for under-five mortality are medical death certificates drawn up by doctors or medical officers concerning illness, accident, homicide, suicide and other external causes of death. These documents, together with the civil registration of deaths drawn up by civil registration offices (which are subordinate to the State Registration Service), are sent to the local statistical offices for processing.]]></com:Text>
           
@@ -632,15 +504,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных проводится на основании представленных записей актов гражданского состояния о смерти и приложенных медицинских свидетельств о смерти и перинатальной смерти, представляемых ГРС при ПКР на регулярной основе. Первичная обработка и свод данных о числе умерших детей осуществляется на уровне областных органов государственной статистики. Свод данных по республике осуществляется НСК. Период между сбором данных и их представлением составляет 38 дней.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Сбор данных проводится на основании представленных записей актов гражданского состояния о смерти и приложенных медицинских свидетельств о смерти и перинатальной смерти, представляемых ГРС при ПКР на регулярной основе. Первичная обработка и свод данных о числе умерших детей осуществляется на уровне областных органов государственной статистики. Свод данных по республике осуществляется НСК. Период между сбором данных и их представлением составляет 38 дней.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Коэффициент детской смертности - показатель, определяющий уровень смертности детей в возрасте до пяти лет (0-4 года). Рассчитывается как отношение числа умерших в возрасте до пяти лет к числу родившихся живыми, умноженное на 1000. Коэффициент выражается в промилле. ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Under-five mortality - indicator determining mortality rate of children under five years of age (0-4 years). Calculated as the ratio of deaths under five years of age to live births, multiplied by 1,000. The coefficient is expressed in per mille.]]></com:Text>
           
@@ -648,15 +516,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[По оценке экспертов, охват системы регистрации актов гражданского состояния считается удовлетворительным, но нуждается в совершенствовании, т.к. основан на использовании бумажных носителей. С декабря 2014г. начала функционировать автоматизированная электронная истема АИС "ЗАГС", как один из компонентов информационных систем ГРС. Однако, в органы статистики данные поступают на бумажных носителях и затем вводятся в специальное программное обеспечение сотрудниками статорганов, что иногда приводит к ошибкам, пропускам данных. В ближайшей перспективе (до конца 2020г.) одним из источников статистических данных о населении станет база данных по естественному и миграционному движению населения, создаваемая на основе данных ГРС.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[This indicator reflects maternal mortality risks in relation to the number of children born alive and essentially records the risk of death from pregnancy or live birth. According to experts, coverage of civil registration system is considered satisfactory though needs to be improved due to being paper-based. Since December 2014 an automated electronic system AIS "Registration Office"(ZAGS) has been in operation as a component of SRS information systems. However, upon receipt by statistical authorities paper-based data then entered into special software by statistical agencies employees, which sometimes leads to errors and omissions. Soon (until the end of 2020th) a database on natural and migratory population movements being derived from the SRS data will become one of population statistics sources.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных. Процедура проверки правильности данных в актовых записях осуществляется путем логического контроля, заложенного в программном обеспечении по вводу и разработке данных.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. Data control in data records is carried out by logical control procedure embedded in the data input and processing software.]]></com:Text>
           
@@ -664,25 +528,17 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные распространяются в статистических публикациях НСК: «Демографический ежегодник КР», «Социальные тенденции КР», «Женщины и мужчины КР», «Здоровье населения и здравоохранение в КР», на официальном сайте НСК КР: http://www.stat.kg/ru/publications/. Имеются динамические ряды с 1990 года.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data are distributed via the National Statistical Committee publications: «Demographic yearbook of the Kyrgyz Republic», «Social trends of the Kyrgyz Republic», «Women and men of the Kyrgyz Republic», «Health of population and healthcare in the Kyrgyz Republic», available on the official website of NSC KR: http://www.stat.kg/ru/publications/ Time series have been available since 1990.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Национальное определение показателя, используемое в статистике, соответствует его международному определению. С 2004 года КР осуществлен переход на международные критерии живорождения и, соответственно, младенческой и детской смертности, рекомендованные Всемирной организацией здравоохранения (ВОЗ).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[International definition of the indicator is used for national statistics. Since 2004, the Kyrgyz Republic has adopted the international criteria recommended by the World Health Organization (WHO) for live births and infant and child mortality. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Ссылки на НПА и методологию: http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. Статистические публикации НСК: ежемесячный доклад «Социально-экономическое положение КР», статистические сборники «Демографический ежегодник КР», «Социальные тенденции КР», «Женщины и мужчины КР», "Уровень жизни населения КР", «Здоровье населения и здравоохранение в КР» на официальном сайте НСК КР: http://www.stat.kg/ru/publications/
-
-Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[References to RLA and methodology: 
 http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. 

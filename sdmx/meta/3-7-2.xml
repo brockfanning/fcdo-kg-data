@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d142f22e-268b-4014-a3f4-6095bafe95e5">
+  <mes:MetadataSet structureRef="MDS1" setID="9002de51-8cee-412a-b599-61846dabca44">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[3: Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[3.7: К 2030 году обеспечить всеобщий доступ к услугам по охране сексуального и репродуктивного здоровья, включая услуги по планированию семьи, информирование и просвещение, и учет вопросов охраны репродуктивного здоровья в национальных стратегиях и программах]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[3.7: By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[3.7.2: Рождаемость среди подростков (в возрасте от 15 до 19 лет) на 1000 женщин в данной возрастной группе]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3.7.2: Adolescent birth rate (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел демографической статистики)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Demographic Statistics Division)]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Мааткулова Ж.Б.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Maatkulova J.B.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Jmaatkulova@stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Jmaatkulova@stat.kg ]]></com:Text>
           
@@ -87,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Ежегодное число рождений у женщин в возрасте 15-19 лет на 1000 женщин соответствующей возрастной группы.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Annual number of births to females aged 15-19 years per 1,000 females in the respective age group.]]></com:Text>
           
@@ -103,24 +87,17 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Анализ показателя позволяет оценить уровень эффективности государственной политики в области охраны материнства и детства в республике, поскольку уровень медицинской помощи беременным и родильницам определяет судьбу и здоровье будущих поколений. Сокращение подростковой фертильности и устранение многочисленных факторов, лежащих в ее основе, имеют важное значение для улучшения сексуального и репродуктивного здоровья и социально-экономического благосостояния подростков. В литературе широко признается, что женщины, забеременевшие и родившие очень рано в своей репродуктивной жизни, подвергаются более высокому риску осложнений или даже смерти во время беременности и родов, а их дети также являются более уязвимыми. Поэтому профилактика деторождения на самых ранних этапах жизни женщины является важной мерой по улучшению материнского здоровья и снижению младенческой смертности. Кроме того, женщины, имеющие детей в раннем возрасте, сталкиваются с ограничением своих возможностей в социально-экономическом развитии, особенно в силу того, что молодые матери вряд ли будут продолжать учиться и, если им необходимо работать, то может быть особенно трудно совмещать семейные и трудовые обязанности. Коэффициент рождаемости среди подростков также дает косвенные данные о доступе к соответствующим медицинским услугам, поскольку молодые люди, и, в частности незамужние женщины-подростки, часто сталкиваются с трудностями в доступе к услугам в области сексуального и репродуктивного здоровья.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The indicator analysis allows assessing State policy effectiveness of in the area of maternal and child protection in the country, since the level of medical care for pregnant women and mothers determines health of future generations. Reducing adolescent fertility and addressing the multiple factors underlying it are essential for improving sexual and reproductive health and the social and economic well-being of adolescents. There is substantial agreement in the literature that women who become pregnant and give birth very early in their reproductive lives are subject to higher risks of complications or even death during pregnancy and birth and their children are also more vulnerable. Therefore, preventing births very early in a woman’s life is an important measure to improve maternal health and reduce infant mortality. Furthermore, women having children at an early age experience a curtailment of their opportunities for socioeconomic improvement, particularly because young mothers are unlikely to keep on studying and, if they need to work, may find it especially difficult to combine family and work responsibilities. The adolescent birth rate also provides indirect evidence on access to pertinent health services since young people, and in particular unmarried adolescent women, often experience difficulties in access to sexual and reproductive health services. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Источником данных является система регистрации актов гражданского состояния, которая регистрирует факт рождения и смерти на постоянной основе. Эти документы вместе с Записями актов гражданского состояния о рождаемости, составляемыми в органах ЗАГС (находятся в подчинении Государственной регистрационной службы при Правительстве КР), направляются для разработки в органы статистики.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data is obtained from the civil registration system, which regularly records births and deaths in population. These documents, along with civil registration papers drawn up by civil registration offices (which are subordinate to the State Registration Service under the Government of the Kyrgyz Republic), are sent to statistical agencies for calculation.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сбор данных проводится на основании представленных записей актов гражданского состояния о рождаемости представляемых ГРС при ПКР на регулярной основе. Данные о рождениях в разбивке по возрасту матери поступают из систем регистрации актов гражданского состояния, охватывающих 90 или более процентов всех живорождений, и в конечном итоге дополняются оценками переписи или обследования за периоды, когда данные регистрации отсутствуют. 
-Первичная обработка и свод данных по родившимся детям осуществляется на уровне областных органов государственной статистики. Свод данных по стране осуществляется НСК.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Сбор данных проводится на основании представленных записей актов гражданского состояния о рождаемости представляемых ГРС при ПКР на регулярной основе. Данные о рождениях в разбивке по возрасту матери поступают из систем регистрации актов гражданского состояния, охватывающих 90 или более процентов всех живорождений, и в конечном итоге дополняются оценками переписи или обследования за периоды, когда данные регистрации отсутствуют. 
 Первичная обработка и свод данных по родившимся детям осуществляется на уровне областных органов государственной статистики. Свод данных по стране осуществляется НСК.]]></com:Text>
@@ -129,15 +106,11 @@
         
         <gen:ReportedAttribute id="DATA_COMP">
           
-          <com:Text xml:lang="ru"><![CDATA[Коэффициент рождаемости среди подростков в возрасте от 15 до 19 лет определяется как отношение числа живорождений у женщин в возрасте 15-19 лет к среднегодовой численности женщин в возрасте от 15-19 лет в расчете на 1000 женщин соответствующей возрастной группы.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The adolescent birth rate is computed as a ratio of live births to women aged 15-19 years to average annual number of women aged 15-19 years per 1,000 females in the respective age group.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
-          
-          <com:Text xml:lang="ru"><![CDATA[По оценке экспертов, охват системы регистрации актов гражданского состояния считается удовлетворительным, но нуждается в совершенствовании, т.к. основана на использовании бумажных носителей. С декабря 2014г. начала функционировать автоматизированная электронная истема АИС "ЗАГС", как один из компонентов информационных систем ГРС. Однако, в органы статистики данные поступают на бумажных носителях и затем вводятся в специальное программное обеспечение сотрудниками статорганов, что иногда приводит к ошибкам, пропускам данных. В ближайшей перспективе (до конца 2020г.) одним из источников статистических данных о населении станет база данных по естественному и миграционному движению населения, создаваемая на основе данных ГРС.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[According to experts, coverage of civil registration system is considered satisfactory though needs to be improved due to being paper-based. Since December 2014 an automated electronic system AIS "Registration Office"(ZAGS) has been in operation as a component of SRS information systems. However, upon receipt by statistical authorities paper-based data then entered into special software by statistical agencies employees, which sometimes leads to errors and omissions. Soon (until the end of 2020) a database on natural and migratory population movements being derived from the SRS data will become one of population statistics sources.]]></com:Text>
           
@@ -145,15 +118,11 @@
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных. Процедура проверки правильности данных в актовых записях осуществляется путем логического контроля, заложенного в программном обеспечении по вводу и разработке данных.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. Data control in data records is carried out by logical control procedure embedded in the data input and processing software. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные распространяются в статистических публикациях НСК: статистических сборниках «Статистический ежегодник КР», «Социальные тенденции КР», тематических сборниках «Демографический ежегодник КР», «Женщины и мужчины КР», «Здоровье населения и здравоохранение в КР», «Молодежь в КР». Информация также публикуется на официальном сайте НСК КР: http://www.stat.kg/ru/publications/]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data are distributed in NSC statistical publications: statistical collections «Statistical Yearbook of KR», «Social trends of the Kyrgyz Republic», thematic collections «Demographic Yearbook of the Kyrgyz Republic», « Women and men in the Kyrgyz Republic», « Health of the population and Health Care in the Kyrgyz Republic», «Youth in KR». Data is also published on the official NSC website: http:///wwwww.stat.kg/ru/publications/ ]]></com:Text>
           
@@ -161,15 +130,11 @@
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Национальное определение показателя, используемое в статистике, соответствует его международному определению. С 2004г. в Кыргызстане введены критерии ВОЗ, т.о. регистрации подлежат все случаи рождения новорожденных с массой тела 500г и выше и с гестационным сроком (сроком беременности) 22 недели и выше. Основанием для регистрации ребенка является медицинское свидетельство о рождении ребенка (форма 103/у Минздрава) и заявление о рождении, которое делается в письменной форме родителями или одним из них (в случае, если родители не имеют возможности лично заявить о рождении ребенка, это заявление может быть сделано родственниками либо администрацией медицинской организации, в которой находилась мать при рождении ребенка). Медицинское свидетельство о рождении выдается родильным домом или больницей, установившей факт и время рождения ребенка.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[International definition of the indicator is used for national statistics. Since 2004 WHO criteria have been introduced in Kyrgyzstan, following which newborns with body weight of 500g and above and pregnancy of 22 weeks or more are subject to registration. Children are registered based on medical birth certificate (Form 103/Ministry of Health) and a birth declaration made in writing by parents or one of them (in cases when parents are unable to declare the birth in person, this declaration may be made by relatives or administration of the medical organization where birth occurred). A medical certificate of birth is issued by a maternity hospital or hospital which has established the fact and time of birth.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Ссылки на НПА и методологию: http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. Статистические публикации НСК: ежемесячный доклад «Социально-экономическое положение КР», статистические сборники «Демографический ежегодник КР», «Социальные тенденции КР», «Женщины и мужчины КР», "Уровень жизни населения КР", «Здоровье населения и здравоохранение в КР» на официальном сайте НСК КР: http://www.stat.kg/ru/publications/]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[References to RLA and methodology: 
 http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d4a53c87-464e-435e-b6ce-5bd89d8f7f2d">
+  <mes:MetadataSet structureRef="MDS1" setID="43451d8d-27fc-46c9-914f-d4f661fe1a5d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 10. Сокращение неравенства внутри стран и между ними]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 10. Reduce inequality within and among countries]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[10.3. Обеспечить равенство возможностей и уменьшить неравенство результатов, в том числе путем отмены дискриминационных законов, политики и практики и содействия принятию соответствующего законодательства, политики и мер в этом направлении]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[10.3. Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices and promoting appropriate legislation, policies and action in this regard ]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[10.3.1. Доля людей, сообщивших об испытанных ими лично в последние 12 месяцев проявлениях дискриминации или преследованиях на основании дискриминации, которая запрещена международным правом]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[10.3.1. Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Калымбетова Ы.И.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Y. I. Kalymbetova]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
           
@@ -87,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 66 41 64]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 66 41 64]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Под дискриминацией подразумевается негативное или предвзятое отношение к человеку, или лишение его определённых прав на основании наличия какого-то признака.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Discrimination means negative or biased treatment of a person, or deprivation of certain rights on any ground.]]></com:Text>
           
@@ -103,15 +87,11 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Дискриминация может препятствовать справедливому и равному доступу людей к возможностям и услугам. Данные вопросы предназначены для оценки случаев дискриминации и домогательств в отношении респондентов, произошедших в течение 12 месяцев до опроса. В вопросы входят специфические причины дискриминации и домогательств, которые могут помочь респондентам вспомнить события. Текущие вопросы основаны на рекомендованном наборе вопросов, доступных в начале реализации шестого раунда кластерного обследования по многим показателям.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Discrimination can impede individuals from getting a fair and equal access to opportunities and services. These questions are designed to assess cases of discrimination and harassment against respondents that occurred during the 12 months prior to the survey. The questions include specific causes of discrimination and harassment, which may help respondents to remember the events. The current questions are based on the recommended set of questions at the beginning of the sixth round of the Multiple Indicator Cluster Survey.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Демографические исследования и обследования здоровья (DHS), Кластерные обследования по многим показателям (MICS).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Demographic and Health Surveys (DHS), Multiple Indicator Cluster Survey (MICS).]]></com:Text>
           
@@ -119,15 +99,11 @@
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Этот показатель рассчитывается на основе данных кластерного обследования по многим показателям (MICS). Данные собраны для целевой группы - женщины в возрасте 15-49 лет.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Этот показатель рассчитывается на основе данных кластерного обследования по многим показателям (MICS). Данные собраны для целевой группы - женщины в возрасте 15-49 лет.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Показатель рассчитывается отношением численности лиц, ответивших положительно хотя бы на один вид дискриминации, на общую численность лиц целевой группы.  Значение показателя предположительно дискриминируемой группы делится на значение показателя другой группы. Одновременно рассчитан показатель доли женщин в возрасте 15-49 лет, которые ощущали дискриминацию за последние 12 месяцев по каждому из семи признаков]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[This indicator means the proportion of persons who responded positively to the number of persons in the target group. The indicator value of the allegedly discriminated group is divided by the indicator value of another group. At the same time, the indicator calculates the proportion of women aged 15-49 years who have experienced at least one type of discrimination by the total discrimination cases based on each of the seven grounds over the last 12 months.]]></com:Text>
           
@@ -135,24 +111,17 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Текущие вопросы основаны на рекомендованном наборе вопросов, доступных в начале реализации шестого раунда кластерного обследования по многим показателям. Вопросы могут измениться с учетом проходящей в настоящее время методологической работы по переносу показателя с Уровня III ЦУР на Уровень II.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The questions are based on the recommended set of questions available in the sixth round of the Multiple Indicator Cluster Survey. The questions may change based on the methodology developments to move the indicator from SDG Level III to SDG Level II.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Кластерное обследование по многим показателям в Кыргызской Республике, 2018 год]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2018 Multiple Indicator Cluster Survey in the Kyrgyz Republic]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
- https://www.unicef.org]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
  https://www.unicef.org]]></com:Text>
@@ -163,7 +132,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="28de7f38-ca70-4c42-be71-06f873ffe706">
+  <mes:MetadataSet structureRef="MDS1" setID="884cb510-bd34-4e63-99ff-2d063d73a5f4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -190,15 +159,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 10. Сокращение неравенства внутри стран и между ними]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 10. Reduce inequality within and among countries]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[10.3. Обеспечить равенство возможностей и уменьшить неравенство результатов, в том числе путем отмены дискриминационных законов, политики и практики и содействия принятию соответствующего законодательства, политики и мер в этом направлении]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[10.3. Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices and promoting appropriate legislation, policies and action in this regard ]]></com:Text>
           
@@ -206,15 +171,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[10.3.1. Доля людей, сообщивших об испытанных ими лично в последние 12 месяцев проявлениях дискриминации или преследованиях на основании дискриминации, которая запрещена международным правом]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[10.3.1. Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -222,15 +183,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Калымбетова Ы.И.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Y. I. Kalymbetova]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
           
@@ -238,15 +195,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 66 41 64]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 66 41 64]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Под дискриминацией подразумевается негативное или предвзятое отношение к человеку, или лишение его определённых прав на основании наличия какого-то признака.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Discrimination means negative or biased treatment of a person, or deprivation of certain rights on any ground.]]></com:Text>
           
@@ -254,15 +207,11 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Дискриминация может препятствовать справедливому и равному доступу людей к возможностям и услугам. Данные вопросы предназначены для оценки случаев дискриминации и домогательств в отношении респондентов, произошедших в течение 12 месяцев до опроса. В вопросы входят специфические причины дискриминации и домогательств, которые могут помочь респондентам вспомнить события. Текущие вопросы основаны на рекомендованном наборе вопросов, доступных в начале реализации шестого раунда кластерного обследования по многим показателям.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Discrimination can impede individuals from getting a fair and equal access to opportunities and services. These questions are designed to assess cases of discrimination and harassment against respondents that occurred during the 12 months prior to the survey. The questions include specific causes of discrimination and harassment, which may help respondents to remember the events. The current questions are based on the recommended set of questions at the beginning of the sixth round of the Multiple Indicator Cluster Survey.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Демографические исследования и обследования здоровья (DHS), Кластерные обследования по многим показателям (MICS).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Demographic and Health Surveys (DHS), Multiple Indicator Cluster Survey (MICS).]]></com:Text>
           
@@ -270,15 +219,11 @@
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Этот показатель рассчитывается на основе данных кластерного обследования по многим показателям (MICS). Данные собраны для целевой группы - женщины в возрасте 15-49 лет.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Этот показатель рассчитывается на основе данных кластерного обследования по многим показателям (MICS). Данные собраны для целевой группы - женщины в возрасте 15-49 лет.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Показатель рассчитывается отношением численности лиц, ответивших положительно хотя бы на один вид дискриминации, на общую численность лиц целевой группы.  Значение показателя предположительно дискриминируемой группы делится на значение показателя другой группы. Одновременно рассчитан показатель доли женщин в возрасте 15-49 лет, которые ощущали дискриминацию за последние 12 месяцев по каждому из семи признаков]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[This indicator means the proportion of persons who responded positively to the number of persons in the target group. The indicator value of the allegedly discriminated group is divided by the indicator value of another group. At the same time, the indicator calculates the proportion of women aged 15-49 years who have experienced at least one type of discrimination by the total discrimination cases based on each of the seven grounds over the last 12 months.]]></com:Text>
           
@@ -286,24 +231,17 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Текущие вопросы основаны на рекомендованном наборе вопросов, доступных в начале реализации шестого раунда кластерного обследования по многим показателям. Вопросы могут измениться с учетом проходящей в настоящее время методологической работы по переносу показателя с Уровня III ЦУР на Уровень II.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The questions are based on the recommended set of questions available in the sixth round of the Multiple Indicator Cluster Survey. The questions may change based on the methodology developments to move the indicator from SDG Level III to SDG Level II.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Кластерное обследование по многим показателям в Кыргызской Республике, 2018 год]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2018 Multiple Indicator Cluster Survey in the Kyrgyz Republic]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
- https://www.unicef.org]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
  https://www.unicef.org]]></com:Text>

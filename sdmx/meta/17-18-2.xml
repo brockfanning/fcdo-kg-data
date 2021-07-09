@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="626ff005-e3e5-4980-b1d7-7b32f764e8fb">
+  <mes:MetadataSet structureRef="MDS1" setID="3c8c9778-c1a9-4e36-9948-5db77b90c810">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[17. Укрепление средств осуществления и активизация работы в рамках Глобального партнерства в интересах устойчивого развития]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[17. Strengthen the means of implementation and revitalize the global partnership for sustainable development]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[17.18 К 2020 году усилить поддержку в целях наращивания потенциала развивающихся стран, в том числе наименее развитых стран и малых островных развивающихся государств, с тем чтобы значительно повысить доступность высококачественных, актуальных и достоверных данных, дезагрегированных по уровню доходов, гендерной принадлежности, возрасту, расе, национальности, миграционному статусу, инвалидности, географическому местонахождению и другим характеристикам, значимым с учетом национальных условий ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[17.18 By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, area and other characteristics relevant in national contexts ]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[17.18.2 Число, стран, имеющих национальное статистическое законодательство, соответствующее Основополагающим принципам официальной статистики ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[17.18.2 Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет Кыргызской Республики (Отдел организации и координации статистики)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Statistics Organization and Coordination Unit)]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Ермекбаева Г.Б.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[G. B. Ermekbaeva]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[germekbaeva@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[germekbaeva@stat.kg ]]></com:Text>
           
@@ -87,24 +75,17 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 62-56-39]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 62-56-39]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Закон Кыргызской Республики Об официальной статистике от 8 июля 2019 года № 82 регулирует организацию и функционирование национальной статистической системы, устанавливает правовую основу для разработки, производства и распространения официальной статистики.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Law No. 82 of the Kyrgyz Republic on official statistics of July 8, 2019 regulates the organization and functioning of the national statistical system establishing the legal framework for the development, production and dissemination of official statistics. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[ Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
- Ссылка на закон Об официальной статистике Кыргыской Республике: http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
  Link to the Kyrgyz Law on Official Statistics: http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/]]></com:Text>

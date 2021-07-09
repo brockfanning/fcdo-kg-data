@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cfbe93db-999a-4f75-b22c-efd97afdc6ae">
+  <mes:MetadataSet structureRef="MDS1" setID="585e3b6a-5d97-4435-b0fa-fc715954f13c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[2. Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[2.a Увеличить инвестирование, в том числе посредством активизации международного сотрудничества, в сельскую инфраструктуру, сельскохозяйственные исследования и агропропаганду, развитие технологий и создание генетических банков растений и животных в целях укрепления потенциала развивающихся стран, особенно наименее развитых стран, в области сельскохозяйственного производства.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[2.a. Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries.]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[2.а.2: Совокупный приток официальных средств (официальная помощь в целях развития плюс прочие потоки официальных средств) в сектор сельского хозяйства.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2.а.2: Total official flows (official development assistance plus other official flows) to the agriculture sector.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики финансов).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Finance Statistics Division).]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Жукова Е.Н., ведущий специалист]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Jukova E.N., lead expert]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[e.jukova@stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[e.jukova@stat.kg]]></com:Text>
           
@@ -87,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 66-42-09]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) -66-42-09]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Общие официальные потоки (официальная помощь в целях развития плюс другие официальные потоки) в сельскохозяйственный сектор определяются как валовые выплаты официальной помощи в целях развития (ОПР) и других официальных потоков от всех доноров в сельскохозяйственный сектор.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Official flows (official development assistance plus other official flows) to agricultural sector are defined as gross disbursements of total ODA and other official flows from all donors to the agriculture sector.]]></com:Text>
           
@@ -103,15 +87,11 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Общий объем официальной помощи в целях развития (ОПР) и других официальных потоков (ДОП) в развивающиеся страны исчисляет общественные усилия (за исключением экспортных кредитов), которые доноры предоставляют развивающимся странам для сельского хозяйства.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Total Official development assistance (ODA) and other official flows (OOF) to developing countries quantify the public effort (excluding export credits) that donors provide to developing countries for agriculture.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство финансов КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Finance of the Kyrgyz Republic]]></com:Text>
           
@@ -119,15 +99,11 @@
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Админимтративные данные МФ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Админимтративные данные МФ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сумма потоков ОПР и ДОП от всех доноров в развивающиеся страны в сельскохозяйственном секторе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The sum of ODA and OOF flows from all donors to developing countries in the agriculture sector.]]></com:Text>
           
@@ -135,25 +111,17 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Определяется как валовые выплаты официальной помощи в целях развития (ОПР) и других официальных потоков от всех доноров в сельскохозяйственный сектор.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Defined as gross disbursements of total official development assistance (ODA) and other official flows from all donors to the agriculture sector.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Статистика КСР стандартизирована на календарный год для всех доноров и может отличаться от доступных данных за финансовый год в документах бюджета для некоторых стран.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[DAC statistics are standardized on a calendar year basis for all donors and may differ from fiscal year data available in budget Documentation for some countries.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[ОЭСР: www.oecd.org/dac/stats
-См. все ссылки: http://www.oecd.org/dac/stats/methodology.htm
-Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[OECD: www.oecd.org/dac/stats
 Links: http://www.oecd.org/dac/stats/methodology.htm

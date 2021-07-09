@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="becb585c-62e7-48c9-a2ad-f5446d8d1715">
+  <mes:MetadataSet structureRef="MDS1" setID="d1b01677-64be-4d6d-b91a-88da97fcaec0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,30 +39,17 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 4. Обеспечение всеохватного и справедливого качественного образования и поощрение возможности обучения на протяжении всей жизни для всех]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="ru"><![CDATA[4.a. Создавать и совершенствовать учебные заведения, учитывающие интересы детей, особые нужды инвалидов и гендерные аспекты, и обеспечить безопасную, свободную от насилия и социальных барьеров и эффективную среду обучения для всех]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4.a. Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          
-          <com:Text xml:lang="ru"><![CDATA[4.a.1. Доля школ, имеющих доступ к: 
-a) электроэнергии;     
-b) Интернету для учебных целей; 
-c) компьютерам для учебных целей;           
-d) адаптированной инфраструктуре и материалам для учащихся инвалидов; 
-e) базовым источникам питьевой воды; 
-f) раздельным минимально оборудованным туалетам; и        
-g) базовым средствам для мытья рук (согласно определениям показателей инициативы ВССГ)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[4.a.1 Proportion of schools with access to: 
 (a) electricity; 
@@ -77,15 +64,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="ru"><![CDATA[Министерство образования и науки КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Ministry of Education and Science of the Kyrgyz Republic]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
-          
-          <com:Text xml:lang="ru"><![CDATA[Алишев Марлен Токтобаевич]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Alishev Marlen Toktobaevich]]></com:Text>
           
@@ -93,15 +76,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
-          <com:Text xml:lang="ru"><![CDATA[marlen.alishev@gmail.com]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[marlen.alishev@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          
-          <com:Text xml:lang="ru"><![CDATA[558995400]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[0558995400]]></com:Text>
           
@@ -109,15 +88,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля школ по уровням образования (начальное, общее, среднее) с доступом к данным ресурсам]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The percentage of schools by level of education (primary education) with access to the given facility or service.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Образовательные организации или РайОО]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Educational organizations or District EO]]></com:Text>
           
@@ -125,18 +100,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Опросник]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Опросник]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[PSn,f = Sn,f / Sn * 100
-где: PSn,f = доля школ на уровне n с доступом к ресурсу f; 
-       Sn,f = кол-во школ на уровне образования n с доступом к ресурсу f; 
-       Sn  = общее кол-во школ на уровне образования n]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[PSn,f = Sn,f/ Sn * 100
 where:
@@ -148,23 +116,17 @@ Sn = total number of schools at level n of education]]></com:Text>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель измеряет наличие в школах данного ресурса, но не его качество или рабочее состояние]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The indicator measures the existence in schools of the given service or facility but not its quality or operational state.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[0.5]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[50%]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
@@ -174,7 +136,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c966c43e-c185-446b-9cfc-e979b58618bd">
+  <mes:MetadataSet structureRef="MDS1" setID="df717831-7adf-44bd-a6fe-285293b7d983">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -201,30 +163,17 @@ Sn = total number of schools at level n of education]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 4. Обеспечение всеохватного и справедливого качественного образования и поощрение возможности обучения на протяжении всей жизни для всех]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="ru"><![CDATA[4.a. Создавать и совершенствовать учебные заведения, учитывающие интересы детей, особые нужды инвалидов и гендерные аспекты, и обеспечить безопасную, свободную от насилия и социальных барьеров и эффективную среду обучения для всех]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4.a. Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          
-          <com:Text xml:lang="ru"><![CDATA[4.a.1. Доля школ, имеющих доступ к: 
-a) электроэнергии;     
-b) Интернету для учебных целей; 
-c) компьютерам для учебных целей;           
-d) адаптированной инфраструктуре и материалам для учащихся инвалидов; 
-e) базовым источникам питьевой воды; 
-f) раздельным минимально оборудованным туалетам; и        
-g) базовым средствам для мытья рук (согласно определениям показателей инициативы ВССГ)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[4.a.1 Proportion of schools with access to: 
 (a) electricity; 
@@ -239,15 +188,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="ru"><![CDATA[Министерство образования и науки КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Ministry of Education and Science of the Kyrgyz Republic]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
-          
-          <com:Text xml:lang="ru"><![CDATA[Алишев Марлен Токтобаевич]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Alishev Marlen Toktobaevich]]></com:Text>
           
@@ -255,15 +200,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
-          <com:Text xml:lang="ru"><![CDATA[marlen.alishev@gmail.com]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[marlen.alishev@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          
-          <com:Text xml:lang="ru"><![CDATA[558995400]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[0558995400]]></com:Text>
           
@@ -271,15 +212,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля школ по уровням образования (начальное, общее, среднее) с доступом к данным ресурсам]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The percentage of schools by level of education (primary education) with access to the given facility or service.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Образовательные организации или РайОО]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Educational organizations or District EO]]></com:Text>
           
@@ -287,18 +224,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Опросник]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Опросник]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[PSn,f = Sn,f / Sn * 100
-где: PSn,f = доля школ на уровне n с доступом к ресурсу f; 
-       Sn,f = кол-во школ на уровне образования n с доступом к ресурсу f; 
-       Sn  = общее кол-во школ на уровне образования n]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[PSn,f = Sn,f/ Sn * 100
 where:
@@ -310,23 +240,17 @@ Sn = total number of schools at level n of education]]></com:Text>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель измеряет наличие в школах данного ресурса, но не его качество или рабочее состояние]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The indicator measures the existence in schools of the given service or facility but not its quality or operational state.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[0.5]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[50%]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
@@ -336,7 +260,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ae7ba2fb-0003-4f6b-b831-e56939b6dc76">
+  <mes:MetadataSet structureRef="MDS1" setID="c82e345e-9ebc-4b56-b94a-11f86ac84cca">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -363,30 +287,17 @@ Sn = total number of schools at level n of education]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 4. Обеспечение всеохватного и справедливого качественного образования и поощрение возможности обучения на протяжении всей жизни для всех]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="ru"><![CDATA[4.a. Создавать и совершенствовать учебные заведения, учитывающие интересы детей, особые нужды инвалидов и гендерные аспекты, и обеспечить безопасную, свободную от насилия и социальных барьеров и эффективную среду обучения для всех]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4.a. Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          
-          <com:Text xml:lang="ru"><![CDATA[4.a.1. Доля школ, имеющих доступ к: 
-a) электроэнергии;     
-b) Интернету для учебных целей; 
-c) компьютерам для учебных целей;           
-d) адаптированной инфраструктуре и материалам для учащихся инвалидов; 
-e) базовым источникам питьевой воды; 
-f) раздельным минимально оборудованным туалетам; и        
-g) базовым средствам для мытья рук (согласно определениям показателей инициативы ВССГ)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[4.a.1 Proportion of schools with access to: 
 (a) electricity; 
@@ -401,15 +312,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="ru"><![CDATA[Министерство образования и науки КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Ministry of Education and Science of the Kyrgyz Republic]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
-          
-          <com:Text xml:lang="ru"><![CDATA[Алишев Марлен Токтобаевич]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Alishev Marlen Toktobaevich]]></com:Text>
           
@@ -417,15 +324,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
-          <com:Text xml:lang="ru"><![CDATA[marlen.alishev@gmail.com]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[marlen.alishev@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          
-          <com:Text xml:lang="ru"><![CDATA[558995400]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[0558995400]]></com:Text>
           
@@ -433,15 +336,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля школ по уровням образования (начальное, общее, среднее) с доступом к данным ресурсам]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The percentage of schools by level of education (primary education) with access to the given facility or service.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Образовательные организации или РайОО]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Educational organizations or District EO]]></com:Text>
           
@@ -449,18 +348,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Опросник]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Опросник]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[PSn,f = Sn,f / Sn * 100
-где: PSn,f = доля школ на уровне n с доступом к ресурсу f; 
-       Sn,f = кол-во школ на уровне образования n с доступом к ресурсу f; 
-       Sn  = общее кол-во школ на уровне образования n]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[PSn,f = Sn,f/ Sn * 100
 where:
@@ -472,23 +364,17 @@ Sn = total number of schools at level n of education]]></com:Text>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель измеряет наличие в школах данного ресурса, но не его качество или рабочее состояние]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The indicator measures the existence in schools of the given service or facility but not its quality or operational state.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[0.5]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[50%]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
@@ -498,7 +384,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="701a9fd1-0a4a-4341-851b-e93791ded0a2">
+  <mes:MetadataSet structureRef="MDS1" setID="b8790962-d343-4bee-8ed8-340641a30981">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -525,30 +411,17 @@ Sn = total number of schools at level n of education]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 4. Обеспечение всеохватного и справедливого качественного образования и поощрение возможности обучения на протяжении всей жизни для всех]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="ru"><![CDATA[4.a. Создавать и совершенствовать учебные заведения, учитывающие интересы детей, особые нужды инвалидов и гендерные аспекты, и обеспечить безопасную, свободную от насилия и социальных барьеров и эффективную среду обучения для всех]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4.a. Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          
-          <com:Text xml:lang="ru"><![CDATA[4.a.1. Доля школ, имеющих доступ к: 
-a) электроэнергии;     
-b) Интернету для учебных целей; 
-c) компьютерам для учебных целей;           
-d) адаптированной инфраструктуре и материалам для учащихся инвалидов; 
-e) базовым источникам питьевой воды; 
-f) раздельным минимально оборудованным туалетам; и        
-g) базовым средствам для мытья рук (согласно определениям показателей инициативы ВССГ)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[4.a.1 Proportion of schools with access to: 
 (a) electricity; 
@@ -563,15 +436,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="ru"><![CDATA[Министерство образования и науки КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Ministry of Education and Science of the Kyrgyz Republic]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
-          
-          <com:Text xml:lang="ru"><![CDATA[Алишев Марлен Токтобаевич]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Alishev Marlen Toktobaevich]]></com:Text>
           
@@ -579,15 +448,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
-          <com:Text xml:lang="ru"><![CDATA[marlen.alishev@gmail.com]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[marlen.alishev@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          
-          <com:Text xml:lang="ru"><![CDATA[558995400]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[0558995400]]></com:Text>
           
@@ -595,15 +460,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля школ по уровням образования (начальное, общее, среднее) с доступом к данным ресурсам]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The percentage of schools by level of education (primary education) with access to the given facility or service.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Образовательные организации или РайОО]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Educational organizations or District EO]]></com:Text>
           
@@ -611,18 +472,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Опросник]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Опросник]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[PSn,f = Sn,f / Sn * 100
-где: PSn,f = доля школ на уровне n с доступом к ресурсу f; 
-       Sn,f = кол-во школ на уровне образования n с доступом к ресурсу f; 
-       Sn  = общее кол-во школ на уровне образования n]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[PSn,f = Sn,f/ Sn * 100
 where:
@@ -634,23 +488,17 @@ Sn = total number of schools at level n of education]]></com:Text>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель измеряет наличие в школах данного ресурса, но не его качество или рабочее состояние]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The indicator measures the existence in schools of the given service or facility but not its quality or operational state.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[0.5]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[50%]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
@@ -660,7 +508,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9d8281a6-3be9-4a4e-932a-36af659edaca">
+  <mes:MetadataSet structureRef="MDS1" setID="40855277-b2e6-4baa-a221-7495f94e8263">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -687,30 +535,17 @@ Sn = total number of schools at level n of education]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 4. Обеспечение всеохватного и справедливого качественного образования и поощрение возможности обучения на протяжении всей жизни для всех]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="ru"><![CDATA[4.a. Создавать и совершенствовать учебные заведения, учитывающие интересы детей, особые нужды инвалидов и гендерные аспекты, и обеспечить безопасную, свободную от насилия и социальных барьеров и эффективную среду обучения для всех]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4.a. Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          
-          <com:Text xml:lang="ru"><![CDATA[4.a.1. Доля школ, имеющих доступ к: 
-a) электроэнергии;     
-b) Интернету для учебных целей; 
-c) компьютерам для учебных целей;           
-d) адаптированной инфраструктуре и материалам для учащихся инвалидов; 
-e) базовым источникам питьевой воды; 
-f) раздельным минимально оборудованным туалетам; и        
-g) базовым средствам для мытья рук (согласно определениям показателей инициативы ВССГ)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[4.a.1 Proportion of schools with access to: 
 (a) electricity; 
@@ -725,15 +560,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="ru"><![CDATA[Министерство образования и науки КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Ministry of Education and Science of the Kyrgyz Republic]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
-          
-          <com:Text xml:lang="ru"><![CDATA[Алишев Марлен Токтобаевич]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Alishev Marlen Toktobaevich]]></com:Text>
           
@@ -741,15 +572,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
-          <com:Text xml:lang="ru"><![CDATA[marlen.alishev@gmail.com]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[marlen.alishev@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          
-          <com:Text xml:lang="ru"><![CDATA[558995400]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[0558995400]]></com:Text>
           
@@ -757,15 +584,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля школ по уровням образования (начальное, общее, среднее) с доступом к данным ресурсам]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The percentage of schools by level of education (primary education) with access to the given facility or service.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Образовательные организации или РайОО]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Educational organizations or District EO]]></com:Text>
           
@@ -773,18 +596,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Опросник]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Опросник]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[PSn,f = Sn,f / Sn * 100
-где: PSn,f = доля школ на уровне n с доступом к ресурсу f; 
-       Sn,f = кол-во школ на уровне образования n с доступом к ресурсу f; 
-       Sn  = общее кол-во школ на уровне образования n]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[PSn,f = Sn,f/ Sn * 100
 where:
@@ -796,23 +612,17 @@ Sn = total number of schools at level n of education]]></com:Text>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель измеряет наличие в школах данного ресурса, но не его качество или рабочее состояние]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The indicator measures the existence in schools of the given service or facility but not its quality or operational state.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[0.5]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[50%]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
@@ -822,7 +632,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4d506733-a937-4828-8537-f2455633a21b">
+  <mes:MetadataSet structureRef="MDS1" setID="1567acb6-2ec8-45b3-a6dd-5058ab7695cd">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -849,30 +659,17 @@ Sn = total number of schools at level n of education]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 4. Обеспечение всеохватного и справедливого качественного образования и поощрение возможности обучения на протяжении всей жизни для всех]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="ru"><![CDATA[4.a. Создавать и совершенствовать учебные заведения, учитывающие интересы детей, особые нужды инвалидов и гендерные аспекты, и обеспечить безопасную, свободную от насилия и социальных барьеров и эффективную среду обучения для всех]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4.a. Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          
-          <com:Text xml:lang="ru"><![CDATA[4.a.1. Доля школ, имеющих доступ к: 
-a) электроэнергии;     
-b) Интернету для учебных целей; 
-c) компьютерам для учебных целей;           
-d) адаптированной инфраструктуре и материалам для учащихся инвалидов; 
-e) базовым источникам питьевой воды; 
-f) раздельным минимально оборудованным туалетам; и        
-g) базовым средствам для мытья рук (согласно определениям показателей инициативы ВССГ)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[4.a.1 Proportion of schools with access to: 
 (a) electricity; 
@@ -887,15 +684,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="ru"><![CDATA[Министерство образования и науки КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Ministry of Education and Science of the Kyrgyz Republic]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
-          
-          <com:Text xml:lang="ru"><![CDATA[Алишев Марлен Токтобаевич]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Alishev Marlen Toktobaevich]]></com:Text>
           
@@ -903,15 +696,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
-          <com:Text xml:lang="ru"><![CDATA[marlen.alishev@gmail.com]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[marlen.alishev@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          
-          <com:Text xml:lang="ru"><![CDATA[558995400]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[0558995400]]></com:Text>
           
@@ -919,15 +708,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля школ по уровням образования (начальное, общее, среднее) с доступом к данным ресурсам]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The percentage of schools by level of education (primary education) with access to the given facility or service.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Образовательные организации или РайОО]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Educational organizations or District EO]]></com:Text>
           
@@ -935,18 +720,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Опросник]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Опросник]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[PSn,f = Sn,f / Sn * 100
-где: PSn,f = доля школ на уровне n с доступом к ресурсу f; 
-       Sn,f = кол-во школ на уровне образования n с доступом к ресурсу f; 
-       Sn  = общее кол-во школ на уровне образования n]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[PSn,f = Sn,f/ Sn * 100
 where:
@@ -958,23 +736,17 @@ Sn = total number of schools at level n of education]]></com:Text>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель измеряет наличие в школах данного ресурса, но не его качество или рабочее состояние]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The indicator measures the existence in schools of the given service or facility but not its quality or operational state.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[0.5]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[50%]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
@@ -984,7 +756,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="069862ed-dc70-4d0d-9291-22895473e70c">
+  <mes:MetadataSet structureRef="MDS1" setID="6a0d679c-f044-4cf6-ae8a-a7873efc1abb">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1011,30 +783,17 @@ Sn = total number of schools at level n of education]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 4. Обеспечение всеохватного и справедливого качественного образования и поощрение возможности обучения на протяжении всей жизни для всех]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="ru"><![CDATA[4.a. Создавать и совершенствовать учебные заведения, учитывающие интересы детей, особые нужды инвалидов и гендерные аспекты, и обеспечить безопасную, свободную от насилия и социальных барьеров и эффективную среду обучения для всех]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[4.a. Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          
-          <com:Text xml:lang="ru"><![CDATA[4.a.1. Доля школ, имеющих доступ к: 
-a) электроэнергии;     
-b) Интернету для учебных целей; 
-c) компьютерам для учебных целей;           
-d) адаптированной инфраструктуре и материалам для учащихся инвалидов; 
-e) базовым источникам питьевой воды; 
-f) раздельным минимально оборудованным туалетам; и        
-g) базовым средствам для мытья рук (согласно определениям показателей инициативы ВССГ)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[4.a.1 Proportion of schools with access to: 
 (a) electricity; 
@@ -1049,15 +808,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="ru"><![CDATA[Министерство образования и науки КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Ministry of Education and Science of the Kyrgyz Republic]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
-          
-          <com:Text xml:lang="ru"><![CDATA[Алишев Марлен Токтобаевич]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Alishev Marlen Toktobaevich]]></com:Text>
           
@@ -1065,15 +820,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
-          <com:Text xml:lang="ru"><![CDATA[marlen.alishev@gmail.com]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[marlen.alishev@gmail.com]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          
-          <com:Text xml:lang="ru"><![CDATA[558995400]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[0558995400]]></com:Text>
           
@@ -1081,15 +832,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля школ по уровням образования (начальное, общее, среднее) с доступом к данным ресурсам]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The percentage of schools by level of education (primary education) with access to the given facility or service.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Образовательные организации или РайОО]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Educational organizations or District EO]]></com:Text>
           
@@ -1097,18 +844,11 @@ g) базовым средствам для мытья рук (согласно 
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Опросник]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Опросник]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[PSn,f = Sn,f / Sn * 100
-где: PSn,f = доля школ на уровне n с доступом к ресурсу f; 
-       Sn,f = кол-во школ на уровне образования n с доступом к ресурсу f; 
-       Sn  = общее кол-во школ на уровне образования n]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[PSn,f = Sn,f/ Sn * 100
 where:
@@ -1120,23 +860,17 @@ Sn = total number of schools at level n of education]]></com:Text>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель измеряет наличие в школах данного ресурса, но не его качество или рабочее состояние]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The indicator measures the existence in schools of the given service or facility but not its quality or operational state.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[0.5]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[50%]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           

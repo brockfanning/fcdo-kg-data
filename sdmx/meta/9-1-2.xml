@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="85cec611-db73-411c-b713-5fccdf2190c8">
+  <mes:MetadataSet structureRef="MDS1" setID="bb53ecef-b692-4ec4-8737-1f0cceac1cde">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 9: Создание стойкой инфраструктуры, содействие всеохватной и устойчивой индустриализации и инновациям. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[9.1. Развивать качественную, надежную, устойчивую и стойкую инфраструктуру, включая региональную и трансграничную инфраструктуру, в целях поддержки экономического развития и благополучия людей, уделяя особое внимание обеспечению недорогого и равноправного доступа для всех]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[9.1. Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all]]></com:Text>
           
@@ -55,16 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[9.1.2. Объем пассажирских и грузовых перевозок в разбивке по видам транспорта. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[9.1.2. Passenger and freight volumes, by mode of transport]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики потребительского рынка, ИКТ и туризма)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
 (Consumer Market, ICT and Tourism Statistics Division)  ]]></com:Text>
@@ -73,15 +64,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Мамбеталиева В.Т.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Mambetalieva V.T.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[vmambetalieva@stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[vmambetalieva@stat.kg]]></com:Text>
           
@@ -89,17 +76,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[324725, 0555 455010]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[324725, 0555 455010]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Объем пассажирских и грузовых перевозок измеряется показателями:  
-
-Перевезено грузов (объем перевозок грузов) - количество грузов в тоннах, перевезенных транспортом. Перевезено пассажиров - число пассажиров, перевезенных за определенный период времени учитывается по видам транспорта, сообщений.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Passenger and freight volumes are measured by:  
 
@@ -109,15 +90,11 @@ Freight transported (volume of goods transported) - quantity of goods transporte
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[В задачи статистики транспорта входит наблюдение за статистическими данными, изучающими явления и процессы, происходящие на транспорте (размеры инфраструктуры, количество подвижного транспортного оборудования, объемы перевозок и другие показатели, относящиеся к транспорту), а также задачи в обеспечении получения качественной, объективной и полной информации от предприятий, организаций; оценки предпринимательской деятельности (физических лиц) и формировании сводных данных статистическими органами по единой методологии. При этом статистика транспорта не ограничивается только установлением факта того или иного показателя, но и изучает причины, вызвавшие отклонения, выявляет наличие резервов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The objective of transport statistics is to monitor facts and processes in transport (infrastructure size, mobile equipment, traffic volumes and other transport related indicators)as well as tasks in ensuring quality, objective and complete information received from enterprises and organizations; estimation of entrepreneurial activity (private persons) and compilation of consolidated data by statistical agencies according to unified methodology. Transport statistics do not limit to indicator, but also examine the reasons for deviations and availability of reserves.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Источниками данных являются формы государственной статистической отчетности и итоги выборочных обследований на автомобильном транспорте (грузовом и пассажирском) частных предпринимателей (физических лиц)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data for indicator derived from the State statistical reports and results of sample surveys in road transport (freight and passenger) by private entrepreneurs (private persons) ]]></com:Text>
           
@@ -125,31 +102,11 @@ Freight transported (volume of goods transported) - quantity of goods transporte
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Форму статистической отчетности (ежемесячно, ежеквартально и за год) представляют юридические лица, оказывающие транспортные услуги в районные отделы управления государственной статистики. Данные транспортных услуг, оказывающих индивидуальными предпринимателями и физическими лицами, формируются на основе итогов ежеквартальных выборочных обследований, проводимых специалистами органов государственной статистики.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Форму статистической отчетности (ежемесячно, ежеквартально и за год) представляют юридические лица, оказывающие транспортные услуги в районные отделы управления государственной статистики. Данные транспортных услуг, оказывающих индивидуальными предпринимателями и физическими лицами, формируются на основе итогов ежеквартальных выборочных обследований, проводимых специалистами органов государственной статистики.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Общий объем (Wобщ.) услуг (перевозки грузов) грузового автомобильного транспорта включает в себя: 
-• суммарные объемы перевозок грузов, выполненные грузовыми автомобилями, пикапами и фургонами на шасси легковых автомобилей и автоприцепами специализированных автотранспортных предприятий (малые, средние, крупные) (VАтп);
-• суммарные объемы перевозок грузов, выполненные грузовыми автомобилями предприятий и организаций республики, имеющих грузовой автомобильный транспорт как вид вспомогательной деятельности (Vвед.);
-• оценки объемов предпринимателей (физических лиц) – владельцев грузовых автомобилей, занимающихся предпринимательской деятельностью без образования юридического лица (предпринимателем) (Vф.л.)
-Или Wобщ. = VАтп + Vвед. + Vф.л 
-Объемы перевозок грузов специализированными предприятиями автомобильного транспорта получают по данным государственной статистической отчетности месячной, квартальной, годовой (Форма № 1-АВТО «Отчет о работе городского и дорожного транспорта», Форма № 65-АВТОМ «Отчет о продукции автомобильного транспорта», Форма № 5-АХ «Отчет о доходах и расходах по автоперевозкам»).
-Аналогично определяется объем грузооборота, выполненного специализированными предприятиями автотранспорта (Форма № 1-АВТО, Форма № 65-АВТОМ, Форма № 5-АХ).
-Объемы перевозок грузов (грузооборот) на предприятиях, организациях, имеющих автомобильный транспорт, как вид вспомогательной деятельности определяется ежемесячно по оценке (путем проведения ежеквартального выборочного обследования); по итогу за год по данным государственной статистической отчетности (Форма № 1-ТР (ШОС) «Отчет об автотранспорте»).
-Дорасчет объема коммерческих перевозок предпринимателями (физическими лицами) - владельцами грузовых автомобилей осуществляется по данным ежеквартального выборочного обследования. 
-Общий объем перевозок пассажиров (Wпасс.) автомобильного транспорта включает в себя:  
-• объемы перевозок пассажиров, выполненные автобусами специализированных автотранспортных предприятий (малые, средние, крупные) VАтп (автобусы); 
-• расчеты объемов перевозок автобусами, находящимися в личной собственности граждан и числа автобусов, сданных в аренду физическим лицам Vф.л (автобусы) и расчетов объемов перевозок пассажиров легковыми автомобилями индивидуальных владельцев, получивших патент органов налоговой инспекции на право оказания услуг Vф.л (такси) 
-или Wпасс. = VАтп (автобусы) + Vф.л (автобусы) + Vф.л (такси) 
-Аналогично определяется общий объем пассажирооборота. 
-Объемы перевозок пассажиров автобусами специализированных предприятий автомобильного транспорта получают по данным государственной статистической отчетности - месячной, квартальной, годовой (Форма № 1-АВТО, Форма № 65-АВТОМ, Форма № 5-АХ). 
-Аналогично определяется объем пассажирооборота, выполненного специализированными предприятиями автотранспорта. 
-Оценка объема перевозок пассажиров (автобусы, такси) и пассажирооборота индивидуальных предпринимателей (физических лиц) осуществляется по данным ежеквартального выборочного обследования.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Total (Wtotal) services (freight transportation) of road freight transport include:
 • total volume of goods transported by trucks, pickups and vans on passenger cars and motor trailers by specialized road transport enterprises (small, medium, large) (Vate);
@@ -173,9 +130,6 @@ Volume of passengers transported by buses, taxis and passengers transported by i
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Предметом исследования статистики транспорта являются экономические процессы и явления массового характера, которые происходят на транспортных предприятиях и представляют собой результаты транспортного процесса и факторы его реализация в конкретное время и в конкретном месте. 
-При помощи системы показателей можно определить объемы, структуру, динамику и взаимосвязь факторов и результатов процесса производства. Таким образом, статистика позволяет придать взаимосвязям и закономерностям в развитии транспортной отрасли количественное выражение.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Transport statistics focus on economic processes and phenomena occuring in transport enterprises and representing results of transport process and its implementation at a specific time and place.
 A system of indicators allows determining the volume, structure, dynamics and relationships of factors and production outcomes. Thus, statistics make it possible to quantify the relationships and patterns in transport industry.]]></com:Text>
           
@@ -183,23 +137,17 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных. Анализируются все данные на корректность]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. All data are analyzed for consistency.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Имеются динамические ряды с 1993 года. Данные публикуются в статистическом бюллетене «Основные показатели торговли и услуг», в сборнике «Потребительский рынок Кыргызской Республики» и размещаются на сайте НСК КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Time series have been available since 1993. Data published in statistical bulletin «Basic Indicators of Trade and Services», compendium «Consumer Market of the Kyrgyz Republic» and on the NSC website]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
@@ -209,7 +157,7 @@ A system of indicators allows determining the volume, structure, dynamics and re
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ac72f3f2-8fce-4351-9afd-be3bed766c9b">
+  <mes:MetadataSet structureRef="MDS1" setID="752469c4-0f9b-40b2-a9f4-d57926db8b29">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -236,15 +184,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 9: Создание стойкой инфраструктуры, содействие всеохватной и устойчивой индустриализации и инновациям. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[9.1. Развивать качественную, надежную, устойчивую и стойкую инфраструктуру, включая региональную и трансграничную инфраструктуру, в целях поддержки экономического развития и благополучия людей, уделяя особое внимание обеспечению недорогого и равноправного доступа для всех]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[9.1. Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all]]></com:Text>
           
@@ -252,16 +196,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[9.1.2. Объем пассажирских и грузовых перевозок в разбивке по видам транспорта. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[9.1.2. Passenger and freight volumes, by mode of transport]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики потребительского рынка, ИКТ и туризма)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
 (Consumer Market, ICT and Tourism Statistics Division)  ]]></com:Text>
@@ -270,15 +209,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Мамбеталиева В.Т.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Mambetalieva V.T.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[vmambetalieva@stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[vmambetalieva@stat.kg]]></com:Text>
           
@@ -286,17 +221,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[324725, 0555 455010]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[324725, 0555 455010]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Объем пассажирских и грузовых перевозок измеряется показателями:  
-
-Перевезено грузов (объем перевозок грузов) - количество грузов в тоннах, перевезенных транспортом. Перевезено пассажиров - число пассажиров, перевезенных за определенный период времени учитывается по видам транспорта, сообщений.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Passenger and freight volumes are measured by:  
 
@@ -306,15 +235,11 @@ Freight transported (volume of goods transported) - quantity of goods transporte
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[В задачи статистики транспорта входит наблюдение за статистическими данными, изучающими явления и процессы, происходящие на транспорте (размеры инфраструктуры, количество подвижного транспортного оборудования, объемы перевозок и другие показатели, относящиеся к транспорту), а также задачи в обеспечении получения качественной, объективной и полной информации от предприятий, организаций; оценки предпринимательской деятельности (физических лиц) и формировании сводных данных статистическими органами по единой методологии. При этом статистика транспорта не ограничивается только установлением факта того или иного показателя, но и изучает причины, вызвавшие отклонения, выявляет наличие резервов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The objective of transport statistics is to monitor facts and processes in transport (infrastructure size, mobile equipment, traffic volumes and other transport related indicators)as well as tasks in ensuring quality, objective and complete information received from enterprises and organizations; estimation of entrepreneurial activity (private persons) and compilation of consolidated data by statistical agencies according to unified methodology. Transport statistics do not limit to indicator, but also examine the reasons for deviations and availability of reserves.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Источниками данных являются формы государственной статистической отчетности и итоги выборочных обследований на автомобильном транспорте (грузовом и пассажирском) частных предпринимателей (физических лиц)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data for indicator derived from the State statistical reports and results of sample surveys in road transport (freight and passenger) by private entrepreneurs (private persons) ]]></com:Text>
           
@@ -322,31 +247,11 @@ Freight transported (volume of goods transported) - quantity of goods transporte
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Форму статистической отчетности (ежемесячно, ежеквартально и за год) представляют юридические лица, оказывающие транспортные услуги в районные отделы управления государственной статистики. Данные транспортных услуг, оказывающих индивидуальными предпринимателями и физическими лицами, формируются на основе итогов ежеквартальных выборочных обследований, проводимых специалистами органов государственной статистики.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Форму статистической отчетности (ежемесячно, ежеквартально и за год) представляют юридические лица, оказывающие транспортные услуги в районные отделы управления государственной статистики. Данные транспортных услуг, оказывающих индивидуальными предпринимателями и физическими лицами, формируются на основе итогов ежеквартальных выборочных обследований, проводимых специалистами органов государственной статистики.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Общий объем (Wобщ.) услуг (перевозки грузов) грузового автомобильного транспорта включает в себя: 
-• суммарные объемы перевозок грузов, выполненные грузовыми автомобилями, пикапами и фургонами на шасси легковых автомобилей и автоприцепами специализированных автотранспортных предприятий (малые, средние, крупные) (VАтп);
-• суммарные объемы перевозок грузов, выполненные грузовыми автомобилями предприятий и организаций республики, имеющих грузовой автомобильный транспорт как вид вспомогательной деятельности (Vвед.);
-• оценки объемов предпринимателей (физических лиц) – владельцев грузовых автомобилей, занимающихся предпринимательской деятельностью без образования юридического лица (предпринимателем) (Vф.л.)
-Или Wобщ. = VАтп + Vвед. + Vф.л 
-Объемы перевозок грузов специализированными предприятиями автомобильного транспорта получают по данным государственной статистической отчетности месячной, квартальной, годовой (Форма № 1-АВТО «Отчет о работе городского и дорожного транспорта», Форма № 65-АВТОМ «Отчет о продукции автомобильного транспорта», Форма № 5-АХ «Отчет о доходах и расходах по автоперевозкам»).
-Аналогично определяется объем грузооборота, выполненного специализированными предприятиями автотранспорта (Форма № 1-АВТО, Форма № 65-АВТОМ, Форма № 5-АХ).
-Объемы перевозок грузов (грузооборот) на предприятиях, организациях, имеющих автомобильный транспорт, как вид вспомогательной деятельности определяется ежемесячно по оценке (путем проведения ежеквартального выборочного обследования); по итогу за год по данным государственной статистической отчетности (Форма № 1-ТР (ШОС) «Отчет об автотранспорте»).
-Дорасчет объема коммерческих перевозок предпринимателями (физическими лицами) - владельцами грузовых автомобилей осуществляется по данным ежеквартального выборочного обследования. 
-Общий объем перевозок пассажиров (Wпасс.) автомобильного транспорта включает в себя:  
-• объемы перевозок пассажиров, выполненные автобусами специализированных автотранспортных предприятий (малые, средние, крупные) VАтп (автобусы); 
-• расчеты объемов перевозок автобусами, находящимися в личной собственности граждан и числа автобусов, сданных в аренду физическим лицам Vф.л (автобусы) и расчетов объемов перевозок пассажиров легковыми автомобилями индивидуальных владельцев, получивших патент органов налоговой инспекции на право оказания услуг Vф.л (такси) 
-или Wпасс. = VАтп (автобусы) + Vф.л (автобусы) + Vф.л (такси) 
-Аналогично определяется общий объем пассажирооборота. 
-Объемы перевозок пассажиров автобусами специализированных предприятий автомобильного транспорта получают по данным государственной статистической отчетности - месячной, квартальной, годовой (Форма № 1-АВТО, Форма № 65-АВТОМ, Форма № 5-АХ). 
-Аналогично определяется объем пассажирооборота, выполненного специализированными предприятиями автотранспорта. 
-Оценка объема перевозок пассажиров (автобусы, такси) и пассажирооборота индивидуальных предпринимателей (физических лиц) осуществляется по данным ежеквартального выборочного обследования.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Total (Wtotal) services (freight transportation) of road freight transport include:
 • total volume of goods transported by trucks, pickups and vans on passenger cars and motor trailers by specialized road transport enterprises (small, medium, large) (Vate);
@@ -370,9 +275,6 @@ Volume of passengers transported by buses, taxis and passengers transported by i
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Предметом исследования статистики транспорта являются экономические процессы и явления массового характера, которые происходят на транспортных предприятиях и представляют собой результаты транспортного процесса и факторы его реализация в конкретное время и в конкретном месте. 
-При помощи системы показателей можно определить объемы, структуру, динамику и взаимосвязь факторов и результатов процесса производства. Таким образом, статистика позволяет придать взаимосвязям и закономерностям в развитии транспортной отрасли количественное выражение.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Transport statistics focus on economic processes and phenomena occuring in transport enterprises and representing results of transport process and its implementation at a specific time and place.
 A system of indicators allows determining the volume, structure, dynamics and relationships of factors and production outcomes. Thus, statistics make it possible to quantify the relationships and patterns in transport industry.]]></com:Text>
           
@@ -380,23 +282,17 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных. Анализируются все данные на корректность]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. All data are analyzed for consistency.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Имеются динамические ряды с 1993 года. Данные публикуются в статистическом бюллетене «Основные показатели торговли и услуг», в сборнике «Потребительский рынок Кыргызской Республики» и размещаются на сайте НСК КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Time series have been available since 1993. Data published in statistical bulletin «Basic Indicators of Trade and Services», compendium «Consumer Market of the Kyrgyz Republic» and on the NSC website]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
@@ -406,7 +302,7 @@ A system of indicators allows determining the volume, structure, dynamics and re
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c4ae8e4b-de01-4dad-8e17-5ed33ad0e44d">
+  <mes:MetadataSet structureRef="MDS1" setID="8d062ce1-3a28-4e24-a9d7-d4c8f68e1f26">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -433,15 +329,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 9: Создание стойкой инфраструктуры, содействие всеохватной и устойчивой индустриализации и инновациям. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[9.1. Развивать качественную, надежную, устойчивую и стойкую инфраструктуру, включая региональную и трансграничную инфраструктуру, в целях поддержки экономического развития и благополучия людей, уделяя особое внимание обеспечению недорогого и равноправного доступа для всех]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[9.1. Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all]]></com:Text>
           
@@ -449,16 +341,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[9.1.2. Объем пассажирских и грузовых перевозок в разбивке по видам транспорта. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[9.1.2. Passenger and freight volumes, by mode of transport]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики потребительского рынка, ИКТ и туризма)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
 (Consumer Market, ICT and Tourism Statistics Division)  ]]></com:Text>
@@ -467,15 +354,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Мамбеталиева В.Т.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Mambetalieva V.T.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[vmambetalieva@stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[vmambetalieva@stat.kg]]></com:Text>
           
@@ -483,17 +366,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[324725, 0555 455010]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[324725, 0555 455010]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Объем пассажирских и грузовых перевозок измеряется показателями:  
-
-Перевезено грузов (объем перевозок грузов) - количество грузов в тоннах, перевезенных транспортом. Перевезено пассажиров - число пассажиров, перевезенных за определенный период времени учитывается по видам транспорта, сообщений.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Passenger and freight volumes are measured by:  
 
@@ -503,15 +380,11 @@ Freight transported (volume of goods transported) - quantity of goods transporte
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[В задачи статистики транспорта входит наблюдение за статистическими данными, изучающими явления и процессы, происходящие на транспорте (размеры инфраструктуры, количество подвижного транспортного оборудования, объемы перевозок и другие показатели, относящиеся к транспорту), а также задачи в обеспечении получения качественной, объективной и полной информации от предприятий, организаций; оценки предпринимательской деятельности (физических лиц) и формировании сводных данных статистическими органами по единой методологии. При этом статистика транспорта не ограничивается только установлением факта того или иного показателя, но и изучает причины, вызвавшие отклонения, выявляет наличие резервов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The objective of transport statistics is to monitor facts and processes in transport (infrastructure size, mobile equipment, traffic volumes and other transport related indicators)as well as tasks in ensuring quality, objective and complete information received from enterprises and organizations; estimation of entrepreneurial activity (private persons) and compilation of consolidated data by statistical agencies according to unified methodology. Transport statistics do not limit to indicator, but also examine the reasons for deviations and availability of reserves.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Источниками данных являются формы государственной статистической отчетности и итоги выборочных обследований на автомобильном транспорте (грузовом и пассажирском) частных предпринимателей (физических лиц)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data for indicator derived from the State statistical reports and results of sample surveys in road transport (freight and passenger) by private entrepreneurs (private persons) ]]></com:Text>
           
@@ -519,31 +392,11 @@ Freight transported (volume of goods transported) - quantity of goods transporte
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Форму статистической отчетности (ежемесячно, ежеквартально и за год) представляют юридические лица, оказывающие транспортные услуги в районные отделы управления государственной статистики. Данные транспортных услуг, оказывающих индивидуальными предпринимателями и физическими лицами, формируются на основе итогов ежеквартальных выборочных обследований, проводимых специалистами органов государственной статистики.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Форму статистической отчетности (ежемесячно, ежеквартально и за год) представляют юридические лица, оказывающие транспортные услуги в районные отделы управления государственной статистики. Данные транспортных услуг, оказывающих индивидуальными предпринимателями и физическими лицами, формируются на основе итогов ежеквартальных выборочных обследований, проводимых специалистами органов государственной статистики.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Общий объем (Wобщ.) услуг (перевозки грузов) грузового автомобильного транспорта включает в себя: 
-• суммарные объемы перевозок грузов, выполненные грузовыми автомобилями, пикапами и фургонами на шасси легковых автомобилей и автоприцепами специализированных автотранспортных предприятий (малые, средние, крупные) (VАтп);
-• суммарные объемы перевозок грузов, выполненные грузовыми автомобилями предприятий и организаций республики, имеющих грузовой автомобильный транспорт как вид вспомогательной деятельности (Vвед.);
-• оценки объемов предпринимателей (физических лиц) – владельцев грузовых автомобилей, занимающихся предпринимательской деятельностью без образования юридического лица (предпринимателем) (Vф.л.)
-Или Wобщ. = VАтп + Vвед. + Vф.л 
-Объемы перевозок грузов специализированными предприятиями автомобильного транспорта получают по данным государственной статистической отчетности месячной, квартальной, годовой (Форма № 1-АВТО «Отчет о работе городского и дорожного транспорта», Форма № 65-АВТОМ «Отчет о продукции автомобильного транспорта», Форма № 5-АХ «Отчет о доходах и расходах по автоперевозкам»).
-Аналогично определяется объем грузооборота, выполненного специализированными предприятиями автотранспорта (Форма № 1-АВТО, Форма № 65-АВТОМ, Форма № 5-АХ).
-Объемы перевозок грузов (грузооборот) на предприятиях, организациях, имеющих автомобильный транспорт, как вид вспомогательной деятельности определяется ежемесячно по оценке (путем проведения ежеквартального выборочного обследования); по итогу за год по данным государственной статистической отчетности (Форма № 1-ТР (ШОС) «Отчет об автотранспорте»).
-Дорасчет объема коммерческих перевозок предпринимателями (физическими лицами) - владельцами грузовых автомобилей осуществляется по данным ежеквартального выборочного обследования. 
-Общий объем перевозок пассажиров (Wпасс.) автомобильного транспорта включает в себя:  
-• объемы перевозок пассажиров, выполненные автобусами специализированных автотранспортных предприятий (малые, средние, крупные) VАтп (автобусы); 
-• расчеты объемов перевозок автобусами, находящимися в личной собственности граждан и числа автобусов, сданных в аренду физическим лицам Vф.л (автобусы) и расчетов объемов перевозок пассажиров легковыми автомобилями индивидуальных владельцев, получивших патент органов налоговой инспекции на право оказания услуг Vф.л (такси) 
-или Wпасс. = VАтп (автобусы) + Vф.л (автобусы) + Vф.л (такси) 
-Аналогично определяется общий объем пассажирооборота. 
-Объемы перевозок пассажиров автобусами специализированных предприятий автомобильного транспорта получают по данным государственной статистической отчетности - месячной, квартальной, годовой (Форма № 1-АВТО, Форма № 65-АВТОМ, Форма № 5-АХ). 
-Аналогично определяется объем пассажирооборота, выполненного специализированными предприятиями автотранспорта. 
-Оценка объема перевозок пассажиров (автобусы, такси) и пассажирооборота индивидуальных предпринимателей (физических лиц) осуществляется по данным ежеквартального выборочного обследования.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Total (Wtotal) services (freight transportation) of road freight transport include:
 • total volume of goods transported by trucks, pickups and vans on passenger cars and motor trailers by specialized road transport enterprises (small, medium, large) (Vate);
@@ -567,9 +420,6 @@ Volume of passengers transported by buses, taxis and passengers transported by i
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Предметом исследования статистики транспорта являются экономические процессы и явления массового характера, которые происходят на транспортных предприятиях и представляют собой результаты транспортного процесса и факторы его реализация в конкретное время и в конкретном месте. 
-При помощи системы показателей можно определить объемы, структуру, динамику и взаимосвязь факторов и результатов процесса производства. Таким образом, статистика позволяет придать взаимосвязям и закономерностям в развитии транспортной отрасли количественное выражение.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Transport statistics focus on economic processes and phenomena occuring in transport enterprises and representing results of transport process and its implementation at a specific time and place.
 A system of indicators allows determining the volume, structure, dynamics and relationships of factors and production outcomes. Thus, statistics make it possible to quantify the relationships and patterns in transport industry.]]></com:Text>
           
@@ -577,23 +427,17 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных. Анализируются все данные на корректность]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. All data are analyzed for consistency.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Имеются динамические ряды с 1993 года. Данные публикуются в статистическом бюллетене «Основные показатели торговли и услуг», в сборнике «Потребительский рынок Кыргызской Республики» и размещаются на сайте НСК КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Time series have been available since 1993. Data published in statistical bulletin «Basic Indicators of Trade and Services», compendium «Consumer Market of the Kyrgyz Republic» and on the NSC website]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
@@ -603,7 +447,7 @@ A system of indicators allows determining the volume, structure, dynamics and re
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="67409987-af32-4213-ae37-50ab25ab898b">
+  <mes:MetadataSet structureRef="MDS1" setID="8f1f1f55-baeb-41b0-af09-7a41c6716f93">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -630,15 +474,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 9: Создание стойкой инфраструктуры, содействие всеохватной и устойчивой индустриализации и инновациям. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[9.1. Развивать качественную, надежную, устойчивую и стойкую инфраструктуру, включая региональную и трансграничную инфраструктуру, в целях поддержки экономического развития и благополучия людей, уделяя особое внимание обеспечению недорогого и равноправного доступа для всех]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[9.1. Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all]]></com:Text>
           
@@ -646,16 +486,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[9.1.2. Объем пассажирских и грузовых перевозок в разбивке по видам транспорта. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[9.1.2. Passenger and freight volumes, by mode of transport]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики потребительского рынка, ИКТ и туризма)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
 (Consumer Market, ICT and Tourism Statistics Division)  ]]></com:Text>
@@ -664,15 +499,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Мамбеталиева В.Т.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Mambetalieva V.T.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[vmambetalieva@stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[vmambetalieva@stat.kg]]></com:Text>
           
@@ -680,17 +511,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[324725, 0555 455010]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[324725, 0555 455010]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Объем пассажирских и грузовых перевозок измеряется показателями:  
-
-Перевезено грузов (объем перевозок грузов) - количество грузов в тоннах, перевезенных транспортом. Перевезено пассажиров - число пассажиров, перевезенных за определенный период времени учитывается по видам транспорта, сообщений.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Passenger and freight volumes are measured by:  
 
@@ -700,15 +525,11 @@ Freight transported (volume of goods transported) - quantity of goods transporte
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[В задачи статистики транспорта входит наблюдение за статистическими данными, изучающими явления и процессы, происходящие на транспорте (размеры инфраструктуры, количество подвижного транспортного оборудования, объемы перевозок и другие показатели, относящиеся к транспорту), а также задачи в обеспечении получения качественной, объективной и полной информации от предприятий, организаций; оценки предпринимательской деятельности (физических лиц) и формировании сводных данных статистическими органами по единой методологии. При этом статистика транспорта не ограничивается только установлением факта того или иного показателя, но и изучает причины, вызвавшие отклонения, выявляет наличие резервов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The objective of transport statistics is to monitor facts and processes in transport (infrastructure size, mobile equipment, traffic volumes and other transport related indicators)as well as tasks in ensuring quality, objective and complete information received from enterprises and organizations; estimation of entrepreneurial activity (private persons) and compilation of consolidated data by statistical agencies according to unified methodology. Transport statistics do not limit to indicator, but also examine the reasons for deviations and availability of reserves.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Источниками данных являются формы государственной статистической отчетности и итоги выборочных обследований на автомобильном транспорте (грузовом и пассажирском) частных предпринимателей (физических лиц)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data for indicator derived from the State statistical reports and results of sample surveys in road transport (freight and passenger) by private entrepreneurs (private persons) ]]></com:Text>
           
@@ -716,31 +537,11 @@ Freight transported (volume of goods transported) - quantity of goods transporte
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Форму статистической отчетности (ежемесячно, ежеквартально и за год) представляют юридические лица, оказывающие транспортные услуги в районные отделы управления государственной статистики. Данные транспортных услуг, оказывающих индивидуальными предпринимателями и физическими лицами, формируются на основе итогов ежеквартальных выборочных обследований, проводимых специалистами органов государственной статистики.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Форму статистической отчетности (ежемесячно, ежеквартально и за год) представляют юридические лица, оказывающие транспортные услуги в районные отделы управления государственной статистики. Данные транспортных услуг, оказывающих индивидуальными предпринимателями и физическими лицами, формируются на основе итогов ежеквартальных выборочных обследований, проводимых специалистами органов государственной статистики.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Общий объем (Wобщ.) услуг (перевозки грузов) грузового автомобильного транспорта включает в себя: 
-• суммарные объемы перевозок грузов, выполненные грузовыми автомобилями, пикапами и фургонами на шасси легковых автомобилей и автоприцепами специализированных автотранспортных предприятий (малые, средние, крупные) (VАтп);
-• суммарные объемы перевозок грузов, выполненные грузовыми автомобилями предприятий и организаций республики, имеющих грузовой автомобильный транспорт как вид вспомогательной деятельности (Vвед.);
-• оценки объемов предпринимателей (физических лиц) – владельцев грузовых автомобилей, занимающихся предпринимательской деятельностью без образования юридического лица (предпринимателем) (Vф.л.)
-Или Wобщ. = VАтп + Vвед. + Vф.л 
-Объемы перевозок грузов специализированными предприятиями автомобильного транспорта получают по данным государственной статистической отчетности месячной, квартальной, годовой (Форма № 1-АВТО «Отчет о работе городского и дорожного транспорта», Форма № 65-АВТОМ «Отчет о продукции автомобильного транспорта», Форма № 5-АХ «Отчет о доходах и расходах по автоперевозкам»).
-Аналогично определяется объем грузооборота, выполненного специализированными предприятиями автотранспорта (Форма № 1-АВТО, Форма № 65-АВТОМ, Форма № 5-АХ).
-Объемы перевозок грузов (грузооборот) на предприятиях, организациях, имеющих автомобильный транспорт, как вид вспомогательной деятельности определяется ежемесячно по оценке (путем проведения ежеквартального выборочного обследования); по итогу за год по данным государственной статистической отчетности (Форма № 1-ТР (ШОС) «Отчет об автотранспорте»).
-Дорасчет объема коммерческих перевозок предпринимателями (физическими лицами) - владельцами грузовых автомобилей осуществляется по данным ежеквартального выборочного обследования. 
-Общий объем перевозок пассажиров (Wпасс.) автомобильного транспорта включает в себя:  
-• объемы перевозок пассажиров, выполненные автобусами специализированных автотранспортных предприятий (малые, средние, крупные) VАтп (автобусы); 
-• расчеты объемов перевозок автобусами, находящимися в личной собственности граждан и числа автобусов, сданных в аренду физическим лицам Vф.л (автобусы) и расчетов объемов перевозок пассажиров легковыми автомобилями индивидуальных владельцев, получивших патент органов налоговой инспекции на право оказания услуг Vф.л (такси) 
-или Wпасс. = VАтп (автобусы) + Vф.л (автобусы) + Vф.л (такси) 
-Аналогично определяется общий объем пассажирооборота. 
-Объемы перевозок пассажиров автобусами специализированных предприятий автомобильного транспорта получают по данным государственной статистической отчетности - месячной, квартальной, годовой (Форма № 1-АВТО, Форма № 65-АВТОМ, Форма № 5-АХ). 
-Аналогично определяется объем пассажирооборота, выполненного специализированными предприятиями автотранспорта. 
-Оценка объема перевозок пассажиров (автобусы, такси) и пассажирооборота индивидуальных предпринимателей (физических лиц) осуществляется по данным ежеквартального выборочного обследования.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Total (Wtotal) services (freight transportation) of road freight transport include:
 • total volume of goods transported by trucks, pickups and vans on passenger cars and motor trailers by specialized road transport enterprises (small, medium, large) (Vate);
@@ -764,9 +565,6 @@ Volume of passengers transported by buses, taxis and passengers transported by i
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Предметом исследования статистики транспорта являются экономические процессы и явления массового характера, которые происходят на транспортных предприятиях и представляют собой результаты транспортного процесса и факторы его реализация в конкретное время и в конкретном месте. 
-При помощи системы показателей можно определить объемы, структуру, динамику и взаимосвязь факторов и результатов процесса производства. Таким образом, статистика позволяет придать взаимосвязям и закономерностям в развитии транспортной отрасли количественное выражение.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Transport statistics focus on economic processes and phenomena occuring in transport enterprises and representing results of transport process and its implementation at a specific time and place.
 A system of indicators allows determining the volume, structure, dynamics and relationships of factors and production outcomes. Thus, statistics make it possible to quantify the relationships and patterns in transport industry.]]></com:Text>
           
@@ -774,23 +572,17 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных. Анализируются все данные на корректность]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. All data are analyzed for consistency.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Имеются динамические ряды с 1993 года. Данные публикуются в статистическом бюллетене «Основные показатели торговли и услуг», в сборнике «Потребительский рынок Кыргызской Республики» и размещаются на сайте НСК КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Time series have been available since 1993. Data published in statistical bulletin «Basic Indicators of Trade and Services», compendium «Consumer Market of the Kyrgyz Republic» and on the NSC website]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
@@ -800,7 +592,7 @@ A system of indicators allows determining the volume, structure, dynamics and re
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c196ec01-e35c-4bbf-bf7a-b93e5544b06e">
+  <mes:MetadataSet structureRef="MDS1" setID="96556e7d-4179-4f33-a386-cdb6198a59ef">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -827,15 +619,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 9: Создание стойкой инфраструктуры, содействие всеохватной и устойчивой индустриализации и инновациям. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[9.1. Развивать качественную, надежную, устойчивую и стойкую инфраструктуру, включая региональную и трансграничную инфраструктуру, в целях поддержки экономического развития и благополучия людей, уделяя особое внимание обеспечению недорогого и равноправного доступа для всех]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[9.1. Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all]]></com:Text>
           
@@ -843,16 +631,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[9.1.2. Объем пассажирских и грузовых перевозок в разбивке по видам транспорта. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[9.1.2. Passenger and freight volumes, by mode of transport]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР
-(Отдел статистики потребительского рынка, ИКТ и туризма)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
 (Consumer Market, ICT and Tourism Statistics Division)  ]]></com:Text>
@@ -861,15 +644,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Мамбеталиева В.Т.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Mambetalieva V.T.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[vmambetalieva@stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[vmambetalieva@stat.kg]]></com:Text>
           
@@ -877,17 +656,11 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[324725, 0555 455010]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[324725, 0555 455010]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Объем пассажирских и грузовых перевозок измеряется показателями:  
-
-Перевезено грузов (объем перевозок грузов) - количество грузов в тоннах, перевезенных транспортом. Перевезено пассажиров - число пассажиров, перевезенных за определенный период времени учитывается по видам транспорта, сообщений.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Passenger and freight volumes are measured by:  
 
@@ -897,15 +670,11 @@ Freight transported (volume of goods transported) - quantity of goods transporte
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[В задачи статистики транспорта входит наблюдение за статистическими данными, изучающими явления и процессы, происходящие на транспорте (размеры инфраструктуры, количество подвижного транспортного оборудования, объемы перевозок и другие показатели, относящиеся к транспорту), а также задачи в обеспечении получения качественной, объективной и полной информации от предприятий, организаций; оценки предпринимательской деятельности (физических лиц) и формировании сводных данных статистическими органами по единой методологии. При этом статистика транспорта не ограничивается только установлением факта того или иного показателя, но и изучает причины, вызвавшие отклонения, выявляет наличие резервов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The objective of transport statistics is to monitor facts and processes in transport (infrastructure size, mobile equipment, traffic volumes and other transport related indicators)as well as tasks in ensuring quality, objective and complete information received from enterprises and organizations; estimation of entrepreneurial activity (private persons) and compilation of consolidated data by statistical agencies according to unified methodology. Transport statistics do not limit to indicator, but also examine the reasons for deviations and availability of reserves.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Источниками данных являются формы государственной статистической отчетности и итоги выборочных обследований на автомобильном транспорте (грузовом и пассажирском) частных предпринимателей (физических лиц)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data for indicator derived from the State statistical reports and results of sample surveys in road transport (freight and passenger) by private entrepreneurs (private persons) ]]></com:Text>
           
@@ -913,31 +682,11 @@ Freight transported (volume of goods transported) - quantity of goods transporte
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Форму статистической отчетности (ежемесячно, ежеквартально и за год) представляют юридические лица, оказывающие транспортные услуги в районные отделы управления государственной статистики. Данные транспортных услуг, оказывающих индивидуальными предпринимателями и физическими лицами, формируются на основе итогов ежеквартальных выборочных обследований, проводимых специалистами органов государственной статистики.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Форму статистической отчетности (ежемесячно, ежеквартально и за год) представляют юридические лица, оказывающие транспортные услуги в районные отделы управления государственной статистики. Данные транспортных услуг, оказывающих индивидуальными предпринимателями и физическими лицами, формируются на основе итогов ежеквартальных выборочных обследований, проводимых специалистами органов государственной статистики.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Общий объем (Wобщ.) услуг (перевозки грузов) грузового автомобильного транспорта включает в себя: 
-• суммарные объемы перевозок грузов, выполненные грузовыми автомобилями, пикапами и фургонами на шасси легковых автомобилей и автоприцепами специализированных автотранспортных предприятий (малые, средние, крупные) (VАтп);
-• суммарные объемы перевозок грузов, выполненные грузовыми автомобилями предприятий и организаций республики, имеющих грузовой автомобильный транспорт как вид вспомогательной деятельности (Vвед.);
-• оценки объемов предпринимателей (физических лиц) – владельцев грузовых автомобилей, занимающихся предпринимательской деятельностью без образования юридического лица (предпринимателем) (Vф.л.)
-Или Wобщ. = VАтп + Vвед. + Vф.л 
-Объемы перевозок грузов специализированными предприятиями автомобильного транспорта получают по данным государственной статистической отчетности месячной, квартальной, годовой (Форма № 1-АВТО «Отчет о работе городского и дорожного транспорта», Форма № 65-АВТОМ «Отчет о продукции автомобильного транспорта», Форма № 5-АХ «Отчет о доходах и расходах по автоперевозкам»).
-Аналогично определяется объем грузооборота, выполненного специализированными предприятиями автотранспорта (Форма № 1-АВТО, Форма № 65-АВТОМ, Форма № 5-АХ).
-Объемы перевозок грузов (грузооборот) на предприятиях, организациях, имеющих автомобильный транспорт, как вид вспомогательной деятельности определяется ежемесячно по оценке (путем проведения ежеквартального выборочного обследования); по итогу за год по данным государственной статистической отчетности (Форма № 1-ТР (ШОС) «Отчет об автотранспорте»).
-Дорасчет объема коммерческих перевозок предпринимателями (физическими лицами) - владельцами грузовых автомобилей осуществляется по данным ежеквартального выборочного обследования. 
-Общий объем перевозок пассажиров (Wпасс.) автомобильного транспорта включает в себя:  
-• объемы перевозок пассажиров, выполненные автобусами специализированных автотранспортных предприятий (малые, средние, крупные) VАтп (автобусы); 
-• расчеты объемов перевозок автобусами, находящимися в личной собственности граждан и числа автобусов, сданных в аренду физическим лицам Vф.л (автобусы) и расчетов объемов перевозок пассажиров легковыми автомобилями индивидуальных владельцев, получивших патент органов налоговой инспекции на право оказания услуг Vф.л (такси) 
-или Wпасс. = VАтп (автобусы) + Vф.л (автобусы) + Vф.л (такси) 
-Аналогично определяется общий объем пассажирооборота. 
-Объемы перевозок пассажиров автобусами специализированных предприятий автомобильного транспорта получают по данным государственной статистической отчетности - месячной, квартальной, годовой (Форма № 1-АВТО, Форма № 65-АВТОМ, Форма № 5-АХ). 
-Аналогично определяется объем пассажирооборота, выполненного специализированными предприятиями автотранспорта. 
-Оценка объема перевозок пассажиров (автобусы, такси) и пассажирооборота индивидуальных предпринимателей (физических лиц) осуществляется по данным ежеквартального выборочного обследования.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Total (Wtotal) services (freight transportation) of road freight transport include:
 • total volume of goods transported by trucks, pickups and vans on passenger cars and motor trailers by specialized road transport enterprises (small, medium, large) (Vate);
@@ -961,9 +710,6 @@ Volume of passengers transported by buses, taxis and passengers transported by i
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Предметом исследования статистики транспорта являются экономические процессы и явления массового характера, которые происходят на транспортных предприятиях и представляют собой результаты транспортного процесса и факторы его реализация в конкретное время и в конкретном месте. 
-При помощи системы показателей можно определить объемы, структуру, динамику и взаимосвязь факторов и результатов процесса производства. Таким образом, статистика позволяет придать взаимосвязям и закономерностям в развитии транспортной отрасли количественное выражение.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Transport statistics focus on economic processes and phenomena occuring in transport enterprises and representing results of transport process and its implementation at a specific time and place.
 A system of indicators allows determining the volume, structure, dynamics and relationships of factors and production outcomes. Thus, statistics make it possible to quantify the relationships and patterns in transport industry.]]></com:Text>
           
@@ -971,23 +717,17 @@ A system of indicators allows determining the volume, structure, dynamics and re
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных. Анализируются все данные на корректность]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. All data are analyzed for consistency.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Имеются динамические ряды с 1993 года. Данные публикуются в статистическом бюллетене «Основные показатели торговли и услуг», в сборнике «Потребительский рынок Кыргызской Республики» и размещаются на сайте НСК КР]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Time series have been available since 1993. Data published in statistical bulletin «Basic Indicators of Trade and Services», compendium «Consumer Market of the Kyrgyz Republic» and on the NSC website]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           

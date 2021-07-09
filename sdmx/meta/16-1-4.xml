@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="76a51e72-e43d-4867-9e3b-5d6a4e8e7f84">
+  <mes:MetadataSet structureRef="MDS1" setID="5a665585-6c38-41fe-91a3-1c5da372a513">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 16. Содействие построению миролюбивого и открытого общества в интересах устойчивого развития, обеспечение доступа к правосудию для всех и создание эффективных, подотчетных и основанных на широком участии учреждений на всех уровнях]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[16.1. Значительно сократить распространенность всех форм насилия и уменьшить показатели смертности от этого явления во всем мире]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[16.1. Significantly reduce all forms of violence and related death rates everywhere]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[16.1.4. Доля людей, чувствующих себя в безопасности, когда они идут одни по улице в своем районе]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[16.1.4. Proportion of population that feel safe walking alone around the area they live]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Калымбетова Ы.И.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Y. I. Kalymbetova]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
           
@@ -87,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(312) 66 41 64]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(312) 66 41 64]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Показатель касается доли населения (взрослых), которые чувствуют себя в безопасности, гуляя в одиночестве в своём районе.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[This indicator refers to the proportion of the population (adults) who feel safe walking alone in their neighbourhood. ]]></com:Text>
           
@@ -103,15 +87,11 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Понятие "страх перед преступностью" используется в десятках обследований виктимизации преступлений, а используемая здесь стандартная формулировка рассматривается как эффективная в различных культурных контекстах. Важно понимать, что "страх перед преступностью" - это явление, которое отделено от распространенности преступности и которое может быть даже в значительной степени независимым от реального опыта, поскольку восприятие преступности и возникающий в результате этого страх перед ней опосредуются рядом факторов, таких как осознание преступности, общественное обсуждение, средства массовой информации и личные обстоятельства. Тем не менее "страх перед преступностью" сам по себе является важным показателем, поскольку высокий уровень страха может негативно сказаться на благосостоянии и привести к сокращению контактов с общественностью, снижению доверия и деятельности и, таким образом, стать препятствием на пути развития.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The concept of ‘fear of crime’ has been used in dozens of crime victimization surveys and the standard formulation used here has been seen as effective in different cultural contexts. It is important to understand that ‘fear of crime’ is a phenomenon that is separate from the prevalence of crime and that may be even largely independent from actual experience, as the perception of crime and the resulting fear of it is mediated by a number of factors, such as the awareness of crime, the public discussion and the media and personal circumstances. Nevertheless, the ‘fear of crime’ is an important indicator in itself as a high level of fear can negatively influence well-being and lead to reduced contacts with the public, reduced trust and activities and thus an obstacle to development.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[В обследование домашних хозяйств, на годовой основе включены вопросы о чувстве безопасности, которые задаются членам домашнего хозяйства в возрасте 15 лет и старше.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The annual household survey includes questions on sense of security to be answered by household members aged 15 years and older.]]></com:Text>
           
@@ -119,15 +99,11 @@
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Репрезентативные национальные обследования домашних хозяйств, а также   обследований виктимизации преступлений.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Репрезентативные национальные обследования домашних хозяйств, а также   обследований виктимизации преступлений.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля населения, которое чувствует себя в безопасности, рассчитывается путем суммирования числа респондентов, которые чувствуют себя “очень безопасно” и “довольно безопасно” и деления на общее число респондентов.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of population that feel safe is calculated by summing up the number of respondents who feel “very safe” and “fairly safe” and dividing the total by the total number of respondents. ]]></com:Text>
           
@@ -135,23 +111,17 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Хотя оценка страха перед преступностью широко применяется в обследованиях виктимизации преступлений во всем мире, в практической реализации этого показателя существуют различные практики, например, не требующие от человека “ходить в одиночку” или ограничивающие ходьбу “ночью”. В настоящее время ЮНОДК в сотрудничестве с экспертами по обследованию виктимизации разрабатывает дополнительные руководящие указания по измерению этого показателя]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[While the measurement of fear of crime is widely applied in crime victimization surveys around the world, different practices exist in the operationalization of this indicator – for example, by not requiring the person to “walk alone” or limiting the walking to “at night”. Further guidance on measuring the indicator are currently elaborated by UNODC in collaboration with victimization survey experts.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Вебсайт НСК]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The NSC website]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           

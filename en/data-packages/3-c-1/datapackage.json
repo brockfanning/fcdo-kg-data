@@ -11,20 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
             "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Medical doctors",
                 "Dentists",
                 "Pharmacists",
-                "Nursing and midwifery professionals",
-                ""
+                "Nursing and midwifery professionals"
               ]
             },
             "title": "Occupation"
@@ -33,6 +28,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

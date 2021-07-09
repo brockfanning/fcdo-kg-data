@@ -11,25 +11,37 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "15 to 19 years old",
+                "20 to 29 years old",
+                "30 to 39 years old",
+                "40 to 49 years old",
+                "50 to 59 years old",
+                "60 to 69 years old",
+                "70 years old and over"
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Batken",
-                "Jalal-Abad",
+                "",
                 "Issyk-Kul",
+                "Jalal-Abad",
                 "Naryn",
+                "Batken",
                 "Osh",
                 "Talas",
                 "Chui",
                 "Bishkek (city)",
-                "Osh (city)",
-                ""
+                "Osh (city)"
               ]
             },
             "title": "Reference area"
@@ -39,34 +51,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
+                "",
                 "Female",
-                ""
+                "Male"
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 to 19 years old",
-                "20 to 29 years old",
-                "30 to 39 years old",
-                "40 to 49 years old",
-                "50 to 59 years old",
-                "60 to 69 years old",
-                "70 years old and over",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

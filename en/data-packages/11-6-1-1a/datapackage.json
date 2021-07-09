@@ -11,21 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Waste removal: Garbage chute",
-                "Waste removal: Collection by truck, container",
-                "Waste removal: Dumping into garbage heaps",
+                "",
                 "Waste removal: Burning",
                 "Waste removal: Burying",
-                ""
+                "Waste removal: Collection by truck, container",
+                "Waste removal: Dumping into garbage heaps",
+                "Waste removal: Garbage chute"
               ]
             },
             "title": "Composite breakdown"
@@ -34,6 +29,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

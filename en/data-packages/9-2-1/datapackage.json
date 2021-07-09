@@ -11,62 +11,62 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "UNIT_MULT",
+            "name": "COMMENT_TS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
-                "Thousands",
-                ""
+                "",
+                "CUR_LCU",
+                "PT"
               ]
             },
-            "title": "Unit multiplier"
+            "title": "Time series-level footnotes"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "NV_IND_MANF",
-                "NV_IND_MANFPC",
-                ""
+                "NV_IND_MANFPC"
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Units",
+                "Thousands"
+              ]
+            },
+            "title": "Unit multiplier"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "",
                 "CUR_LCU",
-                ""
+                "PT"
               ]
             },
             "title": "Units"
           },
           {
-            "name": "COMMENT_TS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                "CUR_LCU",
-                ""
-              ]
-            },
-            "title": "Time series-level footnotes"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

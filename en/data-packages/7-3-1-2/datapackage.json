@@ -11,56 +11,51 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "UNIT_MULT",
+            "name": "ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
-                "Thousands",
-                "Millions",
-                ""
+                "",
+                "Agriculture, forestry and fishing",
+                "Industry (total)"
               ]
             },
-            "title": "Unit multiplier"
+            "title": "Economic activity"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "_L_KG_070301_2A",
-                "_L_KG_070301_2B",
-                ""
+                "_L_KG_070301_2B"
               ]
             },
             "title": "Series"
           },
           {
-            "name": "ACTIVITY",
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture, forestry and fishing",
-                "Industry (total)",
-                ""
+                "",
+                "Units",
+                "Thousands",
+                "Millions"
               ]
             },
-            "title": "Economic activity"
+            "title": "Unit multiplier"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KWH_MN_KGS",
-                "_L_TH_KWH_MN_KGS",
+                "",
                 "_L_KWH",
-                ""
+                "_L_KWH_MN_KGS",
+                "_L_TH_KWH_MN_KGS"
               ]
             },
             "title": "Units"
@@ -69,6 +64,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

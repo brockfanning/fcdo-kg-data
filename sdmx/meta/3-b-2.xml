@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="677f6220-bf29-42df-b06a-9655b2358ea1">
+  <mes:MetadataSet structureRef="MDS1" setID="5ae375e0-9af2-4ff6-b84f-4319643df7a6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 3. Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3. Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[3.b Оказывать содействие исследованиям и разработкам вакцин и лекарственных препаратов для лечения инфекционных и неинфекционных болезней, которые в первую очередь затрагивают развивающиеся страны, обеспечивать доступность недорогих основных лекарственных средств и вакцин в соответствии с Дохинской декларацией «Соглашение по ТРИПС и общественное здравоохранение», в которой подтверждается право развивающихся стран в полном объеме использовать положения Соглашения по торговым аспектам прав интеллектуальной собственности в отношении проявления гибкости для целей охраны здоровья населения и, в частности, обеспечения доступа к лекарственным средствам для всех.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[3.b Support the research and development of vaccines and medicines for the communicable and non-communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[3.b.2 Общий чистый объем официальной помощи в целях развития, направленной на медицинские исследования и в основные отрасли здравоохранения.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3.b.2 Total net official development assistance to the medical research and basic health sectors]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство финансов Кыргызской Республики,                              Министерство здравоохранения Кыргызской Республики]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Finance of the Kyrgyz Republic, 
 Ministry of Health of the Kyrgyz Republic]]></com:Text>
@@ -72,15 +64,11 @@ Ministry of Health of the Kyrgyz Republic]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[ch.kenjebaeva@minfin.kg]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kenjebaeva Chinara Sharshenovna – Acting Head of the International Cooperation Department, MoF KR]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[МФ: +996-0312-66-20-04]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ch.kenjebaeva@minfin.kg]]></com:Text>
           
@@ -88,15 +76,11 @@ Ministry of Health of the Kyrgyz Republic]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[www.minfin.kg]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[MoF: +996-0312-66-20-04]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Общая официальная помощь в целях развития (далее - ОПР) медицинских исследований и основным секторам здравоохранения в настоящее время измеряется валовыми расходами на общую ОПР от всех предоставляющих помощь медицинским исследованиям и помощь в удержании необходимого минимума для поддержания здоровья.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Total official development assistance (hereinafter ODA) to the medical research and basic health sectors is currently measured as gross disbursements of total ODA from all donors to medical research and minimum health support.]]></com:Text>
           
@@ -104,15 +88,11 @@ Ministry of Health of the Kyrgyz Republic]]></com:Text>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Общий объем потоков ОПР в развивающиеся страны оценивает общественные усилия, которые предоставляют развивающимся странам помощь для медицинских исследований и поддержания минимального уровня здоровья.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Total ODA flows to developing countries quantify the public effort that donors provide to developing countries for medical research and basic health.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Административные]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Administrative]]></com:Text>
           
@@ -120,15 +100,11 @@ Ministry of Health of the Kyrgyz Republic]]></com:Text>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Отчетность по освоению средств, направленных на реализацию проектов государственных инвестиций (ежемесячно), отчетность о ходе реализации проектов государственных инвестиций (ежеквартально)]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Отчетность по освоению средств, направленных на реализацию проектов государственных инвестиций (ежемесячно), отчетность о ходе реализации проектов государственных инвестиций (ежеквартально)]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сумма ОПР, поступающая от всех доноров в развивающиеся страны для медицинских исследований и обеспечения поддержания минимального уровня здравоохранения.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The sum of ODA flows from all donors to developing countries for medical research and basic health. ]]></com:Text>
           
@@ -136,26 +112,17 @@ Ministry of Health of the Kyrgyz Republic]]></com:Text>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[Статистические данные КСР стандартизируются в течение календарного года для всех доноров и могут отличаться от данных финансового года, содержащиеся в бюджетных документах для некоторых стран.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[DAC statistics are standardized on a calendar year basis for all donors and may differ from fiscal year data available in budget documents for some countries.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[На донорской основе для всех стран КСР и многих поставщиков, не являющихся КСР (двусторонние и многосторонние), которые отчитываются перед КСР по данным секторального уровня. Основывается на получателях по всем развивающимся странам, имеющим право на ОПР. Статистические данные предоставляются на ежегодной основе.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[On a donor basis, for all DAC countries and for many non-DAC suppliers (bilateral and multilateral) that report to DAC at the sectoral level. On a recipient basis for all developing countries eligible for ODA. Data are reported on an annual basis.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
-http://www/amp.gov.kg
-www.oecd.org/dac/stats  
-http://www.oecd.org/dac/stats/methodology.htm]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
 http://www/amp.gov.kg
@@ -168,7 +135,7 @@ http://www.oecd.org/dac/stats/methodology.htm]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="450674b6-da39-4ffb-919b-8280d185524c">
+  <mes:MetadataSet structureRef="MDS1" setID="4e108547-669d-40f4-ab30-f7d67827d3c5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -195,15 +162,11 @@ http://www.oecd.org/dac/stats/methodology.htm]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 3. Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3. Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[3.b Оказывать содействие исследованиям и разработкам вакцин и лекарственных препаратов для лечения инфекционных и неинфекционных болезней, которые в первую очередь затрагивают развивающиеся страны, обеспечивать доступность недорогих основных лекарственных средств и вакцин в соответствии с Дохинской декларацией «Соглашение по ТРИПС и общественное здравоохранение», в которой подтверждается право развивающихся стран в полном объеме использовать положения Соглашения по торговым аспектам прав интеллектуальной собственности в отношении проявления гибкости для целей охраны здоровья населения и, в частности, обеспечения доступа к лекарственным средствам для всех.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[3.b Support the research and development of vaccines and medicines for the communicable and non-communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all]]></com:Text>
           
@@ -211,15 +174,11 @@ http://www.oecd.org/dac/stats/methodology.htm]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[3.b.2 Общий чистый объем официальной помощи в целях развития, направленной на медицинские исследования и в основные отрасли здравоохранения.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3.b.2 Total net official development assistance to the medical research and basic health sectors]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство финансов Кыргызской Республики,                              Министерство здравоохранения Кыргызской Республики]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Finance of the Kyrgyz Republic, 
 Ministry of Health of the Kyrgyz Republic]]></com:Text>
@@ -228,15 +187,11 @@ Ministry of Health of the Kyrgyz Republic]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[ch.kenjebaeva@minfin.kg]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kenjebaeva Chinara Sharshenovna – Acting Head of the International Cooperation Department, MoF KR]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[МФ: +996-0312-66-20-04]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ch.kenjebaeva@minfin.kg]]></com:Text>
           
@@ -244,15 +199,11 @@ Ministry of Health of the Kyrgyz Republic]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[www.minfin.kg]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[MoF: +996-0312-66-20-04]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Общая официальная помощь в целях развития (далее - ОПР) медицинских исследований и основным секторам здравоохранения в настоящее время измеряется валовыми расходами на общую ОПР от всех предоставляющих помощь медицинским исследованиям и помощь в удержании необходимого минимума для поддержания здоровья.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Total official development assistance (hereinafter ODA) to the medical research and basic health sectors is currently measured as gross disbursements of total ODA from all donors to medical research and minimum health support.]]></com:Text>
           
@@ -260,15 +211,11 @@ Ministry of Health of the Kyrgyz Republic]]></com:Text>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Общий объем потоков ОПР в развивающиеся страны оценивает общественные усилия, которые предоставляют развивающимся странам помощь для медицинских исследований и поддержания минимального уровня здоровья.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Total ODA flows to developing countries quantify the public effort that donors provide to developing countries for medical research and basic health.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Административные]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Administrative]]></com:Text>
           
@@ -276,15 +223,11 @@ Ministry of Health of the Kyrgyz Republic]]></com:Text>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Отчетность по освоению средств, направленных на реализацию проектов государственных инвестиций (ежемесячно), отчетность о ходе реализации проектов государственных инвестиций (ежеквартально)]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Отчетность по освоению средств, направленных на реализацию проектов государственных инвестиций (ежемесячно), отчетность о ходе реализации проектов государственных инвестиций (ежеквартально)]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Сумма ОПР, поступающая от всех доноров в развивающиеся страны для медицинских исследований и обеспечения поддержания минимального уровня здравоохранения.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The sum of ODA flows from all donors to developing countries for medical research and basic health. ]]></com:Text>
           
@@ -292,26 +235,17 @@ Ministry of Health of the Kyrgyz Republic]]></com:Text>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[Статистические данные КСР стандартизируются в течение календарного года для всех доноров и могут отличаться от данных финансового года, содержащиеся в бюджетных документах для некоторых стран.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[DAC statistics are standardized on a calendar year basis for all donors and may differ from fiscal year data available in budget documents for some countries.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[На донорской основе для всех стран КСР и многих поставщиков, не являющихся КСР (двусторонние и многосторонние), которые отчитываются перед КСР по данным секторального уровня. Основывается на получателях по всем развивающимся странам, имеющим право на ОПР. Статистические данные предоставляются на ежегодной основе.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[On a donor basis, for all DAC countries and for many non-DAC suppliers (bilateral and multilateral) that report to DAC at the sectoral level. On a recipient basis for all developing countries eligible for ODA. Data are reported on an annual basis.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
-http://www/amp.gov.kg
-www.oecd.org/dac/stats  
-http://www.oecd.org/dac/stats/methodology.htm]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
 http://www/amp.gov.kg

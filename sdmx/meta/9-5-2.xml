@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9b9e93d8-24f1-40d0-93a8-82089a5e5bb0">
+  <mes:MetadataSet structureRef="MDS1" setID="1c46a417-5476-4351-8c73-e5dc07473eb6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 9: Создание стойкой инфраструктуры, содействие всеохватной и устойчивой индустриализации и инновациям. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[9.5: Активизировать научные исследования, наращивать технологический потенциал промышленных секторов во всех странах, особенно развивающихся странах, в том числе путем стимулирования к 2030 году инновационной деятельности и значительного увеличения числа работников в сфере НИОКР в расчете на 1 млн. человек, а также государственных и частных расходов на НИОКР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[9.5: Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[9.5.2: Количество исследователей (в эквиваленте полной занятости) на миллион жителей]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[9.5.2: Researchers (in full-time equivalent) per million inhabitants]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел социальной статистики)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
@@ -87,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 52]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Исследователи (в эквиваленте полной занятости) на миллион жителей являются прямым измерением числа работников, занимающихся исследованиями и разработками, на 1 миллион человек.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The researchers (in full-time equivalent) per million inhabitants is a direct measure of the number of research and development workers per 1 million people.]]></com:Text>
           
@@ -103,15 +87,11 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель представляет собой прямое измерение количества работников, занимающихся исследованиями и разработками, на 1 млн. человек]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The indicator is a direct measure of the number of research and development workers per 1 million people.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные государственной статистической отчетности по форме №1-наука «Отчет предприятия(организации) о выполнении научно-технических работ», данные о численности населения КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data obtained from the State statistical form №1-science «Report of organization(s) on scientific and technical works», population statistics of the Kyrgyz Republic]]></com:Text>
           
@@ -119,20 +99,11 @@
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[ Ежегодно представляют юридические лица, их структурные подразделения, выполняющие научные исследования и разработки, форму №1-наука территориальному органу государственной статистики по месту нахождения ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ Ежегодно представляют юридические лица, их структурные подразделения, выполняющие научные исследования и разработки, форму №1-наука территориальному органу государственной статистики по месту нахождения ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Показатель «Численность специалистов-исследователей, занятых в научных исследованиях и разработках на 1 млн.человек» определяется отношением численности специалистов-исследователей, занятых в научных исследованиях и разработках к общей численности постоянного населения.
-
-Расчет Показателя осуществляется по формуле:
-y = n / N * 1000000, где 
-n = общая численность специалистов-исследователей, занятых в научных исследованиях и разработках,
-N = общая численность постоянного населения.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Researchers (in full-time equivalent) per million inhabitants determined by number of researchers engaged in R&D to the total resident population.
 
@@ -145,24 +116,17 @@ N = total resident population.]]></com:Text>
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные НИОКР необходимо собирать с помощью обследований, которые являются дорогостоящими и не выполняются на регулярной основе во многих развивающихся странах. Кроме того, (развивающиеся) страны не всегда охватывают все сферы деятельности. В частности, бизнес-сектор не всегда покрывается.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Research and development (R&D) data need to be collected through surveys, which are expensive, and are not done on a regular basis in many developing countries. Furthermore, (developing) countries do not always cover all sectors of performance. In particular the business sector is not always covered.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[Проводится логический и арифметический контроль отчетных данных.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
-www.uis.unesco.org]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
 www.uis.unesco.org]]></com:Text>

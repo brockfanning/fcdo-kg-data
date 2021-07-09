@@ -11,25 +11,61 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "COMMENT_OBS",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "household head education"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Primary education",
+                "Lower secondary education",
+                "Upper secondary education",
+                "Post-secondary non-tertiary education",
+                "Short-cycle tertiary education"
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)"
+              ]
+            },
+            "title": "Income or wealth quantile"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Batken",
-                "Jalal-Abad",
+                "",
                 "Issyk-Kul",
+                "Jalal-Abad",
                 "Naryn",
+                "Batken",
                 "Osh",
                 "Talas",
                 "Chui",
                 "Bishkek (city)",
-                "Osh (city)",
-                ""
+                "Osh (city)"
               ]
             },
             "title": "Reference area"
@@ -39,58 +75,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
+                "",
                 "Rural",
-                ""
+                "Urban"
               ]
             },
             "title": "Degree of urbanisation"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Quintile 1 (poorest)",
-                "Quintile 2",
-                "Quintile 3",
-                "Quintile 4",
-                "Quintile 5 (richest)",
-                ""
-              ]
-            },
-            "title": "Income or wealth quantile"
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary education",
-                "Lower secondary education",
-                "Upper secondary education",
-                "Post-secondary non-tertiary education",
-                "Short-cycle tertiary education",
-                ""
-              ]
-            },
-            "title": "Education level"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "household head education",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

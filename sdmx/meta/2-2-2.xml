@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ef89d244-741b-4aa2-834d-29c72749f286">
+  <mes:MetadataSet structureRef="MDS1" setID="54651821-8026-4451-8476-c3bd5e7adf47">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[2: Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[2.2: К 2030 году покончить со всеми формами недоедания, в том числе достичь к 2025 году согласованных на международном уровне целевых показателей, касающихся борьбы с задержкой роста и истощением у детей в возрасте до пяти лет, и удовлетворять потребности в питании девочек подросткового возраста, беременных и кормящих женщин и пожилых людей]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[2.2.2. Распространенность неполноценного питания среди детей в возрасте до пяти лет в разбивке по виду (истощение или ожирение) (среднеквадратичное отклонение от медианного показателя веса к росту в соответствии с нормами роста детей, установленными ВОЗ, >+2SD или <-2SD)]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2.2.2. Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики домашних хозяйств) в рамках глобальной программы MICS ЮНИСЕФ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz republic (Household Statistics Division) under the UNICEF MICS global programme]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -87,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Распространенность избыточного веса среди детей в возрасте до пяти лет (среднеквадратичное отклонение от медианного показателя веса к росту ребенка в соответствии с нормами роста детей, установленными Всемирной организацией здравоохранения (>+ 2SD  или <-2 SD).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Prevalence of overweight (weight for height >+2 or <-2 SD standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age.]]></com:Text>
           
@@ -103,16 +87,11 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Вес для роста может использоваться для оценки истощения или избыточного веса. Если вес для роста ребенка ниже медианы эталонного населения более чем на два стандартных отклонения, он относится к умеренно или сильно истощенным, более чем на три стандартных отклонения – к сильно истощенным. Истощение обычно является результатом низкого потребления питательных веществ или заболевания. Распространенность истощения может колебаться в зависимости от сезона в связи с изменениями в доступности пищи и/или с распространением заболеваний. 
-Если вес для роста ребенка выше медианы эталонного населения более чем на два стандартных отклонения, он относится к детям с умеренным или большим избыточным весом.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Weight for height can be used to estimate wasting or overweight. If weight for height of a child is below median of the reference population by more than two standard deviations, s/he classified as moderately or severely wasted child, by more than three standard deviations, as severely wasted. Malnutrition is usually the result of low nutrient intake or diseases. The prevalence of wasting can vary from season to season due to changes in food availability and/or spread of diseases. If weight for height of a child is above median of the reference population by more than two standard deviations, s/he classified as moderately or severely overweight child.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Кластерное обследование по многим показателям «О положении женщин и детей», проводимое в Кыргызской Республике в соответствии с раундами глобального исследования MICS.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[«On the situation of children and women» Multiple Indicator Cluster Survey conducted in the Kyrgyz Republic in accordance with the rounds of MICS international household survey.]]></com:Text>
           
@@ -120,15 +99,11 @@
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий модуль «Антропометрические данные детей в возрасте до 5 лет». ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий модуль «Антропометрические данные детей в возрасте до 5 лет». ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Антропометрические измерения собраны на уровне индивидуума в ходе обследования домашних хозяйств.                                                                 Получение оценок обследования проводится на стандартизированной методологии с использованием разработанных ВОЗ Норм роста детей, как описано в другом источнике (Руководство по программе ВОЗ Anthro/ Anthro software manual). Получение глобальных и региональных оценок основывается на методологии, изложенной в Публикации «Общие оценки неполноценного питания детей - уровни и тенденции (ЮНИСЕФ / ВОЗ / ВБ-2012)».]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Household survey collects anthropometric measurements at the individual level.
 Survey estimates are obtained using a standardized methodology applying WHO Child Growth Standards, as described in another source (WHO Anthro/Anthro software manual). Global and regional estimates are based on the methodology outlined in “Joint Child Malnutrition Estimates-Levels and Trends (UNICEF/WHO / WB-2012)”.]]></com:Text>
@@ -137,15 +112,11 @@ Survey estimates are obtained using a standardized methodology applying WHO Chil
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[В расчете участвуют данные, прошедшие контроль качества данных. Любые технические ошибки, такие как ошибка измерения, ошибка записи исключаются из расчетов на всех уровнях: страновом, региональном и глобальном.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Only data that have passed data quality control is used for estimates. Any technical errors, such as measurement errors, recording errors are excluded from calculations at all levels: country, regional and global.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Контроль качества данных осуществлялся на всех этапах исследования: подготовка инструментария, разработка выборки, обучение, техника проведения опросов, контроль данных с еженедельной выдачей таблиц качества данных, расчет весовых коэффициентов, методики расчета показателей, подготовка отчета. Проверка осуществлялась экспертами странового, регионального и главного офисами ЮНИСЕФ. При расчете показателя не применяются методы импутации пропущенных данных.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data quality control ensured at all survey stages: toolset design, sampling, training, interview techniques, data control with weekly production of data quality tables, calculation of weights, calculation of indicators, report preparation. The audit was conducted by experts from UNICEF country, regional and headquarters offices. When calculating the indicator no imputation of missing values is applied.]]></com:Text>
           
@@ -153,26 +124,17 @@ Survey estimates are obtained using a standardized methodology applying WHO Chil
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Наличие оценок по стране с периодичностью раундов глобальной программы MICS ЮНИСЕФ. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Availability of country assessments in accordance with the UNICEF MICS international rounds.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные собраны и разработаны в соответствии с международными стандартами и сопоставимы по странам.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data are collected and calculated in accordance with international standards and are comparable across countries.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[data.unicef.org/nutrition/malnutrition.html; http://www.who.int/nutgrowthdb/estimates2014/en/;
-http://datatopics.worldbank.org/child-malnutrition;
-United Nations Children’s Fund, World Health Organization, The World Bank (2012). UNICEFWHO-World
-Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[data.unicef.org/nutrition/malnutrition.html; http://www.who.int/nutgrowthdb/estimates2014/en/;
 http://datatopics.worldbank.org/child-malnutrition;
@@ -185,7 +147,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="582e74dc-76b8-4dd1-81e9-7ad02faca0f7">
+  <mes:MetadataSet structureRef="MDS1" setID="0017fd53-a81a-4c4c-9e92-1937d729998e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -212,15 +174,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[2: Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[2.2: К 2030 году покончить со всеми формами недоедания, в том числе достичь к 2025 году согласованных на международном уровне целевых показателей, касающихся борьбы с задержкой роста и истощением у детей в возрасте до пяти лет, и удовлетворять потребности в питании девочек подросткового возраста, беременных и кормящих женщин и пожилых людей]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons]]></com:Text>
           
@@ -228,15 +186,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[2.2.2. Распространенность неполноценного питания среди детей в возрасте до пяти лет в разбивке по виду (истощение или ожирение) (среднеквадратичное отклонение от медианного показателя веса к росту в соответствии с нормами роста детей, установленными ВОЗ, >+2SD или <-2SD)]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2.2.2. Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики домашних хозяйств) в рамках глобальной программы MICS ЮНИСЕФ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz republic (Household Statistics Division) under the UNICEF MICS global programme]]></com:Text>
           
@@ -244,15 +198,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -260,15 +210,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Распространенность избыточного веса среди детей в возрасте до пяти лет (среднеквадратичное отклонение от медианного показателя веса к росту ребенка в соответствии с нормами роста детей, установленными Всемирной организацией здравоохранения (>+ 2SD  или <-2 SD).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Prevalence of overweight (weight for height >+2 or <-2 SD standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age.]]></com:Text>
           
@@ -276,16 +222,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Вес для роста может использоваться для оценки истощения или избыточного веса. Если вес для роста ребенка ниже медианы эталонного населения более чем на два стандартных отклонения, он относится к умеренно или сильно истощенным, более чем на три стандартных отклонения – к сильно истощенным. Истощение обычно является результатом низкого потребления питательных веществ или заболевания. Распространенность истощения может колебаться в зависимости от сезона в связи с изменениями в доступности пищи и/или с распространением заболеваний. 
-Если вес для роста ребенка выше медианы эталонного населения более чем на два стандартных отклонения, он относится к детям с умеренным или большим избыточным весом.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Weight for height can be used to estimate wasting or overweight. If weight for height of a child is below median of the reference population by more than two standard deviations, s/he classified as moderately or severely wasted child, by more than three standard deviations, as severely wasted. Malnutrition is usually the result of low nutrient intake or diseases. The prevalence of wasting can vary from season to season due to changes in food availability and/or spread of diseases. If weight for height of a child is above median of the reference population by more than two standard deviations, s/he classified as moderately or severely overweight child.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Кластерное обследование по многим показателям «О положении женщин и детей», проводимое в Кыргызской Республике в соответствии с раундами глобального исследования MICS.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[«On the situation of children and women» Multiple Indicator Cluster Survey conducted in the Kyrgyz Republic in accordance with the rounds of MICS international household survey.]]></com:Text>
           
@@ -293,15 +234,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий модуль «Антропометрические данные детей в возрасте до 5 лет». ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий модуль «Антропометрические данные детей в возрасте до 5 лет». ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Антропометрические измерения собраны на уровне индивидуума в ходе обследования домашних хозяйств.                                                                 Получение оценок обследования проводится на стандартизированной методологии с использованием разработанных ВОЗ Норм роста детей, как описано в другом источнике (Руководство по программе ВОЗ Anthro/ Anthro software manual). Получение глобальных и региональных оценок основывается на методологии, изложенной в Публикации «Общие оценки неполноценного питания детей - уровни и тенденции (ЮНИСЕФ / ВОЗ / ВБ-2012)».]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Household survey collects anthropometric measurements at the individual level.
 Survey estimates are obtained using a standardized methodology applying WHO Child Growth Standards, as described in another source (WHO Anthro/Anthro software manual). Global and regional estimates are based on the methodology outlined in “Joint Child Malnutrition Estimates-Levels and Trends (UNICEF/WHO / WB-2012)”.]]></com:Text>
@@ -310,15 +247,11 @@ Survey estimates are obtained using a standardized methodology applying WHO Chil
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[В расчете участвуют данные, прошедшие контроль качества данных. Любые технические ошибки, такие как ошибка измерения, ошибка записи исключаются из расчетов на всех уровнях: страновом, региональном и глобальном.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Only data that have passed data quality control is used for estimates. Any technical errors, such as measurement errors, recording errors are excluded from calculations at all levels: country, regional and global.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Контроль качества данных осуществлялся на всех этапах исследования: подготовка инструментария, разработка выборки, обучение, техника проведения опросов, контроль данных с еженедельной выдачей таблиц качества данных, расчет весовых коэффициентов, методики расчета показателей, подготовка отчета. Проверка осуществлялась экспертами странового, регионального и главного офисами ЮНИСЕФ. При расчете показателя не применяются методы импутации пропущенных данных.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data quality control ensured at all survey stages: toolset design, sampling, training, interview techniques, data control with weekly production of data quality tables, calculation of weights, calculation of indicators, report preparation. The audit was conducted by experts from UNICEF country, regional and headquarters offices. When calculating the indicator no imputation of missing values is applied.]]></com:Text>
           
@@ -326,26 +259,17 @@ Survey estimates are obtained using a standardized methodology applying WHO Chil
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Наличие оценок по стране с периодичностью раундов глобальной программы MICS ЮНИСЕФ. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Availability of country assessments in accordance with the UNICEF MICS international rounds.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные собраны и разработаны в соответствии с международными стандартами и сопоставимы по странам.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data are collected and calculated in accordance with international standards and are comparable across countries.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[data.unicef.org/nutrition/malnutrition.html; http://www.who.int/nutgrowthdb/estimates2014/en/;
-http://datatopics.worldbank.org/child-malnutrition;
-United Nations Children’s Fund, World Health Organization, The World Bank (2012). UNICEFWHO-World
-Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[data.unicef.org/nutrition/malnutrition.html; http://www.who.int/nutgrowthdb/estimates2014/en/;
 http://datatopics.worldbank.org/child-malnutrition;
@@ -358,7 +282,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9d12b05c-e0a1-4450-b019-9c9a0be39668">
+  <mes:MetadataSet structureRef="MDS1" setID="4b39d877-d424-412d-aec4-857c743935e3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -385,15 +309,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[2: Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[2.2: К 2030 году покончить со всеми формами недоедания, в том числе достичь к 2025 году согласованных на международном уровне целевых показателей, касающихся борьбы с задержкой роста и истощением у детей в возрасте до пяти лет, и удовлетворять потребности в питании девочек подросткового возраста, беременных и кормящих женщин и пожилых людей]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons]]></com:Text>
           
@@ -401,15 +321,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[2.2.2. Распространенность неполноценного питания среди детей в возрасте до пяти лет в разбивке по виду (истощение или ожирение) (среднеквадратичное отклонение от медианного показателя веса к росту в соответствии с нормами роста детей, установленными ВОЗ, >+2SD или <-2SD)]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2.2.2. Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики домашних хозяйств) в рамках глобальной программы MICS ЮНИСЕФ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz republic (Household Statistics Division) under the UNICEF MICS global programme]]></com:Text>
           
@@ -417,15 +333,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -433,15 +345,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Распространенность избыточного веса среди детей в возрасте до пяти лет (среднеквадратичное отклонение от медианного показателя веса к росту ребенка в соответствии с нормами роста детей, установленными Всемирной организацией здравоохранения (>+ 2SD  или <-2 SD).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Prevalence of overweight (weight for height >+2 or <-2 SD standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age.]]></com:Text>
           
@@ -449,16 +357,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Вес для роста может использоваться для оценки истощения или избыточного веса. Если вес для роста ребенка ниже медианы эталонного населения более чем на два стандартных отклонения, он относится к умеренно или сильно истощенным, более чем на три стандартных отклонения – к сильно истощенным. Истощение обычно является результатом низкого потребления питательных веществ или заболевания. Распространенность истощения может колебаться в зависимости от сезона в связи с изменениями в доступности пищи и/или с распространением заболеваний. 
-Если вес для роста ребенка выше медианы эталонного населения более чем на два стандартных отклонения, он относится к детям с умеренным или большим избыточным весом.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Weight for height can be used to estimate wasting or overweight. If weight for height of a child is below median of the reference population by more than two standard deviations, s/he classified as moderately or severely wasted child, by more than three standard deviations, as severely wasted. Malnutrition is usually the result of low nutrient intake or diseases. The prevalence of wasting can vary from season to season due to changes in food availability and/or spread of diseases. If weight for height of a child is above median of the reference population by more than two standard deviations, s/he classified as moderately or severely overweight child.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Кластерное обследование по многим показателям «О положении женщин и детей», проводимое в Кыргызской Республике в соответствии с раундами глобального исследования MICS.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[«On the situation of children and women» Multiple Indicator Cluster Survey conducted in the Kyrgyz Republic in accordance with the rounds of MICS international household survey.]]></com:Text>
           
@@ -466,15 +369,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий модуль «Антропометрические данные детей в возрасте до 5 лет». ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий модуль «Антропометрические данные детей в возрасте до 5 лет». ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Антропометрические измерения собраны на уровне индивидуума в ходе обследования домашних хозяйств.                                                                 Получение оценок обследования проводится на стандартизированной методологии с использованием разработанных ВОЗ Норм роста детей, как описано в другом источнике (Руководство по программе ВОЗ Anthro/ Anthro software manual). Получение глобальных и региональных оценок основывается на методологии, изложенной в Публикации «Общие оценки неполноценного питания детей - уровни и тенденции (ЮНИСЕФ / ВОЗ / ВБ-2012)».]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Household survey collects anthropometric measurements at the individual level.
 Survey estimates are obtained using a standardized methodology applying WHO Child Growth Standards, as described in another source (WHO Anthro/Anthro software manual). Global and regional estimates are based on the methodology outlined in “Joint Child Malnutrition Estimates-Levels and Trends (UNICEF/WHO / WB-2012)”.]]></com:Text>
@@ -483,15 +382,11 @@ Survey estimates are obtained using a standardized methodology applying WHO Chil
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[В расчете участвуют данные, прошедшие контроль качества данных. Любые технические ошибки, такие как ошибка измерения, ошибка записи исключаются из расчетов на всех уровнях: страновом, региональном и глобальном.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Only data that have passed data quality control is used for estimates. Any technical errors, such as measurement errors, recording errors are excluded from calculations at all levels: country, regional and global.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Контроль качества данных осуществлялся на всех этапах исследования: подготовка инструментария, разработка выборки, обучение, техника проведения опросов, контроль данных с еженедельной выдачей таблиц качества данных, расчет весовых коэффициентов, методики расчета показателей, подготовка отчета. Проверка осуществлялась экспертами странового, регионального и главного офисами ЮНИСЕФ. При расчете показателя не применяются методы импутации пропущенных данных.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data quality control ensured at all survey stages: toolset design, sampling, training, interview techniques, data control with weekly production of data quality tables, calculation of weights, calculation of indicators, report preparation. The audit was conducted by experts from UNICEF country, regional and headquarters offices. When calculating the indicator no imputation of missing values is applied.]]></com:Text>
           
@@ -499,26 +394,17 @@ Survey estimates are obtained using a standardized methodology applying WHO Chil
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Наличие оценок по стране с периодичностью раундов глобальной программы MICS ЮНИСЕФ. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Availability of country assessments in accordance with the UNICEF MICS international rounds.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные собраны и разработаны в соответствии с международными стандартами и сопоставимы по странам.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data are collected and calculated in accordance with international standards and are comparable across countries.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[data.unicef.org/nutrition/malnutrition.html; http://www.who.int/nutgrowthdb/estimates2014/en/;
-http://datatopics.worldbank.org/child-malnutrition;
-United Nations Children’s Fund, World Health Organization, The World Bank (2012). UNICEFWHO-World
-Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[data.unicef.org/nutrition/malnutrition.html; http://www.who.int/nutgrowthdb/estimates2014/en/;
 http://datatopics.worldbank.org/child-malnutrition;
@@ -531,7 +417,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="14639062-680e-431b-a0c3-25c159d62afe">
+  <mes:MetadataSet structureRef="MDS1" setID="05165f45-9f28-489e-a84c-fc443a20a8df">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -558,15 +444,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[2: Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[2.2: К 2030 году покончить со всеми формами недоедания, в том числе достичь к 2025 году согласованных на международном уровне целевых показателей, касающихся борьбы с задержкой роста и истощением у детей в возрасте до пяти лет, и удовлетворять потребности в питании девочек подросткового возраста, беременных и кормящих женщин и пожилых людей]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons]]></com:Text>
           
@@ -574,15 +456,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[2.2.2. Распространенность неполноценного питания среди детей в возрасте до пяти лет в разбивке по виду (истощение или ожирение) (среднеквадратичное отклонение от медианного показателя веса к росту в соответствии с нормами роста детей, установленными ВОЗ, >+2SD или <-2SD)]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[2.2.2. Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики домашних хозяйств) в рамках глобальной программы MICS ЮНИСЕФ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz republic (Household Statistics Division) under the UNICEF MICS global programme]]></com:Text>
           
@@ -590,15 +468,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Керималиева Н.К]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
           
@@ -606,15 +480,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Распространенность избыточного веса среди детей в возрасте до пяти лет (среднеквадратичное отклонение от медианного показателя веса к росту ребенка в соответствии с нормами роста детей, установленными Всемирной организацией здравоохранения (>+ 2SD  или <-2 SD).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Prevalence of overweight (weight for height >+2 or <-2 SD standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age.]]></com:Text>
           
@@ -622,16 +492,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Вес для роста может использоваться для оценки истощения или избыточного веса. Если вес для роста ребенка ниже медианы эталонного населения более чем на два стандартных отклонения, он относится к умеренно или сильно истощенным, более чем на три стандартных отклонения – к сильно истощенным. Истощение обычно является результатом низкого потребления питательных веществ или заболевания. Распространенность истощения может колебаться в зависимости от сезона в связи с изменениями в доступности пищи и/или с распространением заболеваний. 
-Если вес для роста ребенка выше медианы эталонного населения более чем на два стандартных отклонения, он относится к детям с умеренным или большим избыточным весом.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Weight for height can be used to estimate wasting or overweight. If weight for height of a child is below median of the reference population by more than two standard deviations, s/he classified as moderately or severely wasted child, by more than three standard deviations, as severely wasted. Malnutrition is usually the result of low nutrient intake or diseases. The prevalence of wasting can vary from season to season due to changes in food availability and/or spread of diseases. If weight for height of a child is above median of the reference population by more than two standard deviations, s/he classified as moderately or severely overweight child.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Кластерное обследование по многим показателям «О положении женщин и детей», проводимое в Кыргызской Республике в соответствии с раундами глобального исследования MICS.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[«On the situation of children and women» Multiple Indicator Cluster Survey conducted in the Kyrgyz Republic in accordance with the rounds of MICS international household survey.]]></com:Text>
           
@@ -639,15 +504,11 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий модуль «Антропометрические данные детей в возрасте до 5 лет». ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий модуль «Антропометрические данные детей в возрасте до 5 лет». ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Антропометрические измерения собраны на уровне индивидуума в ходе обследования домашних хозяйств.                                                                 Получение оценок обследования проводится на стандартизированной методологии с использованием разработанных ВОЗ Норм роста детей, как описано в другом источнике (Руководство по программе ВОЗ Anthro/ Anthro software manual). Получение глобальных и региональных оценок основывается на методологии, изложенной в Публикации «Общие оценки неполноценного питания детей - уровни и тенденции (ЮНИСЕФ / ВОЗ / ВБ-2012)».]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Household survey collects anthropometric measurements at the individual level.
 Survey estimates are obtained using a standardized methodology applying WHO Child Growth Standards, as described in another source (WHO Anthro/Anthro software manual). Global and regional estimates are based on the methodology outlined in “Joint Child Malnutrition Estimates-Levels and Trends (UNICEF/WHO / WB-2012)”.]]></com:Text>
@@ -656,15 +517,11 @@ Survey estimates are obtained using a standardized methodology applying WHO Chil
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[В расчете участвуют данные, прошедшие контроль качества данных. Любые технические ошибки, такие как ошибка измерения, ошибка записи исключаются из расчетов на всех уровнях: страновом, региональном и глобальном.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Only data that have passed data quality control is used for estimates. Any technical errors, such as measurement errors, recording errors are excluded from calculations at all levels: country, regional and global.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Контроль качества данных осуществлялся на всех этапах исследования: подготовка инструментария, разработка выборки, обучение, техника проведения опросов, контроль данных с еженедельной выдачей таблиц качества данных, расчет весовых коэффициентов, методики расчета показателей, подготовка отчета. Проверка осуществлялась экспертами странового, регионального и главного офисами ЮНИСЕФ. При расчете показателя не применяются методы импутации пропущенных данных.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data quality control ensured at all survey stages: toolset design, sampling, training, interview techniques, data control with weekly production of data quality tables, calculation of weights, calculation of indicators, report preparation. The audit was conducted by experts from UNICEF country, regional and headquarters offices. When calculating the indicator no imputation of missing values is applied.]]></com:Text>
           
@@ -672,26 +529,17 @@ Survey estimates are obtained using a standardized methodology applying WHO Chil
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Наличие оценок по стране с периодичностью раундов глобальной программы MICS ЮНИСЕФ. ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Availability of country assessments in accordance with the UNICEF MICS international rounds.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные собраны и разработаны в соответствии с международными стандартами и сопоставимы по странам.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data are collected and calculated in accordance with international standards and are comparable across countries.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[data.unicef.org/nutrition/malnutrition.html; http://www.who.int/nutgrowthdb/estimates2014/en/;
-http://datatopics.worldbank.org/child-malnutrition;
-United Nations Children’s Fund, World Health Organization, The World Bank (2012). UNICEFWHO-World
-Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[data.unicef.org/nutrition/malnutrition.html; http://www.who.int/nutgrowthdb/estimates2014/en/;
 http://datatopics.worldbank.org/child-malnutrition;

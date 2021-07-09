@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a60683eb-54ca-48cf-8e8a-d64320348cab">
+  <mes:MetadataSet structureRef="MDS1" setID="9be3de40-1ed7-4454-8499-cb702b13a96e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[1.a: Обеспечить мобилизацию значительных ресурсов из самых разных источников, в том числе на основе активизации сотрудничества в целях развития, с тем чтобы предоставить развивающимся странам, особенно наименее развитым странам, достаточные и предсказуемые средства для осуществления программ и стратегий по ликвидации нищеты во всех ее формах]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[1.a: Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions]]></com:Text>
           
@@ -55,25 +51,17 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[1.a.2: Доля расходов на основные услуги (образование, здравоохранение и социальную защиту) в общей сумме государственных расходов]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1.a.2: Proportion of total government spending on essential services (education, health and social protection) in total public spending]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="ru"><![CDATA[Министерство финансов КР (Управление бюджетной политики), Национальный статистический комитет КР (Отдел статистики финансов).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Ministry of Finance of the Kyrgyz Republic (Department of Budget Policy), National Statistical Committee of the Kyrgyz Republic (Finance Statistics Division).]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство финансов КР: Омурова Т.А.;
-Национальный статистический комитет КР: Абдукадирова М.А.
-]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Finance of the Kyrgyz Republic: Omurova T.A.;
 National Statistical Committee of the Kyrgyz Republic: Abdukadirova M.A.]]></com:Text>
@@ -82,8 +70,6 @@ National Statistical Committee of the Kyrgyz Republic: Abdukadirova M.A.]]></com
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
-          <com:Text xml:lang="ru"><![CDATA[Омурова Т.А.: t.omurova@minfin.kg;                                                        Абдукадирова М.А.: m.abdukadirova@stat.kg]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Omurova T.A.: t.omurova@minfin.kg;
 Abdukadirova M.A.: m.abdukadirova@stat.kg]]></com:Text>
           
@@ -91,19 +77,12 @@ Abdukadirova M.A.: m.abdukadirova@stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[МФ КР: +996-0312-62-53-13 (доб 1110, 1112);                                                          НСК КР: +996-0312-62-55-91, 66-42-09]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[MoF KR: +996-0312-62-53-13 (add. 1110, 1112)
 NSC KR: +996-0312-62-55-91, 66-42-09]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля расходов на основные услуги (образование, здравоохранение и социальную защиту) в общей сумме государственных расходов в целом;
-Доля расходов на образование в общей сумме государственных расходов в целом; 
-Доля расходов на здравоохранение в общей сумме государственных расходов в целом; 
-Доля расходов на социальную защиту в общей сумме государственных расходов в целом.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Proportion of total government spending on essential services (education, health and social protection) in total public spending;
 Proportion of total government spending on education in total public spending;
@@ -114,15 +93,11 @@ Proportion of total government spending on social protection in total public spe
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля расходов на основные услуги (образование, здравоохранение и социальную защиту) в общей сумме государственных расходов характеризует степень социальной ориентированности государственной политики в области расходования средств государственного бюджета.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Proportion of total government spending on essential services (education, health and social protection) in total public spending reveal degree of social orientation of public spending policy.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные о государственных расходах - административные данные Центрального казначейства Министерства финансов КР (далее - ЦК МФ КР) из отчетов по исполнению государственного, республиканского и местных бюджетов.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Government expenditure data - administrative data of the Central Treasury of the Ministry of Finance of the Kyrgyz Republic (CT MoF KR) from reports on national, republican and local budget implementation.]]></com:Text>
           
@@ -130,15 +105,11 @@ Proportion of total government spending on social protection in total public spe
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[ЦК МФ КР предоставляет отчеты об исполнении государственного, республиканского и местных бюджетов в НСК КР на ежемесячной и годовой основе.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ЦК МФ КР предоставляет отчеты об исполнении государственного, республиканского и местных бюджетов в НСК КР на ежемесячной и годовой основе.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Рассчитывается как отношение государственных расходов на образование (здравоохранение, социальную защиту) по функциональной классификации расходов бюджета по видам к общей сумме государственных расходов (в процентах).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[It is calculated as proportion of public spending on education (health, social protection) by functional classification of budget expenditure by type to total public spending (percentage).]]></com:Text>
           
@@ -146,23 +117,17 @@ Proportion of total government spending on social protection in total public spe
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по индикатору имеются в годовой динамике с 2007 года. Данные доступны на сайте НСК в разделе "Открытые данные" (Open Data) и разделе "Статистика" / "Цели устойчивого развития". Также данные доступны на сайте МФ КР.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Indicator data have been annually available since 2007. The data are available on the NSC website under "Open Data" and "Statistics" / "Sustainable Development Goals". Data are also available on the MoF  KR website. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственные расходы в целом и по видам - в соответствии с Руководством МВФ по статистике государственных финансов 2001г., включая расходы на приобретение нефинансовых активов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Public spending in general and by type - according to the IMF Government Finance Statistics Manual 2001, including acquisition of non-financial assets.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
@@ -172,7 +137,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cd2328a8-b381-4656-ac28-9333ad261152">
+  <mes:MetadataSet structureRef="MDS1" setID="ec7ce1d9-9052-4252-a921-5af8fcd261f0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -199,15 +164,11 @@ Proportion of total government spending on social protection in total public spe
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[1.a: Обеспечить мобилизацию значительных ресурсов из самых разных источников, в том числе на основе активизации сотрудничества в целях развития, с тем чтобы предоставить развивающимся странам, особенно наименее развитым странам, достаточные и предсказуемые средства для осуществления программ и стратегий по ликвидации нищеты во всех ее формах]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[1.a: Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions]]></com:Text>
           
@@ -215,25 +176,17 @@ Proportion of total government spending on social protection in total public spe
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[1.a.2: Доля расходов на основные услуги (образование, здравоохранение и социальную защиту) в общей сумме государственных расходов]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1.a.2: Proportion of total government spending on essential services (education, health and social protection) in total public spending]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="ru"><![CDATA[Министерство финансов КР (Управление бюджетной политики), Национальный статистический комитет КР (Отдел статистики финансов).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Ministry of Finance of the Kyrgyz Republic (Department of Budget Policy), National Statistical Committee of the Kyrgyz Republic (Finance Statistics Division).]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство финансов КР: Омурова Т.А.;
-Национальный статистический комитет КР: Абдукадирова М.А.
-]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Finance of the Kyrgyz Republic: Omurova T.A.;
 National Statistical Committee of the Kyrgyz Republic: Abdukadirova M.A.]]></com:Text>
@@ -242,8 +195,6 @@ National Statistical Committee of the Kyrgyz Republic: Abdukadirova M.A.]]></com
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
-          <com:Text xml:lang="ru"><![CDATA[Омурова Т.А.: t.omurova@minfin.kg;                                                        Абдукадирова М.А.: m.abdukadirova@stat.kg]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Omurova T.A.: t.omurova@minfin.kg;
 Abdukadirova M.A.: m.abdukadirova@stat.kg]]></com:Text>
           
@@ -251,19 +202,12 @@ Abdukadirova M.A.: m.abdukadirova@stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[МФ КР: +996-0312-62-53-13 (доб 1110, 1112);                                                          НСК КР: +996-0312-62-55-91, 66-42-09]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[MoF KR: +996-0312-62-53-13 (add. 1110, 1112)
 NSC KR: +996-0312-62-55-91, 66-42-09]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля расходов на основные услуги (образование, здравоохранение и социальную защиту) в общей сумме государственных расходов в целом;
-Доля расходов на образование в общей сумме государственных расходов в целом; 
-Доля расходов на здравоохранение в общей сумме государственных расходов в целом; 
-Доля расходов на социальную защиту в общей сумме государственных расходов в целом.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Proportion of total government spending on essential services (education, health and social protection) in total public spending;
 Proportion of total government spending on education in total public spending;
@@ -274,15 +218,11 @@ Proportion of total government spending on social protection in total public spe
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля расходов на основные услуги (образование, здравоохранение и социальную защиту) в общей сумме государственных расходов характеризует степень социальной ориентированности государственной политики в области расходования средств государственного бюджета.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Proportion of total government spending on essential services (education, health and social protection) in total public spending reveal degree of social orientation of public spending policy.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные о государственных расходах - административные данные Центрального казначейства Министерства финансов КР (далее - ЦК МФ КР) из отчетов по исполнению государственного, республиканского и местных бюджетов.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Government expenditure data - administrative data of the Central Treasury of the Ministry of Finance of the Kyrgyz Republic (CT MoF KR) from reports on national, republican and local budget implementation.]]></com:Text>
           
@@ -290,15 +230,11 @@ Proportion of total government spending on social protection in total public spe
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[ЦК МФ КР предоставляет отчеты об исполнении государственного, республиканского и местных бюджетов в НСК КР на ежемесячной и годовой основе.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ЦК МФ КР предоставляет отчеты об исполнении государственного, республиканского и местных бюджетов в НСК КР на ежемесячной и годовой основе.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Рассчитывается как отношение государственных расходов на образование (здравоохранение, социальную защиту) по функциональной классификации расходов бюджета по видам к общей сумме государственных расходов (в процентах).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[It is calculated as proportion of public spending on education (health, social protection) by functional classification of budget expenditure by type to total public spending (percentage).]]></com:Text>
           
@@ -306,23 +242,17 @@ Proportion of total government spending on social protection in total public spe
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по индикатору имеются в годовой динамике с 2007 года. Данные доступны на сайте НСК в разделе "Открытые данные" (Open Data) и разделе "Статистика" / "Цели устойчивого развития". Также данные доступны на сайте МФ КР.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Indicator data have been annually available since 2007. The data are available on the NSC website under "Open Data" and "Statistics" / "Sustainable Development Goals". Data are also available on the MoF  KR website. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственные расходы в целом и по видам - в соответствии с Руководством МВФ по статистике государственных финансов 2001г., включая расходы на приобретение нефинансовых активов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Public spending in general and by type - according to the IMF Government Finance Statistics Manual 2001, including acquisition of non-financial assets.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
@@ -332,7 +262,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="dfcded97-dad9-4eaa-99db-86875dbaf518">
+  <mes:MetadataSet structureRef="MDS1" setID="b85527a8-c4d8-4261-a435-88a11e70b24e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -359,15 +289,11 @@ Proportion of total government spending on social protection in total public spe
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[1. Повсеместная ликвидация нищеты во всех её формах]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[1.a: Обеспечить мобилизацию значительных ресурсов из самых разных источников, в том числе на основе активизации сотрудничества в целях развития, с тем чтобы предоставить развивающимся странам, особенно наименее развитым странам, достаточные и предсказуемые средства для осуществления программ и стратегий по ликвидации нищеты во всех ее формах]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[1.a: Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions]]></com:Text>
           
@@ -375,25 +301,17 @@ Proportion of total government spending on social protection in total public spe
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[1.a.2: Доля расходов на основные услуги (образование, здравоохранение и социальную защиту) в общей сумме государственных расходов]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[1.a.2: Proportion of total government spending on essential services (education, health and social protection) in total public spending]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           
-          <com:Text xml:lang="ru"><![CDATA[Министерство финансов КР (Управление бюджетной политики), Национальный статистический комитет КР (Отдел статистики финансов).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Ministry of Finance of the Kyrgyz Republic (Department of Budget Policy), National Statistical Committee of the Kyrgyz Republic (Finance Statistics Division).]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство финансов КР: Омурова Т.А.;
-Национальный статистический комитет КР: Абдукадирова М.А.
-]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Finance of the Kyrgyz Republic: Omurova T.A.;
 National Statistical Committee of the Kyrgyz Republic: Abdukadirova M.A.]]></com:Text>
@@ -402,8 +320,6 @@ National Statistical Committee of the Kyrgyz Republic: Abdukadirova M.A.]]></com
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           
-          <com:Text xml:lang="ru"><![CDATA[Омурова Т.А.: t.omurova@minfin.kg;                                                        Абдукадирова М.А.: m.abdukadirova@stat.kg]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Omurova T.A.: t.omurova@minfin.kg;
 Abdukadirova M.A.: m.abdukadirova@stat.kg]]></com:Text>
           
@@ -411,19 +327,12 @@ Abdukadirova M.A.: m.abdukadirova@stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[МФ КР: +996-0312-62-53-13 (доб 1110, 1112);                                                          НСК КР: +996-0312-62-55-91, 66-42-09]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[MoF KR: +996-0312-62-53-13 (add. 1110, 1112)
 NSC KR: +996-0312-62-55-91, 66-42-09]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля расходов на основные услуги (образование, здравоохранение и социальную защиту) в общей сумме государственных расходов в целом;
-Доля расходов на образование в общей сумме государственных расходов в целом; 
-Доля расходов на здравоохранение в общей сумме государственных расходов в целом; 
-Доля расходов на социальную защиту в общей сумме государственных расходов в целом.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Proportion of total government spending on essential services (education, health and social protection) in total public spending;
 Proportion of total government spending on education in total public spending;
@@ -434,15 +343,11 @@ Proportion of total government spending on social protection in total public spe
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Доля расходов на основные услуги (образование, здравоохранение и социальную защиту) в общей сумме государственных расходов характеризует степень социальной ориентированности государственной политики в области расходования средств государственного бюджета.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Proportion of total government spending on essential services (education, health and social protection) in total public spending reveal degree of social orientation of public spending policy.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные о государственных расходах - административные данные Центрального казначейства Министерства финансов КР (далее - ЦК МФ КР) из отчетов по исполнению государственного, республиканского и местных бюджетов.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Government expenditure data - administrative data of the Central Treasury of the Ministry of Finance of the Kyrgyz Republic (CT MoF KR) from reports on national, republican and local budget implementation.]]></com:Text>
           
@@ -450,15 +355,11 @@ Proportion of total government spending on social protection in total public spe
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[ЦК МФ КР предоставляет отчеты об исполнении государственного, республиканского и местных бюджетов в НСК КР на ежемесячной и годовой основе.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ЦК МФ КР предоставляет отчеты об исполнении государственного, республиканского и местных бюджетов в НСК КР на ежемесячной и годовой основе.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Рассчитывается как отношение государственных расходов на образование (здравоохранение, социальную защиту) по функциональной классификации расходов бюджета по видам к общей сумме государственных расходов (в процентах).]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[It is calculated as proportion of public spending on education (health, social protection) by functional classification of budget expenditure by type to total public spending (percentage).]]></com:Text>
           
@@ -466,23 +367,17 @@ Proportion of total government spending on social protection in total public spe
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Данные по индикатору имеются в годовой динамике с 2007 года. Данные доступны на сайте НСК в разделе "Открытые данные" (Open Data) и разделе "Статистика" / "Цели устойчивого развития". Также данные доступны на сайте МФ КР.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Indicator data have been annually available since 2007. The data are available on the NSC website under "Open Data" and "Statistics" / "Sustainable Development Goals". Data are also available on the MoF  KR website. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Государственные расходы в целом и по видам - в соответствии с Руководством МВФ по статистике государственных финансов 2001г., включая расходы на приобретение нефинансовых активов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Public spending in general and by type - according to the IMF Government Finance Statistics Manual 2001, including acquisition of non-financial assets.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
           

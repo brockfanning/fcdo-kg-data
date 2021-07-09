@@ -11,49 +11,44 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "REF_AREA",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "Issyk-Kul",
+                "Jalal-Abad",
+                "Naryn",
+                "Batken",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)"
+              ]
+            },
+            "title": "Reference area"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "_L_KG_060401_2A",
-                "_L_KG_060401_2B",
-                ""
+                "_L_KG_060401_2B"
               ]
             },
             "title": "Series"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Batken",
-                "Jalal-Abad",
-                "Issyk-Kul",
-                "Naryn",
-                "Osh",
-                "Talas",
-                "Chui",
-                "Bishkek (city)",
-                "Osh (city)",
-                ""
-              ]
-            },
-            "title": "Reference area"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "M_M3_PER_YR",
-                "PT",
-                ""
+                "PT"
               ]
             },
             "title": "Units"
@@ -62,6 +57,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

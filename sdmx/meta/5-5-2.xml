@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4f7d3971-a81b-465f-9a73-66e171dd868c">
+  <mes:MetadataSet structureRef="MDS1" setID="36b1701a-84ee-4830-850c-2ddd41035054">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 5. Обеспечение гендерного равенства и расширение прав и возможностей всех женщин и девочек]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5. Achieve gender equality and empower all women and girls]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[5.5. Обеспечить всестороннее и реальное участие женщин и равные для них возможности для лидерства на всех уровнях принятия решений в политической, экономической и общественной жизни]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[5.5. Ensure women's full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[5.5.2. Доля женщин на руководящих должностях]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5.5.2. Proportion of women in managerial positions]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики труда и занятости)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Labour and Employment Statistics Division)]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Джайлобаева Г.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Jailobaeva G.Zh.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[jailobaeva@stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg]]></com:Text>
           
@@ -87,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 626076]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 626076]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля женщин на руководящих должностях определяется отношением численности женщин руководителей к общей численности руководителей. Значение выражено в процентах. К руководителям предприятий, учреждений и организаций (и их структурных подразделений) относятся: министры, губернаторы, главы администраций, президенты, директора (генеральные директора), ректоры, начальники, управляющие, заведующие, председатели, командиры, менеджеры, мастера, главные бухгалтеры, главные диспетчеры, главные инженеры, главные врачи, главные редакторы и т.д. и их заместители. ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[This indicator refers to the proportion of females in the total number of persons employed in senior and middle management. Expressed in percentage. Heads of enterprises, institutions and organizations (and their structural subdivisions) are: ministers, governors, heads of administrations, presidents, directors (directors-general), rectors, chiefs, managers, heads, chairmen, commanders, managers, masters, chief accountants, chief engineers, chief physicians, chief editors, etc. and their deputies.]]></com:Text>
           
@@ -103,15 +87,11 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель этого показателя - показать, насколько выполняется гендерное равенство среди руководителей по видам деятельности и по территории]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[This indicator aims to show the achievement of gender parity among managers by activity and location]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы (Форма №4” Занятость и безработица")]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ Integrated Household Budget and Labour Force Sample Survey (Form №4 "Employment and unemployment")]]></com:Text>
           
@@ -119,15 +99,11 @@
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Опрос населения проводится интервьюерами путем непосредственного посещения домашних хозяйств и записи сведений в планшет по вопросникам выборочного обследования, утвержденные Постановлением Нацстаткома Кыргызской Республики. При непосредственном посещении домашнего хозяйства ответы на вопросы анкеты могут быть получены как от самого респондента, так и со слов совместно проживающих членов домашнего хозяйства в случае отсутствия респондента в момент опроса. Ежеквартально для проведения обследования отобрано 5016 домохозяйств. Ежегодная ротация выборки составляет 25 процентов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Опрос населения проводится интервьюерами путем непосредственного посещения домашних хозяйств и записи сведений в планшет по вопросникам выборочного обследования, утвержденные Постановлением Нацстаткома Кыргызской Республики. При непосредственном посещении домашнего хозяйства ответы на вопросы анкеты могут быть получены как от самого респондента, так и со слов совместно проживающих членов домашнего хозяйства в случае отсутствия респондента в момент опроса. Ежеквартально для проведения обследования отобрано 5016 домохозяйств. Ежегодная ротация выборки составляет 25 процентов.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Расчеты показателя доли женщин, занимающих руководящие должности, производятся на основе данных ОРС делением численности женщин руководителей на общую численность руководителей]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of women in decision-making positions is calculated based on the ОРС by dividing the number of women managers by the total number of managers]]></com:Text>
           
@@ -135,15 +111,11 @@
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[Качество данных обеспечивается соблюдением методологии организации и проведения выборочных обследований]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data quality is ensured by strictly following the sample survey methodology]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные публикуются в статистическом сборнике «Занятость и безработица» и «Женщины и мужчины Кыргызской Республики» и на вебсайте НСК]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data are published in the statistical compendium «Employment and unemployment» and «Women and men in the Kyrgyz Republic» and on the NSC website]]></com:Text>
           
@@ -151,18 +123,11 @@
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Стандарты МОТ.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ILO standards]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР:  https://sustainabledevelopment-kyrgyzstan.github.io
-
-http://www.stat.kg/ru/publications/zanyatost-i-bezrabotica-itogi-integrirovannogo-vyborochnogo-obsledovaniya-byudzhetov-domashnih-hozyajstv-i-rabochej-sily-v-2013g/
-http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-respubliki/]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform:  https://sustainabledevelopment-kyrgyzstan.github.io
 
@@ -175,7 +140,7 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="29273982-4e3e-4c44-bebd-25fc6a11700e">
+  <mes:MetadataSet structureRef="MDS1" setID="c1fd06bc-58a1-4ba5-ada8-2c1b05701e71">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -202,15 +167,11 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 5. Обеспечение гендерного равенства и расширение прав и возможностей всех женщин и девочек]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5. Achieve gender equality and empower all women and girls]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[5.5. Обеспечить всестороннее и реальное участие женщин и равные для них возможности для лидерства на всех уровнях принятия решений в политической, экономической и общественной жизни]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[5.5. Ensure women's full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life]]></com:Text>
           
@@ -218,15 +179,11 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[5.5.2. Доля женщин на руководящих должностях]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5.5.2. Proportion of women in managerial positions]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет КР (Отдел статистики труда и занятости)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Labour and Employment Statistics Division)]]></com:Text>
           
@@ -234,15 +191,11 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Джайлобаева Г.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Jailobaeva G.Zh.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[jailobaeva@stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg]]></com:Text>
           
@@ -250,15 +203,11 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 626076]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 626076]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Доля женщин на руководящих должностях определяется отношением численности женщин руководителей к общей численности руководителей. Значение выражено в процентах. К руководителям предприятий, учреждений и организаций (и их структурных подразделений) относятся: министры, губернаторы, главы администраций, президенты, директора (генеральные директора), ректоры, начальники, управляющие, заведующие, председатели, командиры, менеджеры, мастера, главные бухгалтеры, главные диспетчеры, главные инженеры, главные врачи, главные редакторы и т.д. и их заместители. ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[This indicator refers to the proportion of females in the total number of persons employed in senior and middle management. Expressed in percentage. Heads of enterprises, institutions and organizations (and their structural subdivisions) are: ministers, governors, heads of administrations, presidents, directors (directors-general), rectors, chiefs, managers, heads, chairmen, commanders, managers, masters, chief accountants, chief engineers, chief physicians, chief editors, etc. and their deputies.]]></com:Text>
           
@@ -266,15 +215,11 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель этого показателя - показать, насколько выполняется гендерное равенство среди руководителей по видам деятельности и по территории]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[This indicator aims to show the achievement of gender parity among managers by activity and location]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы (Форма №4” Занятость и безработица")]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[ Integrated Household Budget and Labour Force Sample Survey (Form №4 "Employment and unemployment")]]></com:Text>
           
@@ -282,15 +227,11 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Опрос населения проводится интервьюерами путем непосредственного посещения домашних хозяйств и записи сведений в планшет по вопросникам выборочного обследования, утвержденные Постановлением Нацстаткома Кыргызской Республики. При непосредственном посещении домашнего хозяйства ответы на вопросы анкеты могут быть получены как от самого респондента, так и со слов совместно проживающих членов домашнего хозяйства в случае отсутствия респондента в момент опроса. Ежеквартально для проведения обследования отобрано 5016 домохозяйств. Ежегодная ротация выборки составляет 25 процентов.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Опрос населения проводится интервьюерами путем непосредственного посещения домашних хозяйств и записи сведений в планшет по вопросникам выборочного обследования, утвержденные Постановлением Нацстаткома Кыргызской Республики. При непосредственном посещении домашнего хозяйства ответы на вопросы анкеты могут быть получены как от самого респондента, так и со слов совместно проживающих членов домашнего хозяйства в случае отсутствия респондента в момент опроса. Ежеквартально для проведения обследования отобрано 5016 домохозяйств. Ежегодная ротация выборки составляет 25 процентов.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Расчеты показателя доли женщин, занимающих руководящие должности, производятся на основе данных ОРС делением численности женщин руководителей на общую численность руководителей]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The proportion of women in decision-making positions is calculated based on the ОРС by dividing the number of women managers by the total number of managers]]></com:Text>
           
@@ -298,15 +239,11 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
         
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           
-          <com:Text xml:lang="ru"><![CDATA[Качество данных обеспечивается соблюдением методологии организации и проведения выборочных обследований]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data quality is ensured by strictly following the sample survey methodology]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные публикуются в статистическом сборнике «Занятость и безработица» и «Женщины и мужчины Кыргызской Республики» и на вебсайте НСК]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Data are published in the statistical compendium «Employment and unemployment» and «Women and men in the Kyrgyz Republic» and on the NSC website]]></com:Text>
           
@@ -314,18 +251,11 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Стандарты МОТ.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ILO standards]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР:  https://sustainabledevelopment-kyrgyzstan.github.io
-
-http://www.stat.kg/ru/publications/zanyatost-i-bezrabotica-itogi-integrirovannogo-vyborochnogo-obsledovaniya-byudzhetov-domashnih-hozyajstv-i-rabochej-sily-v-2013g/
-http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-respubliki/]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform:  https://sustainabledevelopment-kyrgyzstan.github.io
 

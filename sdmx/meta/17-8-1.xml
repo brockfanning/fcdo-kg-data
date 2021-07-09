@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="afab5bdf-f712-4e0e-a0f8-e0568c6af350">
+  <mes:MetadataSet structureRef="MDS1" setID="36e8f6b6-2e11-4838-be14-0e52b98cc437">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[17. Укрепление средств осуществления и активизация работы в рамках Глобального партнерства в интересах устойчивого развития]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[17. Strengthen the means of implementation and revitalize the global partnership for sustainable development]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[Обеспечить к 2017 году полномасштабное функционирование банка технологий и механизма развития науки, технологий и инноваций в интересах наименее развитых стран и расширить использование высокоэффективных технологий, в частности информационно-коммуникационных технологий]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[17.8.1. Доля населения, пользующегося Интернетом]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[17.8.1. Proportion of individuals using the Internet]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальный статистический комитет Кыргызской Республики (Отдел статистики домашних хозяйств)]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The National Statistical Committee(Household Statistics Division)]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[ Калымбетова Ы.И.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[ Y. I. Kalymbetova]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[y.kalymbetova@gmail.com ]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[y.kalymbetova@gmail.com ]]></com:Text>
           
@@ -87,25 +75,17 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[(0312) 32-46-55]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32-46-55]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="ru"><![CDATA[Показатель доли лиц, пользующихся Интернетом, определяется как доля лиц, использовавших Интернет из любого места в течение последних трех месяцев к общему числу опрошенных (лиц старше 15 лет).]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Under this indicator, proportion of individuals using the Internet is defined as the proportion of individuals who used the Internet from any location in the last three months to the total number of respondents (individuals over 15).]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Интернет стал все более важным инструментом доступа к общественной информации, что является важным средством защиты основных свобод. За последнее десятилетие число пользователей Интернета значительно увеличилось, и доступ к Интернету изменил образ жизни людей, общения, работы и ведения бизнеса. Поглощение Интернета является ключевым показателем, отслеживаемым разработчиками политики и другими лицами оценку развития информационного общества, а рост контента в Интернете - включая контент, создаваемый пользователями - обеспечивает доступ к большему количеству информации и услуг.
-Несмотря на рост сетей, услуг и приложений, доступ к информационно-коммуникационным технологиям (ИКТ) и их использование по-прежнему далеко не одинаково распределены, и многие люди еще не могут воспользоваться всеми потенциальными возможностями Интернета. Этот показатель подчеркивает важность использования Интернета в качестве средства, способствующего развитию, и помогает измерять «цифровой разрыв», который, если его не решить должным образом, усугубит неравенство во всех областях развития. 
-Эта информация может способствовать разработке целевых политик для преодоления этих разногласий. Доля лиц, пользующихся Интернетом, является установленным показателем, а также одним из трех показателей, связанных с ИКТ, с указанием целей в области развития, сформулированных в Декларации тысячелетия (для целей 8F). Она является частью Партнерства по измерению основного показателя показателей ИКТ для развития, который был одобрен Статистической комиссией ООН (последний раз в 2014 году). Он также включен в Индекс развития ИКТ МСЭ и, таким образом, рассматривается в качестве ключевого показателя для международных сопоставлений развития ИКТ.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Internet has become an increasingly important tool to access public information, which is a relevant means to protect fundamental freedoms. The number of Internet users has increased substantially over the last decade and access to the Internet has changed the way people live, communicate, work and do business. Internet uptake is a key indicator tracked by policy makers and others to measure the development of the information society and the growth of Internet content – including user-generated content – provides access to increasing amounts of information and services. 
 Despite growth in networks, services and applications, information and communication technology (ICT) access and use is still far from equally distributed, and many people cannot yet benefit from the potential of the Internet. This indicator highlights the importance of Internet use as a development enabler and helps to measure the digital divide, which, if not properly addressed, will aggravate inequalities in all development domains. 
@@ -115,18 +95,11 @@ This information can contribute to the design of targeted policies to overcome t
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="ru"><![CDATA[Интегрированное обследование домашних хозяйств КР Нацстаткома КР.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Integrated Household Survey in the Kyrgyz Republic  under the National Statistical Committee of the Kyrgyz Republic.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="ru"><![CDATA[Для расчета показателя используются данные квартального вопросника №1 «Контрольная карточка домашнего хозяйства» и годовой вопросник №2 «Социально-демографические характеристики лиц в домашнем хозяйстве» (раздел 4 «Знания и навыки членов домашнего хозяйства»).
-Метод наблюдения – выборочное обследование домашних хозяйств.
-Объектом статистического наблюдения выступают индивидуальные характеристики членов домашнего хозяйства.
-Единицами наблюдения являются члены домашнего хозяйства в возрасте 15 лет и старше]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Для расчета показателя используются данные квартального вопросника №1 «Контрольная карточка домашнего хозяйства» и годовой вопросник №2 «Социально-демографические характеристики лиц в домашнем хозяйстве» (раздел 4 «Знания и навыки членов домашнего хозяйства»).
 Метод наблюдения – выборочное обследование домашних хозяйств.
@@ -136,9 +109,6 @@ This information can contribute to the design of targeted policies to overcome t
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io
-Ссылка на глобальную платформу метаданных: https://unstats.un.org/sdgs/metadata/?Text=&Goal=17&Target=]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
 Link to the global metadata platform: https://unstats.un.org/sdgs/metadata/?Text=&Goal=17&Target=]]></com:Text>

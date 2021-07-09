@@ -11,19 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Teachers: a) in pre-school educational institutions",
+                "",
                 "Teachers: b) in primary school (grades 1-4)",
-                "Teachers: (c) primary school (grades 5-9) and (d) secondary school (grades 10-11)",
-                ""
+                "Teachers: a) in pre-school educational institutions",
+                "Teachers: (c) primary school (grades 5-9) and (d) secondary school (grades 10-11)"
               ]
             },
             "title": "Composite breakdown"
@@ -32,6 +27,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

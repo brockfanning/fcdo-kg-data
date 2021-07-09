@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4eb94cdd-0f30-4efb-8796-7acf0a5c9670">
+  <mes:MetadataSet structureRef="MDS1" setID="bea4389f-2723-4e80-b709-8b524b5cafea">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 5. Обеспечение гендерного равенства и расширение прав и возможностей всех женщин и девочек]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5. Achieve gender equality and empower all women and girls]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[5.1. Повсеместно ликвидировать все формы дискриминации в отношении всех женщин и девочек]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[5.1. End all forms of discrimination against all women and girls everywhere]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[5.1.1 Наличие нормативно-правовых рамок для поощрения и обеспечения равенства и недискриминации по признаку пола и наблюдения за положением в этой области]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5.1.1 Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство труда и социального развития КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Ministry of Labour and Social Development of the Kyrgyz Republic]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Бекматова Роза Кубаталиевна]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Bekmatova Roza Kubataliyevna]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[roza@mlsp.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[roza@mlsp.kg]]></com:Text>
           
@@ -87,15 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[996312624532]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[996 312 624 532]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Наличие или отсутствие нормативно-правовых рамок для поощрения и обеспечения равенства и недискриминации по признаку пола и наблюдения за положением в этой области. В Кыргызской Республике такие нормативно-правовые рамки имеются в наличии.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex and to monitor the situation. Kyrgyzstan has such legal and regulatory framework in place. ]]></com:Text>
           
@@ -103,22 +87,12 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Наличие нормативно-правовых рамок обеспечивает соблюдение и контроль за гендерным равенством.  Согласно Конституции в Кыргызской Республике мужчины и женщины имеют равные права и свободы, равные возможности для их реализации, никто не может подвергаться дискриминации по признаку пола (статья 16).
-Реализация данной конституционной нормы обеспечивается Законом КР «О государственных гарантиях равных прав и равных возможностей для мужчин и женщин» (от 4 августа 2008 года № 184). В ст. 1 говорится, что термин: «Гендерная дискриминация (прямая, косвенная)» означает, что «любое различие, исключение или предпочтение, которое ограничивает права и интересы лиц по признаку пола; направлена на ослабление или лишение признания, пользования или осуществления равноправия мужчин и женщин в политической, экономической, социальной, культурной, гражданской или любых других областях общественной жизни».]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Legal framework ensures compliance with and monitoring of gender equality. The Constitution of the Kyrgyz Republic guarantees equal rights and freedoms of men and women, equal access to opportunities and prohibits discrimination based on sex (Article 16).
 This constitutional norm is ensured by the Law of the Kyrgyz Republic "About the state guarantees of the equal rights and equal opportunities for men and women" (August 4, 2008 No. 184). Article 1 of this law states that: “Gender discrimination (direct, indirect)” means that “any distinction, exception or preference which limits the rights and interests of persons on the basis of sex; it is directed to easing or deprivation of recognition, use or implementation of equality of men and women in political, economic, social, cultural, civil or any other areas of public life”.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Нормативные правовые акты доступны на сайтах:  
-https://www.gov.kg/;     
-https://mlsp.gov.kg/gendernaya-politika2/;  
-http://cbd.minjust.gov.kg/; 
-http://www.toktom.kg;   
-http://stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Regulatory legal acts are available at:  
 https://www.gov.kg/;     
@@ -131,21 +105,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Источники данных доступны в любое время]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data sources available at any time]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
-          
-          <com:Text xml:lang="ru"><![CDATA[Кыргызстаном ратифицированы: 
-•	Конвенция ООН о ликвидации всех форм дискриминации в отношении женщин (CEDAW);
-•	Факультативный протокол к Конвенции о ликвидации всех форм дискриминации в отношении женщин;
-•	Конвенция о согласии на вступление в брак, брачном возрасте и регистрации браков;
-•	Конвенция о гражданстве замужней женщины;
-•	 Конвенция о политических правах женщины;
-•	Нормы международных актов имплементированы в национальное законодательство.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Kyrgyz Republic has ratified: 
 • UN Convention on the Elimination of All Forms of Discrimination against Women (CEDAW);
@@ -158,15 +122,6 @@ http://stat.kg]]></com:Text>
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
-
-•	Конституция Кыргызской республики; 
-•	Конституционный Закон «О выборах Президента Кыргызской Республики и депутатов Жогорку Кенеша Кыргызской Республики» (от 2 июля 2011 года № 68); Семейный кодекс (от 30 августа 2003 года № 201);  Трудовой кодекс (от 4 августа 2004 года N 106);
-•	Законы Кыргызской Республики от 4 августа 2008 года № 184 «О государственных гарантиях равных прав и равных возможностей для мужчин и женщин»;
-•	Закон Кыргызской Республики от 27 апреля 2017 года № 63 «Об охране и защите от семейного насилия»;
-•	«Национальная стратегия Кыргызской Республики по достижению гендерного равенства до 2020 года» и «Национальный план действий по достижению гендерного равенства в Кыргызской Республике на 2018-2020 годы», утвержденный постановлением Правительства от 27 июня 2012 года № 443;
-•	Пятый периодический доклад Кыргызской Республики по выполнению норм Конвенции о ликвидации всех форм дискриминации в отношении женщин за период с 2013 по 2018 годы, утвержденный распоряжением Правительства КР от 1 марта 2019 года № 35-р]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
 
@@ -183,7 +138,7 @@ http://stat.kg]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="402613ea-7ece-4d58-83c6-53be21270df7">
+  <mes:MetadataSet structureRef="MDS1" setID="022b3b66-e05d-4a21-aeea-b72d439524b4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -210,15 +165,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 5. Обеспечение гендерного равенства и расширение прав и возможностей всех женщин и девочек]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5. Achieve gender equality and empower all women and girls]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[5.1. Повсеместно ликвидировать все формы дискриминации в отношении всех женщин и девочек]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[5.1. End all forms of discrimination against all women and girls everywhere]]></com:Text>
           
@@ -226,15 +177,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[5.1.1 Наличие нормативно-правовых рамок для поощрения и обеспечения равенства и недискриминации по признаку пола и наблюдения за положением в этой области]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5.1.1 Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство труда и социального развития КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Ministry of Labour and Social Development of the Kyrgyz Republic]]></com:Text>
           
@@ -242,15 +189,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Бекматова Роза Кубаталиевна]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Bekmatova Roza Kubataliyevna]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[roza@mlsp.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[roza@mlsp.kg]]></com:Text>
           
@@ -258,15 +201,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[996312624532]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[996 312 624 532]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Наличие или отсутствие нормативно-правовых рамок для поощрения и обеспечения равенства и недискриминации по признаку пола и наблюдения за положением в этой области. В Кыргызской Республике такие нормативно-правовые рамки имеются в наличии.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex and to monitor the situation. Kyrgyzstan has such legal and regulatory framework in place. ]]></com:Text>
           
@@ -274,22 +213,12 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Наличие нормативно-правовых рамок обеспечивает соблюдение и контроль за гендерным равенством.  Согласно Конституции в Кыргызской Республике мужчины и женщины имеют равные права и свободы, равные возможности для их реализации, никто не может подвергаться дискриминации по признаку пола (статья 16).
-Реализация данной конституционной нормы обеспечивается Законом КР «О государственных гарантиях равных прав и равных возможностей для мужчин и женщин» (от 4 августа 2008 года № 184). В ст. 1 говорится, что термин: «Гендерная дискриминация (прямая, косвенная)» означает, что «любое различие, исключение или предпочтение, которое ограничивает права и интересы лиц по признаку пола; направлена на ослабление или лишение признания, пользования или осуществления равноправия мужчин и женщин в политической, экономической, социальной, культурной, гражданской или любых других областях общественной жизни».]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Legal framework ensures compliance with and monitoring of gender equality. The Constitution of the Kyrgyz Republic guarantees equal rights and freedoms of men and women, equal access to opportunities and prohibits discrimination based on sex (Article 16).
 This constitutional norm is ensured by the Law of the Kyrgyz Republic "About the state guarantees of the equal rights and equal opportunities for men and women" (August 4, 2008 No. 184). Article 1 of this law states that: “Gender discrimination (direct, indirect)” means that “any distinction, exception or preference which limits the rights and interests of persons on the basis of sex; it is directed to easing or deprivation of recognition, use or implementation of equality of men and women in political, economic, social, cultural, civil or any other areas of public life”.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Нормативные правовые акты доступны на сайтах:  
-https://www.gov.kg/;     
-https://mlsp.gov.kg/gendernaya-politika2/;  
-http://cbd.minjust.gov.kg/; 
-http://www.toktom.kg;   
-http://stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Regulatory legal acts are available at:  
 https://www.gov.kg/;     
@@ -302,21 +231,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Источники данных доступны в любое время]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data sources available at any time]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
-          
-          <com:Text xml:lang="ru"><![CDATA[Кыргызстаном ратифицированы: 
-•	Конвенция ООН о ликвидации всех форм дискриминации в отношении женщин (CEDAW);
-•	Факультативный протокол к Конвенции о ликвидации всех форм дискриминации в отношении женщин;
-•	Конвенция о согласии на вступление в брак, брачном возрасте и регистрации браков;
-•	Конвенция о гражданстве замужней женщины;
-•	 Конвенция о политических правах женщины;
-•	Нормы международных актов имплементированы в национальное законодательство.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Kyrgyz Republic has ratified: 
 • UN Convention on the Elimination of All Forms of Discrimination against Women (CEDAW);
@@ -329,15 +248,6 @@ http://stat.kg]]></com:Text>
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
-
-•	Конституция Кыргызской республики; 
-•	Конституционный Закон «О выборах Президента Кыргызской Республики и депутатов Жогорку Кенеша Кыргызской Республики» (от 2 июля 2011 года № 68); Семейный кодекс (от 30 августа 2003 года № 201);  Трудовой кодекс (от 4 августа 2004 года N 106);
-•	Законы Кыргызской Республики от 4 августа 2008 года № 184 «О государственных гарантиях равных прав и равных возможностей для мужчин и женщин»;
-•	Закон Кыргызской Республики от 27 апреля 2017 года № 63 «Об охране и защите от семейного насилия»;
-•	«Национальная стратегия Кыргызской Республики по достижению гендерного равенства до 2020 года» и «Национальный план действий по достижению гендерного равенства в Кыргызской Республике на 2018-2020 годы», утвержденный постановлением Правительства от 27 июня 2012 года № 443;
-•	Пятый периодический доклад Кыргызской Республики по выполнению норм Конвенции о ликвидации всех форм дискриминации в отношении женщин за период с 2013 по 2018 годы, утвержденный распоряжением Правительства КР от 1 марта 2019 года № 35-р]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
 
@@ -354,7 +264,7 @@ http://stat.kg]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="761caa12-8d45-458c-a882-0ee265e3fa5b">
+  <mes:MetadataSet structureRef="MDS1" setID="bf429ec4-cbba-4129-8709-130049479b22">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -381,15 +291,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 5. Обеспечение гендерного равенства и расширение прав и возможностей всех женщин и девочек]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5. Achieve gender equality and empower all women and girls]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[5.1. Повсеместно ликвидировать все формы дискриминации в отношении всех женщин и девочек]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[5.1. End all forms of discrimination against all women and girls everywhere]]></com:Text>
           
@@ -397,15 +303,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[5.1.1 Наличие нормативно-правовых рамок для поощрения и обеспечения равенства и недискриминации по признаку пола и наблюдения за положением в этой области]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5.1.1 Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство труда и социального развития КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Ministry of Labour and Social Development of the Kyrgyz Republic]]></com:Text>
           
@@ -413,15 +315,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Бекматова Роза Кубаталиевна]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Bekmatova Roza Kubataliyevna]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[roza@mlsp.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[roza@mlsp.kg]]></com:Text>
           
@@ -429,15 +327,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[996312624532]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[996 312 624 532]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Наличие или отсутствие нормативно-правовых рамок для поощрения и обеспечения равенства и недискриминации по признаку пола и наблюдения за положением в этой области. В Кыргызской Республике такие нормативно-правовые рамки имеются в наличии.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex and to monitor the situation. Kyrgyzstan has such legal and regulatory framework in place. ]]></com:Text>
           
@@ -445,22 +339,12 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Наличие нормативно-правовых рамок обеспечивает соблюдение и контроль за гендерным равенством.  Согласно Конституции в Кыргызской Республике мужчины и женщины имеют равные права и свободы, равные возможности для их реализации, никто не может подвергаться дискриминации по признаку пола (статья 16).
-Реализация данной конституционной нормы обеспечивается Законом КР «О государственных гарантиях равных прав и равных возможностей для мужчин и женщин» (от 4 августа 2008 года № 184). В ст. 1 говорится, что термин: «Гендерная дискриминация (прямая, косвенная)» означает, что «любое различие, исключение или предпочтение, которое ограничивает права и интересы лиц по признаку пола; направлена на ослабление или лишение признания, пользования или осуществления равноправия мужчин и женщин в политической, экономической, социальной, культурной, гражданской или любых других областях общественной жизни».]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Legal framework ensures compliance with and monitoring of gender equality. The Constitution of the Kyrgyz Republic guarantees equal rights and freedoms of men and women, equal access to opportunities and prohibits discrimination based on sex (Article 16).
 This constitutional norm is ensured by the Law of the Kyrgyz Republic "About the state guarantees of the equal rights and equal opportunities for men and women" (August 4, 2008 No. 184). Article 1 of this law states that: “Gender discrimination (direct, indirect)” means that “any distinction, exception or preference which limits the rights and interests of persons on the basis of sex; it is directed to easing or deprivation of recognition, use or implementation of equality of men and women in political, economic, social, cultural, civil or any other areas of public life”.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Нормативные правовые акты доступны на сайтах:  
-https://www.gov.kg/;     
-https://mlsp.gov.kg/gendernaya-politika2/;  
-http://cbd.minjust.gov.kg/; 
-http://www.toktom.kg;   
-http://stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Regulatory legal acts are available at:  
 https://www.gov.kg/;     
@@ -473,21 +357,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Источники данных доступны в любое время]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data sources available at any time]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
-          
-          <com:Text xml:lang="ru"><![CDATA[Кыргызстаном ратифицированы: 
-•	Конвенция ООН о ликвидации всех форм дискриминации в отношении женщин (CEDAW);
-•	Факультативный протокол к Конвенции о ликвидации всех форм дискриминации в отношении женщин;
-•	Конвенция о согласии на вступление в брак, брачном возрасте и регистрации браков;
-•	Конвенция о гражданстве замужней женщины;
-•	 Конвенция о политических правах женщины;
-•	Нормы международных актов имплементированы в национальное законодательство.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Kyrgyz Republic has ratified: 
 • UN Convention on the Elimination of All Forms of Discrimination against Women (CEDAW);
@@ -500,15 +374,6 @@ http://stat.kg]]></com:Text>
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
-
-•	Конституция Кыргызской республики; 
-•	Конституционный Закон «О выборах Президента Кыргызской Республики и депутатов Жогорку Кенеша Кыргызской Республики» (от 2 июля 2011 года № 68); Семейный кодекс (от 30 августа 2003 года № 201);  Трудовой кодекс (от 4 августа 2004 года N 106);
-•	Законы Кыргызской Республики от 4 августа 2008 года № 184 «О государственных гарантиях равных прав и равных возможностей для мужчин и женщин»;
-•	Закон Кыргызской Республики от 27 апреля 2017 года № 63 «Об охране и защите от семейного насилия»;
-•	«Национальная стратегия Кыргызской Республики по достижению гендерного равенства до 2020 года» и «Национальный план действий по достижению гендерного равенства в Кыргызской Республике на 2018-2020 годы», утвержденный постановлением Правительства от 27 июня 2012 года № 443;
-•	Пятый периодический доклад Кыргызской Республики по выполнению норм Конвенции о ликвидации всех форм дискриминации в отношении женщин за период с 2013 по 2018 годы, утвержденный распоряжением Правительства КР от 1 марта 2019 года № 35-р]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
 
@@ -525,7 +390,7 @@ http://stat.kg]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c8d3afa3-9c9b-4ed9-9c87-c7568403a297">
+  <mes:MetadataSet structureRef="MDS1" setID="dc1fbc2f-94dc-45b1-b2fc-671884805b4b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -552,15 +417,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[Цель 5. Обеспечение гендерного равенства и расширение прав и возможностей всех женщин и девочек]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5. Achieve gender equality and empower all women and girls]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[5.1. Повсеместно ликвидировать все формы дискриминации в отношении всех женщин и девочек]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[5.1. End all forms of discrimination against all women and girls everywhere]]></com:Text>
           
@@ -568,15 +429,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[5.1.1 Наличие нормативно-правовых рамок для поощрения и обеспечения равенства и недискриминации по признаку пола и наблюдения за положением в этой области]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[5.1.1 Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство труда и социального развития КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[The Ministry of Labour and Social Development of the Kyrgyz Republic]]></com:Text>
           
@@ -584,15 +441,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Бекматова Роза Кубаталиевна]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Bekmatova Roza Kubataliyevna]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[roza@mlsp.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[roza@mlsp.kg]]></com:Text>
           
@@ -600,15 +453,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[996312624532]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[996 312 624 532]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Наличие или отсутствие нормативно-правовых рамок для поощрения и обеспечения равенства и недискриминации по признаку пола и наблюдения за положением в этой области. В Кыргызской Республике такие нормативно-правовые рамки имеются в наличии.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex and to monitor the situation. Kyrgyzstan has such legal and regulatory framework in place. ]]></com:Text>
           
@@ -616,22 +465,12 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Наличие нормативно-правовых рамок обеспечивает соблюдение и контроль за гендерным равенством.  Согласно Конституции в Кыргызской Республике мужчины и женщины имеют равные права и свободы, равные возможности для их реализации, никто не может подвергаться дискриминации по признаку пола (статья 16).
-Реализация данной конституционной нормы обеспечивается Законом КР «О государственных гарантиях равных прав и равных возможностей для мужчин и женщин» (от 4 августа 2008 года № 184). В ст. 1 говорится, что термин: «Гендерная дискриминация (прямая, косвенная)» означает, что «любое различие, исключение или предпочтение, которое ограничивает права и интересы лиц по признаку пола; направлена на ослабление или лишение признания, пользования или осуществления равноправия мужчин и женщин в политической, экономической, социальной, культурной, гражданской или любых других областях общественной жизни».]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Legal framework ensures compliance with and monitoring of gender equality. The Constitution of the Kyrgyz Republic guarantees equal rights and freedoms of men and women, equal access to opportunities and prohibits discrimination based on sex (Article 16).
 This constitutional norm is ensured by the Law of the Kyrgyz Republic "About the state guarantees of the equal rights and equal opportunities for men and women" (August 4, 2008 No. 184). Article 1 of this law states that: “Gender discrimination (direct, indirect)” means that “any distinction, exception or preference which limits the rights and interests of persons on the basis of sex; it is directed to easing or deprivation of recognition, use or implementation of equality of men and women in political, economic, social, cultural, civil or any other areas of public life”.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Нормативные правовые акты доступны на сайтах:  
-https://www.gov.kg/;     
-https://mlsp.gov.kg/gendernaya-politika2/;  
-http://cbd.minjust.gov.kg/; 
-http://www.toktom.kg;   
-http://stat.kg]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Regulatory legal acts are available at:  
 https://www.gov.kg/;     
@@ -644,21 +483,11 @@ http://stat.kg]]></com:Text>
         
         <gen:ReportedAttribute id="COVERAGE">
           
-          <com:Text xml:lang="ru"><![CDATA[Источники данных доступны в любое время]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Data sources available at any time]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COMPARABILITY">
-          
-          <com:Text xml:lang="ru"><![CDATA[Кыргызстаном ратифицированы: 
-•	Конвенция ООН о ликвидации всех форм дискриминации в отношении женщин (CEDAW);
-•	Факультативный протокол к Конвенции о ликвидации всех форм дискриминации в отношении женщин;
-•	Конвенция о согласии на вступление в брак, брачном возрасте и регистрации браков;
-•	Конвенция о гражданстве замужней женщины;
-•	 Конвенция о политических правах женщины;
-•	Нормы международных актов имплементированы в национальное законодательство.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Kyrgyz Republic has ratified: 
 • UN Convention on the Elimination of All Forms of Discrimination against Women (CEDAW);
@@ -671,15 +500,6 @@ http://stat.kg]]></com:Text>
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
-
-•	Конституция Кыргызской республики; 
-•	Конституционный Закон «О выборах Президента Кыргызской Республики и депутатов Жогорку Кенеша Кыргызской Республики» (от 2 июля 2011 года № 68); Семейный кодекс (от 30 августа 2003 года № 201);  Трудовой кодекс (от 4 августа 2004 года N 106);
-•	Законы Кыргызской Республики от 4 августа 2008 года № 184 «О государственных гарантиях равных прав и равных возможностей для мужчин и женщин»;
-•	Закон Кыргызской Республики от 27 апреля 2017 года № 63 «Об охране и защите от семейного насилия»;
-•	«Национальная стратегия Кыргызской Республики по достижению гендерного равенства до 2020 года» и «Национальный план действий по достижению гендерного равенства в Кыргызской Республике на 2018-2020 годы», утвержденный постановлением Правительства от 27 июня 2012 года № 443;
-•	Пятый периодический доклад Кыргызской Республики по выполнению норм Конвенции о ликвидации всех форм дискриминации в отношении женщин за период с 2013 по 2018 годы, утвержденный распоряжением Правительства КР от 1 марта 2019 года № 35-р]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
 

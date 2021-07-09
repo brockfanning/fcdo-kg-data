@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855322</mes:ID>
+    <mes:ID>IREF1625855683</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:28:42</mes:Prepared>
+    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ea6dfaaa-3dc3-488b-897f-c7224e3959da">
+  <mes:MetadataSet structureRef="MDS1" setID="9e33cc2a-fbbd-460c-8214-7911131fe922">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39,15 +39,11 @@
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[3: Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[3.b: Оказывать содействие исследованиям и разработкам вакцин и лекарственных препаратов для лечения инфекционных и неинфекционных болезней, которые в первую очередь затрагивают развивающиеся страны, обеспечивать доступность недорогих основных лекарственных средств и вакцин в соответствии с Дохинской декларацией «Соглашение по ТРИПС и общественное здравоохранение», в которой подтверждается право развивающихся стран в полном объеме использовать положения Соглашения по торговым аспектам прав интеллектуальной собственности в отношении проявления гибкости для целей охраны здоровья населения и, в частности, обеспечения доступа к лекарственным средствам для всех]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[3.b: Support the research and development of vaccines and medicines for the communicable and non‑communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all]]></com:Text>
           
@@ -55,15 +51,11 @@
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[3.b.1: Доля целевой группы населения, охваченная иммунизацией всеми вакцинами, включенными в национальные программы]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3.b.1: Proportion of the target population covered by all vaccines included in their national programme]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[НСК КР (отдел социальной статистики), ГРС при ПКР, Минздрав КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division), SRS under GKR, MoH KR]]></com:Text>
           
@@ -71,15 +63,11 @@
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
@@ -87,17 +75,11 @@
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[+996 (0312) 32 46 52]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Охват АКДС (DTP) вакциной (от дифтерии, столбняка и коклюша) (3-х дозовая): Процент детей, которые получили 3 дозы АКДС вакцины в отчетном году. 
-Охват вакциной против кори (MCV) (2-х дозовая): Процент детей, которые получили две дозы вакцины, содержащей корь, согласно национально рекомендованному графику услуг по иммунизации. 
-Охват Пневмококковой конъюгированной вакциной (PCV) (последняя доза по расписанию): Процент детей, получивших рекомендованные дозы пневмококковой конъюгатной вакцины.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Coverage of DTP containing vaccine (3rd dose): Percentage of surviving infants who received the 3 doses of diphtheria and tetanus toxoid with pertussis containing vaccine in a given year 
 Coverage of Measles containing vaccine (2nd dose): Percentage of children who received two dose of measles containing vaccine according to nationally recommended schedule through routine immunization services.
@@ -107,15 +89,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Иммунизация является проверенным инструментом контроля и устранения угрожающих жизни инфекционных заболеваний и это один из самых экономически эффективных видов инвестиций в здравоохранение с проверенными стратегиями, позволяющими применять ее даже к самым труднодоступным и уязвимым группам населения.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Immunization is a proven tool for control and elimination of life-threatening communicable diseases and is one of the most cost-effective investments in health sector, which can be applied to even remote and most vulnerable populations.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство здравоохранения КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Health of the Kyrgyz Republic]]></com:Text>
           
@@ -123,17 +101,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Административная отчетность МЗ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Административная отчетность МЗ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Методология оценивает временные ряды охвата целевого населения вакцинами, включенными в национальный календарь прививок и рекомендованных ВОЗ, данные выпускаются и публикуются ежегодно с 2001 года. 
-Методология использует данные, представленные национальными организациями системы здравоохранения. 
-При этом, административные источники позволяют рассчитать охват каждой вакциной в отдельности.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Methodology estimates time series for national immunization coverage of target population with WHO recommended vaccines and those included in National Vaccines Calendar. Data have been produced and published annually since 2001. The methodology uses data reported by national health systems. Also administrative sources make it possible to calculate the coverage for each vaccine separately.]]></com:Text>
           
@@ -141,15 +113,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Страны часто передают охват административных систем данных, а ВОЗ и ЮНИСЕФ проводят обзор и оценку данных из разных источников, включая административные системы и исследования. Различия между оценками подготовленными странами и международными организациями объясняются главным образом различиями охвата административной системы и результатами опроса. Если вакцина не включена в национальный график иммунизации, охват данной вакциной не будет отражен.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Countries often relay on administrative coverage data, while WHO and UNICEF review and assess data from different sources including administrative systems and surveys. Differences between country produced and international estimates are mainly due to differences between coverage estimates from administrative system and survey results. In case the vaccine is not included in national immunization schedule the coverage from private sector will not be reflected.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные охвата различными вакцинами собираются ежегодно и рассматриваются экспертной группой ВОЗ и ЮНИСЕФ, оценки даются ежегодно по каждой стране. Данные публикуются как на веб-сайтах ВОЗ, так и на ЮНИСЕФ. http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html http://www.data.unicef.org/child-health/immunization]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Coverage data for different vaccines are collected annually and reviewed by WHO and UNICEF inter agency expert group and estimates made for each country and each year. Data are published both on WHO and UNICEF web sites. http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html http://www.data.unicef.org/child-health/immunization]]></com:Text>
           
@@ -157,15 +125,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Вакцины, применяемые в Кыргызской Республике, соответствуют национальным требованиям и рекомендациям Всемирной Организации Здравоохранения, а также международным стандартам GMP и прошли процедуры предварительной квалификации ВОЗ.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic uses vaccines compliant with  national requirements and WHO recommendations, as well as with international GMP standards, and have undergone WHO pre-qualification procedures.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html, https://www.unicef.org/immunization/]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html, https://www.unicef.org/immunization/]]></com:Text>
           
@@ -175,7 +139,7 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="52bedc4c-d549-49cd-a04b-13a18cc64577">
+  <mes:MetadataSet structureRef="MDS1" setID="62810c9b-ae7a-4cbf-be93-04107a349ad2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -202,15 +166,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[3: Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[3.b: Оказывать содействие исследованиям и разработкам вакцин и лекарственных препаратов для лечения инфекционных и неинфекционных болезней, которые в первую очередь затрагивают развивающиеся страны, обеспечивать доступность недорогих основных лекарственных средств и вакцин в соответствии с Дохинской декларацией «Соглашение по ТРИПС и общественное здравоохранение», в которой подтверждается право развивающихся стран в полном объеме использовать положения Соглашения по торговым аспектам прав интеллектуальной собственности в отношении проявления гибкости для целей охраны здоровья населения и, в частности, обеспечения доступа к лекарственным средствам для всех]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[3.b: Support the research and development of vaccines and medicines for the communicable and non‑communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all]]></com:Text>
           
@@ -218,15 +178,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[3.b.1: Доля целевой группы населения, охваченная иммунизацией всеми вакцинами, включенными в национальные программы]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3.b.1: Proportion of the target population covered by all vaccines included in their national programme]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[НСК КР (отдел социальной статистики), ГРС при ПКР, Минздрав КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division), SRS under GKR, MoH KR]]></com:Text>
           
@@ -234,15 +190,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
@@ -250,17 +202,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[+996 (0312) 32 46 52]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Охват АКДС (DTP) вакциной (от дифтерии, столбняка и коклюша) (3-х дозовая): Процент детей, которые получили 3 дозы АКДС вакцины в отчетном году. 
-Охват вакциной против кори (MCV) (2-х дозовая): Процент детей, которые получили две дозы вакцины, содержащей корь, согласно национально рекомендованному графику услуг по иммунизации. 
-Охват Пневмококковой конъюгированной вакциной (PCV) (последняя доза по расписанию): Процент детей, получивших рекомендованные дозы пневмококковой конъюгатной вакцины.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Coverage of DTP containing vaccine (3rd dose): Percentage of surviving infants who received the 3 doses of diphtheria and tetanus toxoid with pertussis containing vaccine in a given year 
 Coverage of Measles containing vaccine (2nd dose): Percentage of children who received two dose of measles containing vaccine according to nationally recommended schedule through routine immunization services.
@@ -270,15 +216,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Иммунизация является проверенным инструментом контроля и устранения угрожающих жизни инфекционных заболеваний и это один из самых экономически эффективных видов инвестиций в здравоохранение с проверенными стратегиями, позволяющими применять ее даже к самым труднодоступным и уязвимым группам населения.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Immunization is a proven tool for control and elimination of life-threatening communicable diseases and is one of the most cost-effective investments in health sector, which can be applied to even remote and most vulnerable populations.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство здравоохранения КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Health of the Kyrgyz Republic]]></com:Text>
           
@@ -286,17 +228,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Административная отчетность МЗ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Административная отчетность МЗ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Методология оценивает временные ряды охвата целевого населения вакцинами, включенными в национальный календарь прививок и рекомендованных ВОЗ, данные выпускаются и публикуются ежегодно с 2001 года. 
-Методология использует данные, представленные национальными организациями системы здравоохранения. 
-При этом, административные источники позволяют рассчитать охват каждой вакциной в отдельности.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Methodology estimates time series for national immunization coverage of target population with WHO recommended vaccines and those included in National Vaccines Calendar. Data have been produced and published annually since 2001. The methodology uses data reported by national health systems. Also administrative sources make it possible to calculate the coverage for each vaccine separately.]]></com:Text>
           
@@ -304,15 +240,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Страны часто передают охват административных систем данных, а ВОЗ и ЮНИСЕФ проводят обзор и оценку данных из разных источников, включая административные системы и исследования. Различия между оценками подготовленными странами и международными организациями объясняются главным образом различиями охвата административной системы и результатами опроса. Если вакцина не включена в национальный график иммунизации, охват данной вакциной не будет отражен.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Countries often relay on administrative coverage data, while WHO and UNICEF review and assess data from different sources including administrative systems and surveys. Differences between country produced and international estimates are mainly due to differences between coverage estimates from administrative system and survey results. In case the vaccine is not included in national immunization schedule the coverage from private sector will not be reflected.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные охвата различными вакцинами собираются ежегодно и рассматриваются экспертной группой ВОЗ и ЮНИСЕФ, оценки даются ежегодно по каждой стране. Данные публикуются как на веб-сайтах ВОЗ, так и на ЮНИСЕФ. http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html http://www.data.unicef.org/child-health/immunization]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Coverage data for different vaccines are collected annually and reviewed by WHO and UNICEF inter agency expert group and estimates made for each country and each year. Data are published both on WHO and UNICEF web sites. http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html http://www.data.unicef.org/child-health/immunization]]></com:Text>
           
@@ -320,15 +252,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Вакцины, применяемые в Кыргызской Республике, соответствуют национальным требованиям и рекомендациям Всемирной Организации Здравоохранения, а также международным стандартам GMP и прошли процедуры предварительной квалификации ВОЗ.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic uses vaccines compliant with  national requirements and WHO recommendations, as well as with international GMP standards, and have undergone WHO pre-qualification procedures.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html, https://www.unicef.org/immunization/]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html, https://www.unicef.org/immunization/]]></com:Text>
           
@@ -338,7 +266,7 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8827407d-4f9d-4963-975c-1af47391e252">
+  <mes:MetadataSet structureRef="MDS1" setID="620afb82-274b-4941-9986-b6a424196577">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -365,15 +293,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[3: Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[3.b: Оказывать содействие исследованиям и разработкам вакцин и лекарственных препаратов для лечения инфекционных и неинфекционных болезней, которые в первую очередь затрагивают развивающиеся страны, обеспечивать доступность недорогих основных лекарственных средств и вакцин в соответствии с Дохинской декларацией «Соглашение по ТРИПС и общественное здравоохранение», в которой подтверждается право развивающихся стран в полном объеме использовать положения Соглашения по торговым аспектам прав интеллектуальной собственности в отношении проявления гибкости для целей охраны здоровья населения и, в частности, обеспечения доступа к лекарственным средствам для всех]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[3.b: Support the research and development of vaccines and medicines for the communicable and non‑communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all]]></com:Text>
           
@@ -381,15 +305,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[3.b.1: Доля целевой группы населения, охваченная иммунизацией всеми вакцинами, включенными в национальные программы]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3.b.1: Proportion of the target population covered by all vaccines included in their national programme]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[НСК КР (отдел социальной статистики), ГРС при ПКР, Минздрав КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division), SRS under GKR, MoH KR]]></com:Text>
           
@@ -397,15 +317,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
@@ -413,17 +329,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[+996 (0312) 32 46 52]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Охват АКДС (DTP) вакциной (от дифтерии, столбняка и коклюша) (3-х дозовая): Процент детей, которые получили 3 дозы АКДС вакцины в отчетном году. 
-Охват вакциной против кори (MCV) (2-х дозовая): Процент детей, которые получили две дозы вакцины, содержащей корь, согласно национально рекомендованному графику услуг по иммунизации. 
-Охват Пневмококковой конъюгированной вакциной (PCV) (последняя доза по расписанию): Процент детей, получивших рекомендованные дозы пневмококковой конъюгатной вакцины.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Coverage of DTP containing vaccine (3rd dose): Percentage of surviving infants who received the 3 doses of diphtheria and tetanus toxoid with pertussis containing vaccine in a given year 
 Coverage of Measles containing vaccine (2nd dose): Percentage of children who received two dose of measles containing vaccine according to nationally recommended schedule through routine immunization services.
@@ -433,15 +343,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Иммунизация является проверенным инструментом контроля и устранения угрожающих жизни инфекционных заболеваний и это один из самых экономически эффективных видов инвестиций в здравоохранение с проверенными стратегиями, позволяющими применять ее даже к самым труднодоступным и уязвимым группам населения.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Immunization is a proven tool for control and elimination of life-threatening communicable diseases and is one of the most cost-effective investments in health sector, which can be applied to even remote and most vulnerable populations.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство здравоохранения КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Health of the Kyrgyz Republic]]></com:Text>
           
@@ -449,17 +355,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Административная отчетность МЗ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Административная отчетность МЗ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Методология оценивает временные ряды охвата целевого населения вакцинами, включенными в национальный календарь прививок и рекомендованных ВОЗ, данные выпускаются и публикуются ежегодно с 2001 года. 
-Методология использует данные, представленные национальными организациями системы здравоохранения. 
-При этом, административные источники позволяют рассчитать охват каждой вакциной в отдельности.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Methodology estimates time series for national immunization coverage of target population with WHO recommended vaccines and those included in National Vaccines Calendar. Data have been produced and published annually since 2001. The methodology uses data reported by national health systems. Also administrative sources make it possible to calculate the coverage for each vaccine separately.]]></com:Text>
           
@@ -467,15 +367,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Страны часто передают охват административных систем данных, а ВОЗ и ЮНИСЕФ проводят обзор и оценку данных из разных источников, включая административные системы и исследования. Различия между оценками подготовленными странами и международными организациями объясняются главным образом различиями охвата административной системы и результатами опроса. Если вакцина не включена в национальный график иммунизации, охват данной вакциной не будет отражен.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Countries often relay on administrative coverage data, while WHO and UNICEF review and assess data from different sources including administrative systems and surveys. Differences between country produced and international estimates are mainly due to differences between coverage estimates from administrative system and survey results. In case the vaccine is not included in national immunization schedule the coverage from private sector will not be reflected.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные охвата различными вакцинами собираются ежегодно и рассматриваются экспертной группой ВОЗ и ЮНИСЕФ, оценки даются ежегодно по каждой стране. Данные публикуются как на веб-сайтах ВОЗ, так и на ЮНИСЕФ. http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html http://www.data.unicef.org/child-health/immunization]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Coverage data for different vaccines are collected annually and reviewed by WHO and UNICEF inter agency expert group and estimates made for each country and each year. Data are published both on WHO and UNICEF web sites. http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html http://www.data.unicef.org/child-health/immunization]]></com:Text>
           
@@ -483,15 +379,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Вакцины, применяемые в Кыргызской Республике, соответствуют национальным требованиям и рекомендациям Всемирной Организации Здравоохранения, а также международным стандартам GMP и прошли процедуры предварительной квалификации ВОЗ.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic uses vaccines compliant with  national requirements and WHO recommendations, as well as with international GMP standards, and have undergone WHO pre-qualification procedures.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html, https://www.unicef.org/immunization/]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html, https://www.unicef.org/immunization/]]></com:Text>
           
@@ -501,7 +393,7 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="af54f82c-1ad7-4e73-a338-e54854a90cc4">
+  <mes:MetadataSet structureRef="MDS1" setID="48ea82c6-2abd-4b3e-b3b1-7af16169312c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -528,15 +420,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[3: Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[3.b: Оказывать содействие исследованиям и разработкам вакцин и лекарственных препаратов для лечения инфекционных и неинфекционных болезней, которые в первую очередь затрагивают развивающиеся страны, обеспечивать доступность недорогих основных лекарственных средств и вакцин в соответствии с Дохинской декларацией «Соглашение по ТРИПС и общественное здравоохранение», в которой подтверждается право развивающихся стран в полном объеме использовать положения Соглашения по торговым аспектам прав интеллектуальной собственности в отношении проявления гибкости для целей охраны здоровья населения и, в частности, обеспечения доступа к лекарственным средствам для всех]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[3.b: Support the research and development of vaccines and medicines for the communicable and non‑communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all]]></com:Text>
           
@@ -544,15 +432,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[3.b.1: Доля целевой группы населения, охваченная иммунизацией всеми вакцинами, включенными в национальные программы]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3.b.1: Proportion of the target population covered by all vaccines included in their national programme]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[НСК КР (отдел социальной статистики), ГРС при ПКР, Минздрав КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division), SRS under GKR, MoH KR]]></com:Text>
           
@@ -560,15 +444,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
@@ -576,17 +456,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[+996 (0312) 32 46 52]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Охват АКДС (DTP) вакциной (от дифтерии, столбняка и коклюша) (3-х дозовая): Процент детей, которые получили 3 дозы АКДС вакцины в отчетном году. 
-Охват вакциной против кори (MCV) (2-х дозовая): Процент детей, которые получили две дозы вакцины, содержащей корь, согласно национально рекомендованному графику услуг по иммунизации. 
-Охват Пневмококковой конъюгированной вакциной (PCV) (последняя доза по расписанию): Процент детей, получивших рекомендованные дозы пневмококковой конъюгатной вакцины.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Coverage of DTP containing vaccine (3rd dose): Percentage of surviving infants who received the 3 doses of diphtheria and tetanus toxoid with pertussis containing vaccine in a given year 
 Coverage of Measles containing vaccine (2nd dose): Percentage of children who received two dose of measles containing vaccine according to nationally recommended schedule through routine immunization services.
@@ -596,15 +470,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Иммунизация является проверенным инструментом контроля и устранения угрожающих жизни инфекционных заболеваний и это один из самых экономически эффективных видов инвестиций в здравоохранение с проверенными стратегиями, позволяющими применять ее даже к самым труднодоступным и уязвимым группам населения.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Immunization is a proven tool for control and elimination of life-threatening communicable diseases and is one of the most cost-effective investments in health sector, which can be applied to even remote and most vulnerable populations.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство здравоохранения КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Health of the Kyrgyz Republic]]></com:Text>
           
@@ -612,17 +482,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Административная отчетность МЗ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Административная отчетность МЗ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Методология оценивает временные ряды охвата целевого населения вакцинами, включенными в национальный календарь прививок и рекомендованных ВОЗ, данные выпускаются и публикуются ежегодно с 2001 года. 
-Методология использует данные, представленные национальными организациями системы здравоохранения. 
-При этом, административные источники позволяют рассчитать охват каждой вакциной в отдельности.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Methodology estimates time series for national immunization coverage of target population with WHO recommended vaccines and those included in National Vaccines Calendar. Data have been produced and published annually since 2001. The methodology uses data reported by national health systems. Also administrative sources make it possible to calculate the coverage for each vaccine separately.]]></com:Text>
           
@@ -630,15 +494,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Страны часто передают охват административных систем данных, а ВОЗ и ЮНИСЕФ проводят обзор и оценку данных из разных источников, включая административные системы и исследования. Различия между оценками подготовленными странами и международными организациями объясняются главным образом различиями охвата административной системы и результатами опроса. Если вакцина не включена в национальный график иммунизации, охват данной вакциной не будет отражен.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Countries often relay on administrative coverage data, while WHO and UNICEF review and assess data from different sources including administrative systems and surveys. Differences between country produced and international estimates are mainly due to differences between coverage estimates from administrative system and survey results. In case the vaccine is not included in national immunization schedule the coverage from private sector will not be reflected.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные охвата различными вакцинами собираются ежегодно и рассматриваются экспертной группой ВОЗ и ЮНИСЕФ, оценки даются ежегодно по каждой стране. Данные публикуются как на веб-сайтах ВОЗ, так и на ЮНИСЕФ. http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html http://www.data.unicef.org/child-health/immunization]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Coverage data for different vaccines are collected annually and reviewed by WHO and UNICEF inter agency expert group and estimates made for each country and each year. Data are published both on WHO and UNICEF web sites. http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html http://www.data.unicef.org/child-health/immunization]]></com:Text>
           
@@ -646,15 +506,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Вакцины, применяемые в Кыргызской Республике, соответствуют национальным требованиям и рекомендациям Всемирной Организации Здравоохранения, а также международным стандартам GMP и прошли процедуры предварительной квалификации ВОЗ.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic uses vaccines compliant with  national requirements and WHO recommendations, as well as with international GMP standards, and have undergone WHO pre-qualification procedures.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html, https://www.unicef.org/immunization/]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html, https://www.unicef.org/immunization/]]></com:Text>
           
@@ -664,7 +520,7 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2fabd073-e44b-4436-9101-c999f279af15">
+  <mes:MetadataSet structureRef="MDS1" setID="6b2fd7ed-9939-4d2f-994b-bbdf5e482c3a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -691,15 +547,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="SDG_GOAL">
           
-          <com:Text xml:lang="ru"><![CDATA[3: Обеспечение здорового образа жизни и содействие благополучию для всех в любом возрасте]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="ru"><![CDATA[3.b: Оказывать содействие исследованиям и разработкам вакцин и лекарственных препаратов для лечения инфекционных и неинфекционных болезней, которые в первую очередь затрагивают развивающиеся страны, обеспечивать доступность недорогих основных лекарственных средств и вакцин в соответствии с Дохинской декларацией «Соглашение по ТРИПС и общественное здравоохранение», в которой подтверждается право развивающихся стран в полном объеме использовать положения Соглашения по торговым аспектам прав интеллектуальной собственности в отношении проявления гибкости для целей охраны здоровья населения и, в частности, обеспечения доступа к лекарственным средствам для всех]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[3.b: Support the research and development of vaccines and medicines for the communicable and non‑communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all]]></com:Text>
           
@@ -707,15 +559,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="SDG_INDICATOR">
           
-          <com:Text xml:lang="ru"><![CDATA[3.b.1: Доля целевой группы населения, охваченная иммунизацией всеми вакцинами, включенными в национальные программы]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[3.b.1: Proportion of the target population covered by all vaccines included in their national programme]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="ru"><![CDATA[НСК КР (отдел социальной статистики), ГРС при ПКР, Минздрав КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division), SRS under GKR, MoH KR]]></com:Text>
           
@@ -723,15 +571,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="CONTACT_NAME">
           
-          <com:Text xml:lang="ru"><![CDATA[Рахманова Ж.Ж.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="ru"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
           
@@ -739,17 +583,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="CONTACT_PHONE">
           
-          <com:Text xml:lang="ru"><![CDATA[+996 (0312) 32 46 52]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="ru"><![CDATA[Охват АКДС (DTP) вакциной (от дифтерии, столбняка и коклюша) (3-х дозовая): Процент детей, которые получили 3 дозы АКДС вакцины в отчетном году. 
-Охват вакциной против кори (MCV) (2-х дозовая): Процент детей, которые получили две дозы вакцины, содержащей корь, согласно национально рекомендованному графику услуг по иммунизации. 
-Охват Пневмококковой конъюгированной вакциной (PCV) (последняя доза по расписанию): Процент детей, получивших рекомендованные дозы пневмококковой конъюгатной вакцины.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Coverage of DTP containing vaccine (3rd dose): Percentage of surviving infants who received the 3 doses of diphtheria and tetanus toxoid with pertussis containing vaccine in a given year 
 Coverage of Measles containing vaccine (2nd dose): Percentage of children who received two dose of measles containing vaccine according to nationally recommended schedule through routine immunization services.
@@ -759,15 +597,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="ru"><![CDATA[Иммунизация является проверенным инструментом контроля и устранения угрожающих жизни инфекционных заболеваний и это один из самых экономически эффективных видов инвестиций в здравоохранение с проверенными стратегиями, позволяющими применять ее даже к самым труднодоступным и уязвимым группам населения.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Immunization is a proven tool for control and elimination of life-threatening communicable diseases and is one of the most cost-effective investments in health sector, which can be applied to even remote and most vulnerable populations.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Министерство здравоохранения КР]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Ministry of Health of the Kyrgyz Republic]]></com:Text>
           
@@ -775,17 +609,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="COMPILING_ORG">
           
-          <com:Text xml:lang="ru"><![CDATA[Административная отчетность МЗ]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Административная отчетность МЗ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="ru"><![CDATA[Методология оценивает временные ряды охвата целевого населения вакцинами, включенными в национальный календарь прививок и рекомендованных ВОЗ, данные выпускаются и публикуются ежегодно с 2001 года. 
-Методология использует данные, представленные национальными организациями системы здравоохранения. 
-При этом, административные источники позволяют рассчитать охват каждой вакциной в отдельности.]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Methodology estimates time series for national immunization coverage of target population with WHO recommended vaccines and those included in National Vaccines Calendar. Data have been produced and published annually since 2001. The methodology uses data reported by national health systems. Also administrative sources make it possible to calculate the coverage for each vaccine separately.]]></com:Text>
           
@@ -793,15 +621,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="ru"><![CDATA[Страны часто передают охват административных систем данных, а ВОЗ и ЮНИСЕФ проводят обзор и оценку данных из разных источников, включая административные системы и исследования. Различия между оценками подготовленными странами и международными организациями объясняются главным образом различиями охвата административной системы и результатами опроса. Если вакцина не включена в национальный график иммунизации, охват данной вакциной не будет отражен.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[Countries often relay on administrative coverage data, while WHO and UNICEF review and assess data from different sources including administrative systems and surveys. Differences between country produced and international estimates are mainly due to differences between coverage estimates from administrative system and survey results. In case the vaccine is not included in national immunization schedule the coverage from private sector will not be reflected.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="ru"><![CDATA[Данные охвата различными вакцинами собираются ежегодно и рассматриваются экспертной группой ВОЗ и ЮНИСЕФ, оценки даются ежегодно по каждой стране. Данные публикуются как на веб-сайтах ВОЗ, так и на ЮНИСЕФ. http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html http://www.data.unicef.org/child-health/immunization]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[Coverage data for different vaccines are collected annually and reviewed by WHO and UNICEF inter agency expert group and estimates made for each country and each year. Data are published both on WHO and UNICEF web sites. http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html http://www.data.unicef.org/child-health/immunization]]></com:Text>
           
@@ -809,15 +633,11 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
         
         <gen:ReportedAttribute id="COMPARABILITY">
           
-          <com:Text xml:lang="ru"><![CDATA[Вакцины, применяемые в Кыргызской Республике, соответствуют национальным требованиям и рекомендациям Всемирной Организации Здравоохранения, а также международным стандартам GMP и прошли процедуры предварительной квалификации ВОЗ.]]></com:Text>
-          
           <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic uses vaccines compliant with  national requirements and WHO recommendations, as well as with international GMP standards, and have undergone WHO pre-qualification procedures.]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="ru"><![CDATA[http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html, https://www.unicef.org/immunization/]]></com:Text>
           
           <com:Text xml:lang="en"><![CDATA[http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html, https://www.unicef.org/immunization/]]></com:Text>
           
