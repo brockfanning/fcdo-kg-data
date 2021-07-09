@@ -3,7 +3,7 @@ name: Deploy to staging
 on:
   push:
     branches:
-      - develop
+      - fcdo
 
 jobs:
   build:
@@ -26,16 +26,7 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        ACCESS_TOKEN: ${{ secrets.token }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
-    - name: Waiting 4 minutes for staging data deployment
-      run: |
-        sleep 240
-    - name: Rebuild staging
-      run: |
-        curl -X POST https://api.github.com/repos/sdg-kyrgyzstan/open-sdg-site-starter/dispatches \
-        -H "Accept: application/vnd.github.everest-preview+json" \
-        -H "Authorization: token ${{secrets.token}}" \
-        --data '{"event_type": "rebuild-staging"}'
