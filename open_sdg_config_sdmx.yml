@@ -25,7 +25,7 @@ inputs:
       UNIT_MEASURE: 'Units'
       SERIES: 'Series'
       REF_AREA|KG: ''
-    drop_dimensions: 
+    drop_dimensions:
       - SOURCE_DETAIL
     dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
     import_translation_keys: true
@@ -92,5 +92,7 @@ indicator_downloads:
     source_pattern: data/*.xml
     indicator_id_pattern: (.*)
     output_folder: data-sdmx
-  
 
+sdmx_output:
+  constrain_data: true
+  dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
