@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1626258154</mes:ID>
+    <mes:ID>IREF1626258719</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-14T10:22:34</mes:Prepared>
+    <mes:Prepared>2021-07-14T10:31:59</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="aa16eb71-4e1e-4e09-9151-b01491b4f580">
+  <mes:MetadataSet structureRef="MDS1" setID="4a9fa1e7-577d-478d-a242-6b5b251c5cc9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -148,7 +148,7 @@ KR National SDG Reporting Platform:  https://sustainabledevelopment-kyrgyzstan.g
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b205fa34-eb2e-43a8-a9ef-2a795529c702">
+  <mes:MetadataSet structureRef="MDS1" setID="2925b124-46ba-4bf1-b208-91c571f3534f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

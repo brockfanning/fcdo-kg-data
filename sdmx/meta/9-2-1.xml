@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1626258154</mes:ID>
+    <mes:ID>IREF1626258719</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-14T10:22:34</mes:Prepared>
+    <mes:Prepared>2021-07-14T10:31:59</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="40fb2e54-f591-4100-90e1-a591c0ace69c">
+  <mes:MetadataSet structureRef="MDS1" setID="c71dcf63-bf52-44ec-aa0e-8bd88884efe2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -155,7 +155,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="240818e1-0607-43b1-aada-be38a9a504ba">
+  <mes:MetadataSet structureRef="MDS1" setID="fe20296d-a0f7-41e0-baf7-b9b815d0b2aa">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -298,7 +298,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ec7ecaad-dafe-4f97-bcac-b8e1abecf3e1">
+  <mes:MetadataSet structureRef="MDS1" setID="f5cd45a9-18c6-4a6a-8052-7b0b4017094d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
