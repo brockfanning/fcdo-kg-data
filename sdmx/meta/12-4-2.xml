@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1625855683</mes:ID>
+    <mes:ID>IREF1626258154</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-09T18:34:43</mes:Prepared>
+    <mes:Prepared>2021-07-14T10:22:34</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2e105da9-8606-4aba-9984-4fc642681a57">
+  <mes:MetadataSet structureRef="MDS1" setID="99851c48-b2af-423d-8a7a-1f36e5aecf34">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -132,7 +132,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5850e317-8e99-4847-9566-71484be86e8d">
+  <mes:MetadataSet structureRef="MDS1" setID="5c0ef5f7-7cd0-471e-a95d-9776db10eb60">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -252,7 +252,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="544f4dfd-9ee4-4108-9cd5-d05452273a8c">
+  <mes:MetadataSet structureRef="MDS1" setID="356fd8ac-7a2f-4e95-acce-92e8807e3eb6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -372,7 +372,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="fd2a98bb-2e58-4693-8da9-f0bfead6ac44">
+  <mes:MetadataSet structureRef="MDS1" setID="a03aaaf2-ae0c-4204-a43c-5da66768e98c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -492,7 +492,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="729efb95-809e-4730-80c0-816fb7c498ae">
+  <mes:MetadataSet structureRef="MDS1" setID="804e4c98-79af-4bdd-9d34-5010ca9586f6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -612,7 +612,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8a1f709c-333d-4818-98b7-d2dc47f4aa5d">
+  <mes:MetadataSet structureRef="MDS1" setID="6659f58d-8212-4960-bb9d-a6bdfc610693">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -732,7 +732,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5a450453-4315-43b6-a5a1-086b65879316">
+  <mes:MetadataSet structureRef="MDS1" setID="aea25e02-302c-4981-9ee8-df802a579a5c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -852,7 +852,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7b301ac8-b7d8-44b9-98f7-c854a3163eee">
+  <mes:MetadataSet structureRef="MDS1" setID="0312e995-241e-4ca5-8962-12ef5b02d4e6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -972,7 +972,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9c147679-696e-47d3-8fba-2f65cc9f0a8d">
+  <mes:MetadataSet structureRef="MDS1" setID="2e0fbed9-6148-4845-919d-2595acda2cb3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1092,14 +1092,14 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="60e97117-794b-414a-be99-7b914da6b16d">
+  <mes:MetadataSet structureRef="MDS1" setID="f74a6700-2ea6-4ad3-9a16-254dae55c171">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
         <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
           <gen:DataKey>
             <com:KeyValue id="SERIES">
-              <com:Value>EN_EWT_RCYPCAP</com:Value>
+              <com:Value>EN_TWT_GENV</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>
@@ -1212,14 +1212,14 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="487e7a5e-d262-4e1a-ad52-abd27d89499b">
+  <mes:MetadataSet structureRef="MDS1" setID="52c3954a-b357-4f77-864a-7ed8aa26bc6e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
         <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
           <gen:DataKey>
             <com:KeyValue id="SERIES">
-              <com:Value>EN_EWT_RCYR</com:Value>
+              <com:Value>EN_HAZ_EXP</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>
@@ -1332,14 +1332,14 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="18372494-7f47-473b-a12c-3ef063117794">
+  <mes:MetadataSet structureRef="MDS1" setID="6c767b9e-ab01-4647-8949-b4c13daf5646">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
         <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
           <gen:DataKey>
             <com:KeyValue id="SERIES">
-              <com:Value>EN_EWT_RCYV</com:Value>
+              <com:Value>EN_HAZ_IMP</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>
@@ -1452,7 +1452,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1da475cb-ea18-4079-950e-6f8288b006f8">
+  <mes:MetadataSet structureRef="MDS1" setID="3c3a9dbb-714f-4015-a56e-3f7c9ac73cff">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1572,7 +1572,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="97ef1f5f-ac8c-42ca-b1c4-fa9db7763f86">
+  <mes:MetadataSet structureRef="MDS1" setID="109b0359-1580-472c-ae02-c3993cf31770">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1692,7 +1692,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="db51590b-3fc1-4715-abe2-13ea173e829b">
+  <mes:MetadataSet structureRef="MDS1" setID="1a0ca930-cd29-4cc7-8d6b-bae4f18d25c0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1812,7 +1812,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="780e976f-02b8-4c61-a556-4da19f41b793">
+  <mes:MetadataSet structureRef="MDS1" setID="b9af8e28-2f92-40b4-bc6d-365b7e0d361f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1932,7 +1932,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="186d3ff8-40bc-4fdb-9437-c19668214ce8">
+  <mes:MetadataSet structureRef="MDS1" setID="f19eb4fa-66fe-4535-9c3d-418695adabc5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2052,7 +2052,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cee143ef-2561-44fc-9add-ebb500ca341c">
+  <mes:MetadataSet structureRef="MDS1" setID="1a897606-2cce-4cf2-a4d9-62a36026ee36">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2060,126 +2060,6 @@
           <gen:DataKey>
             <com:KeyValue id="SERIES">
               <com:Value>EN_EWT_COLLR</com:Value>
-            </com:KeyValue>
-            <com:KeyValue id="REPORTING_TYPE">
-              <com:Value>N</com:Value>
-            </com:KeyValue>
-            <com:KeyValue id="REF_AREA">
-              <com:Value>KG</com:Value>
-            </com:KeyValue>
-          </gen:DataKey>
-        </gen:ReferenceValue>
-        <gen:ReferenceValue id="Dataflow">
-          <gen:ObjectReference>
-            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
-          </gen:ObjectReference>
-        </gen:ReferenceValue>
-      </gen:Target>
-      <gen:AttributeSet>
-        
-        <gen:ReportedAttribute id="SDG_GOAL">
-          
-          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="SDG_INDICATOR">
-          
-          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="CONTACT_NAME">
-          
-          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="CONTACT_PHONE">
-          
-          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="RATIONALE">
-          
-          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
-(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-      </gen:AttributeSet>
-    </gen:Report>
-  </mes:MetadataSet>
-  
-  <mes:MetadataSet structureRef="MDS1" setID="9654616a-01ef-4e2e-ab91-4ae4367e95a0">
-    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
-    <gen:Report id="SDG_META_RPT">
-      <gen:Target id="KEY_TARGET">
-        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
-          <gen:DataKey>
-            <com:KeyValue id="SERIES">
-              <com:Value>EN_MWT_RCYV</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>
