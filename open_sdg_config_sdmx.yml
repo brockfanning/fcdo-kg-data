@@ -20,14 +20,9 @@ src_dir: ''
 inputs:
   - class: InputSdmxMl_Multiple
     path_pattern: data/*.xml
-    dimension_map:
-      UNIT_MEASURE: 'Units'
-      SERIES: 'Series'
-      REF_AREA|KG: ''
     dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
-    import_translation_keys: true
-  - class: InputCsvData
-    path_pattern: data/*-*.csv
+    import_codes: true
+    drop_singleton_dimensions: false
   - class: InputYamlMdMeta
     path_pattern: indicator_settings/*-*.md
     git: false
@@ -90,9 +85,15 @@ indicator_downloads:
     indicator_id_pattern: (.*)
     output_folder: data-sdmx
 
-sdmx_output:
-  constrain_data: true
-  dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
+#sdmx_output:
+#  constrain_data: true
+#  dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
+#  meta_reporting_type: N
+#  meta_ref_area: KG
+#  default_values:
+#    REF_AREA: KG
+
+sdmx_output_global:
   meta_reporting_type: N
   meta_ref_area: KG
   default_values:

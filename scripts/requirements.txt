@@ -1,4 +1,4 @@
 xlrd==1.2.0
 openpyxl
 git+git://github.com/dougmet/yamlmd
-git+git://github.com/open-sdg/sdg-build@1.4.0-dev
+git+git://github.com/brockfanning/sdg-build-1@sdmx-global-output
