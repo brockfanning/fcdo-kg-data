@@ -15,18 +15,82 @@
             "type": "string"
           },
           {
-            "name": "Series",
+            "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KG_050201_1A1",
-                "_L_KG_050201_1A2",
-                "_L_KG_050201_1A3",
-                "_L_KG_050201_1A4",
-                "_L_KG_050201_1A5",
+                "A",
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "N",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

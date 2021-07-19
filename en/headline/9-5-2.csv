@@ -1,11 +1,1 @@
-Year,Value
-2010,360
-2011,401
-2012,415
-2013,530
-2014,511
-2015,572
-2016,563
-2017,524
-2018,555
-2019,527
+Year,Value,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

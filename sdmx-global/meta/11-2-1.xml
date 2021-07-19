@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1626665724</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-19T03:35:24</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="016d6d92-eb4b-4885-8533-824526fe9a6f">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SP_TRN_PUBL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[ Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.2. By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.2.1. Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Y. I. Kalymbetova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(312) 66 41 64]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator will be monitored by the proportion of the population that has convenient access to public transport. The access to public transport is considered convenient when an officially recognized stop is accessible within a distance of 0.5 km from a reference point such as a home, school, work place, market, etc. Additional criteria for defining public transport that is convenient include:
+a. Public transport accessible to all special-needs customers, including those who are physically, visually, and/or hearing-impaired, as well as those with temporary disabilities, the elderly, children and other people in vulnerable situations.
+b. Public transport with frequent service during peak travel times
+c. Stops present a safe and comfortable station environment]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator aims to successfully monitor the use of and access to the public transportation system and the move towards easing the reliance on the private means of transportation, improving the access to areas with a high proportion of transport disadvantaged groups such as elderly citizens, physically challenged individuals, and low income earners or areas with specific dwelling types such as high occupancy buildings or public housing and reducing the need for mobility by decreasing the number of trips and the distances travelled. The accessibility based urban mobility paradigm also critically needs good, high-capacity public transport systems that are well integrated in a multimodal arrangement with
+public transport access points located within comfortable walking or cycling distances from homes and jobs for all.
+The ability of residents including persons with disabilities and businesses to access markets, employment opportunities, and service centers such as schools and hospitals is critical to urban economic development. The transport system provides access to resources and employment opportunity. Moreover, accessibility allows planners to measure the effects of changes in transport and land use systems. The accessibility of jobs, services and markets also allow policymakers, citizens and businesses to discuss the state of the transport system in the comprehensible way. The transportation system is a critical enabler of economic activities and social inclusion. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Household surveys that collect information on the proportion of households that declare they have access to public means of transport within 0.5 km. These surveys can also collect information about the quality of the service.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Репрезентативные национальные обследования домашних хозяйств]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator will be determined based on the proportion of the population with a comfortable access to public transport.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[As the Outcome Document 2nd Meeting of the Urban SDGs Campaign in Bangalore (12-14 February 2015) recognizes that no internationally agreed methodology exists for measuring convenience and service quality of public transport. Harmonized global/local data on urban transport systems do not exist, nor are they comparable at the world level.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[There is no internationally agreed methodology for measuring the convenience and quality of public transport services. There are no internationally agreed global/local data on urban transport systems and they are not comparable at the global level.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

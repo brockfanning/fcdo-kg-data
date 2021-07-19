@@ -15,6 +15,16 @@
             "type": "string"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
@@ -27,12 +37,45 @@
             }
           },
           {
-            "name": "Series",
+            "name": "NATURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KG_070301_2A",
-                "_L_KG_070301_2B",
+                "C",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "N",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG",
                 ""
               ]
             }
@@ -49,16 +92,8 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_KWH_MN_KGS",
-                "_L_TH_KWH_MN_KGS",
-                "_L_KWH",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

@@ -1,2 +1,5 @@
 From,To
-COMPOSITE_BREAKDOWN,Reference area
+Nature of data points,Frequency of observation
+Frequency of observation,Reporting type
+Reporting type,Reference area
+Reference area,COMPOSITE_BREAKDOWN

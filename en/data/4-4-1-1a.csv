@@ -1,57 +1,57 @@
-Year,Sex,Education level,Value
-2010,,Secondary and post-secondary non-tertiary education (intermediate),1432
-2013,,Secondary and post-secondary non-tertiary education (intermediate),1551
-2014,,Secondary and post-secondary non-tertiary education (intermediate),1272
-2015,,Secondary and post-secondary non-tertiary education (intermediate),1236
-2016,,Secondary and post-secondary non-tertiary education (intermediate),891
-2017,,Secondary and post-secondary non-tertiary education (intermediate),766
-2018,,Secondary and post-secondary non-tertiary education (intermediate),924
-2019,,Secondary and post-secondary non-tertiary education (intermediate),911
-2010,,Short-cycle tertiary education,2544
-2013,,Short-cycle tertiary education,2663
-2014,,Short-cycle tertiary education,5189
-2015,,Short-cycle tertiary education,4961
-2016,,Short-cycle tertiary education,4754
-2017,,Short-cycle tertiary education,5106
-2018,,Short-cycle tertiary education,5870
-2019,,Short-cycle tertiary education,6794
-2010,Female,Short-cycle tertiary education,1244
-2013,Female,Short-cycle tertiary education,1347
-2014,Female,Short-cycle tertiary education,1873
-2015,Female,Short-cycle tertiary education,1785
-2016,Female,Short-cycle tertiary education,3050
-2017,Female,Short-cycle tertiary education,1380
-2018,Female,Short-cycle tertiary education,1449
-2019,Female,Short-cycle tertiary education,1675
-2010,Male,Short-cycle tertiary education,1300
-2013,Male,Short-cycle tertiary education,1316
-2014,Male,Short-cycle tertiary education,3316
-2015,Male,Short-cycle tertiary education,3176
-2016,Male,Short-cycle tertiary education,1704
-2017,Male,Short-cycle tertiary education,3722
-2018,Male,Short-cycle tertiary education,4421
-2019,Male,Short-cycle tertiary education,5119
-2010,,Tertiary education (Bachelor’s and Master's or equivalent),12291
-2013,,Tertiary education (Bachelor’s and Master's or equivalent),8890
-2014,,Tertiary education (Bachelor’s and Master's or equivalent),9214
-2015,,Tertiary education (Bachelor’s and Master's or equivalent),8551
-2016,,Tertiary education (Bachelor’s and Master's or equivalent),7089
-2017,,Tertiary education (Bachelor’s and Master's or equivalent),8522
-2018,,Tertiary education (Bachelor’s and Master's or equivalent),9516
-2019,,Tertiary education (Bachelor’s and Master's or equivalent),9511
-2010,Female,Tertiary education (Bachelor’s and Master's or equivalent),5530
-2013,Female,Tertiary education (Bachelor’s and Master's or equivalent),4469
-2014,Female,Tertiary education (Bachelor’s and Master's or equivalent),4096
-2015,Female,Tertiary education (Bachelor’s and Master's or equivalent),3916
-2016,Female,Tertiary education (Bachelor’s and Master's or equivalent),3020
-2017,Female,Tertiary education (Bachelor’s and Master's or equivalent),4023
-2018,Female,Tertiary education (Bachelor’s and Master's or equivalent),4361
-2019,Female,Tertiary education (Bachelor’s and Master's or equivalent),3982
-2010,Male,Tertiary education (Bachelor’s and Master's or equivalent),6761
-2013,Male,Tertiary education (Bachelor’s and Master's or equivalent),4421
-2014,Male,Tertiary education (Bachelor’s and Master's or equivalent),5118
-2015,Male,Tertiary education (Bachelor’s and Master's or equivalent),4635
-2016,Male,Tertiary education (Bachelor’s and Master's or equivalent),4069
-2017,Male,Tertiary education (Bachelor’s and Master's or equivalent),4491
-2018,Male,Tertiary education (Bachelor’s and Master's or equivalent),5155
-2019,Male,Tertiary education (Bachelor’s and Master's or equivalent),5529
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,SERIES,Reference area,Sex,Education level,UNIT_MEASURE,Value
+2010,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),Number,1432
+2013,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),Number,1551
+2014,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),Number,1272
+2015,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),Number,1236
+2016,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),Number,891
+2017,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),Number,766
+2018,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),Number,924
+2019,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),Number,911
+2010,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Short-cycle tertiary education,Number,2544
+2013,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Short-cycle tertiary education,Number,2663
+2014,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Short-cycle tertiary education,Number,5189
+2015,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Short-cycle tertiary education,Number,4961
+2016,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Short-cycle tertiary education,Number,4754
+2017,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Short-cycle tertiary education,Number,5106
+2018,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Short-cycle tertiary education,Number,5870
+2019,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Short-cycle tertiary education,Number,6794
+2010,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Short-cycle tertiary education,Number,1244
+2013,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Short-cycle tertiary education,Number,1347
+2014,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Short-cycle tertiary education,Number,1873
+2015,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Short-cycle tertiary education,Number,1785
+2016,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Short-cycle tertiary education,Number,3050
+2017,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Short-cycle tertiary education,Number,1380
+2018,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Short-cycle tertiary education,Number,1449
+2019,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Short-cycle tertiary education,Number,1675
+2010,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Short-cycle tertiary education,Number,1300
+2013,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Short-cycle tertiary education,Number,1316
+2014,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Short-cycle tertiary education,Number,3316
+2015,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Short-cycle tertiary education,Number,3176
+2016,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Short-cycle tertiary education,Number,1704
+2017,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Short-cycle tertiary education,Number,3722
+2018,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Short-cycle tertiary education,Number,4421
+2019,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Short-cycle tertiary education,Number,5119
+2010,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),Number,12291
+2013,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),Number,8890
+2014,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),Number,9214
+2015,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),Number,8551
+2016,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),Number,7089
+2017,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),Number,8522
+2018,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),Number,9516
+2019,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),Number,9511
+2010,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Tertiary education (Bachelor’s and Master's or equivalent),Number,5530
+2013,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Tertiary education (Bachelor’s and Master's or equivalent),Number,4469
+2014,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Tertiary education (Bachelor’s and Master's or equivalent),Number,4096
+2015,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Tertiary education (Bachelor’s and Master's or equivalent),Number,3916
+2016,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Tertiary education (Bachelor’s and Master's or equivalent),Number,3020
+2017,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Tertiary education (Bachelor’s and Master's or equivalent),Number,4023
+2018,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Tertiary education (Bachelor’s and Master's or equivalent),Number,4361
+2019,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Female,Tertiary education (Bachelor’s and Master's or equivalent),Number,3982
+2010,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Tertiary education (Bachelor’s and Master's or equivalent),Number,6761
+2013,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Tertiary education (Bachelor’s and Master's or equivalent),Number,4421
+2014,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Tertiary education (Bachelor’s and Master's or equivalent),Number,5118
+2015,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Tertiary education (Bachelor’s and Master's or equivalent),Number,4635
+2016,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Tertiary education (Bachelor’s and Master's or equivalent),Number,4069
+2017,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Tertiary education (Bachelor’s and Master's or equivalent),Number,4491
+2018,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Tertiary education (Bachelor’s and Master's or equivalent),Number,5155
+2019,Normal value,Units,Country Data,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,Male,Tertiary education (Bachelor’s and Master's or equivalent),Number,5529

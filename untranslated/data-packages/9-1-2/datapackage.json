@@ -15,6 +15,16 @@
             "type": "string"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
@@ -26,12 +36,55 @@
             }
           },
           {
-            "name": "Series",
+            "name": "NATURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "IS_RDP_PFVOL",
-                "IS_RDP_FRGVOL",
+                "C",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Buses",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "N",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG",
                 ""
               ]
             }
@@ -54,15 +107,8 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NUMBER",
-                "T",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

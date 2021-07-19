@@ -1,51 +1,51 @@
-Year,Reference area,Value
-2015,,23.470187
-2016,,28.487981
-2017,,31.143928
-2018,,27.299499
-2019,,28.931149
-2015,Batken,29.364645
-2016,Batken,47.911855
-2017,Batken,46.221681
-2018,Batken,42.644557
-2019,Batken,38.677928
-2015,Jalal-Abad,43.58955
-2016,Jalal-Abad,37.24933
-2017,Jalal-Abad,35.4
-2018,Jalal-Abad,32.708436
-2019,Jalal-Abad,34.657679
-2015,Issyk-Kul,-1.504559
-2016,Issyk-Kul,16.638283
-2017,Issyk-Kul,29.5
-2018,Issyk-Kul,19.463418
-2019,Issyk-Kul,31.583101
-2015,Naryn,20.617825
-2016,Naryn,19.923049
-2017,Naryn,28.473393
-2018,Naryn,30.739784
-2019,Naryn,47.289369
-2015,Osh,34.255749
-2016,Osh,30.917948
-2017,Osh,32.665922
-2018,Osh,27.856595
-2019,Osh,37.990784
-2015,Talas,36.443189
-2016,Talas,34.131511
-2017,Talas,31.207421
-2018,Talas,34.060446
-2019,Talas,29.962169
-2015,Chui,31.422096
-2016,Chui,25.580014
-2017,Chui,38.456746
-2018,Chui,35.486614
-2019,Chui,23.647168
-2015,Bishkek (city),9.584576
-2016,Bishkek (city),12.583671
-2017,Bishkek (city),16.3
-2018,Bishkek (city),12.865469
-2019,Bishkek (city),16.50586
-2015,Osh (city),16.932905
-2016,Osh (city),40.826476
-2017,Osh (city),42.862634
-2018,Osh (city),38.281575
-2019,Osh (city),31.381882
+Year,Observation status,Unit multiplier,Nature of data points,Source details,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Kyrgyzstan,Index,23.470187
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Kyrgyzstan,Index,28.487981
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Kyrgyzstan,Index,31.143928
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Kyrgyzstan,Index,27.299499
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Kyrgyzstan,Index,28.931149
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Batken,Index,29.364645
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Batken,Index,47.911855
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Batken,Index,46.221681
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Batken,Index,42.644557
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Batken,Index,38.677928
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Jalal-Abad,Index,43.58955
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Jalal-Abad,Index,37.24933
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Jalal-Abad,Index,35.4
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Jalal-Abad,Index,32.708436
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Jalal-Abad,Index,34.657679
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Issyk-Kul,Index,-1.504559
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Issyk-Kul,Index,16.638283
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Issyk-Kul,Index,29.5
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Issyk-Kul,Index,19.463418
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Issyk-Kul,Index,31.583101
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Naryn,Index,20.617825
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Naryn,Index,19.923049
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Naryn,Index,28.473393
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Naryn,Index,30.739784
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Naryn,Index,47.289369
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Osh,Index,34.255749
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Osh,Index,30.917948
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Osh,Index,32.665922
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Osh,Index,27.856595
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Osh,Index,37.990784
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Talas,Index,36.443189
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Talas,Index,34.131511
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Talas,Index,31.207421
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Talas,Index,34.060446
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Talas,Index,29.962169
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Chui,Index,31.422096
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Chui,Index,25.580014
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Chui,Index,38.456746
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Chui,Index,35.486614
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Chui,Index,23.647168
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Bishkek (city),Index,9.584576
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Bishkek (city),Index,12.583671
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Bishkek (city),Index,16.3
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Bishkek (city),Index,12.865469
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Bishkek (city),Index,16.50586
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Osh (city),Index,16.932905
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Osh (city),Index,40.826476
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Osh (city),Index,42.862634
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Osh (city),Index,38.281575
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,Executive branch of the government satisfaction index,Osh (city),Index,31.381882

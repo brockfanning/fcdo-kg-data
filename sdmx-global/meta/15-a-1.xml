@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1626665724</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-19T03:35:24</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="4a6b9494-44fb-4962-a427-1f642e74c6a5">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>DC_ODA_BDVDL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[15 Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[15.a Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[15.a.1 Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Ministry of Finance of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Chinara Sharshenovna Kenjebaeva – Head of International Cooperation Department a.i, Ministry of Finance of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ch.kenjebaeva@minfin.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312)-66-20-04]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems is defined as Gross disbursements of total ODA from all donors for biodiversity. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Total ODA flows to developing countries quantify the public effort that donors provide to developing countries for biodiversity.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Administrative]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по освоению средств, направленных на реализацию проектов государственных инвестиций (ежемесячно), отчетность о ходе реализации проектов государственных инвестиций (ежеквартально)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The sum of ODA flows from all donors to developing countries that have biodiversity as a principal or significant objective. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Statistics are submitted to all donors during the calendar year and may differ from fiscal year data available in budget documents for some countries.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[On a recipient basis for all developing countries eligible for ODA. Statistics are submitted on an annual basis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Applicable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
+http://www/amp.gov.kg http://www.oecd.org/dac/stats/methodology.htm]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="32c403d8-425d-4425-9c82-05a0f96b3f61">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>DC_ODA_BDVL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[15 Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[15.a Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[15.a.1 Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Ministry of Finance of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Chinara Sharshenovna Kenjebaeva – Head of International Cooperation Department a.i, Ministry of Finance of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ch.kenjebaeva@minfin.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312)-66-20-04]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems is defined as Gross disbursements of total ODA from all donors for biodiversity. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Total ODA flows to developing countries quantify the public effort that donors provide to developing countries for biodiversity.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Administrative]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по освоению средств, направленных на реализацию проектов государственных инвестиций (ежемесячно), отчетность о ходе реализации проектов государственных инвестиций (ежеквартально)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The sum of ODA flows from all donors to developing countries that have biodiversity as a principal or significant objective. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Statistics are submitted to all donors during the calendar year and may differ from fiscal year data available in budget documents for some countries.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[On a recipient basis for all developing countries eligible for ODA. Statistics are submitted on an annual basis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Applicable]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
+http://www/amp.gov.kg http://www.oecd.org/dac/stats/methodology.htm]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

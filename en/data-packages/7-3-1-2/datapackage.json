@@ -23,16 +23,69 @@
             "title": "Economic activity"
           },
           {
-            "name": "Series",
+            "name": "FREQ",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "_L_KG_070301_2A",
-                "_L_KG_070301_2B"
+                "Annual"
               ]
             },
-            "title": "Series"
+            "title": "Frequency of observation"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Country Data"
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Normal value"
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Kyrgyzstan"
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "National"
+              ]
+            },
+            "title": "Reporting type"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
           },
           {
             "name": "UNIT_MULT",
@@ -46,19 +99,6 @@
               ]
             },
             "title": "Unit multiplier"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_L_KWH",
-                "_L_KWH_MN_KGS",
-                "_L_TH_KWH_MN_KGS"
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",

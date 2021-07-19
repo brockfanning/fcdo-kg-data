@@ -1,0 +1,1823 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1626665724</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-19T03:35:24</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="e6a778f7-2e72-4b5c-989a-366ae0b7e8f3">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_MISS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5.1: Number of deaths attributed to disasters ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of deaths attributed to disasters.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Large-scale catastrophic events characterize data on disaster losses. Reporting of emergencies allows for additional analysis to identify trends and patterns in which such catastrophic events can be prevented, thus contributing to sustainable development and enhancing economic resilience, social, health and environmental issues. Economic, environmental and social perspectives include poverty eradication, urban resilience and climate change adaptation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[MESs provides annual summaries submitting the 1-ES Statistical Reporting Form.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по погибшим, пропавшим без вести и пострадавшим заполняются в государственной статистической отчетности Форме №1-ЧС из Типового акта Комиссии Гражданской защиты. 
+  Типовой акт Комиссии ГЗ составляется и заполняется после каждого случая ЧС, районные и городские отделы МЧС на основе Типового акта Комиссии ГЗ параллельно заполняют Форму №1-ЧС. 
+  Далее, обобщают Форму №1-ЧС за месяц по нарастающей и направляют заполненные Формы №1-ЧС в Управления МЧС областей, гг. Бишкек и Ош для обобщения за область (город). В случае отсутствия факта возникновения ЧС в текущем месяце Форма №1-ЧС формируется в месяц возникновения ЧС.
+  Управления МЧС областей, гг. Бишкек и Ош представляют обобщенные Формы №1-ЧС в Центр управления кризисными ситуациями при МЧС КР (далее ЦУКС) – 1 раз в полугодие – 30 июля и 30 января.
+  ЦУКС при МЧС КР направляет заполненную Форму №1-ЧС в сводном виде (область, город, район):
+ - один раз в год в Нацстатком КР;
+ - в Секретариат Национальной платформы по СРБ до 1 октября и до 1 марта следующего за отчетный период.
+  Секретариат Национальной платформы по СРБ Кыргызской Республики вносит данные из Формы №1-ЧС, представленные ЦУКС при МЧС КР, с добавлением дополнительных данных из официального сайта Нацстаткома КР в онлайн-отчетность мониторинга реализации Сендайской программы до 31 октября и 31 марта, следующего за отчетный период.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Counting deaths attributed to emergencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[В этом показателе, учитывая трудности, связанные с оценкой всего диапазона всех пострадавших (прямо и косвенно), МСУОБ ООН предлагает использовать показатель, который будет оценивать “непосредственно пострадавших” в качестве косвенного показателя для числа пострадавших. Этот показатель, пока что не идеальный, исходит из широкодоступных данных и может быть последовательно использован в разных странах и на протяжении времени для оценки достижения Цели B Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Each death attributed to disasters is confirmed by a special committee certificate.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan available since 2007 onwards]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan are comparable with other countries as they are compiled in accordance with international methodology.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="64ec973f-a593-4a53-b985-6cb15329f03f">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_AFFCT</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5.1: Number of deaths attributed to disasters ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of deaths attributed to disasters.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Large-scale catastrophic events characterize data on disaster losses. Reporting of emergencies allows for additional analysis to identify trends and patterns in which such catastrophic events can be prevented, thus contributing to sustainable development and enhancing economic resilience, social, health and environmental issues. Economic, environmental and social perspectives include poverty eradication, urban resilience and climate change adaptation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[MESs provides annual summaries submitting the 1-ES Statistical Reporting Form.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по погибшим, пропавшим без вести и пострадавшим заполняются в государственной статистической отчетности Форме №1-ЧС из Типового акта Комиссии Гражданской защиты. 
+  Типовой акт Комиссии ГЗ составляется и заполняется после каждого случая ЧС, районные и городские отделы МЧС на основе Типового акта Комиссии ГЗ параллельно заполняют Форму №1-ЧС. 
+  Далее, обобщают Форму №1-ЧС за месяц по нарастающей и направляют заполненные Формы №1-ЧС в Управления МЧС областей, гг. Бишкек и Ош для обобщения за область (город). В случае отсутствия факта возникновения ЧС в текущем месяце Форма №1-ЧС формируется в месяц возникновения ЧС.
+  Управления МЧС областей, гг. Бишкек и Ош представляют обобщенные Формы №1-ЧС в Центр управления кризисными ситуациями при МЧС КР (далее ЦУКС) – 1 раз в полугодие – 30 июля и 30 января.
+  ЦУКС при МЧС КР направляет заполненную Форму №1-ЧС в сводном виде (область, город, район):
+ - один раз в год в Нацстатком КР;
+ - в Секретариат Национальной платформы по СРБ до 1 октября и до 1 марта следующего за отчетный период.
+  Секретариат Национальной платформы по СРБ Кыргызской Республики вносит данные из Формы №1-ЧС, представленные ЦУКС при МЧС КР, с добавлением дополнительных данных из официального сайта Нацстаткома КР в онлайн-отчетность мониторинга реализации Сендайской программы до 31 октября и 31 марта, следующего за отчетный период.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Counting deaths attributed to emergencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[В этом показателе, учитывая трудности, связанные с оценкой всего диапазона всех пострадавших (прямо и косвенно), МСУОБ ООН предлагает использовать показатель, который будет оценивать “непосредственно пострадавших” в качестве косвенного показателя для числа пострадавших. Этот показатель, пока что не идеальный, исходит из широкодоступных данных и может быть последовательно использован в разных странах и на протяжении времени для оценки достижения Цели B Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Each death attributed to disasters is confirmed by a special committee certificate.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan available since 2007 onwards]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan are comparable with other countries as they are compiled in accordance with international methodology.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="33b18e13-82f6-4345-b8af-d4cff18e6091">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_MORT</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5.1: Number of deaths attributed to disasters ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of deaths attributed to disasters.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Large-scale catastrophic events characterize data on disaster losses. Reporting of emergencies allows for additional analysis to identify trends and patterns in which such catastrophic events can be prevented, thus contributing to sustainable development and enhancing economic resilience, social, health and environmental issues. Economic, environmental and social perspectives include poverty eradication, urban resilience and climate change adaptation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[MESs provides annual summaries submitting the 1-ES Statistical Reporting Form.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по погибшим, пропавшим без вести и пострадавшим заполняются в государственной статистической отчетности Форме №1-ЧС из Типового акта Комиссии Гражданской защиты. 
+  Типовой акт Комиссии ГЗ составляется и заполняется после каждого случая ЧС, районные и городские отделы МЧС на основе Типового акта Комиссии ГЗ параллельно заполняют Форму №1-ЧС. 
+  Далее, обобщают Форму №1-ЧС за месяц по нарастающей и направляют заполненные Формы №1-ЧС в Управления МЧС областей, гг. Бишкек и Ош для обобщения за область (город). В случае отсутствия факта возникновения ЧС в текущем месяце Форма №1-ЧС формируется в месяц возникновения ЧС.
+  Управления МЧС областей, гг. Бишкек и Ош представляют обобщенные Формы №1-ЧС в Центр управления кризисными ситуациями при МЧС КР (далее ЦУКС) – 1 раз в полугодие – 30 июля и 30 января.
+  ЦУКС при МЧС КР направляет заполненную Форму №1-ЧС в сводном виде (область, город, район):
+ - один раз в год в Нацстатком КР;
+ - в Секретариат Национальной платформы по СРБ до 1 октября и до 1 марта следующего за отчетный период.
+  Секретариат Национальной платформы по СРБ Кыргызской Республики вносит данные из Формы №1-ЧС, представленные ЦУКС при МЧС КР, с добавлением дополнительных данных из официального сайта Нацстаткома КР в онлайн-отчетность мониторинга реализации Сендайской программы до 31 октября и 31 марта, следующего за отчетный период.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Counting deaths attributed to emergencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[В этом показателе, учитывая трудности, связанные с оценкой всего диапазона всех пострадавших (прямо и косвенно), МСУОБ ООН предлагает использовать показатель, который будет оценивать “непосредственно пострадавших” в качестве косвенного показателя для числа пострадавших. Этот показатель, пока что не идеальный, исходит из широкодоступных данных и может быть последовательно использован в разных странах и на протяжении времени для оценки достижения Цели B Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Each death attributed to disasters is confirmed by a special committee certificate.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan available since 2007 onwards]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan are comparable with other countries as they are compiled in accordance with international methodology.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="2d12411b-b5e8-482c-a428-86f74f48312b">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_MTMP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5.1: Number of deaths attributed to disasters ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of deaths attributed to disasters.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Large-scale catastrophic events characterize data on disaster losses. Reporting of emergencies allows for additional analysis to identify trends and patterns in which such catastrophic events can be prevented, thus contributing to sustainable development and enhancing economic resilience, social, health and environmental issues. Economic, environmental and social perspectives include poverty eradication, urban resilience and climate change adaptation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[MESs provides annual summaries submitting the 1-ES Statistical Reporting Form.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по погибшим, пропавшим без вести и пострадавшим заполняются в государственной статистической отчетности Форме №1-ЧС из Типового акта Комиссии Гражданской защиты. 
+  Типовой акт Комиссии ГЗ составляется и заполняется после каждого случая ЧС, районные и городские отделы МЧС на основе Типового акта Комиссии ГЗ параллельно заполняют Форму №1-ЧС. 
+  Далее, обобщают Форму №1-ЧС за месяц по нарастающей и направляют заполненные Формы №1-ЧС в Управления МЧС областей, гг. Бишкек и Ош для обобщения за область (город). В случае отсутствия факта возникновения ЧС в текущем месяце Форма №1-ЧС формируется в месяц возникновения ЧС.
+  Управления МЧС областей, гг. Бишкек и Ош представляют обобщенные Формы №1-ЧС в Центр управления кризисными ситуациями при МЧС КР (далее ЦУКС) – 1 раз в полугодие – 30 июля и 30 января.
+  ЦУКС при МЧС КР направляет заполненную Форму №1-ЧС в сводном виде (область, город, район):
+ - один раз в год в Нацстатком КР;
+ - в Секретариат Национальной платформы по СРБ до 1 октября и до 1 марта следующего за отчетный период.
+  Секретариат Национальной платформы по СРБ Кыргызской Республики вносит данные из Формы №1-ЧС, представленные ЦУКС при МЧС КР, с добавлением дополнительных данных из официального сайта Нацстаткома КР в онлайн-отчетность мониторинга реализации Сендайской программы до 31 октября и 31 марта, следующего за отчетный период.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Counting deaths attributed to emergencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[В этом показателе, учитывая трудности, связанные с оценкой всего диапазона всех пострадавших (прямо и косвенно), МСУОБ ООН предлагает использовать показатель, который будет оценивать “непосредственно пострадавших” в качестве косвенного показателя для числа пострадавших. Этот показатель, пока что не идеальный, исходит из широкодоступных данных и может быть последовательно использован в разных странах и на протяжении времени для оценки достижения Цели B Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Each death attributed to disasters is confirmed by a special committee certificate.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan available since 2007 onwards]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan are comparable with other countries as they are compiled in accordance with international methodology.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="60d84a52-0500-4469-a9e3-dee877d80b20">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_MMHN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5.1: Number of deaths attributed to disasters ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of deaths attributed to disasters.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Large-scale catastrophic events characterize data on disaster losses. Reporting of emergencies allows for additional analysis to identify trends and patterns in which such catastrophic events can be prevented, thus contributing to sustainable development and enhancing economic resilience, social, health and environmental issues. Economic, environmental and social perspectives include poverty eradication, urban resilience and climate change adaptation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[MESs provides annual summaries submitting the 1-ES Statistical Reporting Form.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по погибшим, пропавшим без вести и пострадавшим заполняются в государственной статистической отчетности Форме №1-ЧС из Типового акта Комиссии Гражданской защиты. 
+  Типовой акт Комиссии ГЗ составляется и заполняется после каждого случая ЧС, районные и городские отделы МЧС на основе Типового акта Комиссии ГЗ параллельно заполняют Форму №1-ЧС. 
+  Далее, обобщают Форму №1-ЧС за месяц по нарастающей и направляют заполненные Формы №1-ЧС в Управления МЧС областей, гг. Бишкек и Ош для обобщения за область (город). В случае отсутствия факта возникновения ЧС в текущем месяце Форма №1-ЧС формируется в месяц возникновения ЧС.
+  Управления МЧС областей, гг. Бишкек и Ош представляют обобщенные Формы №1-ЧС в Центр управления кризисными ситуациями при МЧС КР (далее ЦУКС) – 1 раз в полугодие – 30 июля и 30 января.
+  ЦУКС при МЧС КР направляет заполненную Форму №1-ЧС в сводном виде (область, город, район):
+ - один раз в год в Нацстатком КР;
+ - в Секретариат Национальной платформы по СРБ до 1 октября и до 1 марта следующего за отчетный период.
+  Секретариат Национальной платформы по СРБ Кыргызской Республики вносит данные из Формы №1-ЧС, представленные ЦУКС при МЧС КР, с добавлением дополнительных данных из официального сайта Нацстаткома КР в онлайн-отчетность мониторинга реализации Сендайской программы до 31 октября и 31 марта, следующего за отчетный период.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Counting deaths attributed to emergencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[В этом показателе, учитывая трудности, связанные с оценкой всего диапазона всех пострадавших (прямо и косвенно), МСУОБ ООН предлагает использовать показатель, который будет оценивать “непосредственно пострадавших” в качестве косвенного показателя для числа пострадавших. Этот показатель, пока что не идеальный, исходит из широкодоступных данных и может быть последовательно использован в разных странах и на протяжении времени для оценки достижения Цели B Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Each death attributed to disasters is confirmed by a special committee certificate.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan available since 2007 onwards]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan are comparable with other countries as they are compiled in accordance with international methodology.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="bd9fb8c9-65aa-4fb4-b7b4-6e0a9583f08b">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_DAFF</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5.1: Number of deaths attributed to disasters ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of deaths attributed to disasters.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Large-scale catastrophic events characterize data on disaster losses. Reporting of emergencies allows for additional analysis to identify trends and patterns in which such catastrophic events can be prevented, thus contributing to sustainable development and enhancing economic resilience, social, health and environmental issues. Economic, environmental and social perspectives include poverty eradication, urban resilience and climate change adaptation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[MESs provides annual summaries submitting the 1-ES Statistical Reporting Form.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по погибшим, пропавшим без вести и пострадавшим заполняются в государственной статистической отчетности Форме №1-ЧС из Типового акта Комиссии Гражданской защиты. 
+  Типовой акт Комиссии ГЗ составляется и заполняется после каждого случая ЧС, районные и городские отделы МЧС на основе Типового акта Комиссии ГЗ параллельно заполняют Форму №1-ЧС. 
+  Далее, обобщают Форму №1-ЧС за месяц по нарастающей и направляют заполненные Формы №1-ЧС в Управления МЧС областей, гг. Бишкек и Ош для обобщения за область (город). В случае отсутствия факта возникновения ЧС в текущем месяце Форма №1-ЧС формируется в месяц возникновения ЧС.
+  Управления МЧС областей, гг. Бишкек и Ош представляют обобщенные Формы №1-ЧС в Центр управления кризисными ситуациями при МЧС КР (далее ЦУКС) – 1 раз в полугодие – 30 июля и 30 января.
+  ЦУКС при МЧС КР направляет заполненную Форму №1-ЧС в сводном виде (область, город, район):
+ - один раз в год в Нацстатком КР;
+ - в Секретариат Национальной платформы по СРБ до 1 октября и до 1 марта следующего за отчетный период.
+  Секретариат Национальной платформы по СРБ Кыргызской Республики вносит данные из Формы №1-ЧС, представленные ЦУКС при МЧС КР, с добавлением дополнительных данных из официального сайта Нацстаткома КР в онлайн-отчетность мониторинга реализации Сендайской программы до 31 октября и 31 марта, следующего за отчетный период.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Counting deaths attributed to emergencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[В этом показателе, учитывая трудности, связанные с оценкой всего диапазона всех пострадавших (прямо и косвенно), МСУОБ ООН предлагает использовать показатель, который будет оценивать “непосредственно пострадавших” в качестве косвенного показателя для числа пострадавших. Этот показатель, пока что не идеальный, исходит из широкодоступных данных и может быть последовательно использован в разных странах и на протяжении времени для оценки достижения Цели B Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Each death attributed to disasters is confirmed by a special committee certificate.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan available since 2007 onwards]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan are comparable with other countries as they are compiled in accordance with international methodology.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="840e29aa-593e-492a-9a05-f0f01d528266">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_IJILN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5.1: Number of deaths attributed to disasters ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of deaths attributed to disasters.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Large-scale catastrophic events characterize data on disaster losses. Reporting of emergencies allows for additional analysis to identify trends and patterns in which such catastrophic events can be prevented, thus contributing to sustainable development and enhancing economic resilience, social, health and environmental issues. Economic, environmental and social perspectives include poverty eradication, urban resilience and climate change adaptation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[MESs provides annual summaries submitting the 1-ES Statistical Reporting Form.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по погибшим, пропавшим без вести и пострадавшим заполняются в государственной статистической отчетности Форме №1-ЧС из Типового акта Комиссии Гражданской защиты. 
+  Типовой акт Комиссии ГЗ составляется и заполняется после каждого случая ЧС, районные и городские отделы МЧС на основе Типового акта Комиссии ГЗ параллельно заполняют Форму №1-ЧС. 
+  Далее, обобщают Форму №1-ЧС за месяц по нарастающей и направляют заполненные Формы №1-ЧС в Управления МЧС областей, гг. Бишкек и Ош для обобщения за область (город). В случае отсутствия факта возникновения ЧС в текущем месяце Форма №1-ЧС формируется в месяц возникновения ЧС.
+  Управления МЧС областей, гг. Бишкек и Ош представляют обобщенные Формы №1-ЧС в Центр управления кризисными ситуациями при МЧС КР (далее ЦУКС) – 1 раз в полугодие – 30 июля и 30 января.
+  ЦУКС при МЧС КР направляет заполненную Форму №1-ЧС в сводном виде (область, город, район):
+ - один раз в год в Нацстатком КР;
+ - в Секретариат Национальной платформы по СРБ до 1 октября и до 1 марта следующего за отчетный период.
+  Секретариат Национальной платформы по СРБ Кыргызской Республики вносит данные из Формы №1-ЧС, представленные ЦУКС при МЧС КР, с добавлением дополнительных данных из официального сайта Нацстаткома КР в онлайн-отчетность мониторинга реализации Сендайской программы до 31 октября и 31 марта, следующего за отчетный период.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Counting deaths attributed to emergencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[В этом показателе, учитывая трудности, связанные с оценкой всего диапазона всех пострадавших (прямо и косвенно), МСУОБ ООН предлагает использовать показатель, который будет оценивать “непосредственно пострадавших” в качестве косвенного показателя для числа пострадавших. Этот показатель, пока что не идеальный, исходит из широкодоступных данных и может быть последовательно использован в разных странах и на протяжении времени для оценки достижения Цели B Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Each death attributed to disasters is confirmed by a special committee certificate.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan available since 2007 onwards]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan are comparable with other countries as they are compiled in accordance with international methodology.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="3b1add82-b3ff-4552-9ca0-00daf1736b98">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_PDAN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5.1: Number of deaths attributed to disasters ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of deaths attributed to disasters.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Large-scale catastrophic events characterize data on disaster losses. Reporting of emergencies allows for additional analysis to identify trends and patterns in which such catastrophic events can be prevented, thus contributing to sustainable development and enhancing economic resilience, social, health and environmental issues. Economic, environmental and social perspectives include poverty eradication, urban resilience and climate change adaptation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[MESs provides annual summaries submitting the 1-ES Statistical Reporting Form.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по погибшим, пропавшим без вести и пострадавшим заполняются в государственной статистической отчетности Форме №1-ЧС из Типового акта Комиссии Гражданской защиты. 
+  Типовой акт Комиссии ГЗ составляется и заполняется после каждого случая ЧС, районные и городские отделы МЧС на основе Типового акта Комиссии ГЗ параллельно заполняют Форму №1-ЧС. 
+  Далее, обобщают Форму №1-ЧС за месяц по нарастающей и направляют заполненные Формы №1-ЧС в Управления МЧС областей, гг. Бишкек и Ош для обобщения за область (город). В случае отсутствия факта возникновения ЧС в текущем месяце Форма №1-ЧС формируется в месяц возникновения ЧС.
+  Управления МЧС областей, гг. Бишкек и Ош представляют обобщенные Формы №1-ЧС в Центр управления кризисными ситуациями при МЧС КР (далее ЦУКС) – 1 раз в полугодие – 30 июля и 30 января.
+  ЦУКС при МЧС КР направляет заполненную Форму №1-ЧС в сводном виде (область, город, район):
+ - один раз в год в Нацстатком КР;
+ - в Секретариат Национальной платформы по СРБ до 1 октября и до 1 марта следующего за отчетный период.
+  Секретариат Национальной платформы по СРБ Кыргызской Республики вносит данные из Формы №1-ЧС, представленные ЦУКС при МЧС КР, с добавлением дополнительных данных из официального сайта Нацстаткома КР в онлайн-отчетность мониторинга реализации Сендайской программы до 31 октября и 31 марта, следующего за отчетный период.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Counting deaths attributed to emergencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[В этом показателе, учитывая трудности, связанные с оценкой всего диапазона всех пострадавших (прямо и косвенно), МСУОБ ООН предлагает использовать показатель, который будет оценивать “непосредственно пострадавших” в качестве косвенного показателя для числа пострадавших. Этот показатель, пока что не идеальный, исходит из широкодоступных данных и может быть последовательно использован в разных странах и на протяжении времени для оценки достижения Цели B Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Each death attributed to disasters is confirmed by a special committee certificate.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan available since 2007 onwards]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan are comparable with other countries as they are compiled in accordance with international methodology.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="4b7a015c-bd5c-43aa-9572-8f8fdd6e89ac">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_DDHN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5.1: Number of deaths attributed to disasters ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of deaths attributed to disasters.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Large-scale catastrophic events characterize data on disaster losses. Reporting of emergencies allows for additional analysis to identify trends and patterns in which such catastrophic events can be prevented, thus contributing to sustainable development and enhancing economic resilience, social, health and environmental issues. Economic, environmental and social perspectives include poverty eradication, urban resilience and climate change adaptation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[MESs provides annual summaries submitting the 1-ES Statistical Reporting Form.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по погибшим, пропавшим без вести и пострадавшим заполняются в государственной статистической отчетности Форме №1-ЧС из Типового акта Комиссии Гражданской защиты. 
+  Типовой акт Комиссии ГЗ составляется и заполняется после каждого случая ЧС, районные и городские отделы МЧС на основе Типового акта Комиссии ГЗ параллельно заполняют Форму №1-ЧС. 
+  Далее, обобщают Форму №1-ЧС за месяц по нарастающей и направляют заполненные Формы №1-ЧС в Управления МЧС областей, гг. Бишкек и Ош для обобщения за область (город). В случае отсутствия факта возникновения ЧС в текущем месяце Форма №1-ЧС формируется в месяц возникновения ЧС.
+  Управления МЧС областей, гг. Бишкек и Ош представляют обобщенные Формы №1-ЧС в Центр управления кризисными ситуациями при МЧС КР (далее ЦУКС) – 1 раз в полугодие – 30 июля и 30 января.
+  ЦУКС при МЧС КР направляет заполненную Форму №1-ЧС в сводном виде (область, город, район):
+ - один раз в год в Нацстатком КР;
+ - в Секретариат Национальной платформы по СРБ до 1 октября и до 1 марта следующего за отчетный период.
+  Секретариат Национальной платформы по СРБ Кыргызской Республики вносит данные из Формы №1-ЧС, представленные ЦУКС при МЧС КР, с добавлением дополнительных данных из официального сайта Нацстаткома КР в онлайн-отчетность мониторинга реализации Сендайской программы до 31 октября и 31 марта, следующего за отчетный период.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Counting deaths attributed to emergencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[В этом показателе, учитывая трудности, связанные с оценкой всего диапазона всех пострадавших (прямо и косвенно), МСУОБ ООН предлагает использовать показатель, который будет оценивать “непосредственно пострадавших” в качестве косвенного показателя для числа пострадавших. Этот показатель, пока что не идеальный, исходит из широкодоступных данных и может быть последовательно использован в разных странах и на протяжении времени для оценки достижения Цели B Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Each death attributed to disasters is confirmed by a special committee certificate.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan available since 2007 onwards]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan are comparable with other countries as they are compiled in accordance with international methodology.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="3447b4e4-239f-4463-bc34-bdbae68a2c94">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_PDYN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5.1: Number of deaths attributed to disasters ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of deaths attributed to disasters.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Large-scale catastrophic events characterize data on disaster losses. Reporting of emergencies allows for additional analysis to identify trends and patterns in which such catastrophic events can be prevented, thus contributing to sustainable development and enhancing economic resilience, social, health and environmental issues. Economic, environmental and social perspectives include poverty eradication, urban resilience and climate change adaptation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[MESs provides annual summaries submitting the 1-ES Statistical Reporting Form.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по погибшим, пропавшим без вести и пострадавшим заполняются в государственной статистической отчетности Форме №1-ЧС из Типового акта Комиссии Гражданской защиты. 
+  Типовой акт Комиссии ГЗ составляется и заполняется после каждого случая ЧС, районные и городские отделы МЧС на основе Типового акта Комиссии ГЗ параллельно заполняют Форму №1-ЧС. 
+  Далее, обобщают Форму №1-ЧС за месяц по нарастающей и направляют заполненные Формы №1-ЧС в Управления МЧС областей, гг. Бишкек и Ош для обобщения за область (город). В случае отсутствия факта возникновения ЧС в текущем месяце Форма №1-ЧС формируется в месяц возникновения ЧС.
+  Управления МЧС областей, гг. Бишкек и Ош представляют обобщенные Формы №1-ЧС в Центр управления кризисными ситуациями при МЧС КР (далее ЦУКС) – 1 раз в полугодие – 30 июля и 30 января.
+  ЦУКС при МЧС КР направляет заполненную Форму №1-ЧС в сводном виде (область, город, район):
+ - один раз в год в Нацстатком КР;
+ - в Секретариат Национальной платформы по СРБ до 1 октября и до 1 марта следующего за отчетный период.
+  Секретариат Национальной платформы по СРБ Кыргызской Республики вносит данные из Формы №1-ЧС, представленные ЦУКС при МЧС КР, с добавлением дополнительных данных из официального сайта Нацстаткома КР в онлайн-отчетность мониторинга реализации Сендайской программы до 31 октября и 31 марта, следующего за отчетный период.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Counting deaths attributed to emergencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[В этом показателе, учитывая трудности, связанные с оценкой всего диапазона всех пострадавших (прямо и косвенно), МСУОБ ООН предлагает использовать показатель, который будет оценивать “непосредственно пострадавших” в качестве косвенного показателя для числа пострадавших. Этот показатель, пока что не идеальный, исходит из широкодоступных данных и может быть последовательно использован в разных странах и на протяжении времени для оценки достижения Цели B Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Each death attributed to disasters is confirmed by a special committee certificate.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan available since 2007 onwards]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan are comparable with other countries as they are compiled in accordance with international methodology.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="1fbaeea2-dbc6-44c3-9d87-ba57e17b9bad">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_DYDN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5.1: Number of deaths attributed to disasters ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of deaths attributed to disasters.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Large-scale catastrophic events characterize data on disaster losses. Reporting of emergencies allows for additional analysis to identify trends and patterns in which such catastrophic events can be prevented, thus contributing to sustainable development and enhancing economic resilience, social, health and environmental issues. Economic, environmental and social perspectives include poverty eradication, urban resilience and climate change adaptation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[MESs provides annual summaries submitting the 1-ES Statistical Reporting Form.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по погибшим, пропавшим без вести и пострадавшим заполняются в государственной статистической отчетности Форме №1-ЧС из Типового акта Комиссии Гражданской защиты. 
+  Типовой акт Комиссии ГЗ составляется и заполняется после каждого случая ЧС, районные и городские отделы МЧС на основе Типового акта Комиссии ГЗ параллельно заполняют Форму №1-ЧС. 
+  Далее, обобщают Форму №1-ЧС за месяц по нарастающей и направляют заполненные Формы №1-ЧС в Управления МЧС областей, гг. Бишкек и Ош для обобщения за область (город). В случае отсутствия факта возникновения ЧС в текущем месяце Форма №1-ЧС формируется в месяц возникновения ЧС.
+  Управления МЧС областей, гг. Бишкек и Ош представляют обобщенные Формы №1-ЧС в Центр управления кризисными ситуациями при МЧС КР (далее ЦУКС) – 1 раз в полугодие – 30 июля и 30 января.
+  ЦУКС при МЧС КР направляет заполненную Форму №1-ЧС в сводном виде (область, город, район):
+ - один раз в год в Нацстатком КР;
+ - в Секретариат Национальной платформы по СРБ до 1 октября и до 1 марта следующего за отчетный период.
+  Секретариат Национальной платформы по СРБ Кыргызской Республики вносит данные из Формы №1-ЧС, представленные ЦУКС при МЧС КР, с добавлением дополнительных данных из официального сайта Нацстаткома КР в онлайн-отчетность мониторинга реализации Сендайской программы до 31 октября и 31 марта, следующего за отчетный период.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Counting deaths attributed to emergencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[В этом показателе, учитывая трудности, связанные с оценкой всего диапазона всех пострадавших (прямо и косвенно), МСУОБ ООН предлагает использовать показатель, который будет оценивать “непосредственно пострадавших” в качестве косвенного показателя для числа пострадавших. Этот показатель, пока что не идеальный, исходит из широкодоступных данных и может быть последовательно использован в разных странах и на протяжении времени для оценки достижения Цели B Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Each death attributed to disasters is confirmed by a special committee certificate.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan available since 2007 onwards]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan are comparable with other countries as they are compiled in accordance with international methodology.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="ef53e797-3e5d-46a6-a56c-6cf3bb952db3">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_PDLN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5.1: Number of deaths attributed to disasters ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of deaths attributed to disasters.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Large-scale catastrophic events characterize data on disaster losses. Reporting of emergencies allows for additional analysis to identify trends and patterns in which such catastrophic events can be prevented, thus contributing to sustainable development and enhancing economic resilience, social, health and environmental issues. Economic, environmental and social perspectives include poverty eradication, urban resilience and climate change adaptation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[MESs provides annual summaries submitting the 1-ES Statistical Reporting Form.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по погибшим, пропавшим без вести и пострадавшим заполняются в государственной статистической отчетности Форме №1-ЧС из Типового акта Комиссии Гражданской защиты. 
+  Типовой акт Комиссии ГЗ составляется и заполняется после каждого случая ЧС, районные и городские отделы МЧС на основе Типового акта Комиссии ГЗ параллельно заполняют Форму №1-ЧС. 
+  Далее, обобщают Форму №1-ЧС за месяц по нарастающей и направляют заполненные Формы №1-ЧС в Управления МЧС областей, гг. Бишкек и Ош для обобщения за область (город). В случае отсутствия факта возникновения ЧС в текущем месяце Форма №1-ЧС формируется в месяц возникновения ЧС.
+  Управления МЧС областей, гг. Бишкек и Ош представляют обобщенные Формы №1-ЧС в Центр управления кризисными ситуациями при МЧС КР (далее ЦУКС) – 1 раз в полугодие – 30 июля и 30 января.
+  ЦУКС при МЧС КР направляет заполненную Форму №1-ЧС в сводном виде (область, город, район):
+ - один раз в год в Нацстатком КР;
+ - в Секретариат Национальной платформы по СРБ до 1 октября и до 1 марта следующего за отчетный период.
+  Секретариат Национальной платформы по СРБ Кыргызской Республики вносит данные из Формы №1-ЧС, представленные ЦУКС при МЧС КР, с добавлением дополнительных данных из официального сайта Нацстаткома КР в онлайн-отчетность мониторинга реализации Сендайской программы до 31 октября и 31 марта, следующего за отчетный период.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Counting deaths attributed to emergencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[В этом показателе, учитывая трудности, связанные с оценкой всего диапазона всех пострадавших (прямо и косвенно), МСУОБ ООН предлагает использовать показатель, который будет оценивать “непосредственно пострадавших” в качестве косвенного показателя для числа пострадавших. Этот показатель, пока что не идеальный, исходит из широкодоступных данных и может быть последовательно использован в разных странах и на протяжении времени для оценки достижения Цели B Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Each death attributed to disasters is confirmed by a special committee certificate.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan available since 2007 onwards]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan are comparable with other countries as they are compiled in accordance with international methodology.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="761a3a44-1806-4617-8e19-1acb23d3a4c8">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_DYHN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[1. End poverty in all its forms everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[1.5.1: Number of deaths attributed to disasters ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of deaths attributed to disasters.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Large-scale catastrophic events characterize data on disaster losses. Reporting of emergencies allows for additional analysis to identify trends and patterns in which such catastrophic events can be prevented, thus contributing to sustainable development and enhancing economic resilience, social, health and environmental issues. Economic, environmental and social perspectives include poverty eradication, urban resilience and climate change adaptation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[MESs provides annual summaries submitting the 1-ES Statistical Reporting Form.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по погибшим, пропавшим без вести и пострадавшим заполняются в государственной статистической отчетности Форме №1-ЧС из Типового акта Комиссии Гражданской защиты. 
+  Типовой акт Комиссии ГЗ составляется и заполняется после каждого случая ЧС, районные и городские отделы МЧС на основе Типового акта Комиссии ГЗ параллельно заполняют Форму №1-ЧС. 
+  Далее, обобщают Форму №1-ЧС за месяц по нарастающей и направляют заполненные Формы №1-ЧС в Управления МЧС областей, гг. Бишкек и Ош для обобщения за область (город). В случае отсутствия факта возникновения ЧС в текущем месяце Форма №1-ЧС формируется в месяц возникновения ЧС.
+  Управления МЧС областей, гг. Бишкек и Ош представляют обобщенные Формы №1-ЧС в Центр управления кризисными ситуациями при МЧС КР (далее ЦУКС) – 1 раз в полугодие – 30 июля и 30 января.
+  ЦУКС при МЧС КР направляет заполненную Форму №1-ЧС в сводном виде (область, город, район):
+ - один раз в год в Нацстатком КР;
+ - в Секретариат Национальной платформы по СРБ до 1 октября и до 1 марта следующего за отчетный период.
+  Секретариат Национальной платформы по СРБ Кыргызской Республики вносит данные из Формы №1-ЧС, представленные ЦУКС при МЧС КР, с добавлением дополнительных данных из официального сайта Нацстаткома КР в онлайн-отчетность мониторинга реализации Сендайской программы до 31 октября и 31 марта, следующего за отчетный период.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Counting deaths attributed to emergencies.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[В этом показателе, учитывая трудности, связанные с оценкой всего диапазона всех пострадавших (прямо и косвенно), МСУОБ ООН предлагает использовать показатель, который будет оценивать “непосредственно пострадавших” в качестве косвенного показателя для числа пострадавших. Этот показатель, пока что не идеальный, исходит из широкодоступных данных и может быть последовательно использован в разных странах и на протяжении времени для оценки достижения Цели B Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Each death attributed to disasters is confirmed by a special committee certificate.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan available since 2007 onwards]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for Kyrgyzstan are comparable with other countries as they are compiled in accordance with international methodology.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

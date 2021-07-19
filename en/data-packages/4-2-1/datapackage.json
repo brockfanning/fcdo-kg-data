@@ -11,6 +11,17 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "under 5 years old"
+              ]
+            },
+            "title": "Age"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
@@ -38,6 +49,17 @@
             "title": "Education level"
           },
           {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Annual"
+              ]
+            },
+            "title": "Frequency of observation"
+          },
+          {
             "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
@@ -53,11 +75,34 @@
             "title": "Income or wealth quantile"
           },
           {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Country Data"
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Normal value"
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
+                "Kyrgyzstan",
                 "Issyk-Kul",
                 "Jalal-Abad",
                 "Naryn",
@@ -72,6 +117,22 @@
             "title": "Reference area"
           },
           {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "National"
+              ]
+            },
+            "title": "Reporting type"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -82,6 +143,22 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Units"
+              ]
+            },
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

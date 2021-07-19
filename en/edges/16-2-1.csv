@@ -1,7 +1,10 @@
 From,To
-Observation-level footnotes,Reference area
-Observation-level footnotes,Sex
-Observation-level footnotes,Age
-Observation-level footnotes,Degree of urbanisation
-Observation-level footnotes,Income or wealth quantile
-Observation-level footnotes,Disability status
+Nature of data points,Observation-level footnotes
+Observation-level footnotes,Frequency of observation
+Frequency of observation,Reporting type
+Reporting type,Reference area
+Reference area,Sex
+Reference area,Age
+Reference area,Degree of urbanisation
+Reference area,Income or wealth quantile
+Reference area,Disability status

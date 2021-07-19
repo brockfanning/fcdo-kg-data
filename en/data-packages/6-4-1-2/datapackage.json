@@ -11,11 +11,45 @@
       "schema": {
         "fields": [
           {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Annual"
+              ]
+            },
+            "title": "Frequency of observation"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Country Data"
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Normal value"
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
+                "Kyrgyzstan",
                 "Issyk-Kul",
                 "Jalal-Abad",
                 "Naryn",
@@ -30,28 +64,36 @@
             "title": "Reference area"
           },
           {
-            "name": "Series",
+            "name": "REPORTING_TYPE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "_L_KG_060401_2A",
-                "_L_KG_060401_2B"
+                "National"
               ]
             },
-            "title": "Series"
+            "title": "Reporting type"
           },
           {
-            "name": "Units",
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "M_M3_PER_YR",
-                "PT"
+                "Units"
               ]
             },
-            "title": "Units"
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

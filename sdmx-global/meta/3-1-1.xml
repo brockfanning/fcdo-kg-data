@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1626665724</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-19T03:35:24</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="a869e074-c2d3-4268-b1f8-94780163ef72">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_STA_MORT</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[3.1: 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[3.1.1: Maternal mortality ratio]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Demographic Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Maatkulova J.B.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Jmaatkulova@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[WHO defines maternal mortality as death of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the duration and site of the pregnancy, from any cause related to or aggravated by the pregnancy or its management (from direct or indirect obstetric death), but not from accidental or incidental causes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator analysis allows assessing State policy effectiveness of in the area of maternal and child protection in the country, since the level of medical care for pregnant women and mothers determines health of future generations. Maternal mortality rates in Kyrgyzstan, although decreasing slightly over the years, remain high. The death of a woman while pregnant or within 42 days of termination of pregnancy is considered to be a maternal death. Thus, if the deceased was pregnant (irrespective of the duration and site of the pregnancy) or died within 42 days after giving birth, the medical death certificate must include an indication of the pregnancy period or post-natal period, even if pregnancy was not related to the main cause of death.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Cause of death information is obtained from medical death certificates drawn up by medics or paramedics on disease, accident, homicide, suicide and other external influences resulting in death. These documents, along with civil registration of deaths drawn up by civil registry offices (which are subordinate to the State Registration Service), are sent to statistical agencies for calculation. Of causes listed, one is selected for statistical purposes - the primary, i.e. the disease or injury that caused events directly leading to death.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Сбор данных проводится на основании представленных записей актов гражданского состояния о смерти и приложенных медицинских свидетельств о смерти, представляемых органами ЗАГС (ГРС при ПКР) на регулярной основе (ежемесячно). 
+Первичная обработка и получение сводных данных осуществляется на уровне областных органов государственной статистики. Свод данных по республике осуществляется НСК. Период между сбором данных и их представлением составляет 38 дней.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Maternal mortality ratio (MMR): Number of maternal deaths during a given time period per 100,000 live births during the same time period.
+The maternal mortality ratio can be calculated by dividing recorded (or estimated) maternal deaths by total recorded (or estimated) live births in the same period and multiplying by 100 000. Measurement requires information on pregnancy status, timing of death (during pregnancy, childbirth, or within 42 days of termination of pregnancy), and cause of death.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator reflects maternal mortality risks in relation to the number of children born alive and essentially records the risk of death from pregnancy or live birth. According to experts, coverage of civil registration system is considered satisfactory though needs to be improved due to being paper-based. Since December 2014 an automated electronic system AIS "Registration Office" has been in operation as a component of SRS information systems. However, upon receipt by statistical authorities paper-based data then entered into special software by statistical agencies employees, which sometimes leads to errors and omissions. Soon (until the end of 2020th) a database on natural and migratory population movements being derived from the SRS data will become one of population statistics sources.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. Data control in data records is carried out by logical control procedure embedded in the data input and processing software. The causes of death codes are checked along diagnoses recorded in death report, according to ICD-10, and results tables are analyzed for causes of death.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are distributed via the National Statistical Committee publications: «Social economic situation of the Kyrgyz Republic» monthly report, statistical collections: «Demographic yearbook of the Kyrgyz Republic», «Social trends of the Kyrgyz Republic», «Women and men of the Kyrgyz Republic», «Health of  population and healthcare in the Kyrgyz Republic», «Young people in KR» available on the official website of NSC KR: http://www.stat.kg/ru/publications/ Time series have been available since 1990.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[International definition of the indicator is used for national statistics. Data coding and compilation on deaths by cause of death is done by state statistics authorities in accordance with the WHO International Statistical Classification of Diseases and Causes of Death (ICD-10), since 2000 report. By agreement with the National Statistical Committee, database on mortality is submitted to the Centre for Electronic Health of the Ministry of Health of the Kyrgyz Republic: Form 2 «Information on the number of births, marriages, divorces and deaths by cause of death» is submitted monthly, with a delay of 1.5 months from the reporting month and form C52 «Population mortality by cause of death» submitted annually, in June following the reporting year.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[References to RLA and methodology: 
+http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. 
+National Statistical Committee publications: «Social economic situation of the Kyrgyz Republic» monthly report, statistical collections: «Demographic yearbook of the Kyrgyz Republic», «Social trends of the Kyrgyz Republic», «Women and men of the Kyrgyz Republic», «Health of population and healthcare in the Kyrgyz Republic», «Young people in KR» available on the official website of NSC KR: http://www.stat.kg/ru/publications/
+
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

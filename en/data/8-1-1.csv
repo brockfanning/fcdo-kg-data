@@ -1,11 +1,11 @@
-Year,Value
-2010,-1.8
-2011,4.7
-2012,-1.8
-2013,8.6
-2014,1.8
-2015,1.7
-2016,2.1
-2017,2.6
-2018,1.7
-2019,2.3
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,Value
+2010,Normal value,Units,Country Data,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,-1.8
+2011,Normal value,Units,Country Data,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,4.7
+2012,Normal value,Units,Country Data,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,-1.8
+2013,Normal value,Units,Country Data,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,8.6
+2014,Normal value,Units,Country Data,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,1.8
+2015,Normal value,Units,Country Data,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,1.7
+2016,Normal value,Units,Country Data,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,2.1
+2017,Normal value,Units,Country Data,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,2.6
+2018,Normal value,Units,Country Data,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,1.7
+2019,Normal value,Units,Country Data,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,2.3

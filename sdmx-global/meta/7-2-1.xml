@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1626665724</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-19T03:35:24</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="0c53eef0-469c-4835-8973-2587c6ea824d">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EG_FEC_RNEW</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Пожалуйста, укажите название организации, которая предоставляет эти данные в НСК / национальную платформу данных]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Пожалуйста, укажите имя координатора для этого индикатора]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Пожалуйста, укажите адрес электронной почты координатора]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[Пожалуйста, укажите номер телефона координатора]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Точное определение индикатора, включая ссылки на стандарты и классификации, предпочтительно опираясь на согласованные на международном уровне определения. Определение показателя должно быть однозначным и выражаться в универсально применимых терминах. Он должен четко выражать единицу измерения (пропорции, доллары, количество человек и т.д.)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Объясните, как этот показатель связан с целью, и каким-либо конкретным образом его следует интерпретировать, например, для определенных пороговых значений. Например, значение, превышающее 20 процентов, указывает на серьезное недоедание, а значение в диапазоне 10-20 указывает на умеренно высокое недоедание]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Описание типа источников (административных, выборочных обследований или переписей) и названия фактического источника данных для расчета этого показателя]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Описание методов, используемых для сбора данных. Это описание должно включать, когда это применимо, используемый образец выборки, вопросы, используемые для сбора данных, тип интервью, даты / продолжительность полевых работ, размер выборки, частоту ответов и любые изменения источника данных с течением времени, детали знаменателя (если из другого источника) и любую другую соответствующую информацию, связанную с происхождением источника или индикатора.                                                  Описание механизма сбора данных: например, частота и периоды, когда данные собираются, а также частота и периоды, когда данные передаются в НСУ или национальную платформу отчетности.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Объяснение того, как рассчитывается показатель, включая математические формулы и описательную информацию о вычислениях, выполненных на исходных данных для получения показателя (включая корректировки и взвешивание).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Комментарии о целесообразности, пригодности, актуальности и ограничениях показателя.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Информация о шагах, предпринятых для обеспечения качества. Например, информация о том, как обрабатываются пропущенные данные, о действующих системах валидации, конкретных рекомендациях или других механизмах, касающихся качества данных.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Описание доступности данных, включая периоды времени, за которые данные (не) доступны]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

@@ -29,16 +29,80 @@
             "title": "Composite breakdown"
           },
           {
-            "name": "Series",
+            "name": "FREQ",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "IS_RDP_FRGVOL",
-                "IS_RDP_PFVOL"
+                "Annual"
               ]
             },
-            "title": "Series"
+            "title": "Frequency of observation"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Country Data"
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Normal value"
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Kyrgyzstan"
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "National"
+              ]
+            },
+            "title": "Reporting type"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Buses"
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
           },
           {
             "name": "UNIT_MULT",
@@ -51,18 +115,6 @@
               ]
             },
             "title": "Unit multiplier"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "NUMBER",
-                "T"
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",

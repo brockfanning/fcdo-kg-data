@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1626665724</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-19T03:35:24</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="d01c439d-9e1a-43a4-98ba-3f45b21ebf16">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SN_ITK_DEFC</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1: By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1.1: Prevalence of undernourishment]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The prevalence of undernourishment (PoU) is an estimate of the proportion of the population whose habitual food consumption is insufficient to provide the dietary energy levels that are required to maintain a normal active and healthy life. It is expressed as a percentage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator allows monitoring trends in the extent of dietary energy inadequacy in a population over time, generated as a result of the combination of changes in the overall availability of food, in the households’ ability to access it, and in the socio-demographic characteristics of the population, as well as differences across countries and regions in any given moment in time.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey (hereinafter IHBLFSS) contains a module on household food consumption and spending on food consumed outside the home as well as household gender and age composition.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется посредством вопросников ИОДХ с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).
+Сбор данных осуществляется на ежеквартальной основе, разработка индикатора производится по итогам года.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is computed at the population level. 
+There are two common computation methods for this indicator.
+1. Population is represented by an “average” individual for whom a probability distribution of the habitual daily dietary energy intake levels is modeled through a parametric probability density function. A custom function (R) is available to compute the prevalence of malnutrition given the four parameters of the calorie intake estimation (DEC), coefficient of variation (CV), asymmetry (Skew) and the minimum caloric intake (MDER);
+2. 2100Kcal taken as the world average minimum calorie diet value. The average per capita calorie intake of a household is calculated given sex composition of the household.
+In Kyrgyzstan, the indicator is calculated using second method and describes proportion of population consuming less than 2,100 Kcal.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Over the years, the parametric approach informing the computation of the PoU has been criticized, based on the presumptions that undernourishment should be assessed necessarily starting at the individual level, by comparing individual energy requirements with individual energy intakes. According to such view, the prevalence of undernourishment could be simply computed by counting the number of individuals in a representative sample of the population that is classified as undernourished, based on a comparison of individual habitual food consumption and requirements. Unfortunately, such approach is not feasible for two reasons: first, due to the cost of individual dietary intake surveys, individual food consumption is measured only in a few countries, every several years, on relatively small samples; moreover, individual energy requirements are practically unobservable with standard data collection methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The raw data are checked for quality before being submitted for further analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[A compatible time series calculated using common methodology has been available since 2000.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[DEC can be obtained either from survey data or from Food Balance Sheets. Both sources have limitations. Comparisons of national DEC based on FBS and surveys often reveal discrepancies. In order to limit the impact of such errors, FAO has traditionally presented estimates of country malnutrition level as three-year averages, assuming that errors caused by inaccurate indices recording in each individual year, may be reduced if the average is considered for three consecutive years.
+The national indicator computation methodology significantly differs from that of FAO. The most common approach used in preparing national reports has been to calculate the percentage of households for which the average per capita daily dietary energy consumption is found to be below thresholds based on daily Recommended Dietary Intake, usually set at 2,100.00 kcal, based on household survey data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[http://www.fao.org/economic/ess/ess-fs/en/ 
+http://www.fao.org/docrep/012/w0931e/w0931e16.pdf 
+http://www.fao.org/docrep/005/Y4249E/y4249e06.htm#bm06
+http://www.fao.org/3/a-i4060e.pdf 
+http://www.fao.org/3/a-i4046e.pdf
+
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="0c1df89e-b52f-4fbe-9716-9a227d2624ce">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SN_ITK_DEFCN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1: By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1.1: Prevalence of undernourishment]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The prevalence of undernourishment (PoU) is an estimate of the proportion of the population whose habitual food consumption is insufficient to provide the dietary energy levels that are required to maintain a normal active and healthy life. It is expressed as a percentage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator allows monitoring trends in the extent of dietary energy inadequacy in a population over time, generated as a result of the combination of changes in the overall availability of food, in the households’ ability to access it, and in the socio-demographic characteristics of the population, as well as differences across countries and regions in any given moment in time.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey (hereinafter IHBLFSS) contains a module on household food consumption and spending on food consumed outside the home as well as household gender and age composition.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется посредством вопросников ИОДХ с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).
+Сбор данных осуществляется на ежеквартальной основе, разработка индикатора производится по итогам года.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is computed at the population level. 
+There are two common computation methods for this indicator.
+1. Population is represented by an “average” individual for whom a probability distribution of the habitual daily dietary energy intake levels is modeled through a parametric probability density function. A custom function (R) is available to compute the prevalence of malnutrition given the four parameters of the calorie intake estimation (DEC), coefficient of variation (CV), asymmetry (Skew) and the minimum caloric intake (MDER);
+2. 2100Kcal taken as the world average minimum calorie diet value. The average per capita calorie intake of a household is calculated given sex composition of the household.
+In Kyrgyzstan, the indicator is calculated using second method and describes proportion of population consuming less than 2,100 Kcal.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Over the years, the parametric approach informing the computation of the PoU has been criticized, based on the presumptions that undernourishment should be assessed necessarily starting at the individual level, by comparing individual energy requirements with individual energy intakes. According to such view, the prevalence of undernourishment could be simply computed by counting the number of individuals in a representative sample of the population that is classified as undernourished, based on a comparison of individual habitual food consumption and requirements. Unfortunately, such approach is not feasible for two reasons: first, due to the cost of individual dietary intake surveys, individual food consumption is measured only in a few countries, every several years, on relatively small samples; moreover, individual energy requirements are practically unobservable with standard data collection methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The raw data are checked for quality before being submitted for further analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[A compatible time series calculated using common methodology has been available since 2000.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[DEC can be obtained either from survey data or from Food Balance Sheets. Both sources have limitations. Comparisons of national DEC based on FBS and surveys often reveal discrepancies. In order to limit the impact of such errors, FAO has traditionally presented estimates of country malnutrition level as three-year averages, assuming that errors caused by inaccurate indices recording in each individual year, may be reduced if the average is considered for three consecutive years.
+The national indicator computation methodology significantly differs from that of FAO. The most common approach used in preparing national reports has been to calculate the percentage of households for which the average per capita daily dietary energy consumption is found to be below thresholds based on daily Recommended Dietary Intake, usually set at 2,100.00 kcal, based on household survey data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[http://www.fao.org/economic/ess/ess-fs/en/ 
+http://www.fao.org/docrep/012/w0931e/w0931e16.pdf 
+http://www.fao.org/docrep/005/Y4249E/y4249e06.htm#bm06
+http://www.fao.org/3/a-i4060e.pdf 
+http://www.fao.org/3/a-i4046e.pdf
+
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

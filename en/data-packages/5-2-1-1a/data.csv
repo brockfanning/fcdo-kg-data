@@ -1,50 +1,60 @@
-Year,Series,Value
-2010,_L_KG_050201_1A1,1308
-2011,_L_KG_050201_1A1,1453
-2012,_L_KG_050201_1A1,1900
-2013,_L_KG_050201_1A1,1589
-2014,_L_KG_050201_1A1,1988
-2015,_L_KG_050201_1A1,936
-2016,_L_KG_050201_1A1,1172
-2017,_L_KG_050201_1A1,1382
-2018,_L_KG_050201_1A1,1305
-2019,_L_KG_050201_1A1,1764
-2010,_L_KG_050201_1A2,68
-2011,_L_KG_050201_1A2,155
-2012,_L_KG_050201_1A2,16
-2013,_L_KG_050201_1A2,48
-2014,_L_KG_050201_1A2,35
-2015,_L_KG_050201_1A2,12
-2016,_L_KG_050201_1A2,2
-2017,_L_KG_050201_1A2,1
-2019,_L_KG_050201_1A2,2
-2010,_L_KG_050201_1A3,401
-2011,_L_KG_050201_1A3,581
-2012,_L_KG_050201_1A3,509
-2013,_L_KG_050201_1A3,508
-2014,_L_KG_050201_1A3,495
-2015,_L_KG_050201_1A3,666
-2016,_L_KG_050201_1A3,657
-2017,_L_KG_050201_1A3,629
-2018,_L_KG_050201_1A3,555
-2019,_L_KG_050201_1A3,539
-2010,_L_KG_050201_1A4,414
-2011,_L_KG_050201_1A4,320
-2012,_L_KG_050201_1A4,498
-2013,_L_KG_050201_1A4,822
-2014,_L_KG_050201_1A4,570
-2015,_L_KG_050201_1A4,485
-2016,_L_KG_050201_1A4,372
-2017,_L_KG_050201_1A4,176
-2018,_L_KG_050201_1A4,47
-2019,_L_KG_050201_1A4,211
-2010,_L_KG_050201_1A5,445
-2011,_L_KG_050201_1A5,491
-2012,_L_KG_050201_1A5,504
-2013,_L_KG_050201_1A5,600
-2014,_L_KG_050201_1A5,731
-2015,_L_KG_050201_1A5,1896
-2016,_L_KG_050201_1A5,1404
-2017,_L_KG_050201_1A5,1084
-2018,_L_KG_050201_1A5,970
-2019,_L_KG_050201_1A5,939
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,SERIES,Reference area,Sex,UNIT_MEASURE,Value
+2010,Normal value,Units,Country Data,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,Female,Number,1308
+2011,Normal value,Units,Country Data,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,Female,Number,1453
+2012,Normal value,Units,Country Data,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,Female,Number,1900
+2013,Normal value,Units,Country Data,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,Female,Number,1589
+2014,Normal value,Units,Country Data,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,Female,Number,1988
+2015,Normal value,Units,Country Data,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,Female,Number,936
+2016,Normal value,Units,Country Data,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,Female,Number,1172
+2017,Normal value,Units,Country Data,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,Female,Number,1382
+2018,Normal value,Units,Country Data,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,Female,Number,1305
+2019,Normal value,Units,Country Data,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,Female,Number,1764
+2010,Normal value,Units,Country Data,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,Female,Number,68
+2011,Normal value,Units,Country Data,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,Female,Number,155
+2012,Normal value,Units,Country Data,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,Female,Number,16
+2013,Normal value,Units,Country Data,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,Female,Number,48
+2014,Normal value,Units,Country Data,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,Female,Number,35
+2015,Normal value,Units,Country Data,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,Female,Number,12
+2016,Normal value,Units,Country Data,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,Female,Number,2
+2017,Normal value,Units,Country Data,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,Female,Number,1
+2019,Normal value,Units,Country Data,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,Female,Number,2
+2010,Normal value,Units,Country Data,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,Female,Number,401
+2011,Normal value,Units,Country Data,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,Female,Number,581
+2012,Normal value,Units,Country Data,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,Female,Number,509
+2013,Normal value,Units,Country Data,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,Female,Number,508
+2014,Normal value,Units,Country Data,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,Female,Number,495
+2015,Normal value,Units,Country Data,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,Female,Number,666
+2016,Normal value,Units,Country Data,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,Female,Number,657
+2017,Normal value,Units,Country Data,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,Female,Number,629
+2018,Normal value,Units,Country Data,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,Female,Number,555
+2019,Normal value,Units,Country Data,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,Female,Number,539
+2010,Normal value,Units,Country Data,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,Female,Number,414
+2011,Normal value,Units,Country Data,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,Female,Number,320
+2012,Normal value,Units,Country Data,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,Female,Number,498
+2013,Normal value,Units,Country Data,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,Female,Number,822
+2014,Normal value,Units,Country Data,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,Female,Number,570
+2015,Normal value,Units,Country Data,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,Female,Number,485
+2016,Normal value,Units,Country Data,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,Female,Number,372
+2017,Normal value,Units,Country Data,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,Female,Number,176
+2018,Normal value,Units,Country Data,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,Female,Number,47
+2019,Normal value,Units,Country Data,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,Female,Number,211
+2010,Normal value,Units,Country Data,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,Female,Number,445
+2011,Normal value,Units,Country Data,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,Female,Number,491
+2012,Normal value,Units,Country Data,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,Female,Number,504
+2013,Normal value,Units,Country Data,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,Female,Number,600
+2014,Normal value,Units,Country Data,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,Female,Number,731
+2015,Normal value,Units,Country Data,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,Female,Number,1896
+2016,Normal value,Units,Country Data,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,Female,Number,1404
+2017,Normal value,Units,Country Data,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,Female,Number,1084
+2018,Normal value,Units,Country Data,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,Female,Number,970
+2019,Normal value,Units,Country Data,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,Female,Number,939

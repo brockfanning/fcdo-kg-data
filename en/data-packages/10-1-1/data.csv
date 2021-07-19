@@ -1,27 +1,27 @@
-Year,Income or wealth quantile,Value
-2007,Bottom 40%,136.8
-2008,Bottom 40%,152.4
-2009,Bottom 40%,114.4
-2010,Bottom 40%,106.2
-2011,Bottom 40%,123.9
-2012,Bottom 40%,109.0
-2013,Bottom 40%,95.6
-2014,Bottom 40%,123.7
-2015,Bottom 40%,102.2
-2016,Bottom 40%,106.2
-2017,Bottom 40%,113.0
-2018,Bottom 40%,110.0
-2019,Bottom 40%,108.0
-2007,,127.5
-2008,,143.1
-2009,,114.0
-2010,,107.9
-2011,,117.7
-2012,,109.5
-2013,,101.6
-2014,,121.2
-2015,,103.0
-2016,,104.5
-2017,,111.3
-2018,,112.6
-2019,,106.5
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,SERIES,Reference area,Income or wealth quantile,UNIT_MEASURE,Value
+2007,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,Bottom 40%,Percent,136.8
+2008,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,Bottom 40%,Percent,152.4
+2009,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,Bottom 40%,Percent,114.4
+2010,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,Bottom 40%,Percent,106.2
+2011,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,Bottom 40%,Percent,123.9
+2012,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,Bottom 40%,Percent,109.0
+2013,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,Bottom 40%,Percent,95.6
+2014,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,Bottom 40%,Percent,123.7
+2015,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,Bottom 40%,Percent,102.2
+2016,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,Bottom 40%,Percent,106.2
+2017,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,Bottom 40%,Percent,113.0
+2018,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,Bottom 40%,Percent,110.0
+2019,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,Bottom 40%,Percent,108.0
+2007,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,,Percent,127.5
+2008,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,,Percent,143.1
+2009,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,,Percent,114.0
+2010,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,,Percent,107.9
+2011,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,,Percent,117.7
+2012,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,,Percent,109.5
+2013,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,,Percent,101.6
+2014,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,,Percent,121.2
+2015,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,,Percent,103.0
+2016,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,,Percent,104.5
+2017,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,,Percent,111.3
+2018,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,,Percent,112.6
+2019,Normal value,Units,Country Data,Annual,National,Growth rates of household expenditure or income per capita,Kyrgyzstan,,Percent,106.5

@@ -1,23 +1,23 @@
-Year,Reference area,Degree of urbanisation,Income or wealth quantile,Education level,Observation-level footnotes,Value
-2018,,,,,,96.3
-2018,,Urban,,,,96.1
-2018,,Rural,,,,96.5
-2018,Batken,,,,,99.6
-2018,Jalal-Abad,,,,,93.4
-2018,Issyk-Kul,,,,,99.1
-2018,Naryn,,,,,99.4
-2018,Osh,,,,,99.1
-2018,Talas,,,,,99.8
-2018,Chui,,,,,91.6
-2018,Bishkek (city),,,,,95.7
-2018,Osh (city),,,,,96.8
-2018,,,,Primary education,household head education,92.1
-2018,,,,Lower secondary education,household head education,94.7
-2018,,,,Upper secondary education,household head education,97.4
-2018,,,,Post-secondary non-tertiary education,household head education,96.6
-2018,,,,Short-cycle tertiary education,household head education,95.1
-2018,,,Quintile 1 (poorest),,,97.2
-2018,,,Quintile 2,,,95.9
-2018,,,Quintile 3,,,96.5
-2018,,,Quintile 4,,,96.4
-2018,,,Quintile 5 (richest),,,95.7
+Year,Observation status,Unit multiplier,Nature of data points,Source details,Frequency of observation,Reporting type,SERIES,Reference area,Degree of urbanisation,Income or wealth quantile,Education level,UNIT_MEASURE,Observation-level footnotes,Value
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,,,Percent,,96.3
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,Urban,,,Percent,,96.1
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,Rural,,,Percent,,96.5
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Batken,,,,Percent,,99.6
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Jalal-Abad,,,,Percent,,93.4
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Issyk-Kul,,,,Percent,,99.1
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Naryn,,,,Percent,,99.4
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Osh,,,,Percent,,99.1
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Talas,,,,Percent,,99.8
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Chui,,,,Percent,,91.6
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Bishkek (city),,,,Percent,,95.7
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Osh (city),,,,Percent,,96.8
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,,Primary education,Percent,household head education,92.1
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,,Lower secondary education,Percent,household head education,94.7
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,,Upper secondary education,Percent,household head education,97.4
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,,Post-secondary non-tertiary education,Percent,household head education,96.6
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,,Short-cycle tertiary education,Percent,household head education,95.1
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,Quintile 1 (poorest),,Percent,,97.2
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,Quintile 2,,Percent,,95.9
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,Quintile 3,,Percent,,96.5
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,Quintile 4,,Percent,,96.4
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018",Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,Quintile 5 (richest),,Percent,,95.7

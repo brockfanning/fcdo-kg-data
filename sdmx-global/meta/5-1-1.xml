@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1626665724</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-19T03:35:24</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="5c5903ad-e5f0-4063-b96b-94eb96177dcc">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SG_LGL_GENEQLFP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[5. Achieve gender equality and empower all women and girls]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[5.1. End all forms of discrimination against all women and girls everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[5.1.1 Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Labour and Social Development of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Bekmatova Roza Kubataliyevna]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[roza@mlsp.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[996 312 624 532]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex and to monitor the situation. Kyrgyzstan has such legal and regulatory framework in place. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Legal framework ensures compliance with and monitoring of gender equality. The Constitution of the Kyrgyz Republic guarantees equal rights and freedoms of men and women, equal access to opportunities and prohibits discrimination based on sex (Article 16).
+This constitutional norm is ensured by the Law of the Kyrgyz Republic "About the state guarantees of the equal rights and equal opportunities for men and women" (August 4, 2008 No. 184). Article 1 of this law states that: “Gender discrimination (direct, indirect)” means that “any distinction, exception or preference which limits the rights and interests of persons on the basis of sex; it is directed to easing or deprivation of recognition, use or implementation of equality of men and women in political, economic, social, cultural, civil or any other areas of public life”.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Regulatory legal acts are available at:  
+https://www.gov.kg/;     
+https://mlsp.gov.kg/gendernaya-politika2/;  
+http://cbd.minjust.gov.kg/; 
+http://www.toktom.kg;   
+http://stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data sources available at any time]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Kyrgyz Republic has ratified: 
+• UN Convention on the Elimination of All Forms of Discrimination against Women (CEDAW);
+• Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women;
+• Convention on Consent to Marriage, Minimum Age for Marriage and Registration of Marriages;
+• Convention on the Nationality of Married Women;
+• Convention on the Political Rights of Women;
+• The international norms have been introduced into national legislation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
+
+• Constitution of the Kyrgyz Republic; 
+• Constitutional Law «On election of the President of the Kyrgyz Republic and Deputies of Zhogorku Kenesh of the Kyrgyz Republic» (2 July 2011, №68); Family Code (30 August 2003, №201);  Labour Code (4 August 2004, №106); 
+• Law of the Kyrgyz Republic of August 4, 2008 No. 184"About the state guarantees of the equal rights and equal opportunities for men and women"
+• Law of the Kyrgyz Republic of 27 April 2017 № 63 «On Protection and Prevention against DomesticViolence»;
+• «National Strategy for achieving gender equality in the Kyrgyz Republic until 2020» and «National Action Plan for achieving gender equality in the Kyrgyz Republic for 2018-2020», approved by the Government Resolution on 27 June 2012, №443;
+• Fifth periodic report of the Kyrgyz Republic on the implementation of the Convention on the Elimination of All Forms of Discrimination against Women, for the period from 2013 to 2018, approved by the Government of the Kyrgyz Republic on 1 March 2019 № 35-р]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="4a380ab0-1c27-4297-b955-2e3f4e472ad5">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SG_LGL_GENEQVAW</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[5. Achieve gender equality and empower all women and girls]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[5.1. End all forms of discrimination against all women and girls everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[5.1.1 Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Labour and Social Development of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Bekmatova Roza Kubataliyevna]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[roza@mlsp.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[996 312 624 532]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex and to monitor the situation. Kyrgyzstan has such legal and regulatory framework in place. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Legal framework ensures compliance with and monitoring of gender equality. The Constitution of the Kyrgyz Republic guarantees equal rights and freedoms of men and women, equal access to opportunities and prohibits discrimination based on sex (Article 16).
+This constitutional norm is ensured by the Law of the Kyrgyz Republic "About the state guarantees of the equal rights and equal opportunities for men and women" (August 4, 2008 No. 184). Article 1 of this law states that: “Gender discrimination (direct, indirect)” means that “any distinction, exception or preference which limits the rights and interests of persons on the basis of sex; it is directed to easing or deprivation of recognition, use or implementation of equality of men and women in political, economic, social, cultural, civil or any other areas of public life”.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Regulatory legal acts are available at:  
+https://www.gov.kg/;     
+https://mlsp.gov.kg/gendernaya-politika2/;  
+http://cbd.minjust.gov.kg/; 
+http://www.toktom.kg;   
+http://stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data sources available at any time]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Kyrgyz Republic has ratified: 
+• UN Convention on the Elimination of All Forms of Discrimination against Women (CEDAW);
+• Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women;
+• Convention on Consent to Marriage, Minimum Age for Marriage and Registration of Marriages;
+• Convention on the Nationality of Married Women;
+• Convention on the Political Rights of Women;
+• The international norms have been introduced into national legislation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
+
+• Constitution of the Kyrgyz Republic; 
+• Constitutional Law «On election of the President of the Kyrgyz Republic and Deputies of Zhogorku Kenesh of the Kyrgyz Republic» (2 July 2011, №68); Family Code (30 August 2003, №201);  Labour Code (4 August 2004, №106); 
+• Law of the Kyrgyz Republic of August 4, 2008 No. 184"About the state guarantees of the equal rights and equal opportunities for men and women"
+• Law of the Kyrgyz Republic of 27 April 2017 № 63 «On Protection and Prevention against DomesticViolence»;
+• «National Strategy for achieving gender equality in the Kyrgyz Republic until 2020» and «National Action Plan for achieving gender equality in the Kyrgyz Republic for 2018-2020», approved by the Government Resolution on 27 June 2012, №443;
+• Fifth periodic report of the Kyrgyz Republic on the implementation of the Convention on the Elimination of All Forms of Discrimination against Women, for the period from 2013 to 2018, approved by the Government of the Kyrgyz Republic on 1 March 2019 № 35-р]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="d8bff7de-a58b-4b8a-85bf-91d720125506">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SG_LGL_GENEQEMP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[5. Achieve gender equality and empower all women and girls]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[5.1. End all forms of discrimination against all women and girls everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[5.1.1 Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Labour and Social Development of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Bekmatova Roza Kubataliyevna]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[roza@mlsp.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[996 312 624 532]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex and to monitor the situation. Kyrgyzstan has such legal and regulatory framework in place. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Legal framework ensures compliance with and monitoring of gender equality. The Constitution of the Kyrgyz Republic guarantees equal rights and freedoms of men and women, equal access to opportunities and prohibits discrimination based on sex (Article 16).
+This constitutional norm is ensured by the Law of the Kyrgyz Republic "About the state guarantees of the equal rights and equal opportunities for men and women" (August 4, 2008 No. 184). Article 1 of this law states that: “Gender discrimination (direct, indirect)” means that “any distinction, exception or preference which limits the rights and interests of persons on the basis of sex; it is directed to easing or deprivation of recognition, use or implementation of equality of men and women in political, economic, social, cultural, civil or any other areas of public life”.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Regulatory legal acts are available at:  
+https://www.gov.kg/;     
+https://mlsp.gov.kg/gendernaya-politika2/;  
+http://cbd.minjust.gov.kg/; 
+http://www.toktom.kg;   
+http://stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data sources available at any time]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Kyrgyz Republic has ratified: 
+• UN Convention on the Elimination of All Forms of Discrimination against Women (CEDAW);
+• Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women;
+• Convention on Consent to Marriage, Minimum Age for Marriage and Registration of Marriages;
+• Convention on the Nationality of Married Women;
+• Convention on the Political Rights of Women;
+• The international norms have been introduced into national legislation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
+
+• Constitution of the Kyrgyz Republic; 
+• Constitutional Law «On election of the President of the Kyrgyz Republic and Deputies of Zhogorku Kenesh of the Kyrgyz Republic» (2 July 2011, №68); Family Code (30 August 2003, №201);  Labour Code (4 August 2004, №106); 
+• Law of the Kyrgyz Republic of August 4, 2008 No. 184"About the state guarantees of the equal rights and equal opportunities for men and women"
+• Law of the Kyrgyz Republic of 27 April 2017 № 63 «On Protection and Prevention against DomesticViolence»;
+• «National Strategy for achieving gender equality in the Kyrgyz Republic until 2020» and «National Action Plan for achieving gender equality in the Kyrgyz Republic for 2018-2020», approved by the Government Resolution on 27 June 2012, №443;
+• Fifth periodic report of the Kyrgyz Republic on the implementation of the Convention on the Elimination of All Forms of Discrimination against Women, for the period from 2013 to 2018, approved by the Government of the Kyrgyz Republic on 1 March 2019 № 35-р]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="b78dbf4e-ab69-4f80-ba8d-cf95f902a891">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SG_LGL_GENEQMAR</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[5. Achieve gender equality and empower all women and girls]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[5.1. End all forms of discrimination against all women and girls everywhere]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[5.1.1 Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Labour and Social Development of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Bekmatova Roza Kubataliyevna]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[roza@mlsp.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[996 312 624 532]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex and to monitor the situation. Kyrgyzstan has such legal and regulatory framework in place. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Legal framework ensures compliance with and monitoring of gender equality. The Constitution of the Kyrgyz Republic guarantees equal rights and freedoms of men and women, equal access to opportunities and prohibits discrimination based on sex (Article 16).
+This constitutional norm is ensured by the Law of the Kyrgyz Republic "About the state guarantees of the equal rights and equal opportunities for men and women" (August 4, 2008 No. 184). Article 1 of this law states that: “Gender discrimination (direct, indirect)” means that “any distinction, exception or preference which limits the rights and interests of persons on the basis of sex; it is directed to easing or deprivation of recognition, use or implementation of equality of men and women in political, economic, social, cultural, civil or any other areas of public life”.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Regulatory legal acts are available at:  
+https://www.gov.kg/;     
+https://mlsp.gov.kg/gendernaya-politika2/;  
+http://cbd.minjust.gov.kg/; 
+http://www.toktom.kg;   
+http://stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data sources available at any time]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Kyrgyz Republic has ratified: 
+• UN Convention on the Elimination of All Forms of Discrimination against Women (CEDAW);
+• Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women;
+• Convention on Consent to Marriage, Minimum Age for Marriage and Registration of Marriages;
+• Convention on the Nationality of Married Women;
+• Convention on the Political Rights of Women;
+• The international norms have been introduced into national legislation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[https://sustainabledevelopment-kyrgyzstan.github.io
+
+• Constitution of the Kyrgyz Republic; 
+• Constitutional Law «On election of the President of the Kyrgyz Republic and Deputies of Zhogorku Kenesh of the Kyrgyz Republic» (2 July 2011, №68); Family Code (30 August 2003, №201);  Labour Code (4 August 2004, №106); 
+• Law of the Kyrgyz Republic of August 4, 2008 No. 184"About the state guarantees of the equal rights and equal opportunities for men and women"
+• Law of the Kyrgyz Republic of 27 April 2017 № 63 «On Protection and Prevention against DomesticViolence»;
+• «National Strategy for achieving gender equality in the Kyrgyz Republic until 2020» and «National Action Plan for achieving gender equality in the Kyrgyz Republic for 2018-2020», approved by the Government Resolution on 27 June 2012, №443;
+• Fifth periodic report of the Kyrgyz Republic on the implementation of the Convention on the Elimination of All Forms of Discrimination against Women, for the period from 2013 to 2018, approved by the Government of the Kyrgyz Republic on 1 March 2019 № 35-р]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

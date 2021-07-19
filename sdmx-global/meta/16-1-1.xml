@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1626665724</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-19T03:35:24</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="80f87194-0cbc-4d34-9b01-bf10c8850ebe">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_IHR_PSRC</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 16: Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[16.1: Significantly reduce all forms of violence and related death rates everywhere ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[16.1.1: Number of victims of intentional homicide per 100,000 population, by sex and age ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Demographic Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[T. S. Taipova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[t.taipova@stat.kg, tamarataipova@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(312) 32 46 36]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The total count of victims of intentional homicide divided by the total population, expressed per 100,000 population. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator is widely used at national and international level to measure the most extreme form of violent crime and it also provides a direct indication of lack of security. Security from violence is a prerequisite for individuals to enjoy a safe and active life and for societies and economies to develop freely. Intentional homicides occur in all countries of the world and this indicator has a global applicability.
+Monitoring intentional homicides is necessary to better assess their causes, drivers and consequences and, in the longer term, to develop effective preventive measures. If data are properly disaggregated (as suggested in the ICCS 2015), the indicator can identify the different type of violence associated with homicide: inter-personal (including partner and family-related violence), crime (including organized crime and other forms of criminal activities) and socio-political (including terrorism, hate crime).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The source of information on death causes are based on medical records issued by a doctor or paramedic regarding illness, accident, homicide, suicide and other external influences that caused the death. These documents, alongside with the death records, are submitted to the State statistics authorities for further processing.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Количество зарегистрированных в АИС "ЕРПП" преступлений по ст.ст.130 и 133 УК, минус количество преступлений по ст.130, 133 УК КР, прекращенных по реабилитирующим основаниям, минус количество преступлений, переквалифицированных на другие статьи УК на конец отчетного периода]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The proportion of the total number of victims of intentional homicide recorded in a given year divided by the total resident population in the same year. Calculated per 100,000 population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[The ICCS 2015 provides important clarifications on the definition of intentional homicide. In particular, it states that the following killings are included in the count of homicide:
+- Murder
+- Honour killing
+- Serious assault leading to death
+- Death as a result of terrorist activities
+- Dowry-related killings
+- Femicide
+- Infanticide
+- Voluntary manslaughter
+- Extrajudicial killings
+- Killings caused by excessive force by law enforcement/state officials. 
+Furthermore, the ICCS provides indications on how to distinguish between intentional homicides, killings directly related to war/conflict and other killings that amount to war crimes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of the reported data is performed. Death data verification in death records is carried out through logical control, embedded in the data input and development software. Death codes provided in the death records based on the diagnoses are brought in line with ICD-10. Analysis of output tables by death causes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on suicide deaths are published in statistical compendiums “Women and Men in the KR”, “Social trends in the KR”, “Statistical yearbook of the KR”, “Kyrgyzstan in figures”, and are placed at the NSC website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io 
+Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. The NSC statistical publications: Socio-Economic Status of the Kyrgyz Republic – monthly report; statistical compendiums: Women and Men in the Kyrgyz Republic, Social trends in the Kyrgyz Republic, Public Health and Health Care in the Kyrgyz Republic available at the official NSC KR website: http://www.stat.kg/ru/publications/]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="84d27036-b556-424a-b4d6-cda8f9df7d24">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_IHR_PSRCN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 16: Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[16.1: Significantly reduce all forms of violence and related death rates everywhere ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[16.1.1: Number of victims of intentional homicide per 100,000 population, by sex and age ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Demographic Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[T. S. Taipova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[t.taipova@stat.kg, tamarataipova@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(312) 32 46 36]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The total count of victims of intentional homicide divided by the total population, expressed per 100,000 population. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator is widely used at national and international level to measure the most extreme form of violent crime and it also provides a direct indication of lack of security. Security from violence is a prerequisite for individuals to enjoy a safe and active life and for societies and economies to develop freely. Intentional homicides occur in all countries of the world and this indicator has a global applicability.
+Monitoring intentional homicides is necessary to better assess their causes, drivers and consequences and, in the longer term, to develop effective preventive measures. If data are properly disaggregated (as suggested in the ICCS 2015), the indicator can identify the different type of violence associated with homicide: inter-personal (including partner and family-related violence), crime (including organized crime and other forms of criminal activities) and socio-political (including terrorism, hate crime).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The source of information on death causes are based on medical records issued by a doctor or paramedic regarding illness, accident, homicide, suicide and other external influences that caused the death. These documents, alongside with the death records, are submitted to the State statistics authorities for further processing.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Количество зарегистрированных в АИС "ЕРПП" преступлений по ст.ст.130 и 133 УК, минус количество преступлений по ст.130, 133 УК КР, прекращенных по реабилитирующим основаниям, минус количество преступлений, переквалифицированных на другие статьи УК на конец отчетного периода]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The proportion of the total number of victims of intentional homicide recorded in a given year divided by the total resident population in the same year. Calculated per 100,000 population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[The ICCS 2015 provides important clarifications on the definition of intentional homicide. In particular, it states that the following killings are included in the count of homicide:
+- Murder
+- Honour killing
+- Serious assault leading to death
+- Death as a result of terrorist activities
+- Dowry-related killings
+- Femicide
+- Infanticide
+- Voluntary manslaughter
+- Extrajudicial killings
+- Killings caused by excessive force by law enforcement/state officials. 
+Furthermore, the ICCS provides indications on how to distinguish between intentional homicides, killings directly related to war/conflict and other killings that amount to war crimes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of the reported data is performed. Death data verification in death records is carried out through logical control, embedded in the data input and development software. Death codes provided in the death records based on the diagnoses are brought in line with ICD-10. Analysis of output tables by death causes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on suicide deaths are published in statistical compendiums “Women and Men in the KR”, “Social trends in the KR”, “Statistical yearbook of the KR”, “Kyrgyzstan in figures”, and are placed at the NSC website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io 
+Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. The NSC statistical publications: Socio-Economic Status of the Kyrgyz Republic – monthly report; statistical compendiums: Women and Men in the Kyrgyz Republic, Social trends in the Kyrgyz Republic, Public Health and Health Care in the Kyrgyz Republic available at the official NSC KR website: http://www.stat.kg/ru/publications/]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

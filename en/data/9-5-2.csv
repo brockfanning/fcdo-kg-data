@@ -1,11 +1,11 @@
-Year,Value
-2010,360
-2011,401
-2012,415
-2013,530
-2014,511
-2015,572
-2016,563
-2017,524
-2018,555
-2019,527
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,Value
+2010,Normal value,Units,Country Data,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,360
+2011,Normal value,Units,Country Data,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,401
+2012,Normal value,Units,Country Data,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,415
+2013,Normal value,Units,Country Data,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,530
+2014,Normal value,Units,Country Data,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,511
+2015,Normal value,Units,Country Data,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,572
+2016,Normal value,Units,Country Data,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,563
+2017,Normal value,Units,Country Data,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,524
+2018,Normal value,Units,Country Data,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,555
+2019,Normal value,Units,Country Data,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,527

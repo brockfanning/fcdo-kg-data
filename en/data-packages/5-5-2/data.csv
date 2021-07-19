@@ -1,14 +1,14 @@
-Year,Value
-2007,31.5
-2008,31.9
-2009,30.6
-2010,32.3
-2011,28.9
-2012,32.3
-2013,27.5
-2014,33.4
-2015,36.1
-2016,34.9
-2017,36.2
-2018,37.9
-2019,40.9
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,Sex,UNIT_MEASURE,Value
+2007,Normal value,Units,Country Data,40.9,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,31.5
+2008,Normal value,Units,Country Data,40.9,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,31.9
+2009,Normal value,Units,Country Data,40.9,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,30.6
+2010,Normal value,Units,Country Data,40.9,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,32.3
+2011,Normal value,Units,Country Data,40.9,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,28.9
+2012,Normal value,Units,Country Data,40.9,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,32.3
+2013,Normal value,Units,Country Data,40.9,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,27.5
+2014,Normal value,Units,Country Data,40.9,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,33.4
+2015,Normal value,Units,Country Data,40.9,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,36.1
+2016,Normal value,Units,Country Data,40.9,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,34.9
+2017,Normal value,Units,Country Data,40.9,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,36.2
+2018,Normal value,Units,Country Data,40.9,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,37.9
+2019,Normal value,Units,Country Data,40.9,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,40.9

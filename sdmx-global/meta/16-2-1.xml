@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1626665724</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-19T03:35:24</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="c38d1747-056b-4989-83bd-305c34939407">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_VAW_PHYPYV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[16.2. End abuse, exploitation, trafficking and all forms of violence against and torture of children ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[16.2.1. Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Y. I. Kalymbetova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(312) 66 41 64]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month is currently being measured by the proportion of children aged 1-14 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[All too often, children are raised using methods that rely on physical force or verbal intimidation to punish unwanted behaviours and encourage desired ones. The use of violent discipline with children represent a violation of their rights. Physical discipline and psychological aggression tend to overlap and frequently occur together, exacerbating the short- and long-term harm they inflict. The consequences of violent discipline range from immediate effects to long-term damage that children carry well into adulthood. Violent discipline is the most widespread, and socially accepted, type of violence against children.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Household surveys such as UNICEF-supported MICS and DHS that have been collecting data on this indicator in low- and middle-income countries since around 2005. In some countries, such data are also collected through other national household surveys.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ЮНИСЕФ проводит ежегодный процесс обновления своих глобальных баз данных под названием «Отчетность по странам в отношении показателей для целей» (CRING). Это мероприятие проводится в тесном сотрудничестве с отделениями ЮНИСЕФ в странах с целью обеспечения того, чтобы глобальные базы данных ЮНИСЕФ содержали обновленные и сопоставимые на международном уровне данные. Отделениям ЮНИСЕФ в странах предлагается через онлайн-систему представить любые обновленные данные по ряду ключевых показателей благосостояния женщин и детей. Обновления, отправленные отделениями в странах, затем проверяются специалистами сектора в штаб-квартире ЮНИСЕФ для проверки согласованности и общего качества данных представленных оценок. Этот обзор основан на наборе объективных критериев для обеспечения включения в базы данных только самой последней и надежной информации. Обновленные базы данных также публикуются в Интернете по адресу data.unicef.org.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of children aged 1-17 years who are reported to have experienced any physical punishment and/or psychological aggression by caregivers in the past month divided by the total number of children aged 1-17 in the population multiplied by 100.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Definitions of both physical punishment and psychological aggression will need to be very clearly defined for countries but this should not be a problem as there is a wealth of available literature and research on the violent punishment of children and General Comment No.13 on the Convention of the Rights of the Child (CRC) also provides a definition for “corporal” or “physical” punishment as well as “mental violence”. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Nationally representative and comparable prevalence data are currently available for a sub-sample of children aged 1-14 years for 73 low- and middle-income countries. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

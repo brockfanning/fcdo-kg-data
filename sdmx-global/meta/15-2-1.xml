@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1626665724</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-19T03:35:24</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="ebe4219f-8156-4196-8775-810b123c153e">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_LND_FRSTBIOM</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2 By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2.1. Progress towards sustainable forest management ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The State Agency on Environment Protection and Forestry under the KR Government]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.S. Baidakova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Лесовосстановление в лесах государственного значения включает: посадку и посев леса; содействие естественному возобновлению леса. 
+Также, проводятся мероприятия по созданию насаждений на оврагах, балках, песках и других неудобных землях, выращивание и ввод молодняков в категорию ценных древесных насаждений в лесах государственного значения, создание питомников древесных и кустарниковых пород, посадка сеянцев и черенков древесных, кустарниковых, плодово-ягодных и технических пород в школах. 
+Увеличение лесов за счет мероприятий по лессовостановлению. Изменение площади лесов позволит оценить сохранность естественных лесных экосистем. Динамический рост индикатора показывает адекватную политику в области сохранения и приумножения лесов.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ Темпы чистого изменения площади лесов в год;
+ Запас надземной биомассы в лесах (т/га);
+ Доля лесных площадей, расположенных в природоохранных зонах;
+ Доля лесных площадей, в отношении которых существует долгосрочный план управления лесными ресурсами;
+ Сертифицированные лесные площади]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная инвентаризация лесов, учет лесного фонда  ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ГАООСЛХ формирует данные по площади лесовосстановительных работ в лесах государственного значения, включающих посадку и посев леса, и содействие естественному возобновлению. 
+ГАООСЛХ собирает данные на основании отчетов лесхозов, природных парков, заповедников по областям и сводит информацию на уровне республики. 
+НСК на основе формы государственной статистической отчетности «Отчет о работе лесного хозяйства» осуществляет сбор информации с лесхозов и других предприятий, выполняющих лесокультурные работы.
+Данные Национальной инвентаризации лесов Кыргызской Республики утверждены постановлением Правительства КР от 26.07.11г. № 407. Начато проведение второй национальной инвентаризации лесов КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные доступны для заинтересованных лиц на сайтах специализированных органов и официальных статистических данных, страновых отчетах по биоразнообразию.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="1bc304a4-1235-47d2-a2e8-1871ed5c3d73">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_LND_FRSTBIOPHA</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2 By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2.1. Progress towards sustainable forest management ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The State Agency on Environment Protection and Forestry under the KR Government]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.S. Baidakova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Лесовосстановление в лесах государственного значения включает: посадку и посев леса; содействие естественному возобновлению леса. 
+Также, проводятся мероприятия по созданию насаждений на оврагах, балках, песках и других неудобных землях, выращивание и ввод молодняков в категорию ценных древесных насаждений в лесах государственного значения, создание питомников древесных и кустарниковых пород, посадка сеянцев и черенков древесных, кустарниковых, плодово-ягодных и технических пород в школах. 
+Увеличение лесов за счет мероприятий по лессовостановлению. Изменение площади лесов позволит оценить сохранность естественных лесных экосистем. Динамический рост индикатора показывает адекватную политику в области сохранения и приумножения лесов.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ Темпы чистого изменения площади лесов в год;
+ Запас надземной биомассы в лесах (т/га);
+ Доля лесных площадей, расположенных в природоохранных зонах;
+ Доля лесных площадей, в отношении которых существует долгосрочный план управления лесными ресурсами;
+ Сертифицированные лесные площади]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная инвентаризация лесов, учет лесного фонда  ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ГАООСЛХ формирует данные по площади лесовосстановительных работ в лесах государственного значения, включающих посадку и посев леса, и содействие естественному возобновлению. 
+ГАООСЛХ собирает данные на основании отчетов лесхозов, природных парков, заповедников по областям и сводит информацию на уровне республики. 
+НСК на основе формы государственной статистической отчетности «Отчет о работе лесного хозяйства» осуществляет сбор информации с лесхозов и других предприятий, выполняющих лесокультурные работы.
+Данные Национальной инвентаризации лесов Кыргызской Республики утверждены постановлением Правительства КР от 26.07.11г. № 407. Начато проведение второй национальной инвентаризации лесов КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные доступны для заинтересованных лиц на сайтах специализированных органов и официальных статистических данных, страновых отчетах по биоразнообразию.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="bc3ed961-8c7d-4d3c-80d6-a6525f4294c4">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_LND_FRSTCERT</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2 By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2.1. Progress towards sustainable forest management ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The State Agency on Environment Protection and Forestry under the KR Government]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.S. Baidakova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Лесовосстановление в лесах государственного значения включает: посадку и посев леса; содействие естественному возобновлению леса. 
+Также, проводятся мероприятия по созданию насаждений на оврагах, балках, песках и других неудобных землях, выращивание и ввод молодняков в категорию ценных древесных насаждений в лесах государственного значения, создание питомников древесных и кустарниковых пород, посадка сеянцев и черенков древесных, кустарниковых, плодово-ягодных и технических пород в школах. 
+Увеличение лесов за счет мероприятий по лессовостановлению. Изменение площади лесов позволит оценить сохранность естественных лесных экосистем. Динамический рост индикатора показывает адекватную политику в области сохранения и приумножения лесов.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ Темпы чистого изменения площади лесов в год;
+ Запас надземной биомассы в лесах (т/га);
+ Доля лесных площадей, расположенных в природоохранных зонах;
+ Доля лесных площадей, в отношении которых существует долгосрочный план управления лесными ресурсами;
+ Сертифицированные лесные площади]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная инвентаризация лесов, учет лесного фонда  ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ГАООСЛХ формирует данные по площади лесовосстановительных работ в лесах государственного значения, включающих посадку и посев леса, и содействие естественному возобновлению. 
+ГАООСЛХ собирает данные на основании отчетов лесхозов, природных парков, заповедников по областям и сводит информацию на уровне республики. 
+НСК на основе формы государственной статистической отчетности «Отчет о работе лесного хозяйства» осуществляет сбор информации с лесхозов и других предприятий, выполняющих лесокультурные работы.
+Данные Национальной инвентаризации лесов Кыргызской Республики утверждены постановлением Правительства КР от 26.07.11г. № 407. Начато проведение второй национальной инвентаризации лесов КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные доступны для заинтересованных лиц на сайтах специализированных органов и официальных статистических данных, страновых отчетах по биоразнообразию.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="943c43fb-9350-408d-91ab-45bde099d33a">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_LND_FRSTCHG</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2 By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2.1. Progress towards sustainable forest management ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The State Agency on Environment Protection and Forestry under the KR Government]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.S. Baidakova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Лесовосстановление в лесах государственного значения включает: посадку и посев леса; содействие естественному возобновлению леса. 
+Также, проводятся мероприятия по созданию насаждений на оврагах, балках, песках и других неудобных землях, выращивание и ввод молодняков в категорию ценных древесных насаждений в лесах государственного значения, создание питомников древесных и кустарниковых пород, посадка сеянцев и черенков древесных, кустарниковых, плодово-ягодных и технических пород в школах. 
+Увеличение лесов за счет мероприятий по лессовостановлению. Изменение площади лесов позволит оценить сохранность естественных лесных экосистем. Динамический рост индикатора показывает адекватную политику в области сохранения и приумножения лесов.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ Темпы чистого изменения площади лесов в год;
+ Запас надземной биомассы в лесах (т/га);
+ Доля лесных площадей, расположенных в природоохранных зонах;
+ Доля лесных площадей, в отношении которых существует долгосрочный план управления лесными ресурсами;
+ Сертифицированные лесные площади]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная инвентаризация лесов, учет лесного фонда  ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ГАООСЛХ формирует данные по площади лесовосстановительных работ в лесах государственного значения, включающих посадку и посев леса, и содействие естественному возобновлению. 
+ГАООСЛХ собирает данные на основании отчетов лесхозов, природных парков, заповедников по областям и сводит информацию на уровне республики. 
+НСК на основе формы государственной статистической отчетности «Отчет о работе лесного хозяйства» осуществляет сбор информации с лесхозов и других предприятий, выполняющих лесокультурные работы.
+Данные Национальной инвентаризации лесов Кыргызской Республики утверждены постановлением Правительства КР от 26.07.11г. № 407. Начато проведение второй национальной инвентаризации лесов КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные доступны для заинтересованных лиц на сайтах специализированных органов и официальных статистических данных, страновых отчетах по биоразнообразию.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="31d200a5-d47b-46c2-8a2f-66c4c783e856">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_LND_FRSTMGT</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2 By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2.1. Progress towards sustainable forest management ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The State Agency on Environment Protection and Forestry under the KR Government]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.S. Baidakova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Лесовосстановление в лесах государственного значения включает: посадку и посев леса; содействие естественному возобновлению леса. 
+Также, проводятся мероприятия по созданию насаждений на оврагах, балках, песках и других неудобных землях, выращивание и ввод молодняков в категорию ценных древесных насаждений в лесах государственного значения, создание питомников древесных и кустарниковых пород, посадка сеянцев и черенков древесных, кустарниковых, плодово-ягодных и технических пород в школах. 
+Увеличение лесов за счет мероприятий по лессовостановлению. Изменение площади лесов позволит оценить сохранность естественных лесных экосистем. Динамический рост индикатора показывает адекватную политику в области сохранения и приумножения лесов.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ Темпы чистого изменения площади лесов в год;
+ Запас надземной биомассы в лесах (т/га);
+ Доля лесных площадей, расположенных в природоохранных зонах;
+ Доля лесных площадей, в отношении которых существует долгосрочный план управления лесными ресурсами;
+ Сертифицированные лесные площади]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная инвентаризация лесов, учет лесного фонда  ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ГАООСЛХ формирует данные по площади лесовосстановительных работ в лесах государственного значения, включающих посадку и посев леса, и содействие естественному возобновлению. 
+ГАООСЛХ собирает данные на основании отчетов лесхозов, природных парков, заповедников по областям и сводит информацию на уровне республики. 
+НСК на основе формы государственной статистической отчетности «Отчет о работе лесного хозяйства» осуществляет сбор информации с лесхозов и других предприятий, выполняющих лесокультурные работы.
+Данные Национальной инвентаризации лесов Кыргызской Республики утверждены постановлением Правительства КР от 26.07.11г. № 407. Начато проведение второй национальной инвентаризации лесов КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные доступны для заинтересованных лиц на сайтах специализированных органов и официальных статистических данных, страновых отчетах по биоразнообразию.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="714fbaf8-3ddb-4661-af6c-f22bd568dd5e">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_LND_FRSTPRCT</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2 By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2.1. Progress towards sustainable forest management ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The State Agency on Environment Protection and Forestry under the KR Government]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.S. Baidakova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Лесовосстановление в лесах государственного значения включает: посадку и посев леса; содействие естественному возобновлению леса. 
+Также, проводятся мероприятия по созданию насаждений на оврагах, балках, песках и других неудобных землях, выращивание и ввод молодняков в категорию ценных древесных насаждений в лесах государственного значения, создание питомников древесных и кустарниковых пород, посадка сеянцев и черенков древесных, кустарниковых, плодово-ягодных и технических пород в школах. 
+Увеличение лесов за счет мероприятий по лессовостановлению. Изменение площади лесов позволит оценить сохранность естественных лесных экосистем. Динамический рост индикатора показывает адекватную политику в области сохранения и приумножения лесов.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ Темпы чистого изменения площади лесов в год;
+ Запас надземной биомассы в лесах (т/га);
+ Доля лесных площадей, расположенных в природоохранных зонах;
+ Доля лесных площадей, в отношении которых существует долгосрочный план управления лесными ресурсами;
+ Сертифицированные лесные площади]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная инвентаризация лесов, учет лесного фонда  ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ГАООСЛХ формирует данные по площади лесовосстановительных работ в лесах государственного значения, включающих посадку и посев леса, и содействие естественному возобновлению. 
+ГАООСЛХ собирает данные на основании отчетов лесхозов, природных парков, заповедников по областям и сводит информацию на уровне республики. 
+НСК на основе формы государственной статистической отчетности «Отчет о работе лесного хозяйства» осуществляет сбор информации с лесхозов и других предприятий, выполняющих лесокультурные работы.
+Данные Национальной инвентаризации лесов Кыргызской Республики утверждены постановлением Правительства КР от 26.07.11г. № 407. Начато проведение второй национальной инвентаризации лесов КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные доступны для заинтересованных лиц на сайтах специализированных органов и официальных статистических данных, страновых отчетах по биоразнообразию.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="bf2db7cb-39c8-413a-8a96-c5b2c553c3a2">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_LND_FRSTPRCTN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2 By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2.1. Progress towards sustainable forest management ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The State Agency on Environment Protection and Forestry under the KR Government]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.S. Baidakova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Лесовосстановление в лесах государственного значения включает: посадку и посев леса; содействие естественному возобновлению леса. 
+Также, проводятся мероприятия по созданию насаждений на оврагах, балках, песках и других неудобных землях, выращивание и ввод молодняков в категорию ценных древесных насаждений в лесах государственного значения, создание питомников древесных и кустарниковых пород, посадка сеянцев и черенков древесных, кустарниковых, плодово-ягодных и технических пород в школах. 
+Увеличение лесов за счет мероприятий по лессовостановлению. Изменение площади лесов позволит оценить сохранность естественных лесных экосистем. Динамический рост индикатора показывает адекватную политику в области сохранения и приумножения лесов.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ Темпы чистого изменения площади лесов в год;
+ Запас надземной биомассы в лесах (т/га);
+ Доля лесных площадей, расположенных в природоохранных зонах;
+ Доля лесных площадей, в отношении которых существует долгосрочный план управления лесными ресурсами;
+ Сертифицированные лесные площади]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная инвентаризация лесов, учет лесного фонда  ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ГАООСЛХ формирует данные по площади лесовосстановительных работ в лесах государственного значения, включающих посадку и посев леса, и содействие естественному возобновлению. 
+ГАООСЛХ собирает данные на основании отчетов лесхозов, природных парков, заповедников по областям и сводит информацию на уровне республики. 
+НСК на основе формы государственной статистической отчетности «Отчет о работе лесного хозяйства» осуществляет сбор информации с лесхозов и других предприятий, выполняющих лесокультурные работы.
+Данные Национальной инвентаризации лесов Кыргызской Республики утверждены постановлением Правительства КР от 26.07.11г. № 407. Начато проведение второй национальной инвентаризации лесов КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные доступны для заинтересованных лиц на сайтах специализированных органов и официальных статистических данных, страновых отчетах по биоразнообразию.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

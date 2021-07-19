@@ -1,14 +1,14 @@
-Year,Value
-2007,8.277782
-2008,6.836681
-2009,6.915016
-2010,6.6
-2011,6.879721
-2012,6.187625
-2013,5.8
-2014,5.3
-2015,5.1
-2016,4.5
-2017,4.7
-2018,4.5
-2019,4.7
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,Value
+2007,Normal value,Units,Country Data,Annual,National,Proportion of population receiving social assistance,Kyrgyzstan,Percent,8.277782
+2008,Normal value,Units,Country Data,Annual,National,Proportion of population receiving social assistance,Kyrgyzstan,Percent,6.836681
+2009,Normal value,Units,Country Data,Annual,National,Proportion of population receiving social assistance,Kyrgyzstan,Percent,6.915016
+2010,Normal value,Units,Country Data,Annual,National,Proportion of population receiving social assistance,Kyrgyzstan,Percent,6.6
+2011,Normal value,Units,Country Data,Annual,National,Proportion of population receiving social assistance,Kyrgyzstan,Percent,6.879721
+2012,Normal value,Units,Country Data,Annual,National,Proportion of population receiving social assistance,Kyrgyzstan,Percent,6.187625
+2013,Normal value,Units,Country Data,Annual,National,Proportion of population receiving social assistance,Kyrgyzstan,Percent,5.8
+2014,Normal value,Units,Country Data,Annual,National,Proportion of population receiving social assistance,Kyrgyzstan,Percent,5.3
+2015,Normal value,Units,Country Data,Annual,National,Proportion of population receiving social assistance,Kyrgyzstan,Percent,5.1
+2016,Normal value,Units,Country Data,Annual,National,Proportion of population receiving social assistance,Kyrgyzstan,Percent,4.5
+2017,Normal value,Units,Country Data,Annual,National,Proportion of population receiving social assistance,Kyrgyzstan,Percent,4.7
+2018,Normal value,Units,Country Data,Annual,National,Proportion of population receiving social assistance,Kyrgyzstan,Percent,4.5
+2019,Normal value,Units,Country Data,Annual,National,Proportion of population receiving social assistance,Kyrgyzstan,Percent,4.7

@@ -1,4 +1,4 @@
-Year,Series,Value
-2015,SL_DOM_TSPD,13.2
-2015,SL_DOM_TSPDDC,1.7
-2015,SL_DOM_TSPDCW,0.9
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,Country Data,Annual,National,Proportion of time spent on unpaid domestic chores and care work,Kyrgyzstan,Percent,13.2
+2015,Normal value,Units,Country Data,Annual,National,Proportion of time spent on unpaid domestic chores,Kyrgyzstan,Percent,1.7
+2015,Normal value,Units,Country Data,Annual,National,Proportion of time spent on unpaid care work,Kyrgyzstan,Percent,0.9

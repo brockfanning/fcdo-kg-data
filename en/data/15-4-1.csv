@@ -1,8 +1,8 @@
-Year,Value
-2013,6.01
-2014,6.01
-2015,6.01
-2016,7.3
-2017,7.38
-2018,7.38
-2019,6.18
+Year,Observation status,Unit multiplier,Nature of data points,Source details,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,Value
+2013,Normal value,Units,Country Data,*according to the SAEPF,Annual,National,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas,Kyrgyzstan,Percent,6.01
+2014,Normal value,Units,Country Data,*according to the SAEPF,Annual,National,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas,Kyrgyzstan,Percent,6.01
+2015,Normal value,Units,Country Data,*according to the SAEPF,Annual,National,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas,Kyrgyzstan,Percent,6.01
+2016,Normal value,Units,Country Data,*according to the SAEPF,Annual,National,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas,Kyrgyzstan,Percent,7.3
+2017,Normal value,Units,Country Data,*according to the SAEPF,Annual,National,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas,Kyrgyzstan,Percent,7.38
+2018,Normal value,Units,Country Data,*according to the SAEPF,Annual,National,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas,Kyrgyzstan,Percent,7.38
+2019,Normal value,Units,Country Data,*according to the SAEPF,Annual,National,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas,Kyrgyzstan,Percent,6.18

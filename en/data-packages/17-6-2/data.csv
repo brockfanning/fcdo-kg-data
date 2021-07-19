@@ -1,25 +1,25 @@
-Year,COMPOSITE_BREAKDOWN,Value
-2012,Internet speed: 256 kbit/s to less than 2 Mbit/s,222330
-2013,Internet speed: 256 kbit/s to less than 2 Mbit/s,778770
-2014,Internet speed: 256 kbit/s to less than 2 Mbit/s,1056800
-2015,Internet speed: 256 kbit/s to less than 2 Mbit/s,464080
-2016,Internet speed: 256 kbit/s to less than 2 Mbit/s,273170
-2017,Internet speed: 256 kbit/s to less than 2 Mbit/s,274280
-2018,Internet speed: 256 kbit/s to less than 2 Mbit/s,125210
-2019,Internet speed: 256 kbit/s to less than 2 Mbit/s,205560
-2012,Internet speed: 2 Mbit/s to less than 10 Mbit/s,65300
-2013,Internet speed: 2 Mbit/s to less than 10 Mbit/s,439430
-2014,Internet speed: 2 Mbit/s to less than 10 Mbit/s,653450
-2015,Internet speed: 2 Mbit/s to less than 10 Mbit/s,593770
-2016,Internet speed: 2 Mbit/s to less than 10 Mbit/s,918340
-2017,Internet speed: 2 Mbit/s to less than 10 Mbit/s,1017860
-2018,Internet speed: 2 Mbit/s to less than 10 Mbit/s,730990
-2019,Internet speed: 2 Mbit/s to less than 10 Mbit/s,1749880
-2012,Internet speed: 10 Mbit/s or above,193510
-2013,Internet speed: 10 Mbit/s or above,140650
-2014,Internet speed: 10 Mbit/s or above,140320
-2015,Internet speed: 10 Mbit/s or above,1057390
-2016,Internet speed: 10 Mbit/s or above,1150470
-2017,Internet speed: 10 Mbit/s or above,1287990
-2018,Internet speed: 10 Mbit/s or above,696620
-2019,Internet speed: 10 Mbit/s or above,735470
+Year,Observation status,Unit multiplier,Nature of data points,Source details,Frequency of observation,Reporting type,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
+2012,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,222330
+2013,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,778770
+2014,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,1056800
+2015,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,464080
+2016,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,273170
+2017,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,274280
+2018,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,125210
+2019,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 256 kbit/s to less than 2 Mbit/s,Number,205560
+2012,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,65300
+2013,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,439430
+2014,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,653450
+2015,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,593770
+2016,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,918340
+2017,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,1017860
+2018,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,730990
+2019,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 2 Mbit/s to less than 10 Mbit/s,Number,1749880
+2012,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 10 Mbit/s or above,Number,193510
+2013,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 10 Mbit/s or above,Number,140650
+2014,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 10 Mbit/s or above,Number,140320
+2015,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 10 Mbit/s or above,Number,1057390
+2016,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 10 Mbit/s or above,Number,1150470
+2017,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 10 Mbit/s or above,Number,1287990
+2018,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 10 Mbit/s or above,Number,696620
+2019,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Fixed broadband subscriptions (number),Kyrgyzstan,Internet speed: 10 Mbit/s or above,Number,735470

@@ -24,16 +24,80 @@
             "title": "Composite breakdown"
           },
           {
-            "name": "Series",
+            "name": "FREQ",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "_L_KG_150301_1A",
-                "_L_KG_150301_1B"
+                "Annual"
               ]
             },
-            "title": "Series"
+            "title": "Frequency of observation"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Country Data"
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Normal value"
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Kyrgyzstan"
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "National"
+              ]
+            },
+            "title": "Reporting type"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Units"
+              ]
+            },
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

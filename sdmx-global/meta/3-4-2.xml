@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1626665724</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-19T03:35:24</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="39f6019c-a8b9-4ad0-9603-dcb67bc9c454">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_STA_SCIDE</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[3.4: By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[3.4.2: Suicide mortality rate]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Demographic Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Taipova Т.S.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[tamarataipova@mail.ru, t.taipova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of deaths attributed to suicide (intentional self-harm) per 100 000 population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Analyzing this indicator allows assessing effectiveness of preventive measures against suicides. Suicide rate is also used to assess public health and quality of treatment and preventive measures. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Cause of death information is obtained from medical death certificates drawn up by doctors or mid-level medical personnel regarding disease, accident, homicide, suicide and other external influences resulting in death. These documents, along with civil registration of deaths drawn up by civil registry offices (which are subordinate to the State Registration Service), are sent to statistical agencies for calculation. Of causes listed, one is selected for statistical purposes - the primary, i.e. the disease or injury that caused events directly leading to death. Aggregated data are collected and processed by the regional statistical offices and the NSC.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Сведения о смертях получаются на основании ежегодной статистической разработки данных, содержащихся в актовых записях о смерти, составляемых органами записи актов гражданского состояния.  Агрегированные данные собираются и обрабатываются областными управлениями статистики и НСК КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Suicide rates to average annual population according to current estimate calculated per 100,000 population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[The complete recording of suicide deaths in death-registration systems requires good linkages with police systems, but can be seriously impeded by stigma, social and legal considerations, and delays in determining cause of death. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. Data control in data records is carried out by logical control procedure embedded in the data input and processing software. The causes of death codes are checked along diagnoses recorded in death report, according to ICD-10, and results tables are analyzed for causes of death.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on mortality from suicide are published in statistical collections «Women and men in the Kyrgyz Republic», «Social trends of the Kyrgyz Republic», «Statistical yearbook of the Kyrgyz Republic», «Kyrgyzstan in figures», posted on the NSC website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[International definition of the indicator is used for national statistics. Data coding and compilation on deaths by cause of death is done by state statistics authorities in accordance with the WHO International Statistical Classification of Diseases and Causes of Death (ICD-10), since 2000 report. By agreement with the National Statistical Committee, database on mortality is submitted to the Centre for Electronic Health of the Ministry of Health of the Kyrgyz Republic: Form 2 «Information on the number of births, marriages, divorces and deaths by cause of death» is submitted monthly, with a delay of 1.5 months from the reporting month and form C52 «Population mortality by cause of death» submitted annually, in June following the reporting year.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[References to RLA and methodology: 
+http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. 
+National Statistical Committee publications: «Social economic situation of the Kyrgyz Republic» monthly report, statistical collections: «Statistical trends in the Kyrgyz Republic”, «Women and men of the Kyrgyz Republic», «Health of population and healthcare in the Kyrgyz Republic» available on the official website of NSC KR: http://www.stat.kg/ru/publications/
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="f32f358c-da0d-4492-b82f-7475ca5f77f8">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_STA_SCIDEN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[3.4: By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[3.4.2: Suicide mortality rate]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Demographic Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Taipova Т.S.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[tamarataipova@mail.ru, t.taipova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Number of deaths attributed to suicide (intentional self-harm) per 100 000 population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Analyzing this indicator allows assessing effectiveness of preventive measures against suicides. Suicide rate is also used to assess public health and quality of treatment and preventive measures. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Cause of death information is obtained from medical death certificates drawn up by doctors or mid-level medical personnel regarding disease, accident, homicide, suicide and other external influences resulting in death. These documents, along with civil registration of deaths drawn up by civil registry offices (which are subordinate to the State Registration Service), are sent to statistical agencies for calculation. Of causes listed, one is selected for statistical purposes - the primary, i.e. the disease or injury that caused events directly leading to death. Aggregated data are collected and processed by the regional statistical offices and the NSC.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Сведения о смертях получаются на основании ежегодной статистической разработки данных, содержащихся в актовых записях о смерти, составляемых органами записи актов гражданского состояния.  Агрегированные данные собираются и обрабатываются областными управлениями статистики и НСК КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Suicide rates to average annual population according to current estimate calculated per 100,000 population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[The complete recording of suicide deaths in death-registration systems requires good linkages with police systems, but can be seriously impeded by stigma, social and legal considerations, and delays in determining cause of death. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. Data control in data records is carried out by logical control procedure embedded in the data input and processing software. The causes of death codes are checked along diagnoses recorded in death report, according to ICD-10, and results tables are analyzed for causes of death.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on mortality from suicide are published in statistical collections «Women and men in the Kyrgyz Republic», «Social trends of the Kyrgyz Republic», «Statistical yearbook of the Kyrgyz Republic», «Kyrgyzstan in figures», posted on the NSC website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[International definition of the indicator is used for national statistics. Data coding and compilation on deaths by cause of death is done by state statistics authorities in accordance with the WHO International Statistical Classification of Diseases and Causes of Death (ICD-10), since 2000 report. By agreement with the National Statistical Committee, database on mortality is submitted to the Centre for Electronic Health of the Ministry of Health of the Kyrgyz Republic: Form 2 «Information on the number of births, marriages, divorces and deaths by cause of death» is submitted monthly, with a delay of 1.5 months from the reporting month and form C52 «Population mortality by cause of death» submitted annually, in June following the reporting year.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[References to RLA and methodology: 
+http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. 
+National Statistical Committee publications: «Social economic situation of the Kyrgyz Republic» monthly report, statistical collections: «Statistical trends in the Kyrgyz Republic”, «Women and men of the Kyrgyz Republic», «Health of population and healthcare in the Kyrgyz Republic» available on the official website of NSC KR: http://www.stat.kg/ru/publications/
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

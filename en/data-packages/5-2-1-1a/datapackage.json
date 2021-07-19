@@ -11,19 +11,91 @@
       "schema": {
         "fields": [
           {
-            "name": "Series",
+            "name": "FREQ",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "_L_KG_050201_1A1",
-                "_L_KG_050201_1A2",
-                "_L_KG_050201_1A3",
-                "_L_KG_050201_1A4",
-                "_L_KG_050201_1A5"
+                "Annual"
               ]
             },
-            "title": "Series"
+            "title": "Frequency of observation"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Country Data"
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Normal value"
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Kyrgyzstan"
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "National"
+              ]
+            },
+            "title": "Reporting type"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Units"
+              ]
+            },
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",

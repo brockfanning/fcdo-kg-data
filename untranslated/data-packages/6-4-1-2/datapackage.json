@@ -15,21 +15,65 @@
             "type": "string"
           },
           {
-            "name": "Series",
+            "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KG_060401_2A",
-                "_L_KG_060401_2B",
+                "A",
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "N",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
+                "KG",
                 "KG05",
                 "KG03",
                 "KG02",
@@ -44,15 +88,8 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M_M3_PER_YR",
-                "PT",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

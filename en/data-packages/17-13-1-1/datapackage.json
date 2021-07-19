@@ -11,22 +11,69 @@
       "schema": {
         "fields": [
           {
-            "name": "Series",
+            "name": "FREQ",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "_L_KG_171301_1A",
-                "_L_KG_171301_1B",
-                "_L_KG_171301_1C",
-                "_L_KG_171301_1D",
-                "_L_KG_171301_1E",
-                "_L_KG_171301_1F",
-                "_L_KG_171301_1G",
-                "_L_KG_171301_1H"
+                "Annual"
               ]
             },
-            "title": "Series"
+            "title": "Frequency of observation"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Country Data"
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Normal value"
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Kyrgyzstan"
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "National"
+              ]
+            },
+            "title": "Reporting type"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
           },
           {
             "name": "UNIT_MULT",
@@ -39,19 +86,6 @@
               ]
             },
             "title": "Unit multiplier"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "CUR_LCU",
-                "PT",
-                "USD"
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",

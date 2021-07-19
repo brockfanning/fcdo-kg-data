@@ -1,9 +1,9 @@
-Year,Series,Value
-2016,_L_KG_160402_1A,153
-2017,_L_KG_160402_1A,196
-2018,_L_KG_160402_1A,232
-2019,_L_KG_160402_1A,99
-2016,_L_KG_160402_1B,217
-2017,_L_KG_160402_1B,399
-2018,_L_KG_160402_1B,296
-2019,_L_KG_160402_1B,135
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,Value
+2016,Normal value,Units,Country Data,Annual,National,Number of firearms voluntarily surrendered,Kyrgyzstan,Number,153
+2017,Normal value,Units,Country Data,Annual,National,Number of firearms voluntarily surrendered,Kyrgyzstan,Number,196
+2018,Normal value,Units,Country Data,Annual,National,Number of firearms voluntarily surrendered,Kyrgyzstan,Number,232
+2019,Normal value,Units,Country Data,Annual,National,Number of firearms voluntarily surrendered,Kyrgyzstan,Number,99
+2016,Normal value,Units,Country Data,Annual,National,Number of firearms seized,Kyrgyzstan,Number,217
+2017,Normal value,Units,Country Data,Annual,National,Number of firearms seized,Kyrgyzstan,Number,399
+2018,Normal value,Units,Country Data,Annual,National,Number of firearms seized,Kyrgyzstan,Number,296
+2019,Normal value,Units,Country Data,Annual,National,Number of firearms seized,Kyrgyzstan,Number,135

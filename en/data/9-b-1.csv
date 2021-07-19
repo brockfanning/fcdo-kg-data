@@ -1,11 +1,11 @@
-Year,Value
-2010,4.004914
-2011,2.513823
-2012,5.205147
-2013,3.503327
-2014,4.079201
-2015,2.863107
-2016,2.262054
-2017,2.558413
-2018,1.934557
-2019,2.1
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,Value
+2010,Normal value,Units,Country Data,Annual,National,Proportion of medium and high-tech industry value added in total value added,Kyrgyzstan,Percent,4.004914
+2011,Normal value,Units,Country Data,Annual,National,Proportion of medium and high-tech industry value added in total value added,Kyrgyzstan,Percent,2.513823
+2012,Normal value,Units,Country Data,Annual,National,Proportion of medium and high-tech industry value added in total value added,Kyrgyzstan,Percent,5.205147
+2013,Normal value,Units,Country Data,Annual,National,Proportion of medium and high-tech industry value added in total value added,Kyrgyzstan,Percent,3.503327
+2014,Normal value,Units,Country Data,Annual,National,Proportion of medium and high-tech industry value added in total value added,Kyrgyzstan,Percent,4.079201
+2015,Normal value,Units,Country Data,Annual,National,Proportion of medium and high-tech industry value added in total value added,Kyrgyzstan,Percent,2.863107
+2016,Normal value,Units,Country Data,Annual,National,Proportion of medium and high-tech industry value added in total value added,Kyrgyzstan,Percent,2.262054
+2017,Normal value,Units,Country Data,Annual,National,Proportion of medium and high-tech industry value added in total value added,Kyrgyzstan,Percent,2.558413
+2018,Normal value,Units,Country Data,Annual,National,Proportion of medium and high-tech industry value added in total value added,Kyrgyzstan,Percent,1.934557
+2019,Normal value,Units,Country Data,Annual,National,Proportion of medium and high-tech industry value added in total value added,Kyrgyzstan,Percent,2.1

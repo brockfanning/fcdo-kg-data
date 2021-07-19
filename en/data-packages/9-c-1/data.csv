@@ -1,23 +1,23 @@
-Year,Series,Value
-2012,IT_MOB_2GNTWK,97.5
-2013,IT_MOB_2GNTWK,97.6
-2014,IT_MOB_2GNTWK,97.7
-2015,IT_MOB_2GNTWK,97.8
-2016,IT_MOB_2GNTWK,99.0
-2017,IT_MOB_2GNTWK,99.1
-2018,IT_MOB_2GNTWK,99.2
-2019,IT_MOB_2GNTWK,99.3
-2012,IT_MOB_3GNTWK,46.3
-2013,IT_MOB_3GNTWK,51.0
-2014,IT_MOB_3GNTWK,57.0
-2015,IT_MOB_3GNTWK,59.0
-2016,IT_MOB_3GNTWK,60.0
-2017,IT_MOB_3GNTWK,75.0
-2018,IT_MOB_3GNTWK,88.0
-2019,IT_MOB_3GNTWK,91.0
-2014,IT_MOB_4GNTWK,0.5
-2015,IT_MOB_4GNTWK,1.6
-2016,IT_MOB_4GNTWK,40.0
-2017,IT_MOB_4GNTWK,50.0
-2018,IT_MOB_4GNTWK,70.0
-2019,IT_MOB_4GNTWK,85.0
+Year,Observation status,Unit multiplier,Nature of data points,Source details,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,Value
+2012,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 2G mobile network,Kyrgyzstan,Percent,97.5
+2013,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 2G mobile network,Kyrgyzstan,Percent,97.6
+2014,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 2G mobile network,Kyrgyzstan,Percent,97.7
+2015,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 2G mobile network,Kyrgyzstan,Percent,97.8
+2016,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 2G mobile network,Kyrgyzstan,Percent,99.0
+2017,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 2G mobile network,Kyrgyzstan,Percent,99.1
+2018,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 2G mobile network,Kyrgyzstan,Percent,99.2
+2019,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 2G mobile network,Kyrgyzstan,Percent,99.3
+2012,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 3G mobile network,Kyrgyzstan,Percent,46.3
+2013,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 3G mobile network,Kyrgyzstan,Percent,51.0
+2014,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 3G mobile network,Kyrgyzstan,Percent,57.0
+2015,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 3G mobile network,Kyrgyzstan,Percent,59.0
+2016,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 3G mobile network,Kyrgyzstan,Percent,60.0
+2017,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 3G mobile network,Kyrgyzstan,Percent,75.0
+2018,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 3G mobile network,Kyrgyzstan,Percent,88.0
+2019,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 3G mobile network,Kyrgyzstan,Percent,91.0
+2014,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 4G mobile network,Kyrgyzstan,Percent,0.5
+2015,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 4G mobile network,Kyrgyzstan,Percent,1.6
+2016,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 4G mobile network,Kyrgyzstan,Percent,40.0
+2017,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 4G mobile network,Kyrgyzstan,Percent,50.0
+2018,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 4G mobile network,Kyrgyzstan,Percent,70.0
+2019,Normal value,Units,Country Data,*according to the SCITC KR,Annual,National,Proportion of population covered by at least a 4G mobile network,Kyrgyzstan,Percent,85.0

@@ -1,0 +1,2176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1626665724</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-19T03:35:24</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="8e689d50-f759-4ab4-a6a7-ba39df5e85b7">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_HAZ_TREAT</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="321395c1-a4d2-4faf-9145-3c51c7b7793e">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_EWT_GENPCAP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="e2a4c590-15e9-4ffc-8023-6870af5102b1">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_EWT_GENV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="c90fc490-b37b-4d6e-863c-f0745888f4f9">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_HAZ_GENGDP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="eeeb3224-c166-4233-add5-332307aa1585">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_HAZ_GENV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="b03a4c89-acf4-4584-acf5-a44a4f6d9a20">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_HAZ_PCAP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="09860f16-90fc-47ec-8a7e-18316d73a1f9">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_HAZ_TREATV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="610e0bd8-f279-4c09-9850-0ac574309736">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_HAZ_TRTDISR</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="075e70aa-72c4-44eb-92a2-7c123fd58870">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_HAZ_TRTDISV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="aece538d-34ec-4776-8b4f-9e38d042dcd9">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_TWT_GENV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="0d89e616-8acd-43de-a95f-8ed17581ce2d">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_HAZ_EXP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="6478ca6f-8180-4f93-a65e-638a4a55fff0">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_HAZ_IMP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="dc05b1e3-9375-4d25-a85c-c703fe890efd">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_MWT_COLLV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="9a282287-8141-4770-b8b8-9e8d1680c642">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_MWT_TREATR</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="d0902c10-1360-465b-aa49-1c91ff5300e2">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_MWT_GENV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="4b6ea6ac-210d-4bcb-a264-c2e17959fcc2">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_EWT_COLLV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="b1aac609-d909-43b4-a5f8-3037379e9b52">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_EWT_COLLPCAP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="06dc092f-fcd1-4584-9739-203afbbf348a">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EN_EWT_COLLR</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 12. Ensure sustainable consumption and production patterns]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4 By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Hazardous waste generation is the quantity of production and consumption wastes of 1-3 hazard classes generated during a certain period. Hazardous waste (other than radioactive waste) contain any hazardous substances (such as toxic, infectious, explosive, flammable, highly reactive) in a quantity and in a form to pose an immediate or potential danger to human health or environment, either alone or in contact with others.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[а) Global level – State parties to the 1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal have agreed to take all possible measures to ensure and minimize hazardous and other (including domestic) waste generation. Chapter 20 of Agenda 21 related to overall targets, provides for ‘preventing or minimizing the generation of hazardous wastes as part of an overall integrated cleaner production approach’ (20.7).  
+(b) Subregional level - The EECCA Environment Strategy provides for the development of cross-sectoral action plans on waste management and economic mechanisms to facilitate the application of environmentally sound technologies, waste prevention and minimization. The EU Waste Framework Directive provides for increased efforts to prevent and reduce waste generation, ensure waste management and develop new waste disposal methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The data are collected by the NSC according to the national statistical reporting format No. 1 – Wastes - Reports on Production and Consumption Waste Generation and Management" (annual reporting)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическая отчетность представляется всеми хозяйствующими субъектами независимо от формы собственности, которые осуществляют деятельность в области образования и обращения с отходами производства и потребления, а также предприятия и организации, на которых образуются, обезвреживаются (уничтожаются) токсичные промышленные отходы территориальным органам государственной статистики по месту своего нахождения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Ratio of generated production and consumption waste of 1-3 hazard classes to average annual number of population, kilograms per person. The share of recycled industrial and consumption waste of 1-3 hazard classes is the ratio of recycled and reused waste volume to the total volume of generated industrial and consumption waste of 1-3 hazard classes.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected annually by the NSC based on the state statistical reports]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

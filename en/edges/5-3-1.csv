@@ -1,1 +1,10 @@
 From,To
+Nature of data points,Source details
+Source details,Frequency of observation
+Frequency of observation,Reporting type
+Reporting type,Reference area
+Reference area,Sex
+Sex,Age
+Age,Income or wealth quantile
+Age,Education level
+Age,Disability status

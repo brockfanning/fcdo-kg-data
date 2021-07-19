@@ -1,12 +1,12 @@
-Year,Value
-2008,0.8
-2009,0.8
-2010,0.8
-2011,0.8
-2012,0.8
-2013,0.8
-2014,0.8
-2015,0.8
-2016,0.8
-2017,0.8
-2018,0.8
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,Value
+2008,A,0,C,*according to the MF of the KR,A,N,GB_XPD_RSDV,KG,PT,0.8
+2009,A,0,C,*according to the MF of the KR,A,N,GB_XPD_RSDV,KG,PT,0.8
+2010,A,0,C,*according to the MF of the KR,A,N,GB_XPD_RSDV,KG,PT,0.8
+2011,A,0,C,*according to the MF of the KR,A,N,GB_XPD_RSDV,KG,PT,0.8
+2012,A,0,C,*according to the MF of the KR,A,N,GB_XPD_RSDV,KG,PT,0.8
+2013,A,0,C,*according to the MF of the KR,A,N,GB_XPD_RSDV,KG,PT,0.8
+2014,A,0,C,*according to the MF of the KR,A,N,GB_XPD_RSDV,KG,PT,0.8
+2015,A,0,C,*according to the MF of the KR,A,N,GB_XPD_RSDV,KG,PT,0.8
+2016,A,0,C,*according to the MF of the KR,A,N,GB_XPD_RSDV,KG,PT,0.8
+2017,A,0,C,*according to the MF of the KR,A,N,GB_XPD_RSDV,KG,PT,0.8
+2018,A,0,C,*according to the MF of the KR,A,N,GB_XPD_RSDV,KG,PT,0.8

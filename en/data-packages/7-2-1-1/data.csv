@@ -1,27 +1,27 @@
-Year,Series,Value
-2007,_L_KG_070201_1A,43.5
-2008,_L_KG_070201_1A,360.0
-2009,_L_KG_070201_1A,35.6
-2010,_L_KG_070201_1A,38.7
-2011,_L_KG_070201_1A,410.0
-2012,_L_KG_070201_1A,37.1
-2013,_L_KG_070201_1A,33.3
-2014,_L_KG_070201_1A,36.7
-2015,_L_KG_070201_1A,30.6
-2016,_L_KG_070201_1A,31.6
-2017,_L_KG_070201_1A,36.5
-2018,_L_KG_070201_1A,33.9
-2019,_L_KG_070201_1A,35.7
-2007,_L_KG_070201_1B,14004.1
-2008,_L_KG_070201_1B,107591.0
-2009,_L_KG_070201_1B,100980.0
-2010,_L_KG_070201_1B,112547.0
-2011,_L_KG_070201_1B,143091.0
-2012,_L_KG_070201_1B,141790.0
-2013,_L_KG_070201_1B,130967.0
-2014,_L_KG_070201_1B,132976.0
-2015,_L_KG_070201_1B,110927.0
-2016,_L_KG_070201_1B,11497.8
-2017,_L_KG_070201_1B,14191.2
-2018,_L_KG_070201_1B,14318.3
-2019,_L_KG_070201_1B,13859.3
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,Value
+2007,Normal value,Units,Country Data,Annual,National,Share of renewable energy sources in the total energy consumption,Kyrgyzstan,Percent,43.5
+2008,Normal value,Units,Country Data,Annual,National,Share of renewable energy sources in the total energy consumption,Kyrgyzstan,Percent,360.0
+2009,Normal value,Units,Country Data,Annual,National,Share of renewable energy sources in the total energy consumption,Kyrgyzstan,Percent,35.6
+2010,Normal value,Units,Country Data,Annual,National,Share of renewable energy sources in the total energy consumption,Kyrgyzstan,Percent,38.7
+2011,Normal value,Units,Country Data,Annual,National,Share of renewable energy sources in the total energy consumption,Kyrgyzstan,Percent,410.0
+2012,Normal value,Units,Country Data,Annual,National,Share of renewable energy sources in the total energy consumption,Kyrgyzstan,Percent,37.1
+2013,Normal value,Units,Country Data,Annual,National,Share of renewable energy sources in the total energy consumption,Kyrgyzstan,Percent,33.3
+2014,Normal value,Units,Country Data,Annual,National,Share of renewable energy sources in the total energy consumption,Kyrgyzstan,Percent,36.7
+2015,Normal value,Units,Country Data,Annual,National,Share of renewable energy sources in the total energy consumption,Kyrgyzstan,Percent,30.6
+2016,Normal value,Units,Country Data,Annual,National,Share of renewable energy sources in the total energy consumption,Kyrgyzstan,Percent,31.6
+2017,Normal value,Units,Country Data,Annual,National,Share of renewable energy sources in the total energy consumption,Kyrgyzstan,Percent,36.5
+2018,Normal value,Units,Country Data,Annual,National,Share of renewable energy sources in the total energy consumption,Kyrgyzstan,Percent,33.9
+2019,Normal value,Units,Country Data,Annual,National,Share of renewable energy sources in the total energy consumption,Kyrgyzstan,Percent,35.7
+2007,Normal value,Units,Country Data,Annual,National,Electricity production by hydropower plants,Kyrgyzstan,Percent,14004.1
+2008,Normal value,Units,Country Data,Annual,National,Electricity production by hydropower plants,Kyrgyzstan,Percent,107591.0
+2009,Normal value,Units,Country Data,Annual,National,Electricity production by hydropower plants,Kyrgyzstan,Percent,100980.0
+2010,Normal value,Units,Country Data,Annual,National,Electricity production by hydropower plants,Kyrgyzstan,Percent,112547.0
+2011,Normal value,Units,Country Data,Annual,National,Electricity production by hydropower plants,Kyrgyzstan,Percent,143091.0
+2012,Normal value,Units,Country Data,Annual,National,Electricity production by hydropower plants,Kyrgyzstan,Percent,141790.0
+2013,Normal value,Units,Country Data,Annual,National,Electricity production by hydropower plants,Kyrgyzstan,Percent,130967.0
+2014,Normal value,Units,Country Data,Annual,National,Electricity production by hydropower plants,Kyrgyzstan,Percent,132976.0
+2015,Normal value,Units,Country Data,Annual,National,Electricity production by hydropower plants,Kyrgyzstan,Percent,110927.0
+2016,Normal value,Units,Country Data,Annual,National,Electricity production by hydropower plants,Kyrgyzstan,Percent,11497.8
+2017,Normal value,Units,Country Data,Annual,National,Electricity production by hydropower plants,Kyrgyzstan,Percent,14191.2
+2018,Normal value,Units,Country Data,Annual,National,Electricity production by hydropower plants,Kyrgyzstan,Percent,14318.3
+2019,Normal value,Units,Country Data,Annual,National,Electricity production by hydropower plants,Kyrgyzstan,Percent,13859.3

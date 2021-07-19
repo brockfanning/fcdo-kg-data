@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1626665724</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-19T03:35:24</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="7d499cc8-f69c-442c-9741-0484065a3f34">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SP_DYN_ADKL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[3.7: By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[3.7.2: Adolescent birth rate (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Demographic Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Maatkulova J.B.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Jmaatkulova@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[+996 (0312) 32 46 36]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Annual number of births to females aged 15-19 years per 1,000 females in the respective age group.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator analysis allows assessing State policy effectiveness of in the area of maternal and child protection in the country, since the level of medical care for pregnant women and mothers determines health of future generations. Reducing adolescent fertility and addressing the multiple factors underlying it are essential for improving sexual and reproductive health and the social and economic well-being of adolescents. There is substantial agreement in the literature that women who become pregnant and give birth very early in their reproductive lives are subject to higher risks of complications or even death during pregnancy and birth and their children are also more vulnerable. Therefore, preventing births very early in a woman’s life is an important measure to improve maternal health and reduce infant mortality. Furthermore, women having children at an early age experience a curtailment of their opportunities for socioeconomic improvement, particularly because young mothers are unlikely to keep on studying and, if they need to work, may find it especially difficult to combine family and work responsibilities. The adolescent birth rate also provides indirect evidence on access to pertinent health services since young people, and in particular unmarried adolescent women, often experience difficulties in access to sexual and reproductive health services. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data is obtained from the civil registration system, which regularly records births and deaths in population. These documents, along with civil registration papers drawn up by civil registration offices (which are subordinate to the State Registration Service under the Government of the Kyrgyz Republic), are sent to statistical agencies for calculation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Сбор данных проводится на основании представленных записей актов гражданского состояния о рождаемости представляемых ГРС при ПКР на регулярной основе. Данные о рождениях в разбивке по возрасту матери поступают из систем регистрации актов гражданского состояния, охватывающих 90 или более процентов всех живорождений, и в конечном итоге дополняются оценками переписи или обследования за периоды, когда данные регистрации отсутствуют. 
+Первичная обработка и свод данных по родившимся детям осуществляется на уровне областных органов государственной статистики. Свод данных по стране осуществляется НСК.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The adolescent birth rate is computed as a ratio of live births to women aged 15-19 years to average annual number of women aged 15-19 years per 1,000 females in the respective age group.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[According to experts, coverage of civil registration system is considered satisfactory though needs to be improved due to being paper-based. Since December 2014 an automated electronic system AIS "Registration Office"(ZAGS) has been in operation as a component of SRS information systems. However, upon receipt by statistical authorities paper-based data then entered into special software by statistical agencies employees, which sometimes leads to errors and omissions. Soon (until the end of 2020) a database on natural and migratory population movements being derived from the SRS data will become one of population statistics sources.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. Data control in data records is carried out by logical control procedure embedded in the data input and processing software. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are distributed in NSC statistical publications: statistical collections «Statistical Yearbook of KR», «Social trends of the Kyrgyz Republic», thematic collections «Demographic Yearbook of the Kyrgyz Republic», « Women and men in the Kyrgyz Republic», « Health of the population and Health Care in the Kyrgyz Republic», «Youth in KR». Data is also published on the official NSC website: http:///wwwww.stat.kg/ru/publications/ ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[International definition of the indicator is used for national statistics. Since 2004 WHO criteria have been introduced in Kyrgyzstan, following which newborns with body weight of 500g and above and pregnancy of 22 weeks or more are subject to registration. Children are registered based on medical birth certificate (Form 103/Ministry of Health) and a birth declaration made in writing by parents or one of them (in cases when parents are unable to declare the birth in person, this declaration may be made by relatives or administration of the medical organization where birth occurred). A medical certificate of birth is issued by a maternity hospital or hospital which has established the fact and time of birth.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[References to RLA and methodology: 
+http://www.stat.kg/ru/about/pravovye-osnovy-organov-gosudarstvennoj-statistiki/; https://unstats.un.org/sdgs/Metadata; http://www.stat.kg/ru/statistics/download/methodology/68/. 
+National Statistical Committee publications: «Social economic situation of the Kyrgyz Republic» monthly report, statistical collections: «Demographic yearbook of the Kyrgyz Republic», «Social trends of the Kyrgyz Republic», «Women and men of the Kyrgyz Republic», «The standard of living of the population of the Kyrgyz Republic», «Health of population and healthcare in the Kyrgyz Republic available on the official website of NSC KR: http://www.stat.kg/ru/publications/]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

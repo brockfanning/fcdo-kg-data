@@ -1,40 +1,40 @@
-Year,Sex,Value
-2007,,16.7
-2008,,17.0
-2009,,17.8
-2010,,18.3
-2011,,17.4
-2012,,17.7
-2013,,22.1
-2014,,20.7
-2015,,21.4
-2016,,20.4
-2017,,21.0
-2018,,20.5
-2019,,21.0
-2007,Male,10.7
-2008,Male,12.8
-2009,Male,12.3
-2010,Male,11.5
-2011,Male,9.7
-2012,Male,10.1
-2013,Male,14.3
-2014,Male,12.5
-2015,Male,13.6
-2016,Male,12.1
-2017,Male,12.3
-2018,Male,12.0
-2019,Male,12.6
-2007,Female,22.8
-2008,Female,21.3
-2009,Female,23.5
-2010,Female,25.2
-2011,Female,25.2
-2012,Female,25.5
-2013,Female,30.0
-2014,Female,29.2
-2015,Female,29.5
-2016,Female,29.0
-2017,Female,30.1
-2018,Female,29.4
-2019,Female,29.6
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
+2007,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,,15 to 24 years old,Percent,16.7
+2008,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,,15 to 24 years old,Percent,17.0
+2009,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,,15 to 24 years old,Percent,17.8
+2010,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,,15 to 24 years old,Percent,18.3
+2011,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,,15 to 24 years old,Percent,17.4
+2012,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,,15 to 24 years old,Percent,17.7
+2013,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,,15 to 24 years old,Percent,22.1
+2014,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,,15 to 24 years old,Percent,20.7
+2015,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,,15 to 24 years old,Percent,21.4
+2016,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,,15 to 24 years old,Percent,20.4
+2017,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,,15 to 24 years old,Percent,21.0
+2018,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,,15 to 24 years old,Percent,20.5
+2019,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,,15 to 24 years old,Percent,21.0
+2007,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Male,15 to 24 years old,Percent,10.7
+2008,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Male,15 to 24 years old,Percent,12.8
+2009,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Male,15 to 24 years old,Percent,12.3
+2010,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Male,15 to 24 years old,Percent,11.5
+2011,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Male,15 to 24 years old,Percent,9.7
+2012,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Male,15 to 24 years old,Percent,10.1
+2013,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Male,15 to 24 years old,Percent,14.3
+2014,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Male,15 to 24 years old,Percent,12.5
+2015,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Male,15 to 24 years old,Percent,13.6
+2016,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Male,15 to 24 years old,Percent,12.1
+2017,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Male,15 to 24 years old,Percent,12.3
+2018,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Male,15 to 24 years old,Percent,12.0
+2019,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Male,15 to 24 years old,Percent,12.6
+2007,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Female,15 to 24 years old,Percent,22.8
+2008,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Female,15 to 24 years old,Percent,21.3
+2009,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Female,15 to 24 years old,Percent,23.5
+2010,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Female,15 to 24 years old,Percent,25.2
+2011,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Female,15 to 24 years old,Percent,25.2
+2012,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Female,15 to 24 years old,Percent,25.5
+2013,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Female,15 to 24 years old,Percent,30.0
+2014,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Female,15 to 24 years old,Percent,29.2
+2015,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Female,15 to 24 years old,Percent,29.5
+2016,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Female,15 to 24 years old,Percent,29.0
+2017,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Female,15 to 24 years old,Percent,30.1
+2018,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Female,15 to 24 years old,Percent,29.4
+2019,Normal value,Units,Country Data,Annual,National,"Proportion of youth not in education, employment or training",Kyrgyzstan,Female,15 to 24 years old,Percent,29.6

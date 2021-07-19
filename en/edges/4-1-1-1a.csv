@@ -1,2 +1,7 @@
 From,To
-Sex,COMPOSITE_BREAKDOWN
+Nature of data points,Frequency of observation
+Frequency of observation,Reporting type
+Reporting type,Reference area
+Reference area,Sex
+Sex,Age
+Age,COMPOSITE_BREAKDOWN

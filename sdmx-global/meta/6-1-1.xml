@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1626665724</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-19T03:35:24</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="80e49528-58f2-4ed2-8a3a-6a9cf738b807">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_H2O_SAFE</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[6: Ensure availability and sustainable management of water and sanitation for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[6.1. By 2030, achieve universal and equitable access to safe and affordable drinking water for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[6.1.1. Proportion of population using safely managed drinking water services]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of population using safely managed drinking water services is currently being measured by the proportion of population using an improved basic drinking water source which is located on premises and available when needed and free of faecal (and priority chemical) contamination. ‘Improved’ source defined the same as used for MDG monitoring i.e. piped water into dwelling, yard or plot; public taps or standpipes; boreholes or tubewells; protected dug wells; protected springs and rainwater.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[MDG target 7C called for ‘sustainable access’ to ‘safe drinking water’. At the start of the MDG period, there was a complete lack of nationally representative data about drinking water safety in developing countries, and such data were not collected through household surveys or censuses. The JMP developed the concept of ‘improved’ water sources, which was used as a proxy for ‘safe water’, as such sources are likely to be protected against faecal contamination, and this metric has been used since 2000 to track progress towards the MDG target. International consultations since 2011 have established consensus on the need to build on and address the shortcomings of this indicator; specifically, to address normative criteria of the human right to water including accessibility, availability and quality.
+The above consultation concluded that JMP should go beyond the basic level of access and address safe management of drinking water services, including dimensions of accessibility, availability and quality. The proposed indicator of ‘safely managed drinking water services’ is designed to address this.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется посредством квартального вопросника №1 «Контрольного карточка домашнего хозяйства» и годового вопросника №7 «Социально-демографические характеристики лиц в домашнем хозяйстве» с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is calculated by dividing the total number of persons living in households with improved basic drinking water sources by the total population. All calculations are done using weighted factors.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on availability and safety of drinking water is increasingly available through a combination of household surveys and administrative sources including regulators, but definitions have yet to be standardized. Data on faecal and chemical contamination, drawn from household surveys and regulatory databases, will not cover all countries immediately. However, sufficient data exist to make global and regional estimates of safely managed drinking water services.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[National household surveys measure the indicator directly, which creates discrepancies with the international methodology. The WHO/UNICEF Joint Monitoring Programme for Water Supply and Sanitation (JMP) estimates access to basic services for each country, separately in urban and rural areas, by fitting a regression line to a series of data points from household surveys and censuses. This approach was used to report on use of ‘improved water’ sources for MDG monitoring. The JMP is evaluating the use of alternative statistical estimation methods as more data become available. The accompanying Methodological Note describes in more detail how data on availability and quality from different sources, can be combined with data on use of different types of supplies, as recorded in the current JMP database to compute the proposed indicator. http://www.wssinfo.org/fileadmin/user_upload/resources/Methodological-note-on-monitoring-SDG-targets-for-WASH-and-wastewater_WHO-UNICEF_8October2015_Final.pdf.  
+WHO is required by World Health Assembly resolution to consult on all WHO statistics, and seek feedback from countries on data about countries and territories. Before publishing, all JMP estimates undergo rigorous country consultations facilitated by WHO and UNICEF country offices. Often these consultations give rise to in-country visits, and meetings about data reconciliations. JMP has been engaged with more than fifty countries over the last 10 years in explaining JMP estimates, and reasons for discrepancies if any. JMP has also developed an online tool to facilitate future data validation and expanded its online capabilities so that these reconciliations could be done in much more interactive and real time manner, reducing cost of reconciliations missions.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        
