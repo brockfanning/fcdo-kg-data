@@ -85,13 +85,13 @@ indicator_downloads:
     indicator_id_pattern: (.*)
     output_folder: data-sdmx
 
-#sdmx_output:
-#  constrain_data: true
-#  dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
-#  meta_reporting_type: N
-#  meta_ref_area: KG
-#  default_values:
-#    REF_AREA: KG
+sdmx_output:
+  constrain_data: true
+  dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
+  meta_reporting_type: N
+  meta_ref_area: KG
+  default_values:
+    REF_AREA: KG
 
 sdmx_output_global:
   meta_reporting_type: N
