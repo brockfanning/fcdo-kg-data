@@ -1,4 +1,5 @@
 xlrd==1.2.0
 openpyxl
 git+git://github.com/dougmet/yamlmd
-git+git://github.com/brockfanning/sdg-build-1@sdmx-global-output
+git+git://github.com/brockfanning/sdmx@support-falsy-obs-value
+git+git://github.com/brockfanning/sdg-build-1@sdmx-global-plus-output-by-goal

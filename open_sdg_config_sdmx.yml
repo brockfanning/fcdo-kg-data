@@ -86,8 +86,7 @@ indicator_downloads:
     output_folder: data-sdmx
 
 sdmx_output:
-  constrain_data: true
-  dsd: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
+  dsd: SDG_DSD.KG.xml
   meta_reporting_type: N
   meta_ref_area: KG
   default_values:
