@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1626665718</mes:ID>
+    <mes:ID>IREF1627150557</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-19T03:35:18</mes:Prepared>
+    <mes:Prepared>2021-07-24T18:15:57</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6c399153-f613-426f-a34b-551c3edcdbba">
+  <mes:MetadataSet structureRef="MDS1" setID="8371f979-20ae-45d1-984d-673ce208f32d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -127,7 +127,7 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9fdd7611-d483-41e6-88f5-354a785646a3">
+  <mes:MetadataSet structureRef="MDS1" setID="11192d92-c3cf-42db-95e1-53b82661669a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -242,7 +242,7 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a0bcfed8-d35e-4d95-b3f7-d61b57e7251d">
+  <mes:MetadataSet structureRef="MDS1" setID="dd304185-366f-4305-bf3f-b568dcdb1e89">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -357,7 +357,7 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="57102cc5-233e-48fe-a968-fbe7ee84db4b">
+  <mes:MetadataSet structureRef="MDS1" setID="fceebf20-fdf4-455c-82d7-b871157ad690">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -472,7 +472,7 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="927111b5-4654-4c7d-a580-2a0fcf6dc5a6">
+  <mes:MetadataSet structureRef="MDS1" setID="0494db1c-637c-4742-95c9-3c48a1929674">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

@@ -1,0 +1,1893 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1627150579</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-24T18:16:19</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="a811817c-56c8-4e42-b6ed-31d615a1a6d3">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_EMP_FTLINJUR</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[8.8. Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[8.8.1 Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The frequency rates of fatal and non-fatal occupational injuries provide information on the number of cases of fatal and non-fatal occupational injury per hours worked by the concerned population during the reference period. It is a measure of the risk of having a fatal or a non-fatal occupational injury based on the duration of exposure to adverse work-related factors.
+Case of fatal occupational injury: the case of a worker fatally injured as a result of one occupational accident, and where death occurred within one year of the day of the accident.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator provides valuable information that could be used to formulate policies and programmes for the prevention of occupational injuries, diseases and deaths. It could also be used to monitor the implementation of these programmes and to signal particular areas of increasing risk such as a particular occupation, industry or location. Although the principal objective of this indicator is to provide information for prevention purposes, it may be used for a number of other purposes, such as to identify the occupations and economic activities whit the highest risk of occupational injuries; to detect changes in the pattern and occurrence of occupational injuries, so as to monitor improvements in safety and
+reveal any new areas of risk; to inform employers, employers’ organizations, workers and workers’ organizations of the risks associated with their work and workplaces, so that they can take an active part in their own safety; to evaluate the effectiveness of preventive measures; to estimate the consequences of occupational injuries, particularly in terms of days lost or costs; and to provide a basis for policymaking aimed at encouraging employers, employers’ organizations, workers and workers’ organizations to introduce accident prevention measures.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for calculation of this indicator are obtained from the annual statistical reporting form 7-TBH «Report on Occupational Injuries, Diseases and Related Material Costs», produced annually both for the country and by regions.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчет предоставляют предприятия, учреждения, организации - независимо от организационно-правовой формы хозяйствования, собственности, подчиненности. 
+Охвату подлежат данные по учету несчастных случаев на производстве.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The following indicators are used to calculate occupational injuries: 
+ 
+FOI   =  P  *  1000 / NE 
+ 
+where  FOI – Frequency of occupational injuries; 
+P – Number of occupational accidents with disabilities per day or more, including  fatal cases;     
+NE – Average number of employees.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[There may be problems of under reporting of occupational injuries, and proper systems should be put in place to ensure the best reporting and data quality. When measured over a period of time, the data can reveal progress or deterioration in occupational safety and health, and thus point to the effectiveness of prevention measures. This indicator is volatile and strong annual fluctuations may occur due to unexpected but significant accidents or national calamities.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[www.ibo.org/ilostat]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
+www.uis.unesco.org
+Law of the Kyrgyz Republic of 1 August 2003 №167 «On labour protection»; Decree of the GKR « Regulations on Recording and Investigating Occupational Accidents» of 27 February 2001 №64;]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="0048f2bd-e6a3-482c-8e3a-e66d269fa5b2">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_EMP_INJUR</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[8.8. Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[8.8.1 Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The frequency rates of fatal and non-fatal occupational injuries provide information on the number of cases of fatal and non-fatal occupational injury per hours worked by the concerned population during the reference period. It is a measure of the risk of having a fatal or a non-fatal occupational injury based on the duration of exposure to adverse work-related factors.
+Case of fatal occupational injury: the case of a worker fatally injured as a result of one occupational accident, and where death occurred within one year of the day of the accident.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator provides valuable information that could be used to formulate policies and programmes for the prevention of occupational injuries, diseases and deaths. It could also be used to monitor the implementation of these programmes and to signal particular areas of increasing risk such as a particular occupation, industry or location. Although the principal objective of this indicator is to provide information for prevention purposes, it may be used for a number of other purposes, such as to identify the occupations and economic activities whit the highest risk of occupational injuries; to detect changes in the pattern and occurrence of occupational injuries, so as to monitor improvements in safety and
+reveal any new areas of risk; to inform employers, employers’ organizations, workers and workers’ organizations of the risks associated with their work and workplaces, so that they can take an active part in their own safety; to evaluate the effectiveness of preventive measures; to estimate the consequences of occupational injuries, particularly in terms of days lost or costs; and to provide a basis for policymaking aimed at encouraging employers, employers’ organizations, workers and workers’ organizations to introduce accident prevention measures.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for calculation of this indicator are obtained from the annual statistical reporting form 7-TBH «Report on Occupational Injuries, Diseases and Related Material Costs», produced annually both for the country and by regions.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчет предоставляют предприятия, учреждения, организации - независимо от организационно-правовой формы хозяйствования, собственности, подчиненности. 
+Охвату подлежат данные по учету несчастных случаев на производстве.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The following indicators are used to calculate occupational injuries: 
+ 
+FOI   =  P  *  1000 / NE 
+ 
+where  FOI – Frequency of occupational injuries; 
+P – Number of occupational accidents with disabilities per day or more, including  fatal cases;     
+NE – Average number of employees.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[There may be problems of under reporting of occupational injuries, and proper systems should be put in place to ensure the best reporting and data quality. When measured over a period of time, the data can reveal progress or deterioration in occupational safety and health, and thus point to the effectiveness of prevention measures. This indicator is volatile and strong annual fluctuations may occur due to unexpected but significant accidents or national calamities.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[www.ibo.org/ilostat]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
+www.uis.unesco.org
+Law of the Kyrgyz Republic of 1 August 2003 №167 «On labour protection»; Decree of the GKR « Regulations on Recording and Investigating Occupational Accidents» of 27 February 2001 №64;]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="73932971-2e34-4a6e-9cb4-797ef19e7ad1">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_EMP_PCAP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[8.2: Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[8.2.1: Annual growth rate of real GDP per employed person]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
+(Economic Statistics and National Accounts Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Isenkulova E. K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[eisenkulova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 95]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Annual growth rate of real GDP per employed person conveys the annual percentage change in real GDP 
+per employed person in the previous year, expressed as a percentage..]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Important economic indicator because it measures efficiency of the functioning economy.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee collects, processes and calculates data]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики. Периодичность: годовая.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Production efficiency is measured by the ratio of production results to production costs. Gross value added is used as an output indicator. Production costs include labour and capital costs.
+
+Labour productivity index calculated as follows:
+PL=VA/L
+where, 
+PL – labour productivity; 
+VA – Gross Value Added (GVA), 
+L – labour input. 
+Gross Value Added shows real GDP (GVA) growth as a percentage of the previous year and baseline year. Labour input is calculated based «Employment and unemployment» module data of the integrated household and labour force sample survey and represents the growth rate of employed population. Calculations are also made by economic activity.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Productivity is the key indicator of production efficiency, depending on the level of labour force development in a society and the extent to which its productive, scientific, labour and natural potential is used, industrial relations compliance with labour forces.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Time series have been available since 1993. 
+Data are published in various NSC publications and its website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Productivity is the ratio of output to inputs. There are a variety of productivity measures. Choice depends on purpose of measuring and analyzing productivity and, in many cases, data availability.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="c7ba8395-bd9e-4531-a303-b18c689ad7a6">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_CHLDEC</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[8.7. Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[8.7.1. Proportion and number of children aged 5-17 years engaged in child labour, by sex and age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The number of children engaged in child labour corresponds to the number of children reported to be in child labour during the reference period (usually the week prior to the survey).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Far too many children in the world remain trapped in child labour, compromising their individual future. According to the latest ILO global estimates, about 168 million children worldwide are child labourers, accounting for almost 11 percent of the child population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Multiple Indicator Cluster Survey (MICS)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
+программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The measurement methodology used by the ILO in its global estimates on child labour, building on the ICLS statistical definition, classifies child labour on the basis of the following criteria:
+• Ages 5 to 11: at least 1 hour of economic activity per week;
+• Ages 12 to 14: at least 14 hour of economic activity per week in all forms of economic activity except permissible “light” work, where light work is operationally defined as economic activity that (i) does not exceed 14 hours per week and that (ii) is not hazardous in nature; and
+• Ages 15 to 17: work in designated hazardous industries, or in designated hazardous occupations, or for long hours. Long hours are defined as 43 or more hours during the reference week.
+The proportion of children in child labour is calculated as the number of children in child labour divided by the total number of children in the population. For the purposes of this indicator, children include all persons aged 5 to 17.
+
+Children aged 5-17: Number of children aged 5-17 reported in child labour during the week prior to the survey divided by the total number of children aged 5-17 in the population, multiplied by 100.
+
+Children aged 5-14: Number of children aged 5-14 reported in child labour during the week prior to the survey divided by the total number of children aged 5-14 in the population, multiplied by 100.
+
+Children aged 15-17: Number of children aged 15-17 reported child labour during the week prior to the survey divided by the total number of children aged 15-17 in the population, multiplied by 100.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Child labour estimates based on the statistical standards set out in the ICLS resolution represent useful benchmarks for international comparative purposes but are not necessarily consistent with estimates based on national child labour legislation. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Nationally representative and comparable data are currently available for 102 countries, including Kyrgyz Republic.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ILO Convention №138 contains a number of flexibility clauses left to the discretion of the competent national authority in consultation (where relevant) with workers’ and employers’ organizations (e.g., minimum ages, scope of application). This means that there is no single legal definition of child labour across countries, and thus, no single statistical measure of child labour consistent with national legislation across countries. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="591542b3-9ddf-4a30-b641-670f9921a4c4">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_CHLDECN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[8.7. Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[8.7.1. Proportion and number of children aged 5-17 years engaged in child labour, by sex and age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The number of children engaged in child labour corresponds to the number of children reported to be in child labour during the reference period (usually the week prior to the survey).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Far too many children in the world remain trapped in child labour, compromising their individual future. According to the latest ILO global estimates, about 168 million children worldwide are child labourers, accounting for almost 11 percent of the child population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Multiple Indicator Cluster Survey (MICS)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
+программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The measurement methodology used by the ILO in its global estimates on child labour, building on the ICLS statistical definition, classifies child labour on the basis of the following criteria:
+• Ages 5 to 11: at least 1 hour of economic activity per week;
+• Ages 12 to 14: at least 14 hour of economic activity per week in all forms of economic activity except permissible “light” work, where light work is operationally defined as economic activity that (i) does not exceed 14 hours per week and that (ii) is not hazardous in nature; and
+• Ages 15 to 17: work in designated hazardous industries, or in designated hazardous occupations, or for long hours. Long hours are defined as 43 or more hours during the reference week.
+The proportion of children in child labour is calculated as the number of children in child labour divided by the total number of children in the population. For the purposes of this indicator, children include all persons aged 5 to 17.
+
+Children aged 5-17: Number of children aged 5-17 reported in child labour during the week prior to the survey divided by the total number of children aged 5-17 in the population, multiplied by 100.
+
+Children aged 5-14: Number of children aged 5-14 reported in child labour during the week prior to the survey divided by the total number of children aged 5-14 in the population, multiplied by 100.
+
+Children aged 15-17: Number of children aged 15-17 reported child labour during the week prior to the survey divided by the total number of children aged 15-17 in the population, multiplied by 100.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Child labour estimates based on the statistical standards set out in the ICLS resolution represent useful benchmarks for international comparative purposes but are not necessarily consistent with estimates based on national child labour legislation. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Nationally representative and comparable data are currently available for 102 countries, including Kyrgyz Republic.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ILO Convention №138 contains a number of flexibility clauses left to the discretion of the competent national authority in consultation (where relevant) with workers’ and employers’ organizations (e.g., minimum ages, scope of application). This means that there is no single legal definition of child labour across countries, and thus, no single statistical measure of child labour consistent with national legislation across countries. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="faab001f-7d7a-4e87-8282-6cab3ff024f1">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_CHLDEA</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[8.7. Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[8.7.1. Proportion and number of children aged 5-17 years engaged in child labour, by sex and age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The number of children engaged in child labour corresponds to the number of children reported to be in child labour during the reference period (usually the week prior to the survey).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Far too many children in the world remain trapped in child labour, compromising their individual future. According to the latest ILO global estimates, about 168 million children worldwide are child labourers, accounting for almost 11 percent of the child population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Multiple Indicator Cluster Survey (MICS)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
+программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The measurement methodology used by the ILO in its global estimates on child labour, building on the ICLS statistical definition, classifies child labour on the basis of the following criteria:
+• Ages 5 to 11: at least 1 hour of economic activity per week;
+• Ages 12 to 14: at least 14 hour of economic activity per week in all forms of economic activity except permissible “light” work, where light work is operationally defined as economic activity that (i) does not exceed 14 hours per week and that (ii) is not hazardous in nature; and
+• Ages 15 to 17: work in designated hazardous industries, or in designated hazardous occupations, or for long hours. Long hours are defined as 43 or more hours during the reference week.
+The proportion of children in child labour is calculated as the number of children in child labour divided by the total number of children in the population. For the purposes of this indicator, children include all persons aged 5 to 17.
+
+Children aged 5-17: Number of children aged 5-17 reported in child labour during the week prior to the survey divided by the total number of children aged 5-17 in the population, multiplied by 100.
+
+Children aged 5-14: Number of children aged 5-14 reported in child labour during the week prior to the survey divided by the total number of children aged 5-14 in the population, multiplied by 100.
+
+Children aged 15-17: Number of children aged 15-17 reported child labour during the week prior to the survey divided by the total number of children aged 15-17 in the population, multiplied by 100.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Child labour estimates based on the statistical standards set out in the ICLS resolution represent useful benchmarks for international comparative purposes but are not necessarily consistent with estimates based on national child labour legislation. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Nationally representative and comparable data are currently available for 102 countries, including Kyrgyz Republic.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ILO Convention №138 contains a number of flexibility clauses left to the discretion of the competent national authority in consultation (where relevant) with workers’ and employers’ organizations (e.g., minimum ages, scope of application). This means that there is no single legal definition of child labour across countries, and thus, no single statistical measure of child labour consistent with national legislation across countries. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="46eed851-cafb-4d2b-812a-e3aad60248c2">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_CHLDEAN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[8.7. Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[8.7.1. Proportion and number of children aged 5-17 years engaged in child labour, by sex and age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The number of children engaged in child labour corresponds to the number of children reported to be in child labour during the reference period (usually the week prior to the survey).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Far too many children in the world remain trapped in child labour, compromising their individual future. According to the latest ILO global estimates, about 168 million children worldwide are child labourers, accounting for almost 11 percent of the child population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Multiple Indicator Cluster Survey (MICS)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[В опросах КОМП используется персональное интервью с использованием компьютеров (ComputerAssisted Personal Interview, CAPI). Приложение для сбора данных, в том числе специальная платформа управления данными КОМП, основано на программном обеспечении CSPro (Census and Survey Processing System) версии 6.3. Процедуры и стандартные программы, разработанные в рамках глобальной
+программы КОМП, были адаптированы к окончательной версии вопросника КОМП Кыргызстан, 2018 года и использовались в опросе.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The measurement methodology used by the ILO in its global estimates on child labour, building on the ICLS statistical definition, classifies child labour on the basis of the following criteria:
+• Ages 5 to 11: at least 1 hour of economic activity per week;
+• Ages 12 to 14: at least 14 hour of economic activity per week in all forms of economic activity except permissible “light” work, where light work is operationally defined as economic activity that (i) does not exceed 14 hours per week and that (ii) is not hazardous in nature; and
+• Ages 15 to 17: work in designated hazardous industries, or in designated hazardous occupations, or for long hours. Long hours are defined as 43 or more hours during the reference week.
+The proportion of children in child labour is calculated as the number of children in child labour divided by the total number of children in the population. For the purposes of this indicator, children include all persons aged 5 to 17.
+
+Children aged 5-17: Number of children aged 5-17 reported in child labour during the week prior to the survey divided by the total number of children aged 5-17 in the population, multiplied by 100.
+
+Children aged 5-14: Number of children aged 5-14 reported in child labour during the week prior to the survey divided by the total number of children aged 5-14 in the population, multiplied by 100.
+
+Children aged 15-17: Number of children aged 15-17 reported child labour during the week prior to the survey divided by the total number of children aged 15-17 in the population, multiplied by 100.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Child labour estimates based on the statistical standards set out in the ICLS resolution represent useful benchmarks for international comparative purposes but are not necessarily consistent with estimates based on national child labour legislation. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Nationally representative and comparable data are currently available for 102 countries, including Kyrgyz Republic.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ILO Convention №138 contains a number of flexibility clauses left to the discretion of the competent national authority in consultation (where relevant) with workers’ and employers’ organizations (e.g., minimum ages, scope of application). This means that there is no single legal definition of child labour across countries, and thus, no single statistical measure of child labour consistent with national legislation across countries. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="730272e7-9323-4468-9088-9b50e823c2a2">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>FB_BNK_ACCSS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[8.10. Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[8.10.2. Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The percentage of adults (ages 15+) who report having an account (by themselves or together with someone else) at a bank or another type of financial institution or personally using a mobile money service in the past 12 months.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Access to formal financial services such as savings, insurance, payments, credit and remittances is essential to the ability of people regardless of income level, gender, age, education or where they live to manage their lives, build their futures, and grow their businesses. Having access to an account is an important starting point for people to access a range of financial services.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for calculating the indicator are obtained from the quarterly survey №1 «Household control card» and annual survey №2 «Socio-demographic characteristics of household residents», section V «Access to services and sense of security» of Integrated Household Budget and Labour  Force Sample Survey.  ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Репрезентативные индивидуальные опросы населения в возрасте 15 лет и старше.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of population aged 15 and older with an account in a financial institution to the total population in the relevant age group.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Global Findex is an individual level survey, measuring individual’s ownership of accounts. As financial inclusion is an individual-level concept, this is the appropriate measure. Other surveys that are done at household level may measure the access to finance through another member of the household which may overestimate financial inclusion.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicators in the 2014 Global Financial Inclusion (Global Findex) database are drawn from survey data covering almost 150,000 people in more than 140 economies representing more than 97 percent of the world’s population. The survey was carried out over the 2014 calendar year by Gallup, Inc. as part of its
+Gallup World Poll, which since 2005 has continually conducted surveys of approximately 1,000 people in each of more than 160 economies and in over 140 languages, using randomly selected, nationally representative samples. The target population is the entire civilian, non-institutionalized population age 15 and older.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[World Bank’s Global Findex database is based on individual level surveys worldwide, conducted every three years. The first round of the survey was done in 2011, and the second in 2014. The third round will be done in 2017. The database covers about 140 countries. Data comparable across countries.
+http://www.worldbank.org/content/dam/Worldbank/Research/GlobalFindex/PDF/Methodology.pdf]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="96cfc1b2-e5c5-484f-876d-4a25d5fe5fc2">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>FB_ATM_TOTL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[8.10. Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[8.10.1: Number of (a) commercial bank branches per 100,000 adults (b) number of automated teller machines (ATMs) per 100,000 adults]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[NBKR, NSC KR]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Sulaimanbekova J.S., Head of  NBKR Banks Licensing and Supervision Division, 
+Lelevkina E.V., Head of the NBKR Payment Systems Department;
+Abdullayeva G.T., Head of the NSC KR Demographic Statistics Division.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[NBKR: jsulaimanbekova@nbkr.kg and elelevkina@nbkr.kg;
+NSC KR: gabdullaeva@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[Sulaimanbekova J.S.: +996-0312-66-92-56;
+Lelevkina E.V.: +996-312-61-14-34;
+Abdullaeva G.T.: +996-312-32-46-36]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The number of commercial bank branches per 100,000 adults
+The number of automated teller machines (ATMs) per 100,000 adults]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Describes access to and use of formal financial services. Services such as savings, insurance, payments, credit and remittances allow people to manage their lives, plan and pay expenses, grow their businesses and improve their overall welfare. As banks remain one of the key institutions for access to formal financial services, having an accessible bank branch is an important initial point of access to financial services and therefore use of them. Bank branches are complemented by other important points of access such as automated teller machines of all formal financial institutions, which can extend financial services to remote locations.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on branches of commercial banks (source - Register of Commercial Banks Branches) and ATMs (source - Commercial Banks' Periodic Regulatory Bank Reports) are submitted to NBKR; Average annual population - data obtained from the NSC KR Demographic Statistics Division.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Филиалы коммерческих банков открываются в соответствии с решением уполномоченного органа управления банка, согласно уставу. НБ КР осуществляет выдачу согласия/регистрацию на обособленные структурные подразделения коммерческих банков на основе ходатайства коммерческих банков согласно Положению о лицензировании деятельности банков от 8 июня 2017 года № 2017-П-12/23/1-(НПА). Учет по филиалам коммерческих банков ведется в Реестре НБ КР. Данные используются на годовой основе.
+Данные по банкоматам формируются ежемесячно на основе предоставленной информации от коммерческих банков по состоянию на начало месяца. Информация по количеству банкоматов предоставляется коммерческими банками ежемесячно до 20-го числа следующего месяца после отчетного периода. Данные по банкоматам отражаются в 20 разделе ПРБО, в подразделе 20 В. Коммерческими банками указываются данные только по установленным банкоматам.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The number of commercial banks at the end of the year is reported to NBKR.
+
+The number of commercial bank branches per 100,000 adults = Number of commercial bank branches / adults * 100 000;
+The number of automated teller machines (ATMs) per 100,000 adults = Number of automated teller machines (ATMs) / adults * 100 000.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data have been submitted to NBKR since 2003 within the framework of NBKR Annual Report and quarterly reports since 2014 (by regions and Bishkek). Reports are available on NBKR website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data provided by commercial banks in accordance with the Regulation on the Periodic Regulatory Bank Report, approved by Decree of the Board of the National Bank of the Kyrgyz Republic on 25 August 2005, № 26/5.
+Opening/closing of commercial banks branches is regulated by the Regulation on Licensing of Banks dated 8 June № 2017 2017 - П -12/23/1-(RLA)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Updates on the number of commercial banks are published in the section "Bank Functions/Banking System" of the official NBKR website by regions and city of Bishkek. On a monthly basis - in Table IV.3.1 "Information on Head Offices and Branches of Commercial Banks" "NBKR Bulletin", in "Publications" section of the official NBKR website. Quarterly data on the number of installed ATMs in regions and Bishkek can be found in the section "Bank Functions/Payment System/Overview of Trends in the KR Payment System" of the NBKR official website; annually in the NBKR Annual Report section "Publications/Annual Report" of the NBKR official website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data collected annually for 189 countries, including Kyrgyz Republic by FAS group (FINANCIAL ACCESS SURVEY) from administrative data sources. Data published on the FAS site - http:///data.imf.org/fas. However, this source uses its approach to adult population.
+NBKR reports annually on the number of branches of commercial banks and ATMs to IMF by completing FAS survey.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
+Metadata on the UN website https://unstats.un.org/sdgs/metadata/
+Data on the number of branches of commercial banks can be found: 
+1. https://www.nbkr.kg/index1.jsp?item=69&lang=RUS
+2. https://www.nbkr.kg/index1.jsp?item=137&lang=RUS
+Data on the number of installed ATMs at the end of the reporting period can be found: 
+1. https://www.nbkr.kg/index1.jsp?item=98&lang=RUS; 
+2. https://www.nbkr.kg/index1.jsp?item=136&lang=RUS]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="cf91ce12-4c59-4959-a7d7-125f98a5cc0d">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>FB_CBK_BRCH</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[8.10. Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[8.10.1: Number of (a) commercial bank branches per 100,000 adults (b) number of automated teller machines (ATMs) per 100,000 adults]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[NBKR, NSC KR]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Sulaimanbekova J.S., Head of  NBKR Banks Licensing and Supervision Division, 
+Lelevkina E.V., Head of the NBKR Payment Systems Department;
+Abdullayeva G.T., Head of the NSC KR Demographic Statistics Division.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[NBKR: jsulaimanbekova@nbkr.kg and elelevkina@nbkr.kg;
+NSC KR: gabdullaeva@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[Sulaimanbekova J.S.: +996-0312-66-92-56;
+Lelevkina E.V.: +996-312-61-14-34;
+Abdullaeva G.T.: +996-312-32-46-36]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The number of commercial bank branches per 100,000 adults
+The number of automated teller machines (ATMs) per 100,000 adults]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Describes access to and use of formal financial services. Services such as savings, insurance, payments, credit and remittances allow people to manage their lives, plan and pay expenses, grow their businesses and improve their overall welfare. As banks remain one of the key institutions for access to formal financial services, having an accessible bank branch is an important initial point of access to financial services and therefore use of them. Bank branches are complemented by other important points of access such as automated teller machines of all formal financial institutions, which can extend financial services to remote locations.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on branches of commercial banks (source - Register of Commercial Banks Branches) and ATMs (source - Commercial Banks' Periodic Regulatory Bank Reports) are submitted to NBKR; Average annual population - data obtained from the NSC KR Demographic Statistics Division.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Филиалы коммерческих банков открываются в соответствии с решением уполномоченного органа управления банка, согласно уставу. НБ КР осуществляет выдачу согласия/регистрацию на обособленные структурные подразделения коммерческих банков на основе ходатайства коммерческих банков согласно Положению о лицензировании деятельности банков от 8 июня 2017 года № 2017-П-12/23/1-(НПА). Учет по филиалам коммерческих банков ведется в Реестре НБ КР. Данные используются на годовой основе.
+Данные по банкоматам формируются ежемесячно на основе предоставленной информации от коммерческих банков по состоянию на начало месяца. Информация по количеству банкоматов предоставляется коммерческими банками ежемесячно до 20-го числа следующего месяца после отчетного периода. Данные по банкоматам отражаются в 20 разделе ПРБО, в подразделе 20 В. Коммерческими банками указываются данные только по установленным банкоматам.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The number of commercial banks at the end of the year is reported to NBKR.
+
+The number of commercial bank branches per 100,000 adults = Number of commercial bank branches / adults * 100 000;
+The number of automated teller machines (ATMs) per 100,000 adults = Number of automated teller machines (ATMs) / adults * 100 000.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data have been submitted to NBKR since 2003 within the framework of NBKR Annual Report and quarterly reports since 2014 (by regions and Bishkek). Reports are available on NBKR website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data provided by commercial banks in accordance with the Regulation on the Periodic Regulatory Bank Report, approved by Decree of the Board of the National Bank of the Kyrgyz Republic on 25 August 2005, № 26/5.
+Opening/closing of commercial banks branches is regulated by the Regulation on Licensing of Banks dated 8 June № 2017 2017 - П -12/23/1-(RLA)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Updates on the number of commercial banks are published in the section "Bank Functions/Banking System" of the official NBKR website by regions and city of Bishkek. On a monthly basis - in Table IV.3.1 "Information on Head Offices and Branches of Commercial Banks" "NBKR Bulletin", in "Publications" section of the official NBKR website. Quarterly data on the number of installed ATMs in regions and Bishkek can be found in the section "Bank Functions/Payment System/Overview of Trends in the KR Payment System" of the NBKR official website; annually in the NBKR Annual Report section "Publications/Annual Report" of the NBKR official website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data collected annually for 189 countries, including Kyrgyz Republic by FAS group (FINANCIAL ACCESS SURVEY) from administrative data sources. Data published on the FAS site - http:///data.imf.org/fas. However, this source uses its approach to adult population.
+NBKR reports annually on the number of branches of commercial banks and ATMs to IMF by completing FAS survey.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
+Metadata on the UN website https://unstats.un.org/sdgs/metadata/
+Data on the number of branches of commercial banks can be found: 
+1. https://www.nbkr.kg/index1.jsp?item=69&lang=RUS
+2. https://www.nbkr.kg/index1.jsp?item=137&lang=RUS
+Data on the number of installed ATMs at the end of the reporting period can be found: 
+1. https://www.nbkr.kg/index1.jsp?item=98&lang=RUS; 
+2. https://www.nbkr.kg/index1.jsp?item=136&lang=RUS]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="ab5015d6-8290-410f-a19a-64d64071f3d8">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_NEET</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[8.6. By 2030, substantially reduce the proportion of youth not in employment, education or training]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[8.6.1. Proportion of youth (aged 15-24 years) not in education, employment or training]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Labour and Employment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Jailobaeva G.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 626076]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator conveys the proportion of youth aged 15-24 years not in education, employment or training in that age group.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The share of youth not in employment, education or training (youth NEET rate) provides a measure of youth who are outside the educational system, not in training and not in employment, and thus serves as a broader measure of potential youth labour market entrants than youth unemployment. It includes discouraged worker youth as well as those who are outside the labour force due to disability and engagement in household chores, among other reasons. NEET is also a better measure of the current universe of potential youth labour market entrants as compared with the youth inactivity rate, as the latter includes those youth who are outside the labour force and are in education, and thus currently cannot be considered available for work. This shows how many young people need social support and employment.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey (Form №4 "Employment and unemployment")]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Опрос населения проводится интервьюерами путем непосредственного посещения домашних хозяйств и записи сведений в планшет по вопросникам выборочного обследования, утвержденные Постановлением Нацстаткома Кыргызской Республики. При непосредственном посещении домашнего хозяйства ответы на вопросы анкеты могут быть получены как от самого респондента, так и со слов совместно проживающих членов домашнего хозяйства в случае отсутствия респондента в момент опроса. Ежеквартально для проведения обследования отобрано 5016 домохозяйств. Ежегодная ротация выборки составляет 25 процентов.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator (according to the ILO unemployment criteria) requires data total youth aged 15-24 and of this age group number of those not in employment, education or training. These data are collected at the national level via the Integrated Household Budget and Labour Force Sample Survey.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data quality is ensured through Integrated Household Budget and Labour Force Sample Survey in accordance with international recommendations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные рассчитываются по Кыргызской Республике, по полу]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[National data are internationally comparable as household budget and labour force sample surveys are conducted in accordance with international recommendations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="c2afc2ac-553b-471c-9501-ff33d5999104">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_UEM</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[8.5. By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[8.5.2. Unemployment rate, by sex, age and persons with disabilities]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Labour and Employment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Jailobaeva G.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 626076]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The unemployment rate conveys the percentage of persons in the labour force who are unemployed, expressed in percentage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey (Form №4 "Employment and unemployment")]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Опрос населения проводится интервьюерами путем непосредственного посещения домашних хозяйств и записи сведений в планшет по вопросникам выборочного обследования, утвержденные Постановлением Нацстаткома Кыргызской Республики. При непосредственном посещении домашнего хозяйства ответы на вопросы анкеты могут быть получены как от самого респондента, так и со слов совместно проживающих членов домашнего хозяйства в случае отсутствия респондента в момент опроса. Ежеквартально для проведения обследования отобрано 5016 домохозяйств. Ежегодная ротация выборки составляет 25 процентов.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Unemployment rate is the percentage of unemployed in the total labour force. To calculate this indicator (according to the ILO unemployment criteria), data required on the total unemployed and labour force (economically active population), which includes employed and unemployed persons.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are published in the «Employment and unemployment» and  «Women and men in the Kyrgyz Republic» statistical compendium ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ILO standards]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io 
+http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-respubliki/
+http://www.stat.kg/ru/publications/zanyatost-i-bezrabotica-itogi-integrirovannogo-vyborochnogo-obsledovaniya-byudzhetov-domashnih-hozyajstv-i-rabochej-sily-v-2013g/]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="8a46f9ad-671b-42fc-a486-455f8f5f50c4">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_UEMDIS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[8.5. By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[8.5.2. Unemployment rate, by sex, age and persons with disabilities]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Labour and Employment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Jailobaeva G.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 626076]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The unemployment rate conveys the percentage of persons in the labour force who are unemployed, expressed in percentage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey (Form №4 "Employment and unemployment")]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Опрос населения проводится интервьюерами путем непосредственного посещения домашних хозяйств и записи сведений в планшет по вопросникам выборочного обследования, утвержденные Постановлением Нацстаткома Кыргызской Республики. При непосредственном посещении домашнего хозяйства ответы на вопросы анкеты могут быть получены как от самого респондента, так и со слов совместно проживающих членов домашнего хозяйства в случае отсутствия респондента в момент опроса. Ежеквартально для проведения обследования отобрано 5016 домохозяйств. Ежегодная ротация выборки составляет 25 процентов.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Unemployment rate is the percentage of unemployed in the total labour force. To calculate this indicator (according to the ILO unemployment criteria), data required on the total unemployed and labour force (economically active population), which includes employed and unemployed persons.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are published in the «Employment and unemployment» and  «Women and men in the Kyrgyz Republic» statistical compendium ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[ILO standards]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io 
+http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-respubliki/
+http://www.stat.kg/ru/publications/zanyatost-i-bezrabotica-itogi-integrirovannogo-vyborochnogo-obsledovaniya-byudzhetov-domashnih-hozyajstv-i-rabochej-sily-v-2013g/]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="97d78024-a6e1-417f-a0c6-82a3408f8937">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>NY_GDP_PCAP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[8.1. Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[8.1.1. Annual growth rate of real GDP per capita]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
+(Economic Statistics and National Accounts Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Isenkulova E. K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[eisenkulova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 95]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[GDP per capita is the nominal value of goods and services produced over a period of time per person of gross domestic product.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[GDP per capita measures the standard of living of country’s population and determines contributions to international organizations.
+GDP per capita production in monetary equivalent is calculated in KG soms and US dollars (at the official NBKR rate).  ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee collects, processes and calculates data by using statistical reporting forms and sample surveys]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики. Периодичность: квартальная, годовая.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[GDP per capita is the ratio of the total gross domestic product produced over a period of time to the number of people.
+GDPPC=GDP/P 
+where, 
+GDPPC – GDP per capita;
+GDP – nominal GDP; 
+P – actual population.
+The annual growth rate of real Gross Domestic Product (GDP) per capita is calculated as follows:
+a. Convert annual real GDP in domestic currency at 2010 prices for a country or area to US dollars at 2010 prices using the 2010 exchange rates.
+b. Divide the result by the population of the country or area to obtain annual real GDP per capita in constant US dollars at 2010 prices.
+c. Calculate the annual growth rate of real GDP per capita in year t+ 1 using the following formula:
+   G(t+1) – G(t)
+--------------------*100
+       G(t),
+
+where G(t+1) is real GDP per capita in 2010 US dollars in year t+1 and G(t) is real GDP per capita in 2010 US dollars in year t]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Per capita GDP is one of the key factors determining country’s economic development, since it allows estimating growth rates of countries by population size.
+A positive change in this indicator can be interpreted as an increase in the average standard of living of the residents in a country. Value-added production growth is the basic determinant of functioning of the economy. By distributing total output per unit of population, it is possible to measure development impact of output growth rates per person. The indicator can, in fact, be considered as an aggregate indicator of socio-economic development.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Time series have been available since 1993. 
+Data are published in various NSC publications and its website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Currently calculated using the 1993 SNA methodology, which makes the indicator not fully comparable with data from countries using 2008 SNA.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

@@ -1,0 +1,2446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1627150557</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-24T18:15:57</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="c1888aef-dc7e-431c-b9ee-3789e7d5213b">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SP_TRN_PUBL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[ Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.2. By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.2.1. Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Y. I. Kalymbetova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(312) 66 41 64]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator will be monitored by the proportion of the population that has convenient access to public transport. The access to public transport is considered convenient when an officially recognized stop is accessible within a distance of 0.5 km from a reference point such as a home, school, work place, market, etc. Additional criteria for defining public transport that is convenient include:
+a. Public transport accessible to all special-needs customers, including those who are physically, visually, and/or hearing-impaired, as well as those with temporary disabilities, the elderly, children and other people in vulnerable situations.
+b. Public transport with frequent service during peak travel times
+c. Stops present a safe and comfortable station environment]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator aims to successfully monitor the use of and access to the public transportation system and the move towards easing the reliance on the private means of transportation, improving the access to areas with a high proportion of transport disadvantaged groups such as elderly citizens, physically challenged individuals, and low income earners or areas with specific dwelling types such as high occupancy buildings or public housing and reducing the need for mobility by decreasing the number of trips and the distances travelled. The accessibility based urban mobility paradigm also critically needs good, high-capacity public transport systems that are well integrated in a multimodal arrangement with
+public transport access points located within comfortable walking or cycling distances from homes and jobs for all.
+The ability of residents including persons with disabilities and businesses to access markets, employment opportunities, and service centers such as schools and hospitals is critical to urban economic development. The transport system provides access to resources and employment opportunity. Moreover, accessibility allows planners to measure the effects of changes in transport and land use systems. The accessibility of jobs, services and markets also allow policymakers, citizens and businesses to discuss the state of the transport system in the comprehensible way. The transportation system is a critical enabler of economic activities and social inclusion. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Household surveys that collect information on the proportion of households that declare they have access to public means of transport within 0.5 km. These surveys can also collect information about the quality of the service.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Репрезентативные национальные обследования домашних хозяйств]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator will be determined based on the proportion of the population with a comfortable access to public transport.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[As the Outcome Document 2nd Meeting of the Urban SDGs Campaign in Bangalore (12-14 February 2015) recognizes that no internationally agreed methodology exists for measuring convenience and service quality of public transport. Harmonized global/local data on urban transport systems do not exist, nor are they comparable at the world level.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[There is no internationally agreed methodology for measuring the convenience and quality of public transport services. There are no internationally agreed global/local data on urban transport systems and they are not comparable at the global level.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="9a10996d-9511-4a21-8237-436302ef47c3">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_LSGP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[На данные об ущербе от катастроф существенное влияние оказывают крупномасштабные катастрофические события, которые представляют собой серьезные последствия. МСУОБ ООН рекомендует странам сообщать данные о событиях, чтобы дополнительный анализ мог быть осуществлен путем включения и исключения таких катастрофических событий, которые могут представлять серьезные последствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Emergency Situations annually provides consolidaterd information according to the state statistical reporting format No. 1-ES.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Основными органами, устанавливающими факт возникновения ЧС с указанием вида, масштаба и характера ущерба от ЧС являются, Комиссии по Гражданской защите районов, городов. Структура и состав комиссий по ГЗ могут быть разными и включаются все заинтересованные государственные органы, службы по ГЗ, крупные организации, ОМСУ, представители учреждений, предприятий в зависимости от угроз возникновения ЧС. Комиссии по Гражданской защите районов, городов после каждого ЧС определяет и устанавливает нанесенный ущерб. 
+
+Комиссионный метод оценки ущерба начинается также с момента возникновения ЧС, носит объемный характер, учитывающий все обстоятельства и характер произошедшего вида ЧС. Имеется типовой акт комиссии по Гражданской защите. Время, отведенное на работу комиссии, параметры измерений не ограничены, длительны и акты комиссии по Гражданской защите наиболее информативны в вопросах ущерба. Все данные об ущербе из типового акта комиссии по гражданской защите переносятся в государственную статистическую форму отчетности №1-ЧС и обобщаются на национальном уровне в МЧС КР (2 раза в год) и передаются в Национальный статистический комитет КР один раз в год 20 февраля (начиная с 2018 года).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[It will be calculated as the total direct economic loss in a country divided by total global GDP.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on losses attributed to natural disasters significantly depend on large-scale catastrophic events, which are an exception. UNISDR recommends the countries to report data on such events to include or exclude them from the analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz national disaster loss database usually registers physical damage value (housing unit loss, infrastructure loss etc.), which needs conversion to monetary value according to the UNISDR methodology. The converted global value is divided by global GDP (inflation adjusted, constant USD).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по показателю представляется МЧС КР в Нацстатком КР по Матрице инвентаризации и адаптации задач и показателей Целей устойчивого развития, а также по форме №1-ЧС. Данные представлены на сайте НСК КР, http://www.stat.kg/ru/, раздел ЦУР, Матрица инвентаризации и адаптации задач и показателей Целей устойчивого развития и раздел отчетность, Экологическая статистика.    
+В онлайн режиме на сайте мониторинга Сендая. https://sendaicommitments.unisdr.org 
+
+Примечание:
+До введения государственной статистической формы отчетности №1-ЧС, были данные во временных рядах: с 1990 по 2013, и до 2017 года: Национальная база данных об авариях, то есть в Национальной базе данных об авариях недостающие значения и 0 или пустые значения считались ранее эквивалентными. 
+
+В настоящее время данные по ущербу в соотношении к ВВП доступны на сайте НСК КР в разделе ЦУР, динамические таблицы по показателю 11.5.2. Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные сопоставимы и представляются данные в систему онлайн мониторинга Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="748859c7-97c7-4537-a07a-cf8d45d94a74">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_AGLH</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[На данные об ущербе от катастроф существенное влияние оказывают крупномасштабные катастрофические события, которые представляют собой серьезные последствия. МСУОБ ООН рекомендует странам сообщать данные о событиях, чтобы дополнительный анализ мог быть осуществлен путем включения и исключения таких катастрофических событий, которые могут представлять серьезные последствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Emergency Situations annually provides consolidaterd information according to the state statistical reporting format No. 1-ES.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Основными органами, устанавливающими факт возникновения ЧС с указанием вида, масштаба и характера ущерба от ЧС являются, Комиссии по Гражданской защите районов, городов. Структура и состав комиссий по ГЗ могут быть разными и включаются все заинтересованные государственные органы, службы по ГЗ, крупные организации, ОМСУ, представители учреждений, предприятий в зависимости от угроз возникновения ЧС. Комиссии по Гражданской защите районов, городов после каждого ЧС определяет и устанавливает нанесенный ущерб. 
+
+Комиссионный метод оценки ущерба начинается также с момента возникновения ЧС, носит объемный характер, учитывающий все обстоятельства и характер произошедшего вида ЧС. Имеется типовой акт комиссии по Гражданской защите. Время, отведенное на работу комиссии, параметры измерений не ограничены, длительны и акты комиссии по Гражданской защите наиболее информативны в вопросах ущерба. Все данные об ущербе из типового акта комиссии по гражданской защите переносятся в государственную статистическую форму отчетности №1-ЧС и обобщаются на национальном уровне в МЧС КР (2 раза в год) и передаются в Национальный статистический комитет КР один раз в год 20 февраля (начиная с 2018 года).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[It will be calculated as the total direct economic loss in a country divided by total global GDP.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on losses attributed to natural disasters significantly depend on large-scale catastrophic events, which are an exception. UNISDR recommends the countries to report data on such events to include or exclude them from the analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz national disaster loss database usually registers physical damage value (housing unit loss, infrastructure loss etc.), which needs conversion to monetary value according to the UNISDR methodology. The converted global value is divided by global GDP (inflation adjusted, constant USD).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по показателю представляется МЧС КР в Нацстатком КР по Матрице инвентаризации и адаптации задач и показателей Целей устойчивого развития, а также по форме №1-ЧС. Данные представлены на сайте НСК КР, http://www.stat.kg/ru/, раздел ЦУР, Матрица инвентаризации и адаптации задач и показателей Целей устойчивого развития и раздел отчетность, Экологическая статистика.    
+В онлайн режиме на сайте мониторинга Сендая. https://sendaicommitments.unisdr.org 
+
+Примечание:
+До введения государственной статистической формы отчетности №1-ЧС, были данные во временных рядах: с 1990 по 2013, и до 2017 года: Национальная база данных об авариях, то есть в Национальной базе данных об авариях недостающие значения и 0 или пустые значения считались ранее эквивалентными. 
+
+В настоящее время данные по ущербу в соотношении к ВВП доступны на сайте НСК КР в разделе ЦУР, динамические таблицы по показателю 11.5.2. Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные сопоставимы и представляются данные в систему онлайн мониторинга Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="a8c9980e-4248-47b1-be8a-d5067ef3cf89">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_HOLH</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[На данные об ущербе от катастроф существенное влияние оказывают крупномасштабные катастрофические события, которые представляют собой серьезные последствия. МСУОБ ООН рекомендует странам сообщать данные о событиях, чтобы дополнительный анализ мог быть осуществлен путем включения и исключения таких катастрофических событий, которые могут представлять серьезные последствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Emergency Situations annually provides consolidaterd information according to the state statistical reporting format No. 1-ES.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Основными органами, устанавливающими факт возникновения ЧС с указанием вида, масштаба и характера ущерба от ЧС являются, Комиссии по Гражданской защите районов, городов. Структура и состав комиссий по ГЗ могут быть разными и включаются все заинтересованные государственные органы, службы по ГЗ, крупные организации, ОМСУ, представители учреждений, предприятий в зависимости от угроз возникновения ЧС. Комиссии по Гражданской защите районов, городов после каждого ЧС определяет и устанавливает нанесенный ущерб. 
+
+Комиссионный метод оценки ущерба начинается также с момента возникновения ЧС, носит объемный характер, учитывающий все обстоятельства и характер произошедшего вида ЧС. Имеется типовой акт комиссии по Гражданской защите. Время, отведенное на работу комиссии, параметры измерений не ограничены, длительны и акты комиссии по Гражданской защите наиболее информативны в вопросах ущерба. Все данные об ущербе из типового акта комиссии по гражданской защите переносятся в государственную статистическую форму отчетности №1-ЧС и обобщаются на национальном уровне в МЧС КР (2 раза в год) и передаются в Национальный статистический комитет КР один раз в год 20 февраля (начиная с 2018 года).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[It will be calculated as the total direct economic loss in a country divided by total global GDP.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on losses attributed to natural disasters significantly depend on large-scale catastrophic events, which are an exception. UNISDR recommends the countries to report data on such events to include or exclude them from the analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz national disaster loss database usually registers physical damage value (housing unit loss, infrastructure loss etc.), which needs conversion to monetary value according to the UNISDR methodology. The converted global value is divided by global GDP (inflation adjusted, constant USD).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по показателю представляется МЧС КР в Нацстатком КР по Матрице инвентаризации и адаптации задач и показателей Целей устойчивого развития, а также по форме №1-ЧС. Данные представлены на сайте НСК КР, http://www.stat.kg/ru/, раздел ЦУР, Матрица инвентаризации и адаптации задач и показателей Целей устойчивого развития и раздел отчетность, Экологическая статистика.    
+В онлайн режиме на сайте мониторинга Сендая. https://sendaicommitments.unisdr.org 
+
+Примечание:
+До введения государственной статистической формы отчетности №1-ЧС, были данные во временных рядах: с 1990 по 2013, и до 2017 года: Национальная база данных об авариях, то есть в Национальной базе данных об авариях недостающие значения и 0 или пустые значения считались ранее эквивалентными. 
+
+В настоящее время данные по ущербу в соотношении к ВВП доступны на сайте НСК КР в разделе ЦУР, динамические таблицы по показателю 11.5.2. Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные сопоставимы и представляются данные в систему онлайн мониторинга Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="71ecc421-798e-4ad4-89c7-50c017978573">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_CILN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[На данные об ущербе от катастроф существенное влияние оказывают крупномасштабные катастрофические события, которые представляют собой серьезные последствия. МСУОБ ООН рекомендует странам сообщать данные о событиях, чтобы дополнительный анализ мог быть осуществлен путем включения и исключения таких катастрофических событий, которые могут представлять серьезные последствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Emergency Situations annually provides consolidaterd information according to the state statistical reporting format No. 1-ES.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Основными органами, устанавливающими факт возникновения ЧС с указанием вида, масштаба и характера ущерба от ЧС являются, Комиссии по Гражданской защите районов, городов. Структура и состав комиссий по ГЗ могут быть разными и включаются все заинтересованные государственные органы, службы по ГЗ, крупные организации, ОМСУ, представители учреждений, предприятий в зависимости от угроз возникновения ЧС. Комиссии по Гражданской защите районов, городов после каждого ЧС определяет и устанавливает нанесенный ущерб. 
+
+Комиссионный метод оценки ущерба начинается также с момента возникновения ЧС, носит объемный характер, учитывающий все обстоятельства и характер произошедшего вида ЧС. Имеется типовой акт комиссии по Гражданской защите. Время, отведенное на работу комиссии, параметры измерений не ограничены, длительны и акты комиссии по Гражданской защите наиболее информативны в вопросах ущерба. Все данные об ущербе из типового акта комиссии по гражданской защите переносятся в государственную статистическую форму отчетности №1-ЧС и обобщаются на национальном уровне в МЧС КР (2 раза в год) и передаются в Национальный статистический комитет КР один раз в год 20 февраля (начиная с 2018 года).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[It will be calculated as the total direct economic loss in a country divided by total global GDP.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on losses attributed to natural disasters significantly depend on large-scale catastrophic events, which are an exception. UNISDR recommends the countries to report data on such events to include or exclude them from the analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz national disaster loss database usually registers physical damage value (housing unit loss, infrastructure loss etc.), which needs conversion to monetary value according to the UNISDR methodology. The converted global value is divided by global GDP (inflation adjusted, constant USD).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по показателю представляется МЧС КР в Нацстатком КР по Матрице инвентаризации и адаптации задач и показателей Целей устойчивого развития, а также по форме №1-ЧС. Данные представлены на сайте НСК КР, http://www.stat.kg/ru/, раздел ЦУР, Матрица инвентаризации и адаптации задач и показателей Целей устойчивого развития и раздел отчетность, Экологическая статистика.    
+В онлайн режиме на сайте мониторинга Сендая. https://sendaicommitments.unisdr.org 
+
+Примечание:
+До введения государственной статистической формы отчетности №1-ЧС, были данные во временных рядах: с 1990 по 2013, и до 2017 года: Национальная база данных об авариях, то есть в Национальной базе данных об авариях недостающие значения и 0 или пустые значения считались ранее эквивалентными. 
+
+В настоящее время данные по ущербу в соотношении к ВВП доступны на сайте НСК КР в разделе ЦУР, динамические таблицы по показателю 11.5.2. Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные сопоставимы и представляются данные в систему онлайн мониторинга Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="f85863b8-3b51-4fa6-941f-991074886622">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_CHLN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[На данные об ущербе от катастроф существенное влияние оказывают крупномасштабные катастрофические события, которые представляют собой серьезные последствия. МСУОБ ООН рекомендует странам сообщать данные о событиях, чтобы дополнительный анализ мог быть осуществлен путем включения и исключения таких катастрофических событий, которые могут представлять серьезные последствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Emergency Situations annually provides consolidaterd information according to the state statistical reporting format No. 1-ES.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Основными органами, устанавливающими факт возникновения ЧС с указанием вида, масштаба и характера ущерба от ЧС являются, Комиссии по Гражданской защите районов, городов. Структура и состав комиссий по ГЗ могут быть разными и включаются все заинтересованные государственные органы, службы по ГЗ, крупные организации, ОМСУ, представители учреждений, предприятий в зависимости от угроз возникновения ЧС. Комиссии по Гражданской защите районов, городов после каждого ЧС определяет и устанавливает нанесенный ущерб. 
+
+Комиссионный метод оценки ущерба начинается также с момента возникновения ЧС, носит объемный характер, учитывающий все обстоятельства и характер произошедшего вида ЧС. Имеется типовой акт комиссии по Гражданской защите. Время, отведенное на работу комиссии, параметры измерений не ограничены, длительны и акты комиссии по Гражданской защите наиболее информативны в вопросах ущерба. Все данные об ущербе из типового акта комиссии по гражданской защите переносятся в государственную статистическую форму отчетности №1-ЧС и обобщаются на национальном уровне в МЧС КР (2 раза в год) и передаются в Национальный статистический комитет КР один раз в год 20 февраля (начиная с 2018 года).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[It will be calculated as the total direct economic loss in a country divided by total global GDP.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on losses attributed to natural disasters significantly depend on large-scale catastrophic events, which are an exception. UNISDR recommends the countries to report data on such events to include or exclude them from the analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz national disaster loss database usually registers physical damage value (housing unit loss, infrastructure loss etc.), which needs conversion to monetary value according to the UNISDR methodology. The converted global value is divided by global GDP (inflation adjusted, constant USD).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по показателю представляется МЧС КР в Нацстатком КР по Матрице инвентаризации и адаптации задач и показателей Целей устойчивого развития, а также по форме №1-ЧС. Данные представлены на сайте НСК КР, http://www.stat.kg/ru/, раздел ЦУР, Матрица инвентаризации и адаптации задач и показателей Целей устойчивого развития и раздел отчетность, Экологическая статистика.    
+В онлайн режиме на сайте мониторинга Сендая. https://sendaicommitments.unisdr.org 
+
+Примечание:
+До введения государственной статистической формы отчетности №1-ЧС, были данные во временных рядах: с 1990 по 2013, и до 2017 года: Национальная база данных об авариях, то есть в Национальной базе данных об авариях недостающие значения и 0 или пустые значения считались ранее эквивалентными. 
+
+В настоящее время данные по ущербу в соотношении к ВВП доступны на сайте НСК КР в разделе ЦУР, динамические таблицы по показателю 11.5.2. Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные сопоставимы и представляются данные в систему онлайн мониторинга Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="d168fe12-cd08-42ec-84ab-f15efce4e200">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_DDPA</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[На данные об ущербе от катастроф существенное влияние оказывают крупномасштабные катастрофические события, которые представляют собой серьезные последствия. МСУОБ ООН рекомендует странам сообщать данные о событиях, чтобы дополнительный анализ мог быть осуществлен путем включения и исключения таких катастрофических событий, которые могут представлять серьезные последствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Emergency Situations annually provides consolidaterd information according to the state statistical reporting format No. 1-ES.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Основными органами, устанавливающими факт возникновения ЧС с указанием вида, масштаба и характера ущерба от ЧС являются, Комиссии по Гражданской защите районов, городов. Структура и состав комиссий по ГЗ могут быть разными и включаются все заинтересованные государственные органы, службы по ГЗ, крупные организации, ОМСУ, представители учреждений, предприятий в зависимости от угроз возникновения ЧС. Комиссии по Гражданской защите районов, городов после каждого ЧС определяет и устанавливает нанесенный ущерб. 
+
+Комиссионный метод оценки ущерба начинается также с момента возникновения ЧС, носит объемный характер, учитывающий все обстоятельства и характер произошедшего вида ЧС. Имеется типовой акт комиссии по Гражданской защите. Время, отведенное на работу комиссии, параметры измерений не ограничены, длительны и акты комиссии по Гражданской защите наиболее информативны в вопросах ущерба. Все данные об ущербе из типового акта комиссии по гражданской защите переносятся в государственную статистическую форму отчетности №1-ЧС и обобщаются на национальном уровне в МЧС КР (2 раза в год) и передаются в Национальный статистический комитет КР один раз в год 20 февраля (начиная с 2018 года).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[It will be calculated as the total direct economic loss in a country divided by total global GDP.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on losses attributed to natural disasters significantly depend on large-scale catastrophic events, which are an exception. UNISDR recommends the countries to report data on such events to include or exclude them from the analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz national disaster loss database usually registers physical damage value (housing unit loss, infrastructure loss etc.), which needs conversion to monetary value according to the UNISDR methodology. The converted global value is divided by global GDP (inflation adjusted, constant USD).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по показателю представляется МЧС КР в Нацстатком КР по Матрице инвентаризации и адаптации задач и показателей Целей устойчивого развития, а также по форме №1-ЧС. Данные представлены на сайте НСК КР, http://www.stat.kg/ru/, раздел ЦУР, Матрица инвентаризации и адаптации задач и показателей Целей устойчивого развития и раздел отчетность, Экологическая статистика.    
+В онлайн режиме на сайте мониторинга Сендая. https://sendaicommitments.unisdr.org 
+
+Примечание:
+До введения государственной статистической формы отчетности №1-ЧС, были данные во временных рядах: с 1990 по 2013, и до 2017 года: Национальная база данных об авариях, то есть в Национальной базе данных об авариях недостающие значения и 0 или пустые значения считались ранее эквивалентными. 
+
+В настоящее время данные по ущербу в соотношении к ВВП доступны на сайте НСК КР в разделе ЦУР, динамические таблицы по показателю 11.5.2. Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные сопоставимы и представляются данные в систему онлайн мониторинга Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="0f796f3a-b2ea-49b2-80f2-956138c2f5ca">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_CDAN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[На данные об ущербе от катастроф существенное влияние оказывают крупномасштабные катастрофические события, которые представляют собой серьезные последствия. МСУОБ ООН рекомендует странам сообщать данные о событиях, чтобы дополнительный анализ мог быть осуществлен путем включения и исключения таких катастрофических событий, которые могут представлять серьезные последствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Emergency Situations annually provides consolidaterd information according to the state statistical reporting format No. 1-ES.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Основными органами, устанавливающими факт возникновения ЧС с указанием вида, масштаба и характера ущерба от ЧС являются, Комиссии по Гражданской защите районов, городов. Структура и состав комиссий по ГЗ могут быть разными и включаются все заинтересованные государственные органы, службы по ГЗ, крупные организации, ОМСУ, представители учреждений, предприятий в зависимости от угроз возникновения ЧС. Комиссии по Гражданской защите районов, городов после каждого ЧС определяет и устанавливает нанесенный ущерб. 
+
+Комиссионный метод оценки ущерба начинается также с момента возникновения ЧС, носит объемный характер, учитывающий все обстоятельства и характер произошедшего вида ЧС. Имеется типовой акт комиссии по Гражданской защите. Время, отведенное на работу комиссии, параметры измерений не ограничены, длительны и акты комиссии по Гражданской защите наиболее информативны в вопросах ущерба. Все данные об ущербе из типового акта комиссии по гражданской защите переносятся в государственную статистическую форму отчетности №1-ЧС и обобщаются на национальном уровне в МЧС КР (2 раза в год) и передаются в Национальный статистический комитет КР один раз в год 20 февраля (начиная с 2018 года).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[It will be calculated as the total direct economic loss in a country divided by total global GDP.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on losses attributed to natural disasters significantly depend on large-scale catastrophic events, which are an exception. UNISDR recommends the countries to report data on such events to include or exclude them from the analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz national disaster loss database usually registers physical damage value (housing unit loss, infrastructure loss etc.), which needs conversion to monetary value according to the UNISDR methodology. The converted global value is divided by global GDP (inflation adjusted, constant USD).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по показателю представляется МЧС КР в Нацстатком КР по Матрице инвентаризации и адаптации задач и показателей Целей устойчивого развития, а также по форме №1-ЧС. Данные представлены на сайте НСК КР, http://www.stat.kg/ru/, раздел ЦУР, Матрица инвентаризации и адаптации задач и показателей Целей устойчивого развития и раздел отчетность, Экологическая статистика.    
+В онлайн режиме на сайте мониторинга Сендая. https://sendaicommitments.unisdr.org 
+
+Примечание:
+До введения государственной статистической формы отчетности №1-ЧС, были данные во временных рядах: с 1990 по 2013, и до 2017 года: Национальная база данных об авариях, то есть в Национальной базе данных об авариях недостающие значения и 0 или пустые значения считались ранее эквивалентными. 
+
+В настоящее время данные по ущербу в соотношении к ВВП доступны на сайте НСК КР в разделе ЦУР, динамические таблицы по показателю 11.5.2. Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные сопоставимы и представляются данные в систему онлайн мониторинга Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="c0f6f064-307c-479d-a1b2-27baaf0490d4">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_HFDN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[На данные об ущербе от катастроф существенное влияние оказывают крупномасштабные катастрофические события, которые представляют собой серьезные последствия. МСУОБ ООН рекомендует странам сообщать данные о событиях, чтобы дополнительный анализ мог быть осуществлен путем включения и исключения таких катастрофических событий, которые могут представлять серьезные последствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Emergency Situations annually provides consolidaterd information according to the state statistical reporting format No. 1-ES.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Основными органами, устанавливающими факт возникновения ЧС с указанием вида, масштаба и характера ущерба от ЧС являются, Комиссии по Гражданской защите районов, городов. Структура и состав комиссий по ГЗ могут быть разными и включаются все заинтересованные государственные органы, службы по ГЗ, крупные организации, ОМСУ, представители учреждений, предприятий в зависимости от угроз возникновения ЧС. Комиссии по Гражданской защите районов, городов после каждого ЧС определяет и устанавливает нанесенный ущерб. 
+
+Комиссионный метод оценки ущерба начинается также с момента возникновения ЧС, носит объемный характер, учитывающий все обстоятельства и характер произошедшего вида ЧС. Имеется типовой акт комиссии по Гражданской защите. Время, отведенное на работу комиссии, параметры измерений не ограничены, длительны и акты комиссии по Гражданской защите наиболее информативны в вопросах ущерба. Все данные об ущербе из типового акта комиссии по гражданской защите переносятся в государственную статистическую форму отчетности №1-ЧС и обобщаются на национальном уровне в МЧС КР (2 раза в год) и передаются в Национальный статистический комитет КР один раз в год 20 февраля (начиная с 2018 года).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[It will be calculated as the total direct economic loss in a country divided by total global GDP.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on losses attributed to natural disasters significantly depend on large-scale catastrophic events, which are an exception. UNISDR recommends the countries to report data on such events to include or exclude them from the analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz national disaster loss database usually registers physical damage value (housing unit loss, infrastructure loss etc.), which needs conversion to monetary value according to the UNISDR methodology. The converted global value is divided by global GDP (inflation adjusted, constant USD).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по показателю представляется МЧС КР в Нацстатком КР по Матрице инвентаризации и адаптации задач и показателей Целей устойчивого развития, а также по форме №1-ЧС. Данные представлены на сайте НСК КР, http://www.stat.kg/ru/, раздел ЦУР, Матрица инвентаризации и адаптации задач и показателей Целей устойчивого развития и раздел отчетность, Экологическая статистика.    
+В онлайн режиме на сайте мониторинга Сендая. https://sendaicommitments.unisdr.org 
+
+Примечание:
+До введения государственной статистической формы отчетности №1-ЧС, были данные во временных рядах: с 1990 по 2013, и до 2017 года: Национальная база данных об авариях, то есть в Национальной базе данных об авариях недостающие значения и 0 или пустые значения считались ранее эквивалентными. 
+
+В настоящее время данные по ущербу в соотношении к ВВП доступны на сайте НСК КР в разделе ЦУР, динамические таблицы по показателю 11.5.2. Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные сопоставимы и представляются данные в систему онлайн мониторинга Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="c9f8dadc-9283-4da1-9773-04596c479e0e">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_EFDN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[На данные об ущербе от катастроф существенное влияние оказывают крупномасштабные катастрофические события, которые представляют собой серьезные последствия. МСУОБ ООН рекомендует странам сообщать данные о событиях, чтобы дополнительный анализ мог быть осуществлен путем включения и исключения таких катастрофических событий, которые могут представлять серьезные последствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Emergency Situations annually provides consolidaterd information according to the state statistical reporting format No. 1-ES.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Основными органами, устанавливающими факт возникновения ЧС с указанием вида, масштаба и характера ущерба от ЧС являются, Комиссии по Гражданской защите районов, городов. Структура и состав комиссий по ГЗ могут быть разными и включаются все заинтересованные государственные органы, службы по ГЗ, крупные организации, ОМСУ, представители учреждений, предприятий в зависимости от угроз возникновения ЧС. Комиссии по Гражданской защите районов, городов после каждого ЧС определяет и устанавливает нанесенный ущерб. 
+
+Комиссионный метод оценки ущерба начинается также с момента возникновения ЧС, носит объемный характер, учитывающий все обстоятельства и характер произошедшего вида ЧС. Имеется типовой акт комиссии по Гражданской защите. Время, отведенное на работу комиссии, параметры измерений не ограничены, длительны и акты комиссии по Гражданской защите наиболее информативны в вопросах ущерба. Все данные об ущербе из типового акта комиссии по гражданской защите переносятся в государственную статистическую форму отчетности №1-ЧС и обобщаются на национальном уровне в МЧС КР (2 раза в год) и передаются в Национальный статистический комитет КР один раз в год 20 февраля (начиная с 2018 года).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[It will be calculated as the total direct economic loss in a country divided by total global GDP.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on losses attributed to natural disasters significantly depend on large-scale catastrophic events, which are an exception. UNISDR recommends the countries to report data on such events to include or exclude them from the analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz national disaster loss database usually registers physical damage value (housing unit loss, infrastructure loss etc.), which needs conversion to monetary value according to the UNISDR methodology. The converted global value is divided by global GDP (inflation adjusted, constant USD).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по показателю представляется МЧС КР в Нацстатком КР по Матрице инвентаризации и адаптации задач и показателей Целей устойчивого развития, а также по форме №1-ЧС. Данные представлены на сайте НСК КР, http://www.stat.kg/ru/, раздел ЦУР, Матрица инвентаризации и адаптации задач и показателей Целей устойчивого развития и раздел отчетность, Экологическая статистика.    
+В онлайн режиме на сайте мониторинга Сендая. https://sendaicommitments.unisdr.org 
+
+Примечание:
+До введения государственной статистической формы отчетности №1-ЧС, были данные во временных рядах: с 1990 по 2013, и до 2017 года: Национальная база данных об авариях, то есть в Национальной базе данных об авариях недостающие значения и 0 или пустые значения считались ранее эквивалентными. 
+
+В настоящее время данные по ущербу в соотношении к ВВП доступны на сайте НСК КР в разделе ЦУР, динамические таблицы по показателю 11.5.2. Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные сопоставимы и представляются данные в систему онлайн мониторинга Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="2dbe6ade-0923-46d0-bbd3-4ea6cede8177">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_CDYN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[На данные об ущербе от катастроф существенное влияние оказывают крупномасштабные катастрофические события, которые представляют собой серьезные последствия. МСУОБ ООН рекомендует странам сообщать данные о событиях, чтобы дополнительный анализ мог быть осуществлен путем включения и исключения таких катастрофических событий, которые могут представлять серьезные последствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Emergency Situations annually provides consolidaterd information according to the state statistical reporting format No. 1-ES.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Основными органами, устанавливающими факт возникновения ЧС с указанием вида, масштаба и характера ущерба от ЧС являются, Комиссии по Гражданской защите районов, городов. Структура и состав комиссий по ГЗ могут быть разными и включаются все заинтересованные государственные органы, службы по ГЗ, крупные организации, ОМСУ, представители учреждений, предприятий в зависимости от угроз возникновения ЧС. Комиссии по Гражданской защите районов, городов после каждого ЧС определяет и устанавливает нанесенный ущерб. 
+
+Комиссионный метод оценки ущерба начинается также с момента возникновения ЧС, носит объемный характер, учитывающий все обстоятельства и характер произошедшего вида ЧС. Имеется типовой акт комиссии по Гражданской защите. Время, отведенное на работу комиссии, параметры измерений не ограничены, длительны и акты комиссии по Гражданской защите наиболее информативны в вопросах ущерба. Все данные об ущербе из типового акта комиссии по гражданской защите переносятся в государственную статистическую форму отчетности №1-ЧС и обобщаются на национальном уровне в МЧС КР (2 раза в год) и передаются в Национальный статистический комитет КР один раз в год 20 февраля (начиная с 2018 года).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[It will be calculated as the total direct economic loss in a country divided by total global GDP.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on losses attributed to natural disasters significantly depend on large-scale catastrophic events, which are an exception. UNISDR recommends the countries to report data on such events to include or exclude them from the analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz national disaster loss database usually registers physical damage value (housing unit loss, infrastructure loss etc.), which needs conversion to monetary value according to the UNISDR methodology. The converted global value is divided by global GDP (inflation adjusted, constant USD).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по показателю представляется МЧС КР в Нацстатком КР по Матрице инвентаризации и адаптации задач и показателей Целей устойчивого развития, а также по форме №1-ЧС. Данные представлены на сайте НСК КР, http://www.stat.kg/ru/, раздел ЦУР, Матрица инвентаризации и адаптации задач и показателей Целей устойчивого развития и раздел отчетность, Экологическая статистика.    
+В онлайн режиме на сайте мониторинга Сендая. https://sendaicommitments.unisdr.org 
+
+Примечание:
+До введения государственной статистической формы отчетности №1-ЧС, были данные во временных рядах: с 1990 по 2013, и до 2017 года: Национальная база данных об авариях, то есть в Национальной базе данных об авариях недостающие значения и 0 или пустые значения считались ранее эквивалентными. 
+
+В настоящее время данные по ущербу в соотношении к ВВП доступны на сайте НСК КР в разделе ЦУР, динамические таблицы по показателю 11.5.2. Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные сопоставимы и представляются данные в систему онлайн мониторинга Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="61327def-c154-444d-ac44-d7f74852623f">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_BSDN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[На данные об ущербе от катастроф существенное влияние оказывают крупномасштабные катастрофические события, которые представляют собой серьезные последствия. МСУОБ ООН рекомендует странам сообщать данные о событиях, чтобы дополнительный анализ мог быть осуществлен путем включения и исключения таких катастрофических событий, которые могут представлять серьезные последствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Emergency Situations annually provides consolidaterd information according to the state statistical reporting format No. 1-ES.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Основными органами, устанавливающими факт возникновения ЧС с указанием вида, масштаба и характера ущерба от ЧС являются, Комиссии по Гражданской защите районов, городов. Структура и состав комиссий по ГЗ могут быть разными и включаются все заинтересованные государственные органы, службы по ГЗ, крупные организации, ОМСУ, представители учреждений, предприятий в зависимости от угроз возникновения ЧС. Комиссии по Гражданской защите районов, городов после каждого ЧС определяет и устанавливает нанесенный ущерб. 
+
+Комиссионный метод оценки ущерба начинается также с момента возникновения ЧС, носит объемный характер, учитывающий все обстоятельства и характер произошедшего вида ЧС. Имеется типовой акт комиссии по Гражданской защите. Время, отведенное на работу комиссии, параметры измерений не ограничены, длительны и акты комиссии по Гражданской защите наиболее информативны в вопросах ущерба. Все данные об ущербе из типового акта комиссии по гражданской защите переносятся в государственную статистическую форму отчетности №1-ЧС и обобщаются на национальном уровне в МЧС КР (2 раза в год) и передаются в Национальный статистический комитет КР один раз в год 20 февраля (начиная с 2018 года).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[It will be calculated as the total direct economic loss in a country divided by total global GDP.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on losses attributed to natural disasters significantly depend on large-scale catastrophic events, which are an exception. UNISDR recommends the countries to report data on such events to include or exclude them from the analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz national disaster loss database usually registers physical damage value (housing unit loss, infrastructure loss etc.), which needs conversion to monetary value according to the UNISDR methodology. The converted global value is divided by global GDP (inflation adjusted, constant USD).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по показателю представляется МЧС КР в Нацстатком КР по Матрице инвентаризации и адаптации задач и показателей Целей устойчивого развития, а также по форме №1-ЧС. Данные представлены на сайте НСК КР, http://www.stat.kg/ru/, раздел ЦУР, Матрица инвентаризации и адаптации задач и показателей Целей устойчивого развития и раздел отчетность, Экологическая статистика.    
+В онлайн режиме на сайте мониторинга Сендая. https://sendaicommitments.unisdr.org 
+
+Примечание:
+До введения государственной статистической формы отчетности №1-ЧС, были данные во временных рядах: с 1990 по 2013, и до 2017 года: Национальная база данных об авариях, то есть в Национальной базе данных об авариях недостающие значения и 0 или пустые значения считались ранее эквивалентными. 
+
+В настоящее время данные по ущербу в соотношении к ВВП доступны на сайте НСК КР в разделе ЦУР, динамические таблицы по показателю 11.5.2. Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные сопоставимы и представляются данные в систему онлайн мониторинга Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="c801e963-159f-4807-9c14-ba43962505b2">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_ESDN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[На данные об ущербе от катастроф существенное влияние оказывают крупномасштабные катастрофические события, которые представляют собой серьезные последствия. МСУОБ ООН рекомендует странам сообщать данные о событиях, чтобы дополнительный анализ мог быть осуществлен путем включения и исключения таких катастрофических событий, которые могут представлять серьезные последствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Emergency Situations annually provides consolidaterd information according to the state statistical reporting format No. 1-ES.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Основными органами, устанавливающими факт возникновения ЧС с указанием вида, масштаба и характера ущерба от ЧС являются, Комиссии по Гражданской защите районов, городов. Структура и состав комиссий по ГЗ могут быть разными и включаются все заинтересованные государственные органы, службы по ГЗ, крупные организации, ОМСУ, представители учреждений, предприятий в зависимости от угроз возникновения ЧС. Комиссии по Гражданской защите районов, городов после каждого ЧС определяет и устанавливает нанесенный ущерб. 
+
+Комиссионный метод оценки ущерба начинается также с момента возникновения ЧС, носит объемный характер, учитывающий все обстоятельства и характер произошедшего вида ЧС. Имеется типовой акт комиссии по Гражданской защите. Время, отведенное на работу комиссии, параметры измерений не ограничены, длительны и акты комиссии по Гражданской защите наиболее информативны в вопросах ущерба. Все данные об ущербе из типового акта комиссии по гражданской защите переносятся в государственную статистическую форму отчетности №1-ЧС и обобщаются на национальном уровне в МЧС КР (2 раза в год) и передаются в Национальный статистический комитет КР один раз в год 20 февраля (начиная с 2018 года).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[It will be calculated as the total direct economic loss in a country divided by total global GDP.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on losses attributed to natural disasters significantly depend on large-scale catastrophic events, which are an exception. UNISDR recommends the countries to report data on such events to include or exclude them from the analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz national disaster loss database usually registers physical damage value (housing unit loss, infrastructure loss etc.), which needs conversion to monetary value according to the UNISDR methodology. The converted global value is divided by global GDP (inflation adjusted, constant USD).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по показателю представляется МЧС КР в Нацстатком КР по Матрице инвентаризации и адаптации задач и показателей Целей устойчивого развития, а также по форме №1-ЧС. Данные представлены на сайте НСК КР, http://www.stat.kg/ru/, раздел ЦУР, Матрица инвентаризации и адаптации задач и показателей Целей устойчивого развития и раздел отчетность, Экологическая статистика.    
+В онлайн режиме на сайте мониторинга Сендая. https://sendaicommitments.unisdr.org 
+
+Примечание:
+До введения государственной статистической формы отчетности №1-ЧС, были данные во временных рядах: с 1990 по 2013, и до 2017 года: Национальная база данных об авариях, то есть в Национальной базе данных об авариях недостающие значения и 0 или пустые значения считались ранее эквивалентными. 
+
+В настоящее время данные по ущербу в соотношении к ВВП доступны на сайте НСК КР в разделе ЦУР, динамические таблицы по показателю 11.5.2. Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные сопоставимы и представляются данные в систему онлайн мониторинга Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="979b3dba-88d4-467f-8621-fe85eb9672e6">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_HSDN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[На данные об ущербе от катастроф существенное влияние оказывают крупномасштабные катастрофические события, которые представляют собой серьезные последствия. МСУОБ ООН рекомендует странам сообщать данные о событиях, чтобы дополнительный анализ мог быть осуществлен путем включения и исключения таких катастрофических событий, которые могут представлять серьезные последствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Emergency Situations annually provides consolidaterd information according to the state statistical reporting format No. 1-ES.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Основными органами, устанавливающими факт возникновения ЧС с указанием вида, масштаба и характера ущерба от ЧС являются, Комиссии по Гражданской защите районов, городов. Структура и состав комиссий по ГЗ могут быть разными и включаются все заинтересованные государственные органы, службы по ГЗ, крупные организации, ОМСУ, представители учреждений, предприятий в зависимости от угроз возникновения ЧС. Комиссии по Гражданской защите районов, городов после каждого ЧС определяет и устанавливает нанесенный ущерб. 
+
+Комиссионный метод оценки ущерба начинается также с момента возникновения ЧС, носит объемный характер, учитывающий все обстоятельства и характер произошедшего вида ЧС. Имеется типовой акт комиссии по Гражданской защите. Время, отведенное на работу комиссии, параметры измерений не ограничены, длительны и акты комиссии по Гражданской защите наиболее информативны в вопросах ущерба. Все данные об ущербе из типового акта комиссии по гражданской защите переносятся в государственную статистическую форму отчетности №1-ЧС и обобщаются на национальном уровне в МЧС КР (2 раза в год) и передаются в Национальный статистический комитет КР один раз в год 20 февраля (начиная с 2018 года).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[It will be calculated as the total direct economic loss in a country divided by total global GDP.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on losses attributed to natural disasters significantly depend on large-scale catastrophic events, which are an exception. UNISDR recommends the countries to report data on such events to include or exclude them from the analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz national disaster loss database usually registers physical damage value (housing unit loss, infrastructure loss etc.), which needs conversion to monetary value according to the UNISDR methodology. The converted global value is divided by global GDP (inflation adjusted, constant USD).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по показателю представляется МЧС КР в Нацстатком КР по Матрице инвентаризации и адаптации задач и показателей Целей устойчивого развития, а также по форме №1-ЧС. Данные представлены на сайте НСК КР, http://www.stat.kg/ru/, раздел ЦУР, Матрица инвентаризации и адаптации задач и показателей Целей устойчивого развития и раздел отчетность, Экологическая статистика.    
+В онлайн режиме на сайте мониторинга Сендая. https://sendaicommitments.unisdr.org 
+
+Примечание:
+До введения государственной статистической формы отчетности №1-ЧС, были данные во временных рядах: с 1990 по 2013, и до 2017 года: Национальная база данных об авариях, то есть в Национальной базе данных об авариях недостающие значения и 0 или пустые значения считались ранее эквивалентными. 
+
+В настоящее время данные по ущербу в соотношении к ВВП доступны на сайте НСК КР в разделе ЦУР, динамические таблицы по показателю 11.5.2. Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные сопоставимы и представляются данные в систему онлайн мониторинга Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="1d4ca496-eeab-4a31-ba6d-12b409283745">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_OBDN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[На данные об ущербе от катастроф существенное влияние оказывают крупномасштабные катастрофические события, которые представляют собой серьезные последствия. МСУОБ ООН рекомендует странам сообщать данные о событиях, чтобы дополнительный анализ мог быть осуществлен путем включения и исключения таких катастрофических событий, которые могут представлять серьезные последствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Ministry of Emergency Situations annually provides consolidaterd information according to the state statistical reporting format No. 1-ES.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Основными органами, устанавливающими факт возникновения ЧС с указанием вида, масштаба и характера ущерба от ЧС являются, Комиссии по Гражданской защите районов, городов. Структура и состав комиссий по ГЗ могут быть разными и включаются все заинтересованные государственные органы, службы по ГЗ, крупные организации, ОМСУ, представители учреждений, предприятий в зависимости от угроз возникновения ЧС. Комиссии по Гражданской защите районов, городов после каждого ЧС определяет и устанавливает нанесенный ущерб. 
+
+Комиссионный метод оценки ущерба начинается также с момента возникновения ЧС, носит объемный характер, учитывающий все обстоятельства и характер произошедшего вида ЧС. Имеется типовой акт комиссии по Гражданской защите. Время, отведенное на работу комиссии, параметры измерений не ограничены, длительны и акты комиссии по Гражданской защите наиболее информативны в вопросах ущерба. Все данные об ущербе из типового акта комиссии по гражданской защите переносятся в государственную статистическую форму отчетности №1-ЧС и обобщаются на национальном уровне в МЧС КР (2 раза в год) и передаются в Национальный статистический комитет КР один раз в год 20 февраля (начиная с 2018 года).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[It will be calculated as the total direct economic loss in a country divided by total global GDP.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on losses attributed to natural disasters significantly depend on large-scale catastrophic events, which are an exception. UNISDR recommends the countries to report data on such events to include or exclude them from the analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz national disaster loss database usually registers physical damage value (housing unit loss, infrastructure loss etc.), which needs conversion to monetary value according to the UNISDR methodology. The converted global value is divided by global GDP (inflation adjusted, constant USD).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отчетность по показателю представляется МЧС КР в Нацстатком КР по Матрице инвентаризации и адаптации задач и показателей Целей устойчивого развития, а также по форме №1-ЧС. Данные представлены на сайте НСК КР, http://www.stat.kg/ru/, раздел ЦУР, Матрица инвентаризации и адаптации задач и показателей Целей устойчивого развития и раздел отчетность, Экологическая статистика.    
+В онлайн режиме на сайте мониторинга Сендая. https://sendaicommitments.unisdr.org 
+
+Примечание:
+До введения государственной статистической формы отчетности №1-ЧС, были данные во временных рядах: с 1990 по 2013, и до 2017 года: Национальная база данных об авариях, то есть в Национальной базе данных об авариях недостающие значения и 0 или пустые значения считались ранее эквивалентными. 
+
+В настоящее время данные по ущербу в соотношении к ВВП доступны на сайте НСК КР в разделе ЦУР, динамические таблицы по показателю 11.5.2. Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные сопоставимы и представляются данные в систему онлайн мониторинга Сендайской рамочной программы.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="41268acc-ec73-4221-bf9b-89bc8cb08f22">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_110601_1A</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[11. Обеспечение открытости, безопасности, жизнестойкости и экологической устойчивости городов и населенных пунктов ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.6 К 2030 году уменьшить негативное экологическое воздействие городов в пересчете на душу населения, в том числе посредством уделения особого внимания качеству воздуха и удалению городских и других отходов ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.6.1.1a Избавление от твердых бытовых отходов домашними хозяйствами по видам (мусоропровод; сбор грузовиком, контейнером; сброс в мусорные кучи; сжигание; закапывание)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный статистический комитет КР (Управление статистики устойчивого развития и окружающей среды)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Керималиева Н.К.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 62-56-07]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Отражает способы, используемые населением, при избавлении от мусора. Данный индикатор отражает способы избавления от мусора по следующим категориям:                                                                                                               - Сброс в мусоропровод;
+- Сбор грузовиком, контейнером;
+- Сброс в мусорные кучи;
+- Сжигание;
+- Закапывание.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель способов избавления от производимых отходов свидетельствует об экологической нагрузке на атмосферные, водные и земельные ресурсы. При этом, способы избавления от отходов напрямую зависят от доступа к услугам, предоставляемым коммунальным хозяйством. Сбалансированная программа управления отходами должна стремиться свести к минимуму количество отходов, а также способствовать надлежащему удалению и переработке отходов.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется Национальным статистическим комитетом КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется Национальным статистическим комитетом в рамках выборочного обследования домашних хозяйств, проводимого во всех регионах республики на ежеквартальной основе.Рассчитывается отношением числа домохозяйств, применяющих различные способы избавления от бытового мусора к общему количеству домохозяйств.
+Объектом статистического наблюдения выступают состав и жилищные условия домашних хозяйств. Единицей наблюдения являются домашние хозяйства.
+Проведение выборочного интегрированного обследования бюджетов домашних хозяйств и рабочей силы регламентировано постановлением Правительства Кыргызской Республики «О статистике выборочных обследований домашних хозяйств» от 17 января 2004 года №25 и Программой статистических работ. Мониторинг индикатора осуществляется с годовой периодичностью.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Ежегодный статистический сборник «Окружающая среда в Кыргызской Республике)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="73822513-6aaf-473e-ad41-e579ceeec51a">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_110601_1</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[11. Обеспечение открытости, безопасности, жизнестойкости и экологической устойчивости городов и населенных пунктов ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.6 К 2030 году уменьшить негативное экологическое воздействие городов в пересчете на душу населения, в том числе посредством уделения особого внимания качеству воздуха и удалению городских и других отходов ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.6.1.1 Объем вывезенных твердых бытовых отходов]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный статистический комитет КР (Управление статистики устойчивого развития и окружающей среды)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Керималиева Н.К.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 62-56-07]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Общий объем вывезенных твердых бытовых отходов, включающие в себя изделия, материалы и вещества, утратившие свои потребительские качества, вследствие их физического или морального износа, а также твердые бытовые отходы, которые возникают в процессе жизнедеятельности людей.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Основная цель– обеспечить измерение давления, которое оказывают на окружающую среду все образовавшиеся отходы и их различные категории (отходы различных видов экономической деятельности и домохозяйств). Показатель интенсивности образования отходов является показателем движущих сил, также реагирования на антропогенную деятельность. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Осуществляется сбор данных по Форме №1-(Благоустройство) «О благоустройстве и санитарной очистке городов и населенных пунктов»]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется Национальным статистическим комитетом  КР на основе формы государственной статистической отчётности №1-«Благоустройство» на ежегодной основе от комбинатов коммунальных предприятий и организаций, ведущие деятельность по благоустройству городов и населенных пунктов, а также айыл окмоту и предприятия (спецавтохозяйства, спецавтобазы, дорожно-эксплуатационные управления и др.), имеющие спецавтомашины и выполняющие работы по вывозу бытовых отходов или по механизированной уборке в городской и сельской местности независимо от формы собственности 20- февраля территориальному органу государственной статистике или в Главный вычислительный центр Нацстаткома.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные 5 раздела формы №1-(Благоустройство)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Производится логический и арифметический контроль]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Сборник «Окружающая среда в Кыргызской Республике»]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[http://www.stat.kg/ru/publications/sbornik-okruzhayushaya-sreda-v-kyrgyzskoj-respublike/                                                                            Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="f584d7f9-875b-48df-b527-c563c2a94467">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_110701_1A</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[11. Обеспечение открытости, безопасности, жизнестойкости и экологической устойчивости городов и населенных пунктов ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.7 К 2030 году обеспечить всеобщий доступ к безопасным, доступным и открытым для всех зеленым зонам, и общественным местам, особенно для женщин и детей, пожилых людей и инвалидов ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.7.1.1a Площадь зеленых насаждений и массивов в населенных пунтках в расчете на 1000 чел. на 1 га]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный статистический комитет КР (Управление статистики устойчивого развития и окружающей среды)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Керималиева Н.К.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 62-56-07]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Площадь зеленых насаждений в населенных пунктах на душу населения - отражает результаты мероприятий по озеленению населенных пунктов, направленных на улучшение экологического состояния окружающей среды и благоустройство территории.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Зеленые насаждения имеют большое значение в санитарно-гигиеническом и социальном отношении. Важнейшая гигиеническая особенность зеленых насаждений выражается в регулировании теплового и радиационного режимов, в создании микроклимата, обеспечивающего комфортные условия внешней среды. Не меньшее значение зеленых насаждений заключается в том, что они являются мощным фактором защиты населенных мест от пыли, газов, ветра и шума. Кроме того, они благоприятно воздействуют через органы чувств на центральную нервную систему человека, улучшая его самочувствие.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется НСК на основе формы государственной статистической отчетности №1 - Благоустройство «Отчет о благоустройстве и санитарной очистке городов и населенных пунктов» с комбинатов коммунальных предприятий, организаций, ведущих деятельность по благоустройству городов и населенных пунктов, данные о численности населения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Общая площадь всех зеленых насаждений включает площадь числящихся на конец года всех зеленых массивов и насаждений. Это: специально посаженные или естественные леса, зеленые и защитные зоны; лесопарки, общегородские (общепоселковые) и районные парки культуры и отдыха, детские парки, сады и парки, бульвары, скверы; насаждения в жилых районах, внутриквартальное озеленение; зеленые насаждения кладбищ и др. виды озеленения специального назначения и насаждения ограниченного пользования, расположенные на территории: учебных заведений, учреждений здравоохранения, детских садов и яслей, общественных зданий, спортивных комплексов, промышленных предприятий и др.; цветники и газоны, расположенные вдоль улиц, площадей, набережных и т.д. Посадки деревьев в лунках (вдоль улиц, проездов, набережных) не включаются в общую площадь всех зеленых массивов и насаждений.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Площадь зеленых насаждений и массивов в населенных пунктах в расчете на 1000 чел. на 1 га = Площадь зеленых насаждений и массивов в населенных пунктах/численность населения *1000]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Нормой озеленения считается 25 га зеленых насаждений на человека.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Ежегодный статистический сборник «Окружающая среда в Кыргызской Республике)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Не используется ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io                                   Официальный сайт НСК КР: http://www.stat.kg/ru/statistics/turizm-otdyh-ohrana-okruzhayushej-sredy/ ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

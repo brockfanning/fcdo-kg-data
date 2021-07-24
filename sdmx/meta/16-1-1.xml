@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1626665718</mes:ID>
+    <mes:ID>IREF1627150557</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-19T03:35:18</mes:Prepared>
+    <mes:Prepared>2021-07-24T18:15:57</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="77fda451-d5c4-4cc1-9c6a-17aa96924192">
+  <mes:MetadataSet structureRef="MDS1" setID="d741595d-4d7b-43e3-9cdf-88e736e98139">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -150,7 +150,7 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2a1b35a1-7b27-42e0-af11-6efca61aef98">
+  <mes:MetadataSet structureRef="MDS1" setID="dfacdc36-0743-4c74-b5d3-2b773032c3d1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

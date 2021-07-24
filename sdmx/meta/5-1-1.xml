@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1626665718</mes:ID>
+    <mes:ID>IREF1627150557</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-19T03:35:18</mes:Prepared>
+    <mes:Prepared>2021-07-24T18:15:57</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a1ea1ead-cdc3-4613-9eb0-62c57d531c9e">
+  <mes:MetadataSet structureRef="MDS1" setID="b2328ceb-af10-4b26-be19-dc6e9b67cd11">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -138,7 +138,7 @@ http://stat.kg]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="70c0bf6c-0ad1-419c-b59c-64ab2e8ef152">
+  <mes:MetadataSet structureRef="MDS1" setID="889fb8c7-f018-4d2e-b77f-fc9347f9c42a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -264,7 +264,7 @@ http://stat.kg]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="93fb9a8c-6efc-431e-8b16-95d49910b41e">
+  <mes:MetadataSet structureRef="MDS1" setID="806f6195-a12d-441c-be52-04bda82445d1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -390,7 +390,7 @@ http://stat.kg]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d011724e-10fb-490b-81b3-cc3653d46c9c">
+  <mes:MetadataSet structureRef="MDS1" setID="feef4233-8dfb-499b-bb5d-8cc68c5dde7c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

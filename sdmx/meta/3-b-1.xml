@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1626665718</mes:ID>
+    <mes:ID>IREF1627150557</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-19T03:35:18</mes:Prepared>
+    <mes:Prepared>2021-07-24T18:15:57</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="47adef9e-1b89-4ea7-83b2-f9c8359a86ef">
+  <mes:MetadataSet structureRef="MDS1" setID="4dc7f21d-4536-4704-8e02-b260bcd09b59">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -139,7 +139,7 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1980ed95-c13e-49c2-9959-2b8943b940a0">
+  <mes:MetadataSet structureRef="MDS1" setID="6bcaf2e7-bc12-427d-b935-5588f62dadcb">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -266,7 +266,7 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="04b3cab6-01d5-40f3-b3d9-4d6e673441ef">
+  <mes:MetadataSet structureRef="MDS1" setID="bd71f031-64ff-4501-b1e8-22b124600906">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -393,7 +393,7 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f8f62dff-1038-48eb-812f-fecc9123fd6d">
+  <mes:MetadataSet structureRef="MDS1" setID="e466d049-4f2d-4cc9-bc9e-106edf953d5a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -401,133 +401,6 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
           <gen:DataKey>
             <com:KeyValue id="SERIES">
               <com:Value>SH_ACS_VACN</com:Value>
-            </com:KeyValue>
-            <com:KeyValue id="REPORTING_TYPE">
-              <com:Value>N</com:Value>
-            </com:KeyValue>
-            <com:KeyValue id="REF_AREA">
-              <com:Value>KG</com:Value>
-            </com:KeyValue>
-          </gen:DataKey>
-        </gen:ReferenceValue>
-        <gen:ReferenceValue id="Dataflow">
-          <gen:ObjectReference>
-            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
-          </gen:ObjectReference>
-        </gen:ReferenceValue>
-      </gen:Target>
-      <gen:AttributeSet>
-        
-        <gen:ReportedAttribute id="SDG_GOAL">
-          
-          <com:Text xml:lang="en"><![CDATA[3: Ensure healthy lives and promote well-being for all at all ages]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="en"><![CDATA[3.b: Support the research and development of vaccines and medicines for the communicable and non‑communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="SDG_INDICATOR">
-          
-          <com:Text xml:lang="en"><![CDATA[3.b.1: Proportion of the target population covered by all vaccines included in their national programme]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division), SRS under GKR, MoH KR]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="CONTACT_NAME">
-          
-          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="CONTACT_PHONE">
-          
-          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="en"><![CDATA[Coverage of DTP containing vaccine (3rd dose): Percentage of surviving infants who received the 3 doses of diphtheria and tetanus toxoid with pertussis containing vaccine in a given year 
-Coverage of Measles containing vaccine (2nd dose): Percentage of children who received two dose of measles containing vaccine according to nationally recommended schedule through routine immunization services.
-Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percentage of surviving infants who received the recommended doses of pneumococcal conjugate vaccine.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="RATIONALE">
-          
-          <com:Text xml:lang="en"><![CDATA[Immunization is a proven tool for control and elimination of life-threatening communicable diseases and is one of the most cost-effective investments in health sector, which can be applied to even remote and most vulnerable populations.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="en"><![CDATA[Ministry of Health of the Kyrgyz Republic]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="en"><![CDATA[Административная отчетность МЗ]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="en"><![CDATA[Methodology estimates time series for national immunization coverage of target population with WHO recommended vaccines and those included in National Vaccines Calendar. Data have been produced and published annually since 2001. The methodology uses data reported by national health systems. Also administrative sources make it possible to calculate the coverage for each vaccine separately.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="REC_USE_LIM">
-          
-          <com:Text xml:lang="en"><![CDATA[Countries often relay on administrative coverage data, while WHO and UNICEF review and assess data from different sources including administrative systems and surveys. Differences between country produced and international estimates are mainly due to differences between coverage estimates from administrative system and survey results. In case the vaccine is not included in national immunization schedule the coverage from private sector will not be reflected.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="en"><![CDATA[Coverage data for different vaccines are collected annually and reviewed by WHO and UNICEF inter agency expert group and estimates made for each country and each year. Data are published both on WHO and UNICEF web sites. http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html http://www.data.unicef.org/child-health/immunization]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="COMPARABILITY">
-          
-          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic uses vaccines compliant with  national requirements and WHO recommendations, as well as with international GMP standards, and have undergone WHO pre-qualification procedures.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="en"><![CDATA[http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html, https://www.unicef.org/immunization/]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-      </gen:AttributeSet>
-    </gen:Report>
-  </mes:MetadataSet>
-  
-  <mes:MetadataSet structureRef="MDS1" setID="9a47cac5-fdae-47cd-9de6-fbd9f4366fe5">
-    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
-    <gen:Report id="SDG_META_RPT">
-      <gen:Target id="KEY_TARGET">
-        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
-          <gen:DataKey>
-            <com:KeyValue id="SERIES">
-              <com:Value>SH_ACS_HPV</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>

@@ -1,0 +1,1922 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1627150579</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-24T18:16:19</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="74a14e11-92f6-4017-82ac-5a3cf63919b3">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IS_TRP_MAILTKM</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[9.1. Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[9.1.2. Passenger and freight volumes, by mode of transport]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
+(Consumer Market, ICT and Tourism Statistics Division)  ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Mambetalieva V.T.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[vmambetalieva@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[324725, 0555 455010]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Passenger and freight volumes are measured by:  
+
+Freight transported (volume of goods transported) - quantity of goods transported in tons. Passenger transport - number of passengers carried over a certain period of time is counted by transport and communications.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The objective of transport statistics is to monitor facts and processes in transport (infrastructure size, mobile equipment, traffic volumes and other transport related indicators)as well as tasks in ensuring quality, objective and complete information received from enterprises and organizations; estimation of entrepreneurial activity (private persons) and compilation of consolidated data by statistical agencies according to unified methodology. Transport statistics do not limit to indicator, but also examine the reasons for deviations and availability of reserves.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator derived from the State statistical reports and results of sample surveys in road transport (freight and passenger) by private entrepreneurs (private persons) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Форму статистической отчетности (ежемесячно, ежеквартально и за год) представляют юридические лица, оказывающие транспортные услуги в районные отделы управления государственной статистики. Данные транспортных услуг, оказывающих индивидуальными предпринимателями и физическими лицами, формируются на основе итогов ежеквартальных выборочных обследований, проводимых специалистами органов государственной статистики.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Total (Wtotal) services (freight transportation) of road freight transport include:
+• total volume of goods transported by trucks, pickups and vans on passenger cars and motor trailers by specialized road transport enterprises (small, medium, large) (Vate);
+• total volume of goods carried out by trucks of country’s enterprises and organizations with freight road transport as a form of auxiliary activity (Vaa);
+• volume estimates (private persons) - truck owners doing business without legal entity (entrepreneur)  (Vpp)
+or Wtotal.= Vate + Vaa+ Vpp 
+Data on freight transported by specialized road transport enterprises are obtained from the monthly, quarterly and annual state statistical forms (Form №1-AUTO «Report on Urban and Road Transport», Form 6№5-AUTOM «Report on the Road Transport Production», Form №5-AX «Report on Road Transport Income and Expenditure»).
+Similarly volumes of goods turnover carried out by specialized road transport enterprises is determined (Form №1-AUTO, Form №65-AUTOM, Form №5-AX).
+Volume of freight transport (cargo turnover) at enterprises, organizations with road transport as a type of ancillary activity is estimated monthly (through quarterly sample survey); and annually according to the data of state statistical reports (Form №1-TP (SCO) «Report on Road Transport»).
+Additional calculation of volumes of commercial transport by entrepreneurs (private persons) - owners of trucks is based on a quarterly sample survey. 
+Total passenger transportation (Wpass.) by road includes:
+• Passenger transportation by buses of specialized road transport enterprises (small, medium, large) Vate (buses);
+• Transportation volumes by buses owned by citizens and buses rented to private persons Vpp (buses) and calculations of passenger car traffic of individual owners who have been allowed by the tax inspection authorities to provide services Vpp (taxi)
+or Wpass. = Vate (buses) + Vpp (buses) + Vpp (taxi) 
+Similar approach is used to calculate total passenger volumes.
+Data on passengers transported by buses of specialized road transport enterprises are obtained based on monthly, quarterly, annual state statistical reports - (Form №1-AUTO, Form №65-AUTOM, Form №5-AX).
+Same is used to calculate passengers transported by specialized motor transport enterprises.
+Volume of passengers transported by buses, taxis and passengers transported by individual entrepreneurs (private persons) is estimated based on quarterly sample survey data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Transport statistics focus on economic processes and phenomena occuring in transport enterprises and representing results of transport process and its implementation at a specific time and place.
+A system of indicators allows determining the volume, structure, dynamics and relationships of factors and production outcomes. Thus, statistics make it possible to quantify the relationships and patterns in transport industry.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. All data are analyzed for consistency.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Time series have been available since 1993. Data published in statistical bulletin «Basic Indicators of Trade and Services», compendium «Consumer Market of the Kyrgyz Republic» and on the NSC website]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="866cc010-df83-4fd5-9cb6-0cff24f52595">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IS_RDP_FRGVOL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[9.1. Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[9.1.2. Passenger and freight volumes, by mode of transport]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
+(Consumer Market, ICT and Tourism Statistics Division)  ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Mambetalieva V.T.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[vmambetalieva@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[324725, 0555 455010]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Passenger and freight volumes are measured by:  
+
+Freight transported (volume of goods transported) - quantity of goods transported in tons. Passenger transport - number of passengers carried over a certain period of time is counted by transport and communications.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The objective of transport statistics is to monitor facts and processes in transport (infrastructure size, mobile equipment, traffic volumes and other transport related indicators)as well as tasks in ensuring quality, objective and complete information received from enterprises and organizations; estimation of entrepreneurial activity (private persons) and compilation of consolidated data by statistical agencies according to unified methodology. Transport statistics do not limit to indicator, but also examine the reasons for deviations and availability of reserves.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator derived from the State statistical reports and results of sample surveys in road transport (freight and passenger) by private entrepreneurs (private persons) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Форму статистической отчетности (ежемесячно, ежеквартально и за год) представляют юридические лица, оказывающие транспортные услуги в районные отделы управления государственной статистики. Данные транспортных услуг, оказывающих индивидуальными предпринимателями и физическими лицами, формируются на основе итогов ежеквартальных выборочных обследований, проводимых специалистами органов государственной статистики.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Total (Wtotal) services (freight transportation) of road freight transport include:
+• total volume of goods transported by trucks, pickups and vans on passenger cars and motor trailers by specialized road transport enterprises (small, medium, large) (Vate);
+• total volume of goods carried out by trucks of country’s enterprises and organizations with freight road transport as a form of auxiliary activity (Vaa);
+• volume estimates (private persons) - truck owners doing business without legal entity (entrepreneur)  (Vpp)
+or Wtotal.= Vate + Vaa+ Vpp 
+Data on freight transported by specialized road transport enterprises are obtained from the monthly, quarterly and annual state statistical forms (Form №1-AUTO «Report on Urban and Road Transport», Form 6№5-AUTOM «Report on the Road Transport Production», Form №5-AX «Report on Road Transport Income and Expenditure»).
+Similarly volumes of goods turnover carried out by specialized road transport enterprises is determined (Form №1-AUTO, Form №65-AUTOM, Form №5-AX).
+Volume of freight transport (cargo turnover) at enterprises, organizations with road transport as a type of ancillary activity is estimated monthly (through quarterly sample survey); and annually according to the data of state statistical reports (Form №1-TP (SCO) «Report on Road Transport»).
+Additional calculation of volumes of commercial transport by entrepreneurs (private persons) - owners of trucks is based on a quarterly sample survey. 
+Total passenger transportation (Wpass.) by road includes:
+• Passenger transportation by buses of specialized road transport enterprises (small, medium, large) Vate (buses);
+• Transportation volumes by buses owned by citizens and buses rented to private persons Vpp (buses) and calculations of passenger car traffic of individual owners who have been allowed by the tax inspection authorities to provide services Vpp (taxi)
+or Wpass. = Vate (buses) + Vpp (buses) + Vpp (taxi) 
+Similar approach is used to calculate total passenger volumes.
+Data on passengers transported by buses of specialized road transport enterprises are obtained based on monthly, quarterly, annual state statistical reports - (Form №1-AUTO, Form №65-AUTOM, Form №5-AX).
+Same is used to calculate passengers transported by specialized motor transport enterprises.
+Volume of passengers transported by buses, taxis and passengers transported by individual entrepreneurs (private persons) is estimated based on quarterly sample survey data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Transport statistics focus on economic processes and phenomena occuring in transport enterprises and representing results of transport process and its implementation at a specific time and place.
+A system of indicators allows determining the volume, structure, dynamics and relationships of factors and production outcomes. Thus, statistics make it possible to quantify the relationships and patterns in transport industry.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. All data are analyzed for consistency.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Time series have been available since 1993. Data published in statistical bulletin «Basic Indicators of Trade and Services», compendium «Consumer Market of the Kyrgyz Republic» and on the NSC website]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="a6c5b248-ff01-4c76-8706-d774e74db043">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IS_RDP_PFVOL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[9.1. Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[9.1.2. Passenger and freight volumes, by mode of transport]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
+(Consumer Market, ICT and Tourism Statistics Division)  ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Mambetalieva V.T.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[vmambetalieva@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[324725, 0555 455010]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Passenger and freight volumes are measured by:  
+
+Freight transported (volume of goods transported) - quantity of goods transported in tons. Passenger transport - number of passengers carried over a certain period of time is counted by transport and communications.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The objective of transport statistics is to monitor facts and processes in transport (infrastructure size, mobile equipment, traffic volumes and other transport related indicators)as well as tasks in ensuring quality, objective and complete information received from enterprises and organizations; estimation of entrepreneurial activity (private persons) and compilation of consolidated data by statistical agencies according to unified methodology. Transport statistics do not limit to indicator, but also examine the reasons for deviations and availability of reserves.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator derived from the State statistical reports and results of sample surveys in road transport (freight and passenger) by private entrepreneurs (private persons) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Форму статистической отчетности (ежемесячно, ежеквартально и за год) представляют юридические лица, оказывающие транспортные услуги в районные отделы управления государственной статистики. Данные транспортных услуг, оказывающих индивидуальными предпринимателями и физическими лицами, формируются на основе итогов ежеквартальных выборочных обследований, проводимых специалистами органов государственной статистики.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Total (Wtotal) services (freight transportation) of road freight transport include:
+• total volume of goods transported by trucks, pickups and vans on passenger cars and motor trailers by specialized road transport enterprises (small, medium, large) (Vate);
+• total volume of goods carried out by trucks of country’s enterprises and organizations with freight road transport as a form of auxiliary activity (Vaa);
+• volume estimates (private persons) - truck owners doing business without legal entity (entrepreneur)  (Vpp)
+or Wtotal.= Vate + Vaa+ Vpp 
+Data on freight transported by specialized road transport enterprises are obtained from the monthly, quarterly and annual state statistical forms (Form №1-AUTO «Report on Urban and Road Transport», Form 6№5-AUTOM «Report on the Road Transport Production», Form №5-AX «Report on Road Transport Income and Expenditure»).
+Similarly volumes of goods turnover carried out by specialized road transport enterprises is determined (Form №1-AUTO, Form №65-AUTOM, Form №5-AX).
+Volume of freight transport (cargo turnover) at enterprises, organizations with road transport as a type of ancillary activity is estimated monthly (through quarterly sample survey); and annually according to the data of state statistical reports (Form №1-TP (SCO) «Report on Road Transport»).
+Additional calculation of volumes of commercial transport by entrepreneurs (private persons) - owners of trucks is based on a quarterly sample survey. 
+Total passenger transportation (Wpass.) by road includes:
+• Passenger transportation by buses of specialized road transport enterprises (small, medium, large) Vate (buses);
+• Transportation volumes by buses owned by citizens and buses rented to private persons Vpp (buses) and calculations of passenger car traffic of individual owners who have been allowed by the tax inspection authorities to provide services Vpp (taxi)
+or Wpass. = Vate (buses) + Vpp (buses) + Vpp (taxi) 
+Similar approach is used to calculate total passenger volumes.
+Data on passengers transported by buses of specialized road transport enterprises are obtained based on monthly, quarterly, annual state statistical reports - (Form №1-AUTO, Form №65-AUTOM, Form №5-AX).
+Same is used to calculate passengers transported by specialized motor transport enterprises.
+Volume of passengers transported by buses, taxis and passengers transported by individual entrepreneurs (private persons) is estimated based on quarterly sample survey data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Transport statistics focus on economic processes and phenomena occuring in transport enterprises and representing results of transport process and its implementation at a specific time and place.
+A system of indicators allows determining the volume, structure, dynamics and relationships of factors and production outcomes. Thus, statistics make it possible to quantify the relationships and patterns in transport industry.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. All data are analyzed for consistency.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Time series have been available since 1993. Data published in statistical bulletin «Basic Indicators of Trade and Services», compendium «Consumer Market of the Kyrgyz Republic» and on the NSC website]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="543fe5ff-c079-4b83-95ff-bb9ce28f7229">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IS_RDP_LULFRG</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[9.1. Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[9.1.2. Passenger and freight volumes, by mode of transport]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
+(Consumer Market, ICT and Tourism Statistics Division)  ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Mambetalieva V.T.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[vmambetalieva@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[324725, 0555 455010]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Passenger and freight volumes are measured by:  
+
+Freight transported (volume of goods transported) - quantity of goods transported in tons. Passenger transport - number of passengers carried over a certain period of time is counted by transport and communications.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The objective of transport statistics is to monitor facts and processes in transport (infrastructure size, mobile equipment, traffic volumes and other transport related indicators)as well as tasks in ensuring quality, objective and complete information received from enterprises and organizations; estimation of entrepreneurial activity (private persons) and compilation of consolidated data by statistical agencies according to unified methodology. Transport statistics do not limit to indicator, but also examine the reasons for deviations and availability of reserves.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator derived from the State statistical reports and results of sample surveys in road transport (freight and passenger) by private entrepreneurs (private persons) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Форму статистической отчетности (ежемесячно, ежеквартально и за год) представляют юридические лица, оказывающие транспортные услуги в районные отделы управления государственной статистики. Данные транспортных услуг, оказывающих индивидуальными предпринимателями и физическими лицами, формируются на основе итогов ежеквартальных выборочных обследований, проводимых специалистами органов государственной статистики.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Total (Wtotal) services (freight transportation) of road freight transport include:
+• total volume of goods transported by trucks, pickups and vans on passenger cars and motor trailers by specialized road transport enterprises (small, medium, large) (Vate);
+• total volume of goods carried out by trucks of country’s enterprises and organizations with freight road transport as a form of auxiliary activity (Vaa);
+• volume estimates (private persons) - truck owners doing business without legal entity (entrepreneur)  (Vpp)
+or Wtotal.= Vate + Vaa+ Vpp 
+Data on freight transported by specialized road transport enterprises are obtained from the monthly, quarterly and annual state statistical forms (Form №1-AUTO «Report on Urban and Road Transport», Form 6№5-AUTOM «Report on the Road Transport Production», Form №5-AX «Report on Road Transport Income and Expenditure»).
+Similarly volumes of goods turnover carried out by specialized road transport enterprises is determined (Form №1-AUTO, Form №65-AUTOM, Form №5-AX).
+Volume of freight transport (cargo turnover) at enterprises, organizations with road transport as a type of ancillary activity is estimated monthly (through quarterly sample survey); and annually according to the data of state statistical reports (Form №1-TP (SCO) «Report on Road Transport»).
+Additional calculation of volumes of commercial transport by entrepreneurs (private persons) - owners of trucks is based on a quarterly sample survey. 
+Total passenger transportation (Wpass.) by road includes:
+• Passenger transportation by buses of specialized road transport enterprises (small, medium, large) Vate (buses);
+• Transportation volumes by buses owned by citizens and buses rented to private persons Vpp (buses) and calculations of passenger car traffic of individual owners who have been allowed by the tax inspection authorities to provide services Vpp (taxi)
+or Wpass. = Vate (buses) + Vpp (buses) + Vpp (taxi) 
+Similar approach is used to calculate total passenger volumes.
+Data on passengers transported by buses of specialized road transport enterprises are obtained based on monthly, quarterly, annual state statistical reports - (Form №1-AUTO, Form №65-AUTOM, Form №5-AX).
+Same is used to calculate passengers transported by specialized motor transport enterprises.
+Volume of passengers transported by buses, taxis and passengers transported by individual entrepreneurs (private persons) is estimated based on quarterly sample survey data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Transport statistics focus on economic processes and phenomena occuring in transport enterprises and representing results of transport process and its implementation at a specific time and place.
+A system of indicators allows determining the volume, structure, dynamics and relationships of factors and production outcomes. Thus, statistics make it possible to quantify the relationships and patterns in transport industry.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. All data are analyzed for consistency.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Time series have been available since 1993. Data published in statistical bulletin «Basic Indicators of Trade and Services», compendium «Consumer Market of the Kyrgyz Republic» and on the NSC website]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="eeb93d48-c373-425c-bf6a-1b5b078e863e">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IS_RDP_PORFVOL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[9.1. Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[9.1.2. Passenger and freight volumes, by mode of transport]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
+(Consumer Market, ICT and Tourism Statistics Division)  ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Mambetalieva V.T.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[vmambetalieva@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[324725, 0555 455010]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Passenger and freight volumes are measured by:  
+
+Freight transported (volume of goods transported) - quantity of goods transported in tons. Passenger transport - number of passengers carried over a certain period of time is counted by transport and communications.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The objective of transport statistics is to monitor facts and processes in transport (infrastructure size, mobile equipment, traffic volumes and other transport related indicators)as well as tasks in ensuring quality, objective and complete information received from enterprises and organizations; estimation of entrepreneurial activity (private persons) and compilation of consolidated data by statistical agencies according to unified methodology. Transport statistics do not limit to indicator, but also examine the reasons for deviations and availability of reserves.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data for indicator derived from the State statistical reports and results of sample surveys in road transport (freight and passenger) by private entrepreneurs (private persons) ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Форму статистической отчетности (ежемесячно, ежеквартально и за год) представляют юридические лица, оказывающие транспортные услуги в районные отделы управления государственной статистики. Данные транспортных услуг, оказывающих индивидуальными предпринимателями и физическими лицами, формируются на основе итогов ежеквартальных выборочных обследований, проводимых специалистами органов государственной статистики.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Total (Wtotal) services (freight transportation) of road freight transport include:
+• total volume of goods transported by trucks, pickups and vans on passenger cars and motor trailers by specialized road transport enterprises (small, medium, large) (Vate);
+• total volume of goods carried out by trucks of country’s enterprises and organizations with freight road transport as a form of auxiliary activity (Vaa);
+• volume estimates (private persons) - truck owners doing business without legal entity (entrepreneur)  (Vpp)
+or Wtotal.= Vate + Vaa+ Vpp 
+Data on freight transported by specialized road transport enterprises are obtained from the monthly, quarterly and annual state statistical forms (Form №1-AUTO «Report on Urban and Road Transport», Form 6№5-AUTOM «Report on the Road Transport Production», Form №5-AX «Report on Road Transport Income and Expenditure»).
+Similarly volumes of goods turnover carried out by specialized road transport enterprises is determined (Form №1-AUTO, Form №65-AUTOM, Form №5-AX).
+Volume of freight transport (cargo turnover) at enterprises, organizations with road transport as a type of ancillary activity is estimated monthly (through quarterly sample survey); and annually according to the data of state statistical reports (Form №1-TP (SCO) «Report on Road Transport»).
+Additional calculation of volumes of commercial transport by entrepreneurs (private persons) - owners of trucks is based on a quarterly sample survey. 
+Total passenger transportation (Wpass.) by road includes:
+• Passenger transportation by buses of specialized road transport enterprises (small, medium, large) Vate (buses);
+• Transportation volumes by buses owned by citizens and buses rented to private persons Vpp (buses) and calculations of passenger car traffic of individual owners who have been allowed by the tax inspection authorities to provide services Vpp (taxi)
+or Wpass. = Vate (buses) + Vpp (buses) + Vpp (taxi) 
+Similar approach is used to calculate total passenger volumes.
+Data on passengers transported by buses of specialized road transport enterprises are obtained based on monthly, quarterly, annual state statistical reports - (Form №1-AUTO, Form №65-AUTOM, Form №5-AX).
+Same is used to calculate passengers transported by specialized motor transport enterprises.
+Volume of passengers transported by buses, taxis and passengers transported by individual entrepreneurs (private persons) is estimated based on quarterly sample survey data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Transport statistics focus on economic processes and phenomena occuring in transport enterprises and representing results of transport process and its implementation at a specific time and place.
+A system of indicators allows determining the volume, structure, dynamics and relationships of factors and production outcomes. Thus, statistics make it possible to quantify the relationships and patterns in transport industry.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out. All data are analyzed for consistency.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Time series have been available since 1993. Data published in statistical bulletin «Basic Indicators of Trade and Services», compendium «Consumer Market of the Kyrgyz Republic» and on the NSC website]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="254144dc-06ae-495b-96c6-6e48c36ef56e">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>NV_IND_MANF</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[9.2.1. Manufacturing value added as a proportion of GDP and per capita]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
+(Economic Statistics and National Accounts Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Isenkulova E. K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[eisenkulova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 95]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Manufacturing value added (MVA) as a proportion of gross domestic product (GDP) is a ratio between MVA and GDP in the country.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[MVA is a well-recognized and widely used indicator by researchers and policy makers to assess the level of industrialization of a country. The share of MVA in GDP reflects the role of manufacturing in the economy and a country’s national development in general. MVA per capita is the basic indicator of a country’s level of industrialization adjusted for the size of the economy. One of the statistical uses of MVA per capita is classifying country groups according to the stage of industrial development.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee collects, processes and calculates the data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики. Периодичность: квартальная, годовая.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[MVA proportion to GDP is calculated by dividing MVA by GDP of the whole country.
+MVA share с =GVAс/GDP*100 
+where, 
+MVA share с –  Manufacturing value added share in GDP; 
+MVAс – manufacturing value added; 
+GDP – gross domestic product.
+MVA per capita is the ratio of total gross manufacturing value added over a period of time to the de-facto population.
+MVAcPC=MVAc/P 
+where, 
+MVAcPC – manufacturing value added per capita; 
+MVAc– manufacturing value added; 
+P – de-facto population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on manufactured goods are collected and compiled according to the State Classification of Economic Activities (SCEA3/NACE2). GVA is calculated in accordance with the 2008 SNA standards.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is new, data for calculation have been available since 1993 onwards to be calculated and posted on the NSC website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Globally GDP per capita estimations are based on the resident population]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="5128515f-6b43-4050-9387-63e0fc155549">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>NV_IND_MANFPC</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[9.2.1. Manufacturing value added as a proportion of GDP and per capita]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
+(Economic Statistics and National Accounts Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Isenkulova E. K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[eisenkulova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 95]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Manufacturing value added (MVA) as a proportion of gross domestic product (GDP) is a ratio between MVA and GDP in the country.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[MVA is a well-recognized and widely used indicator by researchers and policy makers to assess the level of industrialization of a country. The share of MVA in GDP reflects the role of manufacturing in the economy and a country’s national development in general. MVA per capita is the basic indicator of a country’s level of industrialization adjusted for the size of the economy. One of the statistical uses of MVA per capita is classifying country groups according to the stage of industrial development.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee collects, processes and calculates the data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики. Периодичность: квартальная, годовая.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[MVA proportion to GDP is calculated by dividing MVA by GDP of the whole country.
+MVA share с =GVAс/GDP*100 
+where, 
+MVA share с –  Manufacturing value added share in GDP; 
+MVAс – manufacturing value added; 
+GDP – gross domestic product.
+MVA per capita is the ratio of total gross manufacturing value added over a period of time to the de-facto population.
+MVAcPC=MVAc/P 
+where, 
+MVAcPC – manufacturing value added per capita; 
+MVAc– manufacturing value added; 
+P – de-facto population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on manufactured goods are collected and compiled according to the State Classification of Economic Activities (SCEA3/NACE2). GVA is calculated in accordance with the 2008 SNA standards.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is new, data for calculation have been available since 1993 onwards to be calculated and posted on the NSC website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Globally GDP per capita estimations are based on the resident population]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="a35f439e-9e0f-49ae-b8b5-a402342606b4">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>NV_IND_MANF_CD</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[9.2.1. Manufacturing value added as a proportion of GDP and per capita]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
+(Economic Statistics and National Accounts Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Isenkulova E. K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[eisenkulova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 95]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Manufacturing value added (MVA) as a proportion of gross domestic product (GDP) is a ratio between MVA and GDP in the country.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[MVA is a well-recognized and widely used indicator by researchers and policy makers to assess the level of industrialization of a country. The share of MVA in GDP reflects the role of manufacturing in the economy and a country’s national development in general. MVA per capita is the basic indicator of a country’s level of industrialization adjusted for the size of the economy. One of the statistical uses of MVA per capita is classifying country groups according to the stage of industrial development.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee collects, processes and calculates the data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики. Периодичность: квартальная, годовая.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[MVA proportion to GDP is calculated by dividing MVA by GDP of the whole country.
+MVA share с =GVAс/GDP*100 
+where, 
+MVA share с –  Manufacturing value added share in GDP; 
+MVAс – manufacturing value added; 
+GDP – gross domestic product.
+MVA per capita is the ratio of total gross manufacturing value added over a period of time to the de-facto population.
+MVAcPC=MVAc/P 
+where, 
+MVAcPC – manufacturing value added per capita; 
+MVAc– manufacturing value added; 
+P – de-facto population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Data on manufactured goods are collected and compiled according to the State Classification of Economic Activities (SCEA3/NACE2). GVA is calculated in accordance with the 2008 SNA standards.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is new, data for calculation have been available since 1993 onwards to be calculated and posted on the NSC website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Globally GDP per capita estimations are based on the resident population]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="d2135587-5acc-4265-a40c-a1dd1dc27efd">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>GB_POP_SCIERD</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[9.5: Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[9.5.2: Researchers (in full-time equivalent) per million inhabitants]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of KR (Social Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Rakhmanova Zh.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[rakhmanovazz@mail.ru]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 52]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The researchers (in full-time equivalent) per million inhabitants is a direct measure of the number of research and development workers per 1 million people.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is a direct measure of the number of research and development workers per 1 million people.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data obtained from the State statistical form №1-science «Report of organization(s) on scientific and technical works», population statistics of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ Ежегодно представляют юридические лица, их структурные подразделения, выполняющие научные исследования и разработки, форму №1-наука территориальному органу государственной статистики по месту нахождения ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Researchers (in full-time equivalent) per million inhabitants determined by number of researchers engaged in R&D to the total resident population.
+
+Indicator is calculated by:
+y = n / N * 1000000 , where 
+n = researchers engaged in R&D,
+N = total resident population.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Research and development (R&D) data need to be collected through surveys, which are expensive, and are not done on a regular basis in many developing countries. Furthermore, (developing) countries do not always cover all sectors of performance. In particular the business sector is not always covered.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of recorded data is carried out.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
+www.uis.unesco.org]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="369d5035-b926-4ca6-a2f6-e360030ad854">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>NV_IND_SSIS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[9.3 Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[9.3.1.  Proportion of small-scale industries in total industry value added]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic
+(Economic Statistics and National Accounts Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Isenkulova E. K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[eisenkulova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 95]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of small-scale industries (up to 50 persons employed in production and up to 15 persons employed in services) gross value added to gross value added of industry.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Small-scale industry statistics examine the quantitative aspects of operations and development of small business entities in relationship to quality. Small-industry statistics collect and process statistical indicators to analyze financial and economic activities of small business entities of all types of activities, including small industrial enterprises, macro-economic analysis and system of national accounts. A small-scale industry is one of the key elements of the market structure. Establishing small enterprises is a prerequisite for competitive environment, job creation and bringing in new goods and services. Small enterprises are better suited than large and medium-sized enterprises to respond quickly to market changes diversify production and innovate. Development of statistical methodology requires a clear identification of economic entities.
+Small-scale industry entities are private and legal persons registered in accordance with procedures established by law and exercising at their own risk and under their property liability activities not prohibited by law, irrespective of their organizational and legal forms and forms of ownership.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee collects, processes and calculates the data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики. Периодичность: квартальная, годовая.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The proportion of “small-scale industries” in total value added is an indicator calculated as a share of value added for small-scale manufacturing enterprises in total manufacturing value added:
+GVA share micro ent = GVA micro ent/ GVA manufactory * 100,
+where 
+GVA share micro ent –  proportion of “small-scale industries” GVA;
+GVA micro ent - “small-scale industries” GVA;
+GVA manufactory - MVA.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[The definition of size class in many countries is tied up with the legal and policy framework of the country. It has implications on registration procedure, taxation and different waivers aimed to promote “small-scale industries”. The main limitation of existing national data is varying size classes by country indicating that data are obtained from different target populations. Data of one country are not comparable to another.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ Logical and arithmetic control of recorded data is carried out.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[NSC sectoral statistics used]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="d248daf5-d163-4799-94ae-21243414fa45">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IT_MOB_2GNTWK</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[9.c Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[9.c.1 Proportion of population covered by a mobile network, by technology]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[State Committee of Information Technologies and Communications of the Kyrgyz republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Langovaya A.A.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[a.langovaya@nas.gov.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 560109]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of population covered by a mobile network, broken down by technology, refers to the percentage of inhabitants living within range of a mobile-cellular signal, irrespective of whether or not they are mobile phone subscribers or users.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The percentage of the population covered by a mobile cellular network can be considered as a minimum indicator for ICT access since it provides people with the possibility to subscribe to and use mobile-cellular services to communicate. Over the last decade, mobile-cellular networks have expanded rapidly and helped overcome very basic infrastructure barriers that existed when fixed-telephone networks often limited to urban and highly populated areas - were the dominant telecommunication infrastructure.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is calculated by dividing the number of inhabitants within range of a mobile-cellular signal by the total population and multiplying by 100.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="5ef59175-1304-401b-974a-236a6ba8a079">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IT_MOB_3GNTWK</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[9.c Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[9.c.1 Proportion of population covered by a mobile network, by technology]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[State Committee of Information Technologies and Communications of the Kyrgyz republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Langovaya A.A.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[a.langovaya@nas.gov.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 560109]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of population covered by a mobile network, broken down by technology, refers to the percentage of inhabitants living within range of a mobile-cellular signal, irrespective of whether or not they are mobile phone subscribers or users.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The percentage of the population covered by a mobile cellular network can be considered as a minimum indicator for ICT access since it provides people with the possibility to subscribe to and use mobile-cellular services to communicate. Over the last decade, mobile-cellular networks have expanded rapidly and helped overcome very basic infrastructure barriers that existed when fixed-telephone networks often limited to urban and highly populated areas - were the dominant telecommunication infrastructure.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is calculated by dividing the number of inhabitants within range of a mobile-cellular signal by the total population and multiplying by 100.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="171818b6-7581-4e0e-8b6f-5efd0e34a235">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IT_MOB_4GNTWK</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[9.c Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[9.c.1 Proportion of population covered by a mobile network, by technology]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[State Committee of Information Technologies and Communications of the Kyrgyz republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Langovaya A.A.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[a.langovaya@nas.gov.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 560109]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Proportion of population covered by a mobile network, broken down by technology, refers to the percentage of inhabitants living within range of a mobile-cellular signal, irrespective of whether or not they are mobile phone subscribers or users.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The percentage of the population covered by a mobile cellular network can be considered as a minimum indicator for ICT access since it provides people with the possibility to subscribe to and use mobile-cellular services to communicate. Over the last decade, mobile-cellular networks have expanded rapidly and helped overcome very basic infrastructure barriers that existed when fixed-telephone networks often limited to urban and highly populated areas - were the dominant telecommunication infrastructure.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is calculated by dividing the number of inhabitants within range of a mobile-cellular signal by the total population and multiplying by 100.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="5775247c-5364-4a80-a626-193b8d7bf0cf">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_MANF</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[9.2:  Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[9.2.2: Manufacturing employment as a proportion of total employment]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Labour and Employment Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Jailobaeva G.Zh.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[jailobaeva@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 626076]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Manufacturing employment as a proportion of total employment, expressed in percentages]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator represents the contribution of manufacturing in job creation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey (Form №4 "Employment and unemployment")]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Опрос населения проводится интервьюерами путем непосредственного посещения домашних хозяйств и записи сведений в планшет по вопросникам выборочного обследования, утвержденные Постановлением Нацстаткома Кыргызской Республики. При непосредственном посещении домашнего хозяйства ответы на вопросы анкеты могут быть получены как от самого респондента, так и со слов совместно проживающих членов домашнего хозяйства в случае отсутствия респондента в момент опроса. Ежеквартально для проведения обследования отобрано 5016 домохозяйств. Ежегодная ротация выборки составляет 25 процентов.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[To calculate this indicator (according to ILO employment definitions), data on total employment by economic activity are required. These data are collected nationally through the Integrated Household Budget and Labour Force Sample Survey.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data quality is ensured by the Integrated Household Budget and Labour Force Sample Survey organized in accordance with international recommendations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[NSC KR collects the data through the Integrated Household Budget and Labour Force Sample Survey.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data collected are comparable across countries as the Integrated Household Budget and Labour Force Sample Survey organized in accordance with international recommendations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io
+
+Data published in statistical compendiums "Employment and unemployment", "Women and men in the Kyrgyz Republic" and "Kyrgyzstan in figures"]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="69060cf5-d4a3-4d6e-b27d-b11821aa61aa">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>GB_XPD_RSDV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[9: Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[9.5 Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development (R&D) workers per 1 million people and public and private research and development (R&D) spending]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[9.5.1 Research and development expenditure as a proportion of GDP]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Ministry of Finance of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Research and development (R&D) expenditure as a proportion of Gross Domestic Product (GDP) is the amount of R&D expenditure divided by the total output of the economy.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is a direct measure of Research and development (R&D) spending.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Сумма расходов на исследования и разработки (НИОКР) делится на объем валового внутреннего продукта (ВВП), выражается в процентах]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Research and development (R&D) spending is divided by gross domestic product (GDP), expressed as a percentage]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[KR National SDG Reporting Platform:  https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

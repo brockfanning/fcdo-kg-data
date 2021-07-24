@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1626665724</mes:ID>
+    <mes:ID>IREF1627150579</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-19T03:35:24</mes:Prepared>
+    <mes:Prepared>2021-07-24T18:16:19</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4fff68e2-9293-46df-9805-a469475da11c">
+  <mes:MetadataSet structureRef="MDS1" setID="c44cbe05-f247-4cbb-87d7-bd2d70850714">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -121,7 +121,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6f942531-ee74-442b-9906-df67157b88c5">
+  <mes:MetadataSet structureRef="MDS1" setID="47c6b65b-7080-4694-a63a-47b4947f6c52">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -230,7 +230,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="20b220d4-4118-4586-b618-d7c7c19bc23e">
+  <mes:MetadataSet structureRef="MDS1" setID="d67ce6e6-58f7-4cc5-9e89-d7ab19961297">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -339,7 +339,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0f79be25-dbb4-4363-8bf8-e006952fbe54">
+  <mes:MetadataSet structureRef="MDS1" setID="503a5875-f186-4511-adff-79972e0bffc5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

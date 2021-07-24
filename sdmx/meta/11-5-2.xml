@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1626665718</mes:ID>
+    <mes:ID>IREF1627150557</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-19T03:35:18</mes:Prepared>
+    <mes:Prepared>2021-07-24T18:15:57</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,146 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9207e830-453b-4580-b81d-7fc72246fea9">
-    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
-    <gen:Report id="SDG_META_RPT">
-      <gen:Target id="KEY_TARGET">
-        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
-          <gen:DataKey>
-            <com:KeyValue id="SERIES">
-              <com:Value>VC_DSR_GDPLS</com:Value>
-            </com:KeyValue>
-            <com:KeyValue id="REPORTING_TYPE">
-              <com:Value>N</com:Value>
-            </com:KeyValue>
-            <com:KeyValue id="REF_AREA">
-              <com:Value>KG</com:Value>
-            </com:KeyValue>
-          </gen:DataKey>
-        </gen:ReferenceValue>
-        <gen:ReferenceValue id="Dataflow">
-          <gen:ObjectReference>
-            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
-          </gen:ObjectReference>
-        </gen:ReferenceValue>
-      </gen:Target>
-      <gen:AttributeSet>
-        
-        <gen:ReportedAttribute id="SDG_GOAL">
-          
-          <com:Text xml:lang="en"><![CDATA[Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable ]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="SDG_TARGET">
-          
-          <com:Text xml:lang="en"><![CDATA[11.5 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="SDG_INDICATOR">
-          
-          <com:Text xml:lang="en"><![CDATA[11.5.2 Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          
-          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Sustainable Development and Environment Statistics Department) ]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="CONTACT_NAME">
-          
-          <com:Text xml:lang="en"><![CDATA[N.K. Kerimalieva]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="CONTACT_EMAIL">
-          
-          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="CONTACT_PHONE">
-          
-          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          
-          <com:Text xml:lang="en"><![CDATA[Direct economic loss: the monetary value of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="RATIONALE">
-          
-          <com:Text xml:lang="en"><![CDATA[На данные об ущербе от катастроф существенное влияние оказывают крупномасштабные катастрофические события, которые представляют собой серьезные последствия. МСУОБ ООН рекомендует странам сообщать данные о событиях, чтобы дополнительный анализ мог быть осуществлен путем включения и исключения таких катастрофических событий, которые могут представлять серьезные последствия.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          
-          <com:Text xml:lang="en"><![CDATA[The Ministry of Emergency Situations annually provides consolidaterd information according to the state statistical reporting format No. 1-ES.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          
-          <com:Text xml:lang="en"><![CDATA[Основными органами, устанавливающими факт возникновения ЧС с указанием вида, масштаба и характера ущерба от ЧС являются, Комиссии по Гражданской защите районов, городов. Структура и состав комиссий по ГЗ могут быть разными и включаются все заинтересованные государственные органы, службы по ГЗ, крупные организации, ОМСУ, представители учреждений, предприятий в зависимости от угроз возникновения ЧС. Комиссии по Гражданской защите районов, городов после каждого ЧС определяет и устанавливает нанесенный ущерб. 
-
-Комиссионный метод оценки ущерба начинается также с момента возникновения ЧС, носит объемный характер, учитывающий все обстоятельства и характер произошедшего вида ЧС. Имеется типовой акт комиссии по Гражданской защите. Время, отведенное на работу комиссии, параметры измерений не ограничены, длительны и акты комиссии по Гражданской защите наиболее информативны в вопросах ущерба. Все данные об ущербе из типового акта комиссии по гражданской защите переносятся в государственную статистическую форму отчетности №1-ЧС и обобщаются на национальном уровне в МЧС КР (2 раза в год) и передаются в Национальный статистический комитет КР один раз в год 20 февраля (начиная с 2018 года).]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="DATA_COMP">
-          
-          <com:Text xml:lang="en"><![CDATA[It will be calculated as the total direct economic loss in a country divided by total global GDP.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="REC_USE_LIM">
-          
-          <com:Text xml:lang="en"><![CDATA[Data on losses attributed to natural disasters significantly depend on large-scale catastrophic events, which are an exception. UNISDR recommends the countries to report data on such events to include or exclude them from the analysis.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="QUALITY_ASSURE">
-          
-          <com:Text xml:lang="en"><![CDATA[The Kyrgyz national disaster loss database usually registers physical damage value (housing unit loss, infrastructure loss etc.), which needs conversion to monetary value according to the UNISDR methodology. The converted global value is divided by global GDP (inflation adjusted, constant USD).]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="COVERAGE">
-          
-          <com:Text xml:lang="en"><![CDATA[Отчетность по показателю представляется МЧС КР в Нацстатком КР по Матрице инвентаризации и адаптации задач и показателей Целей устойчивого развития, а также по форме №1-ЧС. Данные представлены на сайте НСК КР, http://www.stat.kg/ru/, раздел ЦУР, Матрица инвентаризации и адаптации задач и показателей Целей устойчивого развития и раздел отчетность, Экологическая статистика.    
-В онлайн режиме на сайте мониторинга Сендая. https://sendaicommitments.unisdr.org 
-
-Примечание:
-До введения государственной статистической формы отчетности №1-ЧС, были данные во временных рядах: с 1990 по 2013, и до 2017 года: Национальная база данных об авариях, то есть в Национальной базе данных об авариях недостающие значения и 0 или пустые значения считались ранее эквивалентными. 
-
-В настоящее время данные по ущербу в соотношении к ВВП доступны на сайте НСК КР в разделе ЦУР, динамические таблицы по показателю 11.5.2. Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="COMPARABILITY">
-          
-          <com:Text xml:lang="en"><![CDATA[Данные сопоставимы и представляются данные в систему онлайн мониторинга Сендайской рамочной программы.]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-        <gen:ReportedAttribute id="OTHER_DOC">
-          
-          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
-          
-        </gen:ReportedAttribute>
-        
-      </gen:AttributeSet>
-    </gen:Report>
-  </mes:MetadataSet>
-  
-  <mes:MetadataSet structureRef="MDS1" setID="658b5543-5600-4311-bbb0-cc59bb925ba0">
+  <mes:MetadataSet structureRef="MDS1" setID="9a10996d-9511-4a21-8237-436302ef47c3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -290,7 +151,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a2662ba1-93f7-402d-bf82-5438e13b8adb">
+  <mes:MetadataSet structureRef="MDS1" setID="748859c7-97c7-4537-a07a-cf8d45d94a74">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -429,7 +290,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f80ab522-2108-4f16-b512-52eb42738c39">
+  <mes:MetadataSet structureRef="MDS1" setID="a8c9980e-4248-47b1-be8a-d5067ef3cf89">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -568,7 +429,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="06c6928d-768e-4de3-993d-44e13c4f69c0">
+  <mes:MetadataSet structureRef="MDS1" setID="71ecc421-798e-4ad4-89c7-50c017978573">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -707,7 +568,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e6cb0f79-5b8a-4f77-a14e-d6cb8ea043da">
+  <mes:MetadataSet structureRef="MDS1" setID="f85863b8-3b51-4fa6-941f-991074886622">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -846,7 +707,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3c89cb8d-a2e9-45ee-aad3-535cbf4c4ae3">
+  <mes:MetadataSet structureRef="MDS1" setID="d168fe12-cd08-42ec-84ab-f15efce4e200">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -985,7 +846,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7a48ac70-d490-4333-ba42-cf08042366f5">
+  <mes:MetadataSet structureRef="MDS1" setID="0f796f3a-b2ea-49b2-80f2-956138c2f5ca">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1124,7 +985,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="92d94608-0b4b-4b40-b22a-6766c5f0d4e4">
+  <mes:MetadataSet structureRef="MDS1" setID="c0f6f064-307c-479d-a1b2-27baaf0490d4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1263,7 +1124,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b121f913-2980-4d74-8816-e00e8bc071b2">
+  <mes:MetadataSet structureRef="MDS1" setID="c9f8dadc-9283-4da1-9773-04596c479e0e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1402,7 +1263,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="59bbd0a2-b86f-48ca-90bb-d06eb43b3c55">
+  <mes:MetadataSet structureRef="MDS1" setID="2dbe6ade-0923-46d0-bbd3-4ea6cede8177">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1541,7 +1402,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ec30d243-f8ed-4f73-8366-dbd592604cc9">
+  <mes:MetadataSet structureRef="MDS1" setID="61327def-c154-444d-ac44-d7f74852623f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1680,7 +1541,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="19e96a56-1805-4324-9381-48f9cfe90e00">
+  <mes:MetadataSet structureRef="MDS1" setID="c801e963-159f-4807-9c14-ba43962505b2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1819,7 +1680,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="dc1d5abc-53dd-42d7-bb26-711752a9ba87">
+  <mes:MetadataSet structureRef="MDS1" setID="979b3dba-88d4-467f-8621-fe85eb9672e6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1958,7 +1819,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="927f9967-9227-48de-9423-d7f654d396c7">
+  <mes:MetadataSet structureRef="MDS1" setID="1d4ca496-eeab-4a31-ba6d-12b409283745">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

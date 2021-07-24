@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1626665718</mes:ID>
+    <mes:ID>IREF1627150557</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-19T03:35:18</mes:Prepared>
+    <mes:Prepared>2021-07-24T18:15:57</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,6 +11,111 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="c1a1fa67-eee8-4cb7-ac0d-c3ab1ab3bfd8">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_080901_01</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[8. Содействие поступательному, всеохватному и устойчивому экономическому росту, полной и производительной занятости и достойной работе для всех ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[8.9 К 2030 году обеспечить разработку и осуществление стратегий поощрения устойчивого туризма, который способствует созданию рабочих мест, развитию местной культуры и производству местной продукции]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[8.9.1.1 Непосредственный вклад туризма в ВВП в процентном отношении к совокупному ВВП и по темпам роста]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ Национальный статистический комитет Кыргызской Республики]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Исенкулова Э. К.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[eisenkulova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 95]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[ Непосредственный вклад туризма в ВВП в процентном отношении к совокупному ВВП и по темпам роста]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный статистический комитет Кыргызской Республики ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Основными источниками информации для определения объемов производства является статистическая отчетность по формам № 3-услуги, 5-з (торг), 1-торг, 5-з, № 1-туризм, 1-ФХД Микро и др. Промежуточное потребление по вышеуказанным видам деятельности рассчитывается на основе данных статистической отчетности по формам № 5-з, 5-з (торг),  1-1-ФХД Микро и др., содержащим данные о доходах и составе расходов. Далее, полученная структура промежуточного потребления накладывается на весь выпуск вышеуказанных видов экономической деятельности.                               Валовая добавленная стоимость в сфере туризма определяется по видам экономической деятельности как разность между стоимостью выпуска и промежуточного потребления и рассчитывается в текущих ценах с квартальной и  годовой периодичностью.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Выпуск отрасли туризма складываются из отчетов предприятий, организаций и учреждений, оказывающих туристские услуги, а также тех предприятий и организаций, для которых, туризм не является основным видом деятельности. Для определения объема валового выпуска по туризму применяется производственный метод.                                                                             Выпуск хозрасчетных предприятий и организаций, оказывающих туристские услуги складывается из:                                                                                        -доходов поступивших от перевозки туристов;
+- оборотов ресторанов, баров, столовых и других предприятий по поставке готовой пищи;
+- объемов продаж товаров в сфере туризма (валового дохода или торговой наценки);                                                                                                              - туристско-экскурсионных, санаторно-курортных, оздоровительных услуг; 
+- услуг гостиниц; 
+- объемов производства товаров для туризма.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
   
 </mes:GenericMetadata>
         

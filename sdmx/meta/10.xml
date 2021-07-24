@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1627150557</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-24T18:15:57</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="6c4c112d-af6d-450c-a2e0-d89f1c65274f">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_100301_1A1</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[10. Сокращение неравенства внутри стран и между ними ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[10.3 Обеспечить равенство возможностей и уменьшить неравенство результатов, в том числе путем отмены дискриминационных законов, политики и практики и содействия принятию соответствующего законодательства, политики и мер в этом направлении ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[10.3.1.1a Количество обращений к Омбудсмену, из них рассмотренных и удовлетворенных]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Акыйкатчы (Омбудсмен) Кыргызской Республики ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Кереметкан Келсинбек кызы (Заведующая отделом приема обращений граждан и документационному обеспечению)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ombudsman@inbox.ru, keremetk@gmail.com]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0312-66-32-80,  0551-88-82-89]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Омбудсмен (Акыйкатчы) рассматривает заявления и жалобы граждан Кыргызской Республики, находящихся в Кыргызской Республике иностранцев и лиц без гражданства либо их представителей, неправительственных организаций, касающиеся решений или действий (бездействия) государственных органов и органов местного самоуправления, государственных и негосударственных организаций, учреждений, предприятий, должностных лиц, государственных служащих, нарушающих права и свободы человека и гражданина, установленные законодательством Кыргызской Республики, международными договорами и соглашениями, участницей которых является Кыргызская Республика.                                                      В 2019 году на имя Акыйкатчы (Омбудсмена) поступило 3 тыс. 923 письменных обращения от граждан республики и от граждан зарубежных стран, из них 2 тыс. 595 (66,1%) – в Центральный аппарат Акыйкатчы (Омбудсмена) Кыргызской Республики. В их числе 220 (5,6%)– коллективные, подписанные 1784 людьми. Также, 5441 человек получил соответствующие устные разъяснения, юридические консультации, рекомендации, в какие органы им необходимо обратиться для решения вопроса. Общее количество граждан, обратившихся в 2019 году, составило 11тыс. 148 человек.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Заявления и жалобы граждан.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Письменные обращения поступают в адрес Акыйкатчы (Омбудсмена) КР различными способами:                                                                                       - лично от граждан через общественную приемную Центрального аппарата и его региональные представительства;
+ - по почте; 
+ - по факсимильной связи; 
+- по электронной почте;
+-  взято из СМИ; 
+- по «горячей линии» по телефону 115; 
+ - получено Акыйкатчы и его сотрудниками при посещении учреждений.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[На сайте http://ombudsman.kg/  размещается Ежегодный доклад Акыйкатчы (Омбудсмена) КР ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="faeb3f3a-702b-4375-a82f-c82fa4b81277">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_100301_1A2</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[10. Сокращение неравенства внутри стран и между ними ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[10.3 Обеспечить равенство возможностей и уменьшить неравенство результатов, в том числе путем отмены дискриминационных законов, политики и практики и содействия принятию соответствующего законодательства, политики и мер в этом направлении ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[10.3.1.1a Количество обращений к Омбудсмену, из них рассмотренных и удовлетворенных]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Акыйкатчы (Омбудсмен) Кыргызской Республики ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Кереметкан Келсинбек кызы (Заведующая отделом приема обращений граждан и документационному обеспечению)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ombudsman@inbox.ru, keremetk@gmail.com]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0312-66-32-80,  0551-88-82-89]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Омбудсмен (Акыйкатчы) рассматривает заявления и жалобы граждан Кыргызской Республики, находящихся в Кыргызской Республике иностранцев и лиц без гражданства либо их представителей, неправительственных организаций, касающиеся решений или действий (бездействия) государственных органов и органов местного самоуправления, государственных и негосударственных организаций, учреждений, предприятий, должностных лиц, государственных служащих, нарушающих права и свободы человека и гражданина, установленные законодательством Кыргызской Республики, международными договорами и соглашениями, участницей которых является Кыргызская Республика.                                                      В 2019 году на имя Акыйкатчы (Омбудсмена) поступило 3 тыс. 923 письменных обращения от граждан республики и от граждан зарубежных стран, из них 2 тыс. 595 (66,1%) – в Центральный аппарат Акыйкатчы (Омбудсмена) Кыргызской Республики. В их числе 220 (5,6%)– коллективные, подписанные 1784 людьми. Также, 5441 человек получил соответствующие устные разъяснения, юридические консультации, рекомендации, в какие органы им необходимо обратиться для решения вопроса. Общее количество граждан, обратившихся в 2019 году, составило 11тыс. 148 человек.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Заявления и жалобы граждан.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Письменные обращения поступают в адрес Акыйкатчы (Омбудсмена) КР различными способами:                                                                                       - лично от граждан через общественную приемную Центрального аппарата и его региональные представительства;
+ - по почте; 
+ - по факсимильной связи; 
+- по электронной почте;
+-  взято из СМИ; 
+- по «горячей линии» по телефону 115; 
+ - получено Акыйкатчы и его сотрудниками при посещении учреждений.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[На сайте http://ombudsman.kg/  размещается Ежегодный доклад Акыйкатчы (Омбудсмена) КР ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="7a9ec953-f8a3-4c06-befe-9fe4398da4da">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_100501_11</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[10. Сокращение неравенства внутри стран и между ними ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[10.5 Совершенствовать методы регулирования и мониторинга глобальных финансовых рынков и учреждений и более последовательно применять такие методы ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[10.5.1.1 Показатели финансовой устойчивости]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный банк Кыргызской Республики ( Отдел анализа системных рисков)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Султанкулов Ильичбек Джандарбекович]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[isultankulov@nbkr.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[996 312 66 92 07]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатели финансового посредничеств - это показатели для оценки размеров сектора относительно экономики в целом:                                                          1. Отношение активов банковской системы к ВВП; 
+2. Отношение депозитной базы банковской системы к ВВП; 
+3. Отношение кредитного портфеля банковской системы к ВВП
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Обеспечить увеличение показателей, отражающих доступность банковских услуг, увеличение уровня финансового посредничества банковской системы.Согласно Основных направлений развития банковского сектора на на 2018-2021 гг. Национальным банком в среднесрочной перспективе будет продолжена реализация мероприятий, направленных на устойчивое развитие и повышение роли банковского, небанковского секторов в экономике Кыргызской Республики, ориентированных на поддержание эффективности, безопасности и надежности их деятельности, создание условий для улучшения региональной и ценовой доступности банковских, платежных и микрофинансовых услуг, снижение средневзвешенных процентных ставок по кредитам, а также дальнейшее расширение предоставления услуг по исламским принципам финансирования.                                                              В среднесрочной перспективе Национальным банком, исходя из показателей предыдущих периодов, планируется увеличение показателей, отражающих доступность банковских услуг, увеличение уровня финансового посредничества банковской системы.
+Национальный банк оказывает косвенное влияние на рост уровня финансового посредничества через совершенствование нормативно правовой базы и создания равных условий для их участников, дальнейший рост уровня финансового посредничества напрямую зависит от намерений акционеров коммерческих банков и от выбранной ими политики по увеличению капитальной базы, и мероприятий по дальнейшему наращиванию активов.       Увеличение уровня финансового посредничества банковской системы планируется обеспечить, в том числе, посредством внедрения инновационных технологий в банковском деле, развития рынка кредитования, внедрения элементов дистанционного обслуживания, дальнейшего проведения мероприятий по реализации механизмов, способствующих осуществлению коммерческими банками операций с обезличенными металлическими счетами. Кроме того, проведением мероприятий по совершенствованию нормативно правовой базы, регулирующей деятельность коммерческих банков и участников финансовой системы.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный банк Кыргызской Республике на основе отчетности коммерческих банков в рамках Периодического регулятивного банковского отчета; Информация Национального статистического комитета Кыргызской Республики]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Коммерческие банки Кыргызской Республики предоставляют в Национальный банк Кыргызской Республики в рамках Периодического регулятивного банковского отчета данные по совокупным активам на ежедневной основе, данные по депозитной базе и кредитному портфелю - на ежемесячной основе.          Расчет ВВП осуществляется Национальным статистическим комитетом КР. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[При расчете используются опубликованные данные на официальных интернет-сайтах Национального статистического комитета Кыргызской Республики и Национального банка Кыргызской Республики. Формула для получения показателей:                                                                                            Активы/ВВП = Совокупные активы банковской системы / годовой ВВП; 
+Депозиты/ВВП = Общая депозитная база без банков / годовой ВВП;
+Кредиты/ВВП = Кредитный портфель без финансово-кредитных организаций и банков / годовой ВВП,                                                                                      где Годовой ВВП - сумма значений Валового внутреннего продукта последние 12 месяцев. 
+Данные используются на годовой основе.
+Данные могут быть откорректированы при изменении исходной информации
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по активам к ВВП предоставляются НБКР с 2008 года; по депозитной базе к ВВП и кредитному портфелю к ВВП - с 2007 года.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Информация предоставляется коммерческими банками в соответствии с Положением о Периодическом регулятивном банковском отчете, утвержденном постановлением Правления Национального банка Кыргызской Республики от 25 августа 2005 года N 26/5.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по совокупным активам банковской системы, общей депозитной базе и кредитному портфелю коммерческих банков публикуются на ежемесячной основе на официальном интернет-сайте НБКР в разделе "Статистика" и в соответствующих таблицах II.2. "Сводный регулятивный отчет коммерческих банков КР", IV.2.12 "Объемы и процентные ставки по депозитам в коммерческих банках в национальной и иностранной валютах (на конец периода)", IV.2.21 "Объемы и процентные ставки кредитов коммерческих банков в национальной и иностранной валютах (задолженность на конец периода)" Бюллетеня НБКР. Данные по ВВП публикуются на ежемесячной основе на официальном интернет-сайте НСК КР в публикации "Социально-экономическое положение Кыргызской Республики".]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный банк Кыргызской Республики представляет ежегодно информацию по совокупным активам банковской системы, депозитной базе и кредитному портфелю коммерческих банков в МВФ путем заполнения Вопросника о доступности финансовых услуг (FAS).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA["По данным ссылкам указаны данные по совокупным активам банковской системы:                                                                                                                 1. https://www.nbkr.kg/index1.jsp?item=1484&lang=RUS 
+2. https://www.nbkr.kg/index1.jsp?item=137&lang=RUS                                           По данным ссылкам указаны данные по депозитной базе банковской системы:         1. https://www.nbkr.kg/index1.jsp?item=124&lang=RUS 
+2. https://www.nbkr.kg/index1.jsp?item=137&lang=RUS                                          По данным ссылкам указаны данные по кредитному портфелю коммерческих банков:                                                                                                                    1. https://www.nbkr.kg/index1.jsp?item=125&lang=RUS 
+2. https://www.nbkr.kg/index1.jsp?item=137&lang=RUS                                                   По данной ссылке указан источник данных по ВВП: http://stat.kg/ru/publications/doklad-socialno-ekonomicheskoe-polozhenie-kyrgyzskoj-respubliki                                                                                                       Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io
+
+ 
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="ea05ec77-5dbe-4959-802e-87e2c3700db8">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_100501_12</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[10. Сокращение неравенства внутри стран и между ними ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[10.5 Совершенствовать методы регулирования и мониторинга глобальных финансовых рынков и учреждений и более последовательно применять такие методы ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[10.5.1.1 Показатели финансовой устойчивости]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный банк Кыргызской Республики ( Отдел анализа системных рисков)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Султанкулов Ильичбек Джандарбекович]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[isultankulov@nbkr.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[996 312 66 92 07]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатели финансового посредничеств - это показатели для оценки размеров сектора относительно экономики в целом:                                                          1. Отношение активов банковской системы к ВВП; 
+2. Отношение депозитной базы банковской системы к ВВП; 
+3. Отношение кредитного портфеля банковской системы к ВВП
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Обеспечить увеличение показателей, отражающих доступность банковских услуг, увеличение уровня финансового посредничества банковской системы.Согласно Основных направлений развития банковского сектора на на 2018-2021 гг. Национальным банком в среднесрочной перспективе будет продолжена реализация мероприятий, направленных на устойчивое развитие и повышение роли банковского, небанковского секторов в экономике Кыргызской Республики, ориентированных на поддержание эффективности, безопасности и надежности их деятельности, создание условий для улучшения региональной и ценовой доступности банковских, платежных и микрофинансовых услуг, снижение средневзвешенных процентных ставок по кредитам, а также дальнейшее расширение предоставления услуг по исламским принципам финансирования.                                                              В среднесрочной перспективе Национальным банком, исходя из показателей предыдущих периодов, планируется увеличение показателей, отражающих доступность банковских услуг, увеличение уровня финансового посредничества банковской системы.
+Национальный банк оказывает косвенное влияние на рост уровня финансового посредничества через совершенствование нормативно правовой базы и создания равных условий для их участников, дальнейший рост уровня финансового посредничества напрямую зависит от намерений акционеров коммерческих банков и от выбранной ими политики по увеличению капитальной базы, и мероприятий по дальнейшему наращиванию активов.       Увеличение уровня финансового посредничества банковской системы планируется обеспечить, в том числе, посредством внедрения инновационных технологий в банковском деле, развития рынка кредитования, внедрения элементов дистанционного обслуживания, дальнейшего проведения мероприятий по реализации механизмов, способствующих осуществлению коммерческими банками операций с обезличенными металлическими счетами. Кроме того, проведением мероприятий по совершенствованию нормативно правовой базы, регулирующей деятельность коммерческих банков и участников финансовой системы.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный банк Кыргызской Республике на основе отчетности коммерческих банков в рамках Периодического регулятивного банковского отчета; Информация Национального статистического комитета Кыргызской Республики]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Коммерческие банки Кыргызской Республики предоставляют в Национальный банк Кыргызской Республики в рамках Периодического регулятивного банковского отчета данные по совокупным активам на ежедневной основе, данные по депозитной базе и кредитному портфелю - на ежемесячной основе.          Расчет ВВП осуществляется Национальным статистическим комитетом КР. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[При расчете используются опубликованные данные на официальных интернет-сайтах Национального статистического комитета Кыргызской Республики и Национального банка Кыргызской Республики. Формула для получения показателей:                                                                                            Активы/ВВП = Совокупные активы банковской системы / годовой ВВП; 
+Депозиты/ВВП = Общая депозитная база без банков / годовой ВВП;
+Кредиты/ВВП = Кредитный портфель без финансово-кредитных организаций и банков / годовой ВВП,                                                                                      где Годовой ВВП - сумма значений Валового внутреннего продукта последние 12 месяцев. 
+Данные используются на годовой основе.
+Данные могут быть откорректированы при изменении исходной информации
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по активам к ВВП предоставляются НБКР с 2008 года; по депозитной базе к ВВП и кредитному портфелю к ВВП - с 2007 года.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Информация предоставляется коммерческими банками в соответствии с Положением о Периодическом регулятивном банковском отчете, утвержденном постановлением Правления Национального банка Кыргызской Республики от 25 августа 2005 года N 26/5.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по совокупным активам банковской системы, общей депозитной базе и кредитному портфелю коммерческих банков публикуются на ежемесячной основе на официальном интернет-сайте НБКР в разделе "Статистика" и в соответствующих таблицах II.2. "Сводный регулятивный отчет коммерческих банков КР", IV.2.12 "Объемы и процентные ставки по депозитам в коммерческих банках в национальной и иностранной валютах (на конец периода)", IV.2.21 "Объемы и процентные ставки кредитов коммерческих банков в национальной и иностранной валютах (задолженность на конец периода)" Бюллетеня НБКР. Данные по ВВП публикуются на ежемесячной основе на официальном интернет-сайте НСК КР в публикации "Социально-экономическое положение Кыргызской Республики".]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный банк Кыргызской Республики представляет ежегодно информацию по совокупным активам банковской системы, депозитной базе и кредитному портфелю коммерческих банков в МВФ путем заполнения Вопросника о доступности финансовых услуг (FAS).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA["По данным ссылкам указаны данные по совокупным активам банковской системы:                                                                                                                 1. https://www.nbkr.kg/index1.jsp?item=1484&lang=RUS 
+2. https://www.nbkr.kg/index1.jsp?item=137&lang=RUS                                           По данным ссылкам указаны данные по депозитной базе банковской системы:         1. https://www.nbkr.kg/index1.jsp?item=124&lang=RUS 
+2. https://www.nbkr.kg/index1.jsp?item=137&lang=RUS                                          По данным ссылкам указаны данные по кредитному портфелю коммерческих банков:                                                                                                                    1. https://www.nbkr.kg/index1.jsp?item=125&lang=RUS 
+2. https://www.nbkr.kg/index1.jsp?item=137&lang=RUS                                                   По данной ссылке указан источник данных по ВВП: http://stat.kg/ru/publications/doklad-socialno-ekonomicheskoe-polozhenie-kyrgyzskoj-respubliki                                                                                                       Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io
+
+ 
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="1341650b-dde4-4fc5-9821-72dacf66e7f5">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_100501_13</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[10. Сокращение неравенства внутри стран и между ними ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[10.5 Совершенствовать методы регулирования и мониторинга глобальных финансовых рынков и учреждений и более последовательно применять такие методы ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[10.5.1.1 Показатели финансовой устойчивости]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный банк Кыргызской Республики ( Отдел анализа системных рисков)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Султанкулов Ильичбек Джандарбекович]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[isultankulov@nbkr.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[996 312 66 92 07]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатели финансового посредничеств - это показатели для оценки размеров сектора относительно экономики в целом:                                                          1. Отношение активов банковской системы к ВВП; 
+2. Отношение депозитной базы банковской системы к ВВП; 
+3. Отношение кредитного портфеля банковской системы к ВВП
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Обеспечить увеличение показателей, отражающих доступность банковских услуг, увеличение уровня финансового посредничества банковской системы.Согласно Основных направлений развития банковского сектора на на 2018-2021 гг. Национальным банком в среднесрочной перспективе будет продолжена реализация мероприятий, направленных на устойчивое развитие и повышение роли банковского, небанковского секторов в экономике Кыргызской Республики, ориентированных на поддержание эффективности, безопасности и надежности их деятельности, создание условий для улучшения региональной и ценовой доступности банковских, платежных и микрофинансовых услуг, снижение средневзвешенных процентных ставок по кредитам, а также дальнейшее расширение предоставления услуг по исламским принципам финансирования.                                                              В среднесрочной перспективе Национальным банком, исходя из показателей предыдущих периодов, планируется увеличение показателей, отражающих доступность банковских услуг, увеличение уровня финансового посредничества банковской системы.
+Национальный банк оказывает косвенное влияние на рост уровня финансового посредничества через совершенствование нормативно правовой базы и создания равных условий для их участников, дальнейший рост уровня финансового посредничества напрямую зависит от намерений акционеров коммерческих банков и от выбранной ими политики по увеличению капитальной базы, и мероприятий по дальнейшему наращиванию активов.       Увеличение уровня финансового посредничества банковской системы планируется обеспечить, в том числе, посредством внедрения инновационных технологий в банковском деле, развития рынка кредитования, внедрения элементов дистанционного обслуживания, дальнейшего проведения мероприятий по реализации механизмов, способствующих осуществлению коммерческими банками операций с обезличенными металлическими счетами. Кроме того, проведением мероприятий по совершенствованию нормативно правовой базы, регулирующей деятельность коммерческих банков и участников финансовой системы.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный банк Кыргызской Республике на основе отчетности коммерческих банков в рамках Периодического регулятивного банковского отчета; Информация Национального статистического комитета Кыргызской Республики]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Коммерческие банки Кыргызской Республики предоставляют в Национальный банк Кыргызской Республики в рамках Периодического регулятивного банковского отчета данные по совокупным активам на ежедневной основе, данные по депозитной базе и кредитному портфелю - на ежемесячной основе.          Расчет ВВП осуществляется Национальным статистическим комитетом КР. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[При расчете используются опубликованные данные на официальных интернет-сайтах Национального статистического комитета Кыргызской Республики и Национального банка Кыргызской Республики. Формула для получения показателей:                                                                                            Активы/ВВП = Совокупные активы банковской системы / годовой ВВП; 
+Депозиты/ВВП = Общая депозитная база без банков / годовой ВВП;
+Кредиты/ВВП = Кредитный портфель без финансово-кредитных организаций и банков / годовой ВВП,                                                                                      где Годовой ВВП - сумма значений Валового внутреннего продукта последние 12 месяцев. 
+Данные используются на годовой основе.
+Данные могут быть откорректированы при изменении исходной информации
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по активам к ВВП предоставляются НБКР с 2008 года; по депозитной базе к ВВП и кредитному портфелю к ВВП - с 2007 года.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Информация предоставляется коммерческими банками в соответствии с Положением о Периодическом регулятивном банковском отчете, утвержденном постановлением Правления Национального банка Кыргызской Республики от 25 августа 2005 года N 26/5.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные по совокупным активам банковской системы, общей депозитной базе и кредитному портфелю коммерческих банков публикуются на ежемесячной основе на официальном интернет-сайте НБКР в разделе "Статистика" и в соответствующих таблицах II.2. "Сводный регулятивный отчет коммерческих банков КР", IV.2.12 "Объемы и процентные ставки по депозитам в коммерческих банках в национальной и иностранной валютах (на конец периода)", IV.2.21 "Объемы и процентные ставки кредитов коммерческих банков в национальной и иностранной валютах (задолженность на конец периода)" Бюллетеня НБКР. Данные по ВВП публикуются на ежемесячной основе на официальном интернет-сайте НСК КР в публикации "Социально-экономическое положение Кыргызской Республики".]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный банк Кыргызской Республики представляет ежегодно информацию по совокупным активам банковской системы, депозитной базе и кредитному портфелю коммерческих банков в МВФ путем заполнения Вопросника о доступности финансовых услуг (FAS).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA["По данным ссылкам указаны данные по совокупным активам банковской системы:                                                                                                                 1. https://www.nbkr.kg/index1.jsp?item=1484&lang=RUS 
+2. https://www.nbkr.kg/index1.jsp?item=137&lang=RUS                                           По данным ссылкам указаны данные по депозитной базе банковской системы:         1. https://www.nbkr.kg/index1.jsp?item=124&lang=RUS 
+2. https://www.nbkr.kg/index1.jsp?item=137&lang=RUS                                          По данным ссылкам указаны данные по кредитному портфелю коммерческих банков:                                                                                                                    1. https://www.nbkr.kg/index1.jsp?item=125&lang=RUS 
+2. https://www.nbkr.kg/index1.jsp?item=137&lang=RUS                                                   По данной ссылке указан источник данных по ВВП: http://stat.kg/ru/publications/doklad-socialno-ekonomicheskoe-polozhenie-kyrgyzskoj-respubliki                                                                                                       Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io
+
+ 
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="5cc37aee-02b8-4d2d-a8de-415311d31849">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_EMP_GTOTL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 10. Reduce inequality within and among countries]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[10.4 Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[10.4.1. Labour share of GDP, comprising wages and social protection transfers]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Office for Economic Statistics and National Accounts)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[E. K. Isenkulova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[eisenkulova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 95]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Labour share of Gross Domestic Product (GDP) is the total compensation of employees given as a percent of GDP, which is a measure of total output. It provides information about the relative share of output which is paid as compensation to employees as compared with the share paid to capital in the production process for a given reference period.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The method of GDP formation by sources of income is one of the three methods used by the National Statistical Committee of the Kyrgyz Republic to calculate GDP under SNA-1993 and 2008. However, it is not the main method, because according to the adopted methodology not all income indicators are obtained by direct account, some of them are calculated using the balance method.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee performs data collection, processing and calculation.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель расчетный, при котором используются данные отраслевой статистики, Министерства финансов, Социального фонда и Национального банка Кыргызской Республики Периодичность: годовая.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator on labour share of GDP, including compensations and salaries and social security payments is calculated as follows: 
+LF share = Wage/GDP*100,
+where
+LF share is Labour force share,
+Wage - Total compensation of employees,
+GDP - Gross Domestic Product (GDP).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[In general, labour share in GDP will underestimate the proportion of GDP accrued to total employment, as it covers only the compensation of employees and does not include the labour income of the selfemployed. 
+Thus the indicator may be less relevant in countries where a large proportion of employment is in self-employment. However, an adjusted labour share may be estimated to take into account the labour income of self-employed workers.
+GDP may exclude or underreport activities that are difficult to measure, such as transactions in the informal sector or in illegal markets, etc. thus understating the GDP. Moreover, GDP does not account for the social and environmental costs of production, and is therefore is not a good measure of the level of over-all wellbeing.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Logical and arithmetic control of the reporting data is conducted.ik5r6]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Dynamic data since 1993 are available at the website of the National Statistical Committee.www.stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic payroll data are available to be compared upon request from international organizations (questionnaires are completed).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io/16-7-1/ 
+The UN System of National Accounts – UN SNA-1993 and SNA 2008:
+Recommendations of the CIS-STAT Committee on the Generation of Income Account. Moscow, 1995: European System of Integrated Economic Accounts 1995.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="e3d8903b-f679-4653-a93f-62d93b6ff990">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_POV_50MI</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 10. Reduce inequality within and among countries]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[10.2. By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[10.2.1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistics Committee of the Kyrgyz Republic (Household Statistics Division)
+The National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Y. I. Kalymbetova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(312) 66 41 64]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The proportion of people living below 50 percent of median income (or consumption) is the share (%) of a country’s population living on less than half of the consumption/income level of the median of the national income/consumption distribution. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator is an indicator of relative poverty and inequality of the income distribution within a country. This indicator and similar relative measures are commonly used for poverty measurement in rich countries and are increasingly also used as a complementary measure of inequality and poverty in low- and middleincome countries. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[National household surveys on population income and expenditure.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Интегрированное обследование бюджетов домашних хозяйств и рабочей силы проводится ежеквартально во всех регионах страны. Программа обследования содержит специальный модуль "Доходы и расходы домашнего хозяйства".]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Average per capita monetary income is ranked in ascending order. The indicator is calculated by estimating the share (in percent) of the population living on less than 50% of median of the national distribution of income or consumption.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator describes relative poverty and is based on the welfare indicator 40of a particular country.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ Data quality is ensured through random household budget and labour force surveys in line with international recommendations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are internationally comparable, as random household budget and labour force surveys are conducted in line with international recommendations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="b8c184a2-8d51-4df6-8f33-ea0662dd3570">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_100201_1</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 10. Reduce inequality within and among countries]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[10.2. By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[10.2.1. Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistics Committee of the Kyrgyz Republic (Household Statistics Division)
+The National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Y. I. Kalymbetova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(312) 66 41 64]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The proportion of people living below 50 percent of median income (or consumption) is the share (%) of a country’s population living on less than half of the consumption/income level of the median of the national income/consumption distribution. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator is an indicator of relative poverty and inequality of the income distribution within a country. This indicator and similar relative measures are commonly used for poverty measurement in rich countries and are increasingly also used as a complementary measure of inequality and poverty in low- and middleincome countries. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[National household surveys on population income and expenditure.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Интегрированное обследование бюджетов домашних хозяйств и рабочей силы проводится ежеквартально во всех регионах страны. Программа обследования содержит специальный модуль "Доходы и расходы домашнего хозяйства".]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Average per capita monetary income is ranked in ascending order. The indicator is calculated by estimating the share (in percent) of the population living on less than 50% of median of the national distribution of income or consumption.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[This indicator describes relative poverty and is based on the welfare indicator 40of a particular country.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[ Data quality is ensured through random household budget and labour force surveys in line with international recommendations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are internationally comparable, as random household budget and labour force surveys are conducted in line with international recommendations]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="68e325ad-8a3f-4600-81ec-8889b9f932cc">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_HEI_TOTL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 10. Reduce inequality within and among countries]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[10.1. By 2030, progressively achieve and sustain the above national average income growth among the poorest 40 per cent of the population]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[10.1.1. Growth rate of household expenditure or per capita income among the poorest 40 per cent of the population and the population in general]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Y. I. Kalymbetova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Y.Kalymbetova@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(312) 66 41 64]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The growth rate in the welfare aggregate of bottom 40% is computed as the annualized average growth rate in per capita real consumption or income of the bottom 40% of the income distribution in a country from household surveys over a roughly 5-year period. The national average growth rate in the welfare
+aggregate is computed as the annualized average growth rate in per capita real consumption or income of the total population in a country from household surveys over a roughly 5-year period.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Improvements in shared prosperity require both a growing economy and a consideration of equity. Shared prosperity explicitly recognizes that while growth is necessary for improving economic welfare in a society, progress is measured by how those gains are shared with its poorest members. Moreover, in an inclusive society it is not sufficient to raise everyone above an absolute inimum standard of living; it must ensure that economic growth increases prosperity among the poor over time.
+The decision to measure shared prosperity based on income or consumption was not taken to ignore the many other dimensions of welfare. It is motivated by the need for an indicator that is easy to understand, communicate, and measure—though measurement challenges exist. Indeed, shared prosperity comprises many dimensions of well-being of the less well-off, and when analyzing shared prosperity in the context of a country, it is important to consider a wide range of indicators of welfare.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[National representative household surveys, including income or consumption module.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Репрезентативные национальные обследования домашних хозяйств ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Growth rates are calculated as annualized average growth rates over a roughly five-year period. ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[There are mainly two limitations of shared prosperity indicators: data availability and data quality.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[To generate measures of shared prosperity that are reasonably comparable across countries, the World Bank Group has a standardized approach for choosing time periods, data sources, and other relevant parameters.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io 
+Data are published in statistical compendiums “Employment and Unemployment”, “Women and Men in the Kyrgyz Republic”, “Kyrgyzstan in Figures”]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

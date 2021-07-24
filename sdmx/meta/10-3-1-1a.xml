@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1626665718</mes:ID>
+    <mes:ID>IREF1627150557</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-19T03:35:18</mes:Prepared>
+    <mes:Prepared>2021-07-24T18:15:57</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,6 +11,220 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="6c4c112d-af6d-450c-a2e0-d89f1c65274f">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_100301_1A1</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[10. Сокращение неравенства внутри стран и между ними ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[10.3 Обеспечить равенство возможностей и уменьшить неравенство результатов, в том числе путем отмены дискриминационных законов, политики и практики и содействия принятию соответствующего законодательства, политики и мер в этом направлении ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[10.3.1.1a Количество обращений к Омбудсмену, из них рассмотренных и удовлетворенных]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Акыйкатчы (Омбудсмен) Кыргызской Республики ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Кереметкан Келсинбек кызы (Заведующая отделом приема обращений граждан и документационному обеспечению)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ombudsman@inbox.ru, keremetk@gmail.com]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0312-66-32-80,  0551-88-82-89]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Омбудсмен (Акыйкатчы) рассматривает заявления и жалобы граждан Кыргызской Республики, находящихся в Кыргызской Республике иностранцев и лиц без гражданства либо их представителей, неправительственных организаций, касающиеся решений или действий (бездействия) государственных органов и органов местного самоуправления, государственных и негосударственных организаций, учреждений, предприятий, должностных лиц, государственных служащих, нарушающих права и свободы человека и гражданина, установленные законодательством Кыргызской Республики, международными договорами и соглашениями, участницей которых является Кыргызская Республика.                                                      В 2019 году на имя Акыйкатчы (Омбудсмена) поступило 3 тыс. 923 письменных обращения от граждан республики и от граждан зарубежных стран, из них 2 тыс. 595 (66,1%) – в Центральный аппарат Акыйкатчы (Омбудсмена) Кыргызской Республики. В их числе 220 (5,6%)– коллективные, подписанные 1784 людьми. Также, 5441 человек получил соответствующие устные разъяснения, юридические консультации, рекомендации, в какие органы им необходимо обратиться для решения вопроса. Общее количество граждан, обратившихся в 2019 году, составило 11тыс. 148 человек.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Заявления и жалобы граждан.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Письменные обращения поступают в адрес Акыйкатчы (Омбудсмена) КР различными способами:                                                                                       - лично от граждан через общественную приемную Центрального аппарата и его региональные представительства;
+ - по почте; 
+ - по факсимильной связи; 
+- по электронной почте;
+-  взято из СМИ; 
+- по «горячей линии» по телефону 115; 
+ - получено Акыйкатчы и его сотрудниками при посещении учреждений.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[На сайте http://ombudsman.kg/  размещается Ежегодный доклад Акыйкатчы (Омбудсмена) КР ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="faeb3f3a-702b-4375-a82f-c82fa4b81277">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_100301_1A2</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[10. Сокращение неравенства внутри стран и между ними ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[10.3 Обеспечить равенство возможностей и уменьшить неравенство результатов, в том числе путем отмены дискриминационных законов, политики и практики и содействия принятию соответствующего законодательства, политики и мер в этом направлении ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[10.3.1.1a Количество обращений к Омбудсмену, из них рассмотренных и удовлетворенных]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Акыйкатчы (Омбудсмен) Кыргызской Республики ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Кереметкан Келсинбек кызы (Заведующая отделом приема обращений граждан и документационному обеспечению)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[ombudsman@inbox.ru, keremetk@gmail.com]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0312-66-32-80,  0551-88-82-89]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Омбудсмен (Акыйкатчы) рассматривает заявления и жалобы граждан Кыргызской Республики, находящихся в Кыргызской Республике иностранцев и лиц без гражданства либо их представителей, неправительственных организаций, касающиеся решений или действий (бездействия) государственных органов и органов местного самоуправления, государственных и негосударственных организаций, учреждений, предприятий, должностных лиц, государственных служащих, нарушающих права и свободы человека и гражданина, установленные законодательством Кыргызской Республики, международными договорами и соглашениями, участницей которых является Кыргызская Республика.                                                      В 2019 году на имя Акыйкатчы (Омбудсмена) поступило 3 тыс. 923 письменных обращения от граждан республики и от граждан зарубежных стран, из них 2 тыс. 595 (66,1%) – в Центральный аппарат Акыйкатчы (Омбудсмена) Кыргызской Республики. В их числе 220 (5,6%)– коллективные, подписанные 1784 людьми. Также, 5441 человек получил соответствующие устные разъяснения, юридические консультации, рекомендации, в какие органы им необходимо обратиться для решения вопроса. Общее количество граждан, обратившихся в 2019 году, составило 11тыс. 148 человек.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Заявления и жалобы граждан.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Письменные обращения поступают в адрес Акыйкатчы (Омбудсмена) КР различными способами:                                                                                       - лично от граждан через общественную приемную Центрального аппарата и его региональные представительства;
+ - по почте; 
+ - по факсимильной связи; 
+- по электронной почте;
+-  взято из СМИ; 
+- по «горячей линии» по телефону 115; 
+ - получено Акыйкатчы и его сотрудниками при посещении учреждений.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[На сайте http://ombudsman.kg/  размещается Ежегодный доклад Акыйкатчы (Омбудсмена) КР ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
   
 </mes:GenericMetadata>
         

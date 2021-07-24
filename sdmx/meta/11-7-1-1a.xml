@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1626665718</mes:ID>
+    <mes:ID>IREF1627150557</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-19T03:35:18</mes:Prepared>
+    <mes:Prepared>2021-07-24T18:15:57</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,6 +11,131 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="f584d7f9-875b-48df-b527-c563c2a94467">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_110701_1A</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[11. Обеспечение открытости, безопасности, жизнестойкости и экологической устойчивости городов и населенных пунктов ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[11.7 К 2030 году обеспечить всеобщий доступ к безопасным, доступным и открытым для всех зеленым зонам, и общественным местам, особенно для женщин и детей, пожилых людей и инвалидов ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[11.7.1.1a Площадь зеленых насаждений и массивов в населенных пунтках в расчете на 1000 чел. на 1 га]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный статистический комитет КР (Управление статистики устойчивого развития и окружающей среды)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Керималиева Н.К.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 62-56-07]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Площадь зеленых насаждений в населенных пунктах на душу населения - отражает результаты мероприятий по озеленению населенных пунктов, направленных на улучшение экологического состояния окружающей среды и благоустройство территории.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Зеленые насаждения имеют большое значение в санитарно-гигиеническом и социальном отношении. Важнейшая гигиеническая особенность зеленых насаждений выражается в регулировании теплового и радиационного режимов, в создании микроклимата, обеспечивающего комфортные условия внешней среды. Не меньшее значение зеленых насаждений заключается в том, что они являются мощным фактором защиты населенных мест от пыли, газов, ветра и шума. Кроме того, они благоприятно воздействуют через органы чувств на центральную нервную систему человека, улучшая его самочувствие.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется НСК на основе формы государственной статистической отчетности №1 - Благоустройство «Отчет о благоустройстве и санитарной очистке городов и населенных пунктов» с комбинатов коммунальных предприятий, организаций, ведущих деятельность по благоустройству городов и населенных пунктов, данные о численности населения.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Общая площадь всех зеленых насаждений включает площадь числящихся на конец года всех зеленых массивов и насаждений. Это: специально посаженные или естественные леса, зеленые и защитные зоны; лесопарки, общегородские (общепоселковые) и районные парки культуры и отдыха, детские парки, сады и парки, бульвары, скверы; насаждения в жилых районах, внутриквартальное озеленение; зеленые насаждения кладбищ и др. виды озеленения специального назначения и насаждения ограниченного пользования, расположенные на территории: учебных заведений, учреждений здравоохранения, детских садов и яслей, общественных зданий, спортивных комплексов, промышленных предприятий и др.; цветники и газоны, расположенные вдоль улиц, площадей, набережных и т.д. Посадки деревьев в лунках (вдоль улиц, проездов, набережных) не включаются в общую площадь всех зеленых массивов и насаждений.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Площадь зеленых насаждений и массивов в населенных пунктах в расчете на 1000 чел. на 1 га = Площадь зеленых насаждений и массивов в населенных пунктах/численность населения *1000]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Нормой озеленения считается 25 га зеленых насаждений на человека.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Ежегодный статистический сборник «Окружающая среда в Кыргызской Республике)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Не используется ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная платформа отчетности ЦУР: https://sustainabledevelopment-kyrgyzstan.github.io                                   Официальный сайт НСК КР: http://www.stat.kg/ru/statistics/turizm-otdyh-ohrana-okruzhayushej-sredy/ ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
   
 </mes:GenericMetadata>
         

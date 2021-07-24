@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1626665718</mes:ID>
+    <mes:ID>IREF1627150557</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-19T03:35:18</mes:Prepared>
+    <mes:Prepared>2021-07-24T18:15:57</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="04d99cde-c2f4-4a91-9735-67c01adc451b">
+  <mes:MetadataSet structureRef="MDS1" setID="de063adb-1fae-4e9c-bf1a-8b2cde4e6ef5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -122,7 +122,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="65f9b9f0-e8a5-4875-a121-216322904b68">
+  <mes:MetadataSet structureRef="MDS1" setID="85ef44ae-0165-46c9-9172-30ffc4b822fe">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -232,7 +232,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="80c21da7-746f-4dbf-8771-cf7a0691292e">
+  <mes:MetadataSet structureRef="MDS1" setID="5d7c5536-6e3e-4024-9967-cbc7bf22f7b2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -342,7 +342,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d31663d8-3dea-4216-b72d-e95a1abe9d25">
+  <mes:MetadataSet structureRef="MDS1" setID="cf69fd29-e934-411a-9e49-5ee9dceb1f57">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -452,7 +452,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ef0344b0-2f51-4665-92ef-febdd04d3936">
+  <mes:MetadataSet structureRef="MDS1" setID="6ba785a2-ff4a-42f9-ba41-4f0e38c74d20">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -562,7 +562,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e0ce2446-eab5-4de9-bb66-79cda9d27350">
+  <mes:MetadataSet structureRef="MDS1" setID="d75302ed-0c7e-4396-b047-709518c46cfe">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -672,7 +672,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d1684982-8255-422d-a11c-0205126f34bf">
+  <mes:MetadataSet structureRef="MDS1" setID="7bae7134-c96d-40e9-bc4f-274996799add">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -680,6 +680,116 @@
           <gen:DataKey>
             <com:KeyValue id="SERIES">
               <com:Value>AG_LND_FRSTPRCTN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2 By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[15.2.1. Progress towards sustainable forest management ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[The State Agency on Environment Protection and Forestry under the KR Government]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[N.S. Baidakova]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[0(312) 54-94-87]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Лесовосстановление в лесах государственного значения включает: посадку и посев леса; содействие естественному возобновлению леса. 
+Также, проводятся мероприятия по созданию насаждений на оврагах, балках, песках и других неудобных землях, выращивание и ввод молодняков в категорию ценных древесных насаждений в лесах государственного значения, создание питомников древесных и кустарниковых пород, посадка сеянцев и черенков древесных, кустарниковых, плодово-ягодных и технических пород в школах. 
+Увеличение лесов за счет мероприятий по лессовостановлению. Изменение площади лесов позволит оценить сохранность естественных лесных экосистем. Динамический рост индикатора показывает адекватную политику в области сохранения и приумножения лесов.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ Темпы чистого изменения площади лесов в год;
+ Запас надземной биомассы в лесах (т/га);
+ Доля лесных площадей, расположенных в природоохранных зонах;
+ Доля лесных площадей, в отношении которых существует долгосрочный план управления лесными ресурсами;
+ Сертифицированные лесные площади]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальная инвентаризация лесов, учет лесного фонда  ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ГАООСЛХ формирует данные по площади лесовосстановительных работ в лесах государственного значения, включающих посадку и посев леса, и содействие естественному возобновлению. 
+ГАООСЛХ собирает данные на основании отчетов лесхозов, природных парков, заповедников по областям и сводит информацию на уровне республики. 
+НСК на основе формы государственной статистической отчетности «Отчет о работе лесного хозяйства» осуществляет сбор информации с лесхозов и других предприятий, выполняющих лесокультурные работы.
+Данные Национальной инвентаризации лесов Кыргызской Республики утверждены постановлением Правительства КР от 26.07.11г. № 407. Начато проведение второй национальной инвентаризации лесов КР.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные доступны для заинтересованных лиц на сайтах специализированных органов и официальных статистических данных, страновых отчетах по биоразнообразию.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="11b1e898-f9a4-4f00-806e-1f2fb1a1bf5b">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_150201_1</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>

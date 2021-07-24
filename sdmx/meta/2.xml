@@ -1,0 +1,2793 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1627150557</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-24T18:15:57</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="5e848c68-28fb-4ef3-ac2d-d61a29096ab9">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_020101_1E</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2: Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1: К 2030 году покончить с голодом и обеспечить доступ для всех людей, особенно бедных и уязвимых групп населения, включая детей, к безопасному, богатому питательными веществами и достаточному питанию в течение всего года]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1.1.1e Среднедушевое потребление основных продуктов питания по отношению к среднефизиологическим нормам потребления, в процентах]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный статистический комитет КР (Отдел статистики сельского хозяйства)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Мурсабекова Гульзейнеп Турдубековна]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[gmursabekova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[+996 (0312) 66-40-43]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Среднедушевое потребление основных продуктов питания по отношению к среднефизиологическим нормам потребления, в %. в целях улучшения информированности о продовольственной безопасности и питания.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Целью разработки продовольственных балансов является обеспечение Правительства КР необходимой и достоверной информацией об объемах производства продукции и статьях ее использования.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Балансы разрабатываются Национальным статистическим комитетом Кыргызской Республике только на республиканском уровне за календарный год в натуральном выражении. Поскольку, данные продовольственных балансов являются макроэкономическими показателями, то при определении расхода отдельных видов сельскохозяйственной продукции на производственное потребление (расход на семена, корма), экспорт допускается применение экспертных оценок. Расходы потерь и данные о запасах на конец года отдельных видов сельскохозяйственной продукции рассчитываются с использованием коэффициентов распространения, полученных на основе итогов выборочного обследования на полный круг хозяйствующих субъектов, осуществляющих производство сельскохозяйственной продукции.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Балансы содержат данные, как по готовым продуктам, так и по продуктам переработки с пересчетом их в основной вид сельскохозяйственной продукции по коэффициентам. Балансы разрабатываются только на республиканском уровне за календарный год в натуральном выражении по следующим видам сельскохозяйственной продукции и продуктам питания (масло растительное, сахар):
+1.  мясо и продукты переработки мяса;
+2.  молоко и продукты переработки молока;
+3.  яйца и продукты переработки яиц;
+4. рыба и продукты переработки   рыбы;
+5.  зерно и продукты переработки зерна;
+6.  пшеница;
+7.  картофель и продукты переработки картофеля;
+8. овощи и-бахчевые культуры, и продукты их переработки;
+9. фрукты и ягоды, и продукты их переработки;
+10.  масло растительное 
+11. сахар]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[В соответствии методики, на основании разработанных балансов определяется показатель возможного потребления на душу населения основных продуктов питания, который рассчитывается как отношение данных по статье «Фонд личного потребления населением» в отчетном году к среднегодовой численности наличного населения за этот же год.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Баланс отдельных видов сельскохозяйственной продукции и продуктов питания рассчитывается по следующей схеме: в основу определения продовольственных ресурсов отдельных видов сельскохозяйственной продукции и продуктов питания положен балансовый метод.
+Схема баланса в общем виде выражается следующей формулой:
+Зн + Пр + И = ПП + Э + П + Зк + ФП 
+где: Зн – запасы на начало года;
+Зк – запасы на конец года;
+Пр – объем производства;
+И – импорт;
+ПП – объем производственного потребления;
+Э – экспорт; 
+П – потери;
+ФП – фонд личного потребления населением.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[После разработки продовольственного баланса производится логический и
+арифметический контроль по статьям баланса.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Публикация в ежегоднике Сельское хозяйство Кыргызской Республики]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Методика согласована с Представительством ФАО в Кыргызской Республике ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA["Методика по формированию и расчету продовольственных балансов отдельных видов сельскохозяйственной продукции, и продуктов питания (постановление Нацстаткома от 05.12.2018г. №26)
+Национальная платформа отчётности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="a6c55ce6-6891-4687-841f-f5367870a8c1">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_STA_STNT</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.2.1: Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz republic (Household Statistics Division) under the UNICEF MICS global programme]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Prevalence of stunting (height-for-age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Child growth is an internationally accepted outcome reflecting child nutritional status. Child stunting refers to a child who is too short for his or her age and is the result of chronic or recurrent malnutrition. Stunting is a contributing risk factor to child mortality and is also a marker of inequalities in human development. Stunted children fail to reach their physical and cognitive potential. Child stunting is one of the World Health Assembly nutrition target indicators.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[«On the situation of children and women» Multiple Indicator Cluster Survey conducted in the Kyrgyz Republic in accordance with the rounds of MICS international household survey.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий модуль «Антропометрические данные детей в возрасте до 5 лет». ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Household survey collects anthropometric measurements at the individual level.
+Survey estimates are obtained using a standardized methodology applying WHO Child Growth Standards, as described in another source (WHO Anthro/Anthro software manual). Global and regional estimates are based on the methodology outlined in “Joint Child Malnutrition Estimates-Levels and Trends (UNICEF/WHO / WB-2012)”.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Only data that have passed data quality control is used for estimates. Any technical errors, such as measurement errors, recording errors are excluded from calculations at all levels: country, regional and global.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data quality control ensured at all survey stages: toolset design, sampling, training, interview techniques, data control with weekly production of data quality tables, calculation of weights, calculation of indicators, report preparation. Experts from UNICEF country, regional and headquarters offices conducted the audit. When calculating the indicator no imputation of missing values is applied.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Availability of country assessments in accordance with the UNICEF MICS international rounds.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected and calculated in accordance with international standards and are comparable across countries.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[data.unicef.org/nutrition/malnutrition.html; http://www.who.int/nutgrowthdb/estimates2014/en/;
+http://datatopics.worldbank.org/child-malnutrition;
+United Nations Children’s Fund, World Health Organization, The World Bank (2012). UNICEFWHO-World
+
+KR National SDG Reporting Platform:  https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="140ceee5-a8d7-40cf-9b13-e33712c979b1">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_STA_STNTN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.2.1: Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz republic (Household Statistics Division) under the UNICEF MICS global programme]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Prevalence of stunting (height-for-age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Child growth is an internationally accepted outcome reflecting child nutritional status. Child stunting refers to a child who is too short for his or her age and is the result of chronic or recurrent malnutrition. Stunting is a contributing risk factor to child mortality and is also a marker of inequalities in human development. Stunted children fail to reach their physical and cognitive potential. Child stunting is one of the World Health Assembly nutrition target indicators.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[«On the situation of children and women» Multiple Indicator Cluster Survey conducted in the Kyrgyz Republic in accordance with the rounds of MICS international household survey.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий модуль «Антропометрические данные детей в возрасте до 5 лет». ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Household survey collects anthropometric measurements at the individual level.
+Survey estimates are obtained using a standardized methodology applying WHO Child Growth Standards, as described in another source (WHO Anthro/Anthro software manual). Global and regional estimates are based on the methodology outlined in “Joint Child Malnutrition Estimates-Levels and Trends (UNICEF/WHO / WB-2012)”.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Only data that have passed data quality control is used for estimates. Any technical errors, such as measurement errors, recording errors are excluded from calculations at all levels: country, regional and global.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data quality control ensured at all survey stages: toolset design, sampling, training, interview techniques, data control with weekly production of data quality tables, calculation of weights, calculation of indicators, report preparation. Experts from UNICEF country, regional and headquarters offices conducted the audit. When calculating the indicator no imputation of missing values is applied.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Availability of country assessments in accordance with the UNICEF MICS international rounds.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected and calculated in accordance with international standards and are comparable across countries.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[data.unicef.org/nutrition/malnutrition.html; http://www.who.int/nutgrowthdb/estimates2014/en/;
+http://datatopics.worldbank.org/child-malnutrition;
+United Nations Children’s Fund, World Health Organization, The World Bank (2012). UNICEFWHO-World
+
+KR National SDG Reporting Platform:  https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="07c83927-b8df-47c7-9a1d-18795bfa5977">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_PRD_ORTIND</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.a: Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance
+agricultural productive capacity in developing countries, in
+particular least developed countries.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.a.1: The agriculture orientation index for government expenditures]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Finance Statistics Division).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Jukova E.N.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[e.jukova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) -66-42-09]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The Agriculture Orientation Index (AOI) for Government Expenditures is defined as the Agriculture Share of Government Expenditures, divided by the Agriculture Share of GDP, where Agriculture refers to the agriculture, forestry, fishing and hunting sector. T]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[An Agriculture Orientation Index (AOI) greater than 1 reflects a higher orientation towards the agriculture sector, which receives a higher share of government spending relative to its contribution to economic value-added. An AOI less than 1 reflects a lower orientation to agriculture, while an AOI equal to 1 reflects neutrality in a government’s orientation to the agriculture sector.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Government expenditure data - administrative data of the Central Treasury of the Ministry of Finance of the Kyrgyz Republic (CT MoF KR) from reports on national, republican and local budget implementation.
+Data on gross value added of agriculture and GDP (or GDP agriculture share) - Department of Economic Statistics and National Accounts of the National Statistical Committee of the Kyrgyz Republic.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ЦК МФ КР предоставляет отчеты об исполнении государственного, республиканского и местных бюджетов в Нацстатком на ежемесячной и годовой основе.  
+Данные по ВВП формируются Управлением экономической статистики и национальных счетов НСК КР, в соответствии с Программой статистических работ.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Computation Method:
+AOI = (Agriculture Share of Government Expenditures) / (Agriculture Share of GDP), where
+1) Agriculture Share of Government Expenditures = (Central Government Expenditures on Agriculture) /
+(Total Central Government Outlays); and
+2) Agriculture Share of GDP = (Agriculture Value-Added) / GDP]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Since the numerator of this data is based on administrative sources, there is no confidence interval or standard error associated with government expenditure data. For the denominator, national accounts data typically do not provide any standard error or confidence interval information.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator data have been annually available since 2007. The data are available on the NSC website under "Open Data" and "Statistics" / "Sustainable Development Goals". Data are also available on the MoF  KR website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator 2.a.1 coordinated by FAO]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Metadata available on the UN website: https://unstats.un.org/sdgs/metadata/
+Indicator Methodology available on NSC website: www.stat.kg
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io   ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="13b83561-6031-4c89-83f9-16e1439bdc2d">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_XPD_AGSGB</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.a: Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance
+agricultural productive capacity in developing countries, in
+particular least developed countries.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.a.1: The agriculture orientation index for government expenditures]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Finance Statistics Division).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Jukova E.N.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[e.jukova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) -66-42-09]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The Agriculture Orientation Index (AOI) for Government Expenditures is defined as the Agriculture Share of Government Expenditures, divided by the Agriculture Share of GDP, where Agriculture refers to the agriculture, forestry, fishing and hunting sector. T]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[An Agriculture Orientation Index (AOI) greater than 1 reflects a higher orientation towards the agriculture sector, which receives a higher share of government spending relative to its contribution to economic value-added. An AOI less than 1 reflects a lower orientation to agriculture, while an AOI equal to 1 reflects neutrality in a government’s orientation to the agriculture sector.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Government expenditure data - administrative data of the Central Treasury of the Ministry of Finance of the Kyrgyz Republic (CT MoF KR) from reports on national, republican and local budget implementation.
+Data on gross value added of agriculture and GDP (or GDP agriculture share) - Department of Economic Statistics and National Accounts of the National Statistical Committee of the Kyrgyz Republic.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ЦК МФ КР предоставляет отчеты об исполнении государственного, республиканского и местных бюджетов в Нацстатком на ежемесячной и годовой основе.  
+Данные по ВВП формируются Управлением экономической статистики и национальных счетов НСК КР, в соответствии с Программой статистических работ.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Computation Method:
+AOI = (Agriculture Share of Government Expenditures) / (Agriculture Share of GDP), where
+1) Agriculture Share of Government Expenditures = (Central Government Expenditures on Agriculture) /
+(Total Central Government Outlays); and
+2) Agriculture Share of GDP = (Agriculture Value-Added) / GDP]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Since the numerator of this data is based on administrative sources, there is no confidence interval or standard error associated with government expenditure data. For the denominator, national accounts data typically do not provide any standard error or confidence interval information.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator data have been annually available since 2007. The data are available on the NSC website under "Open Data" and "Statistics" / "Sustainable Development Goals". Data are also available on the MoF  KR website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator 2.a.1 coordinated by FAO]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Metadata available on the UN website: https://unstats.un.org/sdgs/metadata/
+Indicator Methodology available on NSC website: www.stat.kg
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io   ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="226fcb22-b04c-4c1e-a4bc-69ce59bec020">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_PRD_AGVAS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.a: Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance
+agricultural productive capacity in developing countries, in
+particular least developed countries.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.a.1: The agriculture orientation index for government expenditures]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Finance Statistics Division).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Jukova E.N.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[e.jukova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) -66-42-09]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The Agriculture Orientation Index (AOI) for Government Expenditures is defined as the Agriculture Share of Government Expenditures, divided by the Agriculture Share of GDP, where Agriculture refers to the agriculture, forestry, fishing and hunting sector. T]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[An Agriculture Orientation Index (AOI) greater than 1 reflects a higher orientation towards the agriculture sector, which receives a higher share of government spending relative to its contribution to economic value-added. An AOI less than 1 reflects a lower orientation to agriculture, while an AOI equal to 1 reflects neutrality in a government’s orientation to the agriculture sector.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Government expenditure data - administrative data of the Central Treasury of the Ministry of Finance of the Kyrgyz Republic (CT MoF KR) from reports on national, republican and local budget implementation.
+Data on gross value added of agriculture and GDP (or GDP agriculture share) - Department of Economic Statistics and National Accounts of the National Statistical Committee of the Kyrgyz Republic.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[ЦК МФ КР предоставляет отчеты об исполнении государственного, республиканского и местных бюджетов в Нацстатком на ежемесячной и годовой основе.  
+Данные по ВВП формируются Управлением экономической статистики и национальных счетов НСК КР, в соответствии с Программой статистических работ.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Computation Method:
+AOI = (Agriculture Share of Government Expenditures) / (Agriculture Share of GDP), where
+1) Agriculture Share of Government Expenditures = (Central Government Expenditures on Agriculture) /
+(Total Central Government Outlays); and
+2) Agriculture Share of GDP = (Agriculture Value-Added) / GDP]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Since the numerator of this data is based on administrative sources, there is no confidence interval or standard error associated with government expenditure data. For the denominator, national accounts data typically do not provide any standard error or confidence interval information.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator data have been annually available since 2007. The data are available on the NSC website under "Open Data" and "Statistics" / "Sustainable Development Goals". Data are also available on the MoF  KR website.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Indicator 2.a.1 coordinated by FAO]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Metadata available on the UN website: https://unstats.un.org/sdgs/metadata/
+Indicator Methodology available on NSC website: www.stat.kg
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io   ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="04e26741-c489-4af4-9b16-23af9414e5cb">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_STA_WAST</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.2.2. Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz republic (Household Statistics Division) under the UNICEF MICS global programme]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Prevalence of overweight (weight for height >+2 or <-2 SD standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Weight for height can be used to estimate wasting or overweight. If weight for height of a child is below median of the reference population by more than two standard deviations, s/he classified as moderately or severely wasted child, by more than three standard deviations, as severely wasted. Malnutrition is usually the result of low nutrient intake or diseases. The prevalence of wasting can vary from season to season due to changes in food availability and/or spread of diseases. If weight for height of a child is above median of the reference population by more than two standard deviations, s/he classified as moderately or severely overweight child.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[«On the situation of children and women» Multiple Indicator Cluster Survey conducted in the Kyrgyz Republic in accordance with the rounds of MICS international household survey.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий модуль «Антропометрические данные детей в возрасте до 5 лет». ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Household survey collects anthropometric measurements at the individual level.
+Survey estimates are obtained using a standardized methodology applying WHO Child Growth Standards, as described in another source (WHO Anthro/Anthro software manual). Global and regional estimates are based on the methodology outlined in “Joint Child Malnutrition Estimates-Levels and Trends (UNICEF/WHO / WB-2012)”.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Only data that have passed data quality control is used for estimates. Any technical errors, such as measurement errors, recording errors are excluded from calculations at all levels: country, regional and global.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data quality control ensured at all survey stages: toolset design, sampling, training, interview techniques, data control with weekly production of data quality tables, calculation of weights, calculation of indicators, report preparation. The audit was conducted by experts from UNICEF country, regional and headquarters offices. When calculating the indicator no imputation of missing values is applied.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Availability of country assessments in accordance with the UNICEF MICS international rounds.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected and calculated in accordance with international standards and are comparable across countries.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[data.unicef.org/nutrition/malnutrition.html; http://www.who.int/nutgrowthdb/estimates2014/en/;
+http://datatopics.worldbank.org/child-malnutrition;
+United Nations Children’s Fund, World Health Organization, The World Bank (2012). UNICEFWHO-World
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="372ab9a1-729b-46e9-9f1b-b3e6b014d0be">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_STA_WASTN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.2.2. Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz republic (Household Statistics Division) under the UNICEF MICS global programme]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Prevalence of overweight (weight for height >+2 or <-2 SD standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Weight for height can be used to estimate wasting or overweight. If weight for height of a child is below median of the reference population by more than two standard deviations, s/he classified as moderately or severely wasted child, by more than three standard deviations, as severely wasted. Malnutrition is usually the result of low nutrient intake or diseases. The prevalence of wasting can vary from season to season due to changes in food availability and/or spread of diseases. If weight for height of a child is above median of the reference population by more than two standard deviations, s/he classified as moderately or severely overweight child.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[«On the situation of children and women» Multiple Indicator Cluster Survey conducted in the Kyrgyz Republic in accordance with the rounds of MICS international household survey.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий модуль «Антропометрические данные детей в возрасте до 5 лет». ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Household survey collects anthropometric measurements at the individual level.
+Survey estimates are obtained using a standardized methodology applying WHO Child Growth Standards, as described in another source (WHO Anthro/Anthro software manual). Global and regional estimates are based on the methodology outlined in “Joint Child Malnutrition Estimates-Levels and Trends (UNICEF/WHO / WB-2012)”.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Only data that have passed data quality control is used for estimates. Any technical errors, such as measurement errors, recording errors are excluded from calculations at all levels: country, regional and global.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data quality control ensured at all survey stages: toolset design, sampling, training, interview techniques, data control with weekly production of data quality tables, calculation of weights, calculation of indicators, report preparation. The audit was conducted by experts from UNICEF country, regional and headquarters offices. When calculating the indicator no imputation of missing values is applied.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Availability of country assessments in accordance with the UNICEF MICS international rounds.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected and calculated in accordance with international standards and are comparable across countries.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[data.unicef.org/nutrition/malnutrition.html; http://www.who.int/nutgrowthdb/estimates2014/en/;
+http://datatopics.worldbank.org/child-malnutrition;
+United Nations Children’s Fund, World Health Organization, The World Bank (2012). UNICEFWHO-World
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="c593846f-7314-49e2-b925-87e8e633b6e0">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SN_STA_OVWGT</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.2.2. Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz republic (Household Statistics Division) under the UNICEF MICS global programme]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Prevalence of overweight (weight for height >+2 or <-2 SD standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Weight for height can be used to estimate wasting or overweight. If weight for height of a child is below median of the reference population by more than two standard deviations, s/he classified as moderately or severely wasted child, by more than three standard deviations, as severely wasted. Malnutrition is usually the result of low nutrient intake or diseases. The prevalence of wasting can vary from season to season due to changes in food availability and/or spread of diseases. If weight for height of a child is above median of the reference population by more than two standard deviations, s/he classified as moderately or severely overweight child.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[«On the situation of children and women» Multiple Indicator Cluster Survey conducted in the Kyrgyz Republic in accordance with the rounds of MICS international household survey.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий модуль «Антропометрические данные детей в возрасте до 5 лет». ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Household survey collects anthropometric measurements at the individual level.
+Survey estimates are obtained using a standardized methodology applying WHO Child Growth Standards, as described in another source (WHO Anthro/Anthro software manual). Global and regional estimates are based on the methodology outlined in “Joint Child Malnutrition Estimates-Levels and Trends (UNICEF/WHO / WB-2012)”.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Only data that have passed data quality control is used for estimates. Any technical errors, such as measurement errors, recording errors are excluded from calculations at all levels: country, regional and global.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data quality control ensured at all survey stages: toolset design, sampling, training, interview techniques, data control with weekly production of data quality tables, calculation of weights, calculation of indicators, report preparation. The audit was conducted by experts from UNICEF country, regional and headquarters offices. When calculating the indicator no imputation of missing values is applied.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Availability of country assessments in accordance with the UNICEF MICS international rounds.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected and calculated in accordance with international standards and are comparable across countries.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[data.unicef.org/nutrition/malnutrition.html; http://www.who.int/nutgrowthdb/estimates2014/en/;
+http://datatopics.worldbank.org/child-malnutrition;
+United Nations Children’s Fund, World Health Organization, The World Bank (2012). UNICEFWHO-World
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="6e1465b3-f4e1-41e4-83e1-a234cad29cba">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SN_STA_OVWGTN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.2.2. Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz republic (Household Statistics Division) under the UNICEF MICS global programme]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Prevalence of overweight (weight for height >+2 or <-2 SD standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Weight for height can be used to estimate wasting or overweight. If weight for height of a child is below median of the reference population by more than two standard deviations, s/he classified as moderately or severely wasted child, by more than three standard deviations, as severely wasted. Malnutrition is usually the result of low nutrient intake or diseases. The prevalence of wasting can vary from season to season due to changes in food availability and/or spread of diseases. If weight for height of a child is above median of the reference population by more than two standard deviations, s/he classified as moderately or severely overweight child.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[«On the situation of children and women» Multiple Indicator Cluster Survey conducted in the Kyrgyz Republic in accordance with the rounds of MICS international household survey.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Выборочное обследование домашних хозяйств «О положении женщин и детей», включающий модуль «Антропометрические данные детей в возрасте до 5 лет». ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Household survey collects anthropometric measurements at the individual level.
+Survey estimates are obtained using a standardized methodology applying WHO Child Growth Standards, as described in another source (WHO Anthro/Anthro software manual). Global and regional estimates are based on the methodology outlined in “Joint Child Malnutrition Estimates-Levels and Trends (UNICEF/WHO / WB-2012)”.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Only data that have passed data quality control is used for estimates. Any technical errors, such as measurement errors, recording errors are excluded from calculations at all levels: country, regional and global.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Data quality control ensured at all survey stages: toolset design, sampling, training, interview techniques, data control with weekly production of data quality tables, calculation of weights, calculation of indicators, report preparation. The audit was conducted by experts from UNICEF country, regional and headquarters offices. When calculating the indicator no imputation of missing values is applied.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Availability of country assessments in accordance with the UNICEF MICS international rounds.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Data are collected and calculated in accordance with international standards and are comparable across countries.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[data.unicef.org/nutrition/malnutrition.html; http://www.who.int/nutgrowthdb/estimates2014/en/;
+http://datatopics.worldbank.org/child-malnutrition;
+United Nations Children’s Fund, World Health Organization, The World Bank (2012). UNICEFWHO-World
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="3b3a2d69-9934-448d-8857-977908c8d387">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SN_ITK_DEFC</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1: By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1.1: Prevalence of undernourishment]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The prevalence of undernourishment (PoU) is an estimate of the proportion of the population whose habitual food consumption is insufficient to provide the dietary energy levels that are required to maintain a normal active and healthy life. It is expressed as a percentage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator allows monitoring trends in the extent of dietary energy inadequacy in a population over time, generated as a result of the combination of changes in the overall availability of food, in the households’ ability to access it, and in the socio-demographic characteristics of the population, as well as differences across countries and regions in any given moment in time.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey (hereinafter IHBLFSS) contains a module on household food consumption and spending on food consumed outside the home as well as household gender and age composition.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется посредством вопросников ИОДХ с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).
+Сбор данных осуществляется на ежеквартальной основе, разработка индикатора производится по итогам года.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is computed at the population level. 
+There are two common computation methods for this indicator.
+1. Population is represented by an “average” individual for whom a probability distribution of the habitual daily dietary energy intake levels is modeled through a parametric probability density function. A custom function (R) is available to compute the prevalence of malnutrition given the four parameters of the calorie intake estimation (DEC), coefficient of variation (CV), asymmetry (Skew) and the minimum caloric intake (MDER);
+2. 2100Kcal taken as the world average minimum calorie diet value. The average per capita calorie intake of a household is calculated given sex composition of the household.
+In Kyrgyzstan, the indicator is calculated using second method and describes proportion of population consuming less than 2,100 Kcal.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Over the years, the parametric approach informing the computation of the PoU has been criticized, based on the presumptions that undernourishment should be assessed necessarily starting at the individual level, by comparing individual energy requirements with individual energy intakes. According to such view, the prevalence of undernourishment could be simply computed by counting the number of individuals in a representative sample of the population that is classified as undernourished, based on a comparison of individual habitual food consumption and requirements. Unfortunately, such approach is not feasible for two reasons: first, due to the cost of individual dietary intake surveys, individual food consumption is measured only in a few countries, every several years, on relatively small samples; moreover, individual energy requirements are practically unobservable with standard data collection methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The raw data are checked for quality before being submitted for further analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[A compatible time series calculated using common methodology has been available since 2000.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[DEC can be obtained either from survey data or from Food Balance Sheets. Both sources have limitations. Comparisons of national DEC based on FBS and surveys often reveal discrepancies. In order to limit the impact of such errors, FAO has traditionally presented estimates of country malnutrition level as three-year averages, assuming that errors caused by inaccurate indices recording in each individual year, may be reduced if the average is considered for three consecutive years.
+The national indicator computation methodology significantly differs from that of FAO. The most common approach used in preparing national reports has been to calculate the percentage of households for which the average per capita daily dietary energy consumption is found to be below thresholds based on daily Recommended Dietary Intake, usually set at 2,100.00 kcal, based on household survey data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[http://www.fao.org/economic/ess/ess-fs/en/ 
+http://www.fao.org/docrep/012/w0931e/w0931e16.pdf 
+http://www.fao.org/docrep/005/Y4249E/y4249e06.htm#bm06
+http://www.fao.org/3/a-i4060e.pdf 
+http://www.fao.org/3/a-i4046e.pdf
+
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="a85a4a78-82ea-4021-8126-84e5a461d9be">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SN_ITK_DEFCN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1: By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1.1: Prevalence of undernourishment]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ National Statistical Committee of the Kyrgyz Republic (Household Statistics Division)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Kerimalieva N.K.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[Sdg_nsc@stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[The prevalence of undernourishment (PoU) is an estimate of the proportion of the population whose habitual food consumption is insufficient to provide the dietary energy levels that are required to maintain a normal active and healthy life. It is expressed as a percentage.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator allows monitoring trends in the extent of dietary energy inadequacy in a population over time, generated as a result of the combination of changes in the overall availability of food, in the households’ ability to access it, and in the socio-demographic characteristics of the population, as well as differences across countries and regions in any given moment in time.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Integrated Household Budget and Labour Force Sample Survey (hereinafter IHBLFSS) contains a module on household food consumption and spending on food consumed outside the home as well as household gender and age composition.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Сбор данных осуществляется посредством вопросников ИОДХ с применением кластерной выборки, построенной на последней доступной Переписи населения и актуализированных списках жилых помещений. В опросах ИОДХ используется персональное интервью с использованием планшетных компьютеров (ComputerAssisted Personal Interview, CAPI).
+Сбор данных осуществляется на ежеквартальной основе, разработка индикатора производится по итогам года.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The indicator is computed at the population level. 
+There are two common computation methods for this indicator.
+1. Population is represented by an “average” individual for whom a probability distribution of the habitual daily dietary energy intake levels is modeled through a parametric probability density function. A custom function (R) is available to compute the prevalence of malnutrition given the four parameters of the calorie intake estimation (DEC), coefficient of variation (CV), asymmetry (Skew) and the minimum caloric intake (MDER);
+2. 2100Kcal taken as the world average minimum calorie diet value. The average per capita calorie intake of a household is calculated given sex composition of the household.
+In Kyrgyzstan, the indicator is calculated using second method and describes proportion of population consuming less than 2,100 Kcal.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Over the years, the parametric approach informing the computation of the PoU has been criticized, based on the presumptions that undernourishment should be assessed necessarily starting at the individual level, by comparing individual energy requirements with individual energy intakes. According to such view, the prevalence of undernourishment could be simply computed by counting the number of individuals in a representative sample of the population that is classified as undernourished, based on a comparison of individual habitual food consumption and requirements. Unfortunately, such approach is not feasible for two reasons: first, due to the cost of individual dietary intake surveys, individual food consumption is measured only in a few countries, every several years, on relatively small samples; moreover, individual energy requirements are practically unobservable with standard data collection methods.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[The raw data are checked for quality before being submitted for further analysis.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[A compatible time series calculated using common methodology has been available since 2000.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[DEC can be obtained either from survey data or from Food Balance Sheets. Both sources have limitations. Comparisons of national DEC based on FBS and surveys often reveal discrepancies. In order to limit the impact of such errors, FAO has traditionally presented estimates of country malnutrition level as three-year averages, assuming that errors caused by inaccurate indices recording in each individual year, may be reduced if the average is considered for three consecutive years.
+The national indicator computation methodology significantly differs from that of FAO. The most common approach used in preparing national reports has been to calculate the percentage of households for which the average per capita daily dietary energy consumption is found to be below thresholds based on daily Recommended Dietary Intake, usually set at 2,100.00 kcal, based on household survey data.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[http://www.fao.org/economic/ess/ess-fs/en/ 
+http://www.fao.org/docrep/012/w0931e/w0931e16.pdf 
+http://www.fao.org/docrep/005/Y4249E/y4249e06.htm#bm06
+http://www.fao.org/3/a-i4060e.pdf 
+http://www.fao.org/3/a-i4046e.pdf
+
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="f3964f6a-4f0f-4487-a216-284d038b563f">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_L_KG_020C01_1B</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2. Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.c. Принять меры для обеспечения надлежащего функционирования рынков продовольственных товаров и продукции их переработки и содействовать своевременному доступу к рыночной информации, в том числе о продовольственных резервах, с целью помочь ограничить чрезмерную волатильность цен на продовольствие]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.с.1.1b Индекс потребительских цен на продовольственные товары по Кыргызской Республике и областям]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[Национальный статистический комитет Кыргызской Республики (Отдел статистики цен)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Нурбаева А.Т.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[anurbaeva@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 625825]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Индекс потребительских цен и тарифов на товары и услуги (ИПЦ) - характеризует изменение во времени общего уровня цен на товары и услуги, приобретаемые населением для непроизводственного потребления. Он измеряет отношение стоимости фиксированного набора товаров и услуг в ценах текущего периода к его стоимости в ценах предыдущего (базисного) периода. 
+Данный показатель является одним из измерителей инфляции, основанный на сравнении цены корзины основных товаров, потребляемых населением, взвешенных в соответствии с удельным весом этих товаров в совокупном потреблении.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[ИПЦ является одним из важнейших показателей, характеризующих инфляционные процессы в стране, и используется в целях осуществления государственной финансовой и денежно - кредитной политики, анализа и прогноза ценовых процессов в экономике, пересмотра минимальных социальных гарантий населению, решения отдельных правовых споров.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Статистическое обследование потребительских цен и тарифов организуется на выборочной основе. Регистрация цен осуществляется специалистами органов государственной статистики. Цены регистрируются с использованием смартфонов/планшетов и в режиме Online информация поступает на сервер НСК.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Расчет ИПЦ на национальном и субнациональном уровнях производится по единой методологии и осуществляется в несколько этапов:
+— формирование весов для расчета ИПЦ;
+— расчет индивидуальных индексов цен на товар (услугу)-представитель на уровне города;
+— расчет агрегатных индексов на товар (услугу)-представитель на уровне областей и в целом по Кыргызстану;
+— расчет групповых и сводных индексов потребительских цен на уровне областей и в целом по Кыргызстану.
+
+Исчисление индексов потребительских цен осуществляется на основе двух источников информации:
+— средних сопоставимых цен на отдельные товары (услуги) -представители;
+— весов для исчисления агрегатных индексов цен на товары (услуги)-представители, а также групповых и сводных индексов цен.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Индикатор характеризует произошедшие события.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[Осуществляется регистрация сопоставимых цен]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные размещены на сайте НСК: www.stat.kg ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Используется международный стандарт.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[http://www.stat.kg/ru/metodologicheskie-polozheniya-po-statistike/ceny-i-tarify/
+Национальная платформа отчетности ЦУР КР: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="3ae929fb-8235-4d97-8f2a-058649067bb6">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_PRD_FIESMS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Цель 2: Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1: К 2030 году покончить с голодом и обеспечить доступ для всех людей, особенно бедных и уязвимых групп населения, включая детей, к безопасному, богатому питательными веществами и достаточному питанию в течение всего года]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1.2 Уровень умеренного или острого отсутствия продовольственной безопасности населения (по «Шкале восприятия отсутствия продовольственной безопасности»)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ НСК КР]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Керималиева Н.К]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[nazira.kerimaliena@gmail.com]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель измеряет процентное соотношение лиц в населении, которые испытывали нехватку продовольствия на умеренном или тяжелом уровне в течение отчетного периода. Тяжесть отсутствия продовольственной безопасности, определяемая как скрытый признак, измеряется по глобальной контрольной шкале уровня опыта обеспечения продовольственной безопасности, по стандарту измерения, созданному ФАО путем применения Шкалы опыта обеспечения продовольственной безопасности (далее ШОПБ) более чем в 140 странах мира, начиная с 2014 года.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отсутствие продовольственной безопасности при умеренном уровне тяжести обычно связано с неспособностью регулярно получать здоровое, сбалансированное питание. Таким образом, высокая распространенность отсутствия продовольственной безопасности на умеренных уровнях может рассматриваться как предсказание различных форм состояний здоровья населения, связанных с питанием и с недостаточностью питательных микроэлементов и несбалансированного питания. С другой стороны, серьезные уровни продовольственной необеспеченности предполагают высокую вероятность сокращения потребления пищи и, следовательно, могут приводить к более серьезным формам недоедания, включая голод.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Обследование домашних хозяйств, которое собирает информацию о приобретении пищи может являться достаточным, для того чтобы достоверно оценить распространенность недоедания среди населения по разумной стоимости и с необходимой периодичностью информировать мониторинг показателей Целей устойчивого развития при условии, что:
+а) все источники потребления продуктов питания для всех членов домашнего хозяйства, включая, в частности, пищу, потребляемую вне дома, учитываются должным образом;
+б) имеется достаточно информации для преобразования данных о потреблении продовольствия или о расходах на продукты питания в их вклад в потребление калорий;
+в) используются правильные методы для вычисления распространенности недоедания, чтобы регулировать избыточную изменчивость оцениваемого уровня привычного потребления продуктов питания среди домашних хозяйств, допуская наличие нормальной изменчивости в распределении потребления продуктов питания среди отдельных лиц, вызванной различиями в энергетических потребностях жителей.
+
+Однако на практике часто невозможно и нежелательно опираться только на данные, полученные путем опроса домашних хозяйств, так как информация, необходимая для оценки четырех параметров модели распространенности недоедания отсутствует или является неточной.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Официальная информация по производству продовольственных товаров, торговле и применению, используемая ФАО для составления продовольственных балансов обеспечивается в основном статистическими подразделениями Министерства сельского хозяйства. ФАО рассылает вопросник для сбора данных каждый год с определенным координационным центром. 
+Микроданные обследований домашних хозяйств, как правило, принадлежат и предоставляются национальными статистическими учреждениями.
+ Когда это возможно, ФАО получает данные напрямую через сайт национальных статистических учреждений. В ряде случаев, когда микроданные не имеются в открытом доступе, подписываются двусторонние соглашения, как правило, в контексте оказания технической помощи и программ по развитию потенциала.
+Сведения о численности и структуре населения всех наблюдаемых стран, полученных из мировых демографических перспектив Отдела народонаселения ООН.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные на индивидуальном или домашнем уровнях могут быть собраны с использованием одного из нескольких опросников по шкале продовольственной безопасности, основанных на опыте. Любой из этих модулей обследования собирает ответы на вопросы, требующие отчета о возникновении ряда типичных событий и условий, связанных с отсутствием продовольственной безопасности. Данные могут быть проанализированы с использованием модели Раша (также известной как однопараметрическая логистическая модель 1-PL), в которой ставится условие, что вероятность утвердительного ответа респондентом i на вопрос j является логистической функцией расстояния, на лежащей в основе серьезности, между положением респондента Ai и позиции предмета Bj.
+
+Prob{Xi,j = Yes} = (exp(Ai𝑎𝑖 − Bj𝑏𝑗)) / (1+ exp(Aj𝑗 −𝑏Bj𝑗))
+
+Параметры Ai𝑖 и 𝑏Bj𝑗 могут быть оценены с использованием процедур максимального правдоподобия. Параметры Ai  интерпретируются как мера тяжести состояния продовольственной безопасности для каждого респондента и используются для классификации их в классы продовольственной необеспеченности : (a) продовольственную безопасность или умеренную продовольственную небезопасность; b) умеренная или серьезная продовольственная небезопасность и c) серьезная нехватка продовольствия и оценка вероятности умеренной или серьезной нехватки продовольствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Считается, что требуется в среднем менее трех минут для опроса ШОПБ при хорошо проведенном очном обследовании, которое должно позволять включать ШОПБ-МО (Модуль опроса) в общенациональное репрезентативное обследование в каждой стране мира по очень разумной цене. ФАО предоставляет версии ШОПБ-МО, адаптированные и переведенные на каждый из более чем 200 языков и диалектов, используемых во Всемирном опросе Гэллапа. 
+При использовании во Всемирном опросе Гэллапа, с размером выборки только около 1000 индивидов,  ширина доверительных интервалов редко превышает 20% от измеренной распространенности (то есть, показатели распространенности около 50% оцениваются с погрешностью плюс или минус 5%). Очевидно, что доверительные интервалы, вероятно, будут намного меньше, если национальные показатели распространенности оцениваются с использованием более крупных выборок.
+По сравнению с другими предложенными неофициальными показателями отсутствия продовольственной безопасности домашних хозяйств, подход, основанный на ШОПБ, имеет то преимущество, так как показатели распространенности продовольственной безопасности напрямую сопоставимы между группами населения и странами. Даже если они используют похожие метки (такие как «слабая», «умеренная» и «серьезная» небезопасность продовольствием), другим подходам еще предстоит продемонстрировать формальную сопоставимость пороговых значений, используемых для классификации, из-за отсутствия определения надлежащих статистических моделей, которые связывают значения «индексов» или «баллов», используемых для классификации серьезности отсутствия продовольственной безопасности. По этой причине следует проявлять осторожность при сравнении результатов, полученных ШОПБ, с результатами, полученными с этими другими показателями, даже если, к сожалению, для их описания используются аналогичные метки.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные за 2014 и 2015 годы можно получить в ФАО по 146 странам, районам и территориям, включенным в Всемирный опрос Гэллапа. Региональные и субрегиональные агрегированные показатели рассчитаны для всех регионов, за исключением регионов Карибского бассейна и Океании (поскольку большинство малых островных государств в Карибском бассейне и в южной части Тихого океана не охваченных ГПВ).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Для обеспечения сопоставимости показателей рассчитанных для разных групп населения, универсальные пороговые значения определены в глобальной опорной шкале ШОПБ и преобразованы в соответствующие значения в «локальных» шкалах, полученных в результате применения Модели Раша для любой конкретной популяции, посредством процесса «приравнивания».
+Приравнивание является одной из форм стандартизации метрики, основанной на идентификации подмножества элементов, которые можно считать общими для глобального ШОПБ, и конкретной шкалы, используемой для измерения в каждом контексте. Уровни серьезности, связанные с общими статьями, используются в качестве точек привязки для корректировки глобальных порогов ШОПБ в локальных масштабах. Процесс стандартизации гарантирует, что среднее и стандартное отклонение набора общих элементов одинаково при измерении на глобальном ШОПБ или в национальном масштабе. Совместимость с глобальным ШОПБ и возможность компиляции этого показателя требуют, чтобы как минимум четыре из восьми элементов ШОПБ были определены как общие.
+Статистический отдел ФАО разработал пакет RM.веса в рамках R, который обеспечивает процедуры для оценки параметров модели Раша с использованием условной максимальной вероятности, с возможностью учета конструкции комплексного обследования.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Http://www.fao.org/in-action/Voices-of-the-Hungry/
+Http://www.fao.org/3/i4830e.pdf
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="b096932b-7827-47b7-b548-7397e48f52c4">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_PRD_FIESMSN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Цель 2: Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1: К 2030 году покончить с голодом и обеспечить доступ для всех людей, особенно бедных и уязвимых групп населения, включая детей, к безопасному, богатому питательными веществами и достаточному питанию в течение всего года]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1.2 Уровень умеренного или острого отсутствия продовольственной безопасности населения (по «Шкале восприятия отсутствия продовольственной безопасности»)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ НСК КР]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Керималиева Н.К]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[nazira.kerimaliena@gmail.com]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель измеряет процентное соотношение лиц в населении, которые испытывали нехватку продовольствия на умеренном или тяжелом уровне в течение отчетного периода. Тяжесть отсутствия продовольственной безопасности, определяемая как скрытый признак, измеряется по глобальной контрольной шкале уровня опыта обеспечения продовольственной безопасности, по стандарту измерения, созданному ФАО путем применения Шкалы опыта обеспечения продовольственной безопасности (далее ШОПБ) более чем в 140 странах мира, начиная с 2014 года.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отсутствие продовольственной безопасности при умеренном уровне тяжести обычно связано с неспособностью регулярно получать здоровое, сбалансированное питание. Таким образом, высокая распространенность отсутствия продовольственной безопасности на умеренных уровнях может рассматриваться как предсказание различных форм состояний здоровья населения, связанных с питанием и с недостаточностью питательных микроэлементов и несбалансированного питания. С другой стороны, серьезные уровни продовольственной необеспеченности предполагают высокую вероятность сокращения потребления пищи и, следовательно, могут приводить к более серьезным формам недоедания, включая голод.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Обследование домашних хозяйств, которое собирает информацию о приобретении пищи может являться достаточным, для того чтобы достоверно оценить распространенность недоедания среди населения по разумной стоимости и с необходимой периодичностью информировать мониторинг показателей Целей устойчивого развития при условии, что:
+а) все источники потребления продуктов питания для всех членов домашнего хозяйства, включая, в частности, пищу, потребляемую вне дома, учитываются должным образом;
+б) имеется достаточно информации для преобразования данных о потреблении продовольствия или о расходах на продукты питания в их вклад в потребление калорий;
+в) используются правильные методы для вычисления распространенности недоедания, чтобы регулировать избыточную изменчивость оцениваемого уровня привычного потребления продуктов питания среди домашних хозяйств, допуская наличие нормальной изменчивости в распределении потребления продуктов питания среди отдельных лиц, вызванной различиями в энергетических потребностях жителей.
+
+Однако на практике часто невозможно и нежелательно опираться только на данные, полученные путем опроса домашних хозяйств, так как информация, необходимая для оценки четырех параметров модели распространенности недоедания отсутствует или является неточной.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Официальная информация по производству продовольственных товаров, торговле и применению, используемая ФАО для составления продовольственных балансов обеспечивается в основном статистическими подразделениями Министерства сельского хозяйства. ФАО рассылает вопросник для сбора данных каждый год с определенным координационным центром. 
+Микроданные обследований домашних хозяйств, как правило, принадлежат и предоставляются национальными статистическими учреждениями.
+ Когда это возможно, ФАО получает данные напрямую через сайт национальных статистических учреждений. В ряде случаев, когда микроданные не имеются в открытом доступе, подписываются двусторонние соглашения, как правило, в контексте оказания технической помощи и программ по развитию потенциала.
+Сведения о численности и структуре населения всех наблюдаемых стран, полученных из мировых демографических перспектив Отдела народонаселения ООН.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные на индивидуальном или домашнем уровнях могут быть собраны с использованием одного из нескольких опросников по шкале продовольственной безопасности, основанных на опыте. Любой из этих модулей обследования собирает ответы на вопросы, требующие отчета о возникновении ряда типичных событий и условий, связанных с отсутствием продовольственной безопасности. Данные могут быть проанализированы с использованием модели Раша (также известной как однопараметрическая логистическая модель 1-PL), в которой ставится условие, что вероятность утвердительного ответа респондентом i на вопрос j является логистической функцией расстояния, на лежащей в основе серьезности, между положением респондента Ai и позиции предмета Bj.
+
+Prob{Xi,j = Yes} = (exp(Ai𝑎𝑖 − Bj𝑏𝑗)) / (1+ exp(Aj𝑗 −𝑏Bj𝑗))
+
+Параметры Ai𝑖 и 𝑏Bj𝑗 могут быть оценены с использованием процедур максимального правдоподобия. Параметры Ai  интерпретируются как мера тяжести состояния продовольственной безопасности для каждого респондента и используются для классификации их в классы продовольственной необеспеченности : (a) продовольственную безопасность или умеренную продовольственную небезопасность; b) умеренная или серьезная продовольственная небезопасность и c) серьезная нехватка продовольствия и оценка вероятности умеренной или серьезной нехватки продовольствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Считается, что требуется в среднем менее трех минут для опроса ШОПБ при хорошо проведенном очном обследовании, которое должно позволять включать ШОПБ-МО (Модуль опроса) в общенациональное репрезентативное обследование в каждой стране мира по очень разумной цене. ФАО предоставляет версии ШОПБ-МО, адаптированные и переведенные на каждый из более чем 200 языков и диалектов, используемых во Всемирном опросе Гэллапа. 
+При использовании во Всемирном опросе Гэллапа, с размером выборки только около 1000 индивидов,  ширина доверительных интервалов редко превышает 20% от измеренной распространенности (то есть, показатели распространенности около 50% оцениваются с погрешностью плюс или минус 5%). Очевидно, что доверительные интервалы, вероятно, будут намного меньше, если национальные показатели распространенности оцениваются с использованием более крупных выборок.
+По сравнению с другими предложенными неофициальными показателями отсутствия продовольственной безопасности домашних хозяйств, подход, основанный на ШОПБ, имеет то преимущество, так как показатели распространенности продовольственной безопасности напрямую сопоставимы между группами населения и странами. Даже если они используют похожие метки (такие как «слабая», «умеренная» и «серьезная» небезопасность продовольствием), другим подходам еще предстоит продемонстрировать формальную сопоставимость пороговых значений, используемых для классификации, из-за отсутствия определения надлежащих статистических моделей, которые связывают значения «индексов» или «баллов», используемых для классификации серьезности отсутствия продовольственной безопасности. По этой причине следует проявлять осторожность при сравнении результатов, полученных ШОПБ, с результатами, полученными с этими другими показателями, даже если, к сожалению, для их описания используются аналогичные метки.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные за 2014 и 2015 годы можно получить в ФАО по 146 странам, районам и территориям, включенным в Всемирный опрос Гэллапа. Региональные и субрегиональные агрегированные показатели рассчитаны для всех регионов, за исключением регионов Карибского бассейна и Океании (поскольку большинство малых островных государств в Карибском бассейне и в южной части Тихого океана не охваченных ГПВ).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Для обеспечения сопоставимости показателей рассчитанных для разных групп населения, универсальные пороговые значения определены в глобальной опорной шкале ШОПБ и преобразованы в соответствующие значения в «локальных» шкалах, полученных в результате применения Модели Раша для любой конкретной популяции, посредством процесса «приравнивания».
+Приравнивание является одной из форм стандартизации метрики, основанной на идентификации подмножества элементов, которые можно считать общими для глобального ШОПБ, и конкретной шкалы, используемой для измерения в каждом контексте. Уровни серьезности, связанные с общими статьями, используются в качестве точек привязки для корректировки глобальных порогов ШОПБ в локальных масштабах. Процесс стандартизации гарантирует, что среднее и стандартное отклонение набора общих элементов одинаково при измерении на глобальном ШОПБ или в национальном масштабе. Совместимость с глобальным ШОПБ и возможность компиляции этого показателя требуют, чтобы как минимум четыре из восьми элементов ШОПБ были определены как общие.
+Статистический отдел ФАО разработал пакет RM.веса в рамках R, который обеспечивает процедуры для оценки параметров модели Раша с использованием условной максимальной вероятности, с возможностью учета конструкции комплексного обследования.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Http://www.fao.org/in-action/Voices-of-the-Hungry/
+Http://www.fao.org/3/i4830e.pdf
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="2a7d44a9-566f-4572-b901-cf108def027d">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_PRD_FIESMSTN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Цель 2: Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1: К 2030 году покончить с голодом и обеспечить доступ для всех людей, особенно бедных и уязвимых групп населения, включая детей, к безопасному, богатому питательными веществами и достаточному питанию в течение всего года]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1.2 Уровень умеренного или острого отсутствия продовольственной безопасности населения (по «Шкале восприятия отсутствия продовольственной безопасности»)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ НСК КР]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Керималиева Н.К]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[nazira.kerimaliena@gmail.com]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель измеряет процентное соотношение лиц в населении, которые испытывали нехватку продовольствия на умеренном или тяжелом уровне в течение отчетного периода. Тяжесть отсутствия продовольственной безопасности, определяемая как скрытый признак, измеряется по глобальной контрольной шкале уровня опыта обеспечения продовольственной безопасности, по стандарту измерения, созданному ФАО путем применения Шкалы опыта обеспечения продовольственной безопасности (далее ШОПБ) более чем в 140 странах мира, начиная с 2014 года.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отсутствие продовольственной безопасности при умеренном уровне тяжести обычно связано с неспособностью регулярно получать здоровое, сбалансированное питание. Таким образом, высокая распространенность отсутствия продовольственной безопасности на умеренных уровнях может рассматриваться как предсказание различных форм состояний здоровья населения, связанных с питанием и с недостаточностью питательных микроэлементов и несбалансированного питания. С другой стороны, серьезные уровни продовольственной необеспеченности предполагают высокую вероятность сокращения потребления пищи и, следовательно, могут приводить к более серьезным формам недоедания, включая голод.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Обследование домашних хозяйств, которое собирает информацию о приобретении пищи может являться достаточным, для того чтобы достоверно оценить распространенность недоедания среди населения по разумной стоимости и с необходимой периодичностью информировать мониторинг показателей Целей устойчивого развития при условии, что:
+а) все источники потребления продуктов питания для всех членов домашнего хозяйства, включая, в частности, пищу, потребляемую вне дома, учитываются должным образом;
+б) имеется достаточно информации для преобразования данных о потреблении продовольствия или о расходах на продукты питания в их вклад в потребление калорий;
+в) используются правильные методы для вычисления распространенности недоедания, чтобы регулировать избыточную изменчивость оцениваемого уровня привычного потребления продуктов питания среди домашних хозяйств, допуская наличие нормальной изменчивости в распределении потребления продуктов питания среди отдельных лиц, вызванной различиями в энергетических потребностях жителей.
+
+Однако на практике часто невозможно и нежелательно опираться только на данные, полученные путем опроса домашних хозяйств, так как информация, необходимая для оценки четырех параметров модели распространенности недоедания отсутствует или является неточной.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Официальная информация по производству продовольственных товаров, торговле и применению, используемая ФАО для составления продовольственных балансов обеспечивается в основном статистическими подразделениями Министерства сельского хозяйства. ФАО рассылает вопросник для сбора данных каждый год с определенным координационным центром. 
+Микроданные обследований домашних хозяйств, как правило, принадлежат и предоставляются национальными статистическими учреждениями.
+ Когда это возможно, ФАО получает данные напрямую через сайт национальных статистических учреждений. В ряде случаев, когда микроданные не имеются в открытом доступе, подписываются двусторонние соглашения, как правило, в контексте оказания технической помощи и программ по развитию потенциала.
+Сведения о численности и структуре населения всех наблюдаемых стран, полученных из мировых демографических перспектив Отдела народонаселения ООН.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные на индивидуальном или домашнем уровнях могут быть собраны с использованием одного из нескольких опросников по шкале продовольственной безопасности, основанных на опыте. Любой из этих модулей обследования собирает ответы на вопросы, требующие отчета о возникновении ряда типичных событий и условий, связанных с отсутствием продовольственной безопасности. Данные могут быть проанализированы с использованием модели Раша (также известной как однопараметрическая логистическая модель 1-PL), в которой ставится условие, что вероятность утвердительного ответа респондентом i на вопрос j является логистической функцией расстояния, на лежащей в основе серьезности, между положением респондента Ai и позиции предмета Bj.
+
+Prob{Xi,j = Yes} = (exp(Ai𝑎𝑖 − Bj𝑏𝑗)) / (1+ exp(Aj𝑗 −𝑏Bj𝑗))
+
+Параметры Ai𝑖 и 𝑏Bj𝑗 могут быть оценены с использованием процедур максимального правдоподобия. Параметры Ai  интерпретируются как мера тяжести состояния продовольственной безопасности для каждого респондента и используются для классификации их в классы продовольственной необеспеченности : (a) продовольственную безопасность или умеренную продовольственную небезопасность; b) умеренная или серьезная продовольственная небезопасность и c) серьезная нехватка продовольствия и оценка вероятности умеренной или серьезной нехватки продовольствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Считается, что требуется в среднем менее трех минут для опроса ШОПБ при хорошо проведенном очном обследовании, которое должно позволять включать ШОПБ-МО (Модуль опроса) в общенациональное репрезентативное обследование в каждой стране мира по очень разумной цене. ФАО предоставляет версии ШОПБ-МО, адаптированные и переведенные на каждый из более чем 200 языков и диалектов, используемых во Всемирном опросе Гэллапа. 
+При использовании во Всемирном опросе Гэллапа, с размером выборки только около 1000 индивидов,  ширина доверительных интервалов редко превышает 20% от измеренной распространенности (то есть, показатели распространенности около 50% оцениваются с погрешностью плюс или минус 5%). Очевидно, что доверительные интервалы, вероятно, будут намного меньше, если национальные показатели распространенности оцениваются с использованием более крупных выборок.
+По сравнению с другими предложенными неофициальными показателями отсутствия продовольственной безопасности домашних хозяйств, подход, основанный на ШОПБ, имеет то преимущество, так как показатели распространенности продовольственной безопасности напрямую сопоставимы между группами населения и странами. Даже если они используют похожие метки (такие как «слабая», «умеренная» и «серьезная» небезопасность продовольствием), другим подходам еще предстоит продемонстрировать формальную сопоставимость пороговых значений, используемых для классификации, из-за отсутствия определения надлежащих статистических моделей, которые связывают значения «индексов» или «баллов», используемых для классификации серьезности отсутствия продовольственной безопасности. По этой причине следует проявлять осторожность при сравнении результатов, полученных ШОПБ, с результатами, полученными с этими другими показателями, даже если, к сожалению, для их описания используются аналогичные метки.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные за 2014 и 2015 годы можно получить в ФАО по 146 странам, районам и территориям, включенным в Всемирный опрос Гэллапа. Региональные и субрегиональные агрегированные показатели рассчитаны для всех регионов, за исключением регионов Карибского бассейна и Океании (поскольку большинство малых островных государств в Карибском бассейне и в южной части Тихого океана не охваченных ГПВ).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Для обеспечения сопоставимости показателей рассчитанных для разных групп населения, универсальные пороговые значения определены в глобальной опорной шкале ШОПБ и преобразованы в соответствующие значения в «локальных» шкалах, полученных в результате применения Модели Раша для любой конкретной популяции, посредством процесса «приравнивания».
+Приравнивание является одной из форм стандартизации метрики, основанной на идентификации подмножества элементов, которые можно считать общими для глобального ШОПБ, и конкретной шкалы, используемой для измерения в каждом контексте. Уровни серьезности, связанные с общими статьями, используются в качестве точек привязки для корректировки глобальных порогов ШОПБ в локальных масштабах. Процесс стандартизации гарантирует, что среднее и стандартное отклонение набора общих элементов одинаково при измерении на глобальном ШОПБ или в национальном масштабе. Совместимость с глобальным ШОПБ и возможность компиляции этого показателя требуют, чтобы как минимум четыре из восьми элементов ШОПБ были определены как общие.
+Статистический отдел ФАО разработал пакет RM.веса в рамках R, который обеспечивает процедуры для оценки параметров модели Раша с использованием условной максимальной вероятности, с возможностью учета конструкции комплексного обследования.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Http://www.fao.org/in-action/Voices-of-the-Hungry/
+Http://www.fao.org/3/i4830e.pdf
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="2fdfe64e-a9be-4557-9f98-fdb2d2fdfd35">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_PRD_FIESS</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Цель 2: Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1: К 2030 году покончить с голодом и обеспечить доступ для всех людей, особенно бедных и уязвимых групп населения, включая детей, к безопасному, богатому питательными веществами и достаточному питанию в течение всего года]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1.2 Уровень умеренного или острого отсутствия продовольственной безопасности населения (по «Шкале восприятия отсутствия продовольственной безопасности»)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ НСК КР]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Керималиева Н.К]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[nazira.kerimaliena@gmail.com]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель измеряет процентное соотношение лиц в населении, которые испытывали нехватку продовольствия на умеренном или тяжелом уровне в течение отчетного периода. Тяжесть отсутствия продовольственной безопасности, определяемая как скрытый признак, измеряется по глобальной контрольной шкале уровня опыта обеспечения продовольственной безопасности, по стандарту измерения, созданному ФАО путем применения Шкалы опыта обеспечения продовольственной безопасности (далее ШОПБ) более чем в 140 странах мира, начиная с 2014 года.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отсутствие продовольственной безопасности при умеренном уровне тяжести обычно связано с неспособностью регулярно получать здоровое, сбалансированное питание. Таким образом, высокая распространенность отсутствия продовольственной безопасности на умеренных уровнях может рассматриваться как предсказание различных форм состояний здоровья населения, связанных с питанием и с недостаточностью питательных микроэлементов и несбалансированного питания. С другой стороны, серьезные уровни продовольственной необеспеченности предполагают высокую вероятность сокращения потребления пищи и, следовательно, могут приводить к более серьезным формам недоедания, включая голод.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Обследование домашних хозяйств, которое собирает информацию о приобретении пищи может являться достаточным, для того чтобы достоверно оценить распространенность недоедания среди населения по разумной стоимости и с необходимой периодичностью информировать мониторинг показателей Целей устойчивого развития при условии, что:
+а) все источники потребления продуктов питания для всех членов домашнего хозяйства, включая, в частности, пищу, потребляемую вне дома, учитываются должным образом;
+б) имеется достаточно информации для преобразования данных о потреблении продовольствия или о расходах на продукты питания в их вклад в потребление калорий;
+в) используются правильные методы для вычисления распространенности недоедания, чтобы регулировать избыточную изменчивость оцениваемого уровня привычного потребления продуктов питания среди домашних хозяйств, допуская наличие нормальной изменчивости в распределении потребления продуктов питания среди отдельных лиц, вызванной различиями в энергетических потребностях жителей.
+
+Однако на практике часто невозможно и нежелательно опираться только на данные, полученные путем опроса домашних хозяйств, так как информация, необходимая для оценки четырех параметров модели распространенности недоедания отсутствует или является неточной.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Официальная информация по производству продовольственных товаров, торговле и применению, используемая ФАО для составления продовольственных балансов обеспечивается в основном статистическими подразделениями Министерства сельского хозяйства. ФАО рассылает вопросник для сбора данных каждый год с определенным координационным центром. 
+Микроданные обследований домашних хозяйств, как правило, принадлежат и предоставляются национальными статистическими учреждениями.
+ Когда это возможно, ФАО получает данные напрямую через сайт национальных статистических учреждений. В ряде случаев, когда микроданные не имеются в открытом доступе, подписываются двусторонние соглашения, как правило, в контексте оказания технической помощи и программ по развитию потенциала.
+Сведения о численности и структуре населения всех наблюдаемых стран, полученных из мировых демографических перспектив Отдела народонаселения ООН.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные на индивидуальном или домашнем уровнях могут быть собраны с использованием одного из нескольких опросников по шкале продовольственной безопасности, основанных на опыте. Любой из этих модулей обследования собирает ответы на вопросы, требующие отчета о возникновении ряда типичных событий и условий, связанных с отсутствием продовольственной безопасности. Данные могут быть проанализированы с использованием модели Раша (также известной как однопараметрическая логистическая модель 1-PL), в которой ставится условие, что вероятность утвердительного ответа респондентом i на вопрос j является логистической функцией расстояния, на лежащей в основе серьезности, между положением респондента Ai и позиции предмета Bj.
+
+Prob{Xi,j = Yes} = (exp(Ai𝑎𝑖 − Bj𝑏𝑗)) / (1+ exp(Aj𝑗 −𝑏Bj𝑗))
+
+Параметры Ai𝑖 и 𝑏Bj𝑗 могут быть оценены с использованием процедур максимального правдоподобия. Параметры Ai  интерпретируются как мера тяжести состояния продовольственной безопасности для каждого респондента и используются для классификации их в классы продовольственной необеспеченности : (a) продовольственную безопасность или умеренную продовольственную небезопасность; b) умеренная или серьезная продовольственная небезопасность и c) серьезная нехватка продовольствия и оценка вероятности умеренной или серьезной нехватки продовольствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Считается, что требуется в среднем менее трех минут для опроса ШОПБ при хорошо проведенном очном обследовании, которое должно позволять включать ШОПБ-МО (Модуль опроса) в общенациональное репрезентативное обследование в каждой стране мира по очень разумной цене. ФАО предоставляет версии ШОПБ-МО, адаптированные и переведенные на каждый из более чем 200 языков и диалектов, используемых во Всемирном опросе Гэллапа. 
+При использовании во Всемирном опросе Гэллапа, с размером выборки только около 1000 индивидов,  ширина доверительных интервалов редко превышает 20% от измеренной распространенности (то есть, показатели распространенности около 50% оцениваются с погрешностью плюс или минус 5%). Очевидно, что доверительные интервалы, вероятно, будут намного меньше, если национальные показатели распространенности оцениваются с использованием более крупных выборок.
+По сравнению с другими предложенными неофициальными показателями отсутствия продовольственной безопасности домашних хозяйств, подход, основанный на ШОПБ, имеет то преимущество, так как показатели распространенности продовольственной безопасности напрямую сопоставимы между группами населения и странами. Даже если они используют похожие метки (такие как «слабая», «умеренная» и «серьезная» небезопасность продовольствием), другим подходам еще предстоит продемонстрировать формальную сопоставимость пороговых значений, используемых для классификации, из-за отсутствия определения надлежащих статистических моделей, которые связывают значения «индексов» или «баллов», используемых для классификации серьезности отсутствия продовольственной безопасности. По этой причине следует проявлять осторожность при сравнении результатов, полученных ШОПБ, с результатами, полученными с этими другими показателями, даже если, к сожалению, для их описания используются аналогичные метки.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные за 2014 и 2015 годы можно получить в ФАО по 146 странам, районам и территориям, включенным в Всемирный опрос Гэллапа. Региональные и субрегиональные агрегированные показатели рассчитаны для всех регионов, за исключением регионов Карибского бассейна и Океании (поскольку большинство малых островных государств в Карибском бассейне и в южной части Тихого океана не охваченных ГПВ).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Для обеспечения сопоставимости показателей рассчитанных для разных групп населения, универсальные пороговые значения определены в глобальной опорной шкале ШОПБ и преобразованы в соответствующие значения в «локальных» шкалах, полученных в результате применения Модели Раша для любой конкретной популяции, посредством процесса «приравнивания».
+Приравнивание является одной из форм стандартизации метрики, основанной на идентификации подмножества элементов, которые можно считать общими для глобального ШОПБ, и конкретной шкалы, используемой для измерения в каждом контексте. Уровни серьезности, связанные с общими статьями, используются в качестве точек привязки для корректировки глобальных порогов ШОПБ в локальных масштабах. Процесс стандартизации гарантирует, что среднее и стандартное отклонение набора общих элементов одинаково при измерении на глобальном ШОПБ или в национальном масштабе. Совместимость с глобальным ШОПБ и возможность компиляции этого показателя требуют, чтобы как минимум четыре из восьми элементов ШОПБ были определены как общие.
+Статистический отдел ФАО разработал пакет RM.веса в рамках R, который обеспечивает процедуры для оценки параметров модели Раша с использованием условной максимальной вероятности, с возможностью учета конструкции комплексного обследования.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Http://www.fao.org/in-action/Voices-of-the-Hungry/
+Http://www.fao.org/3/i4830e.pdf
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="6c24da4b-f135-4228-9220-3b7c19c18495">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_PRD_FIESSN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Цель 2: Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1: К 2030 году покончить с голодом и обеспечить доступ для всех людей, особенно бедных и уязвимых групп населения, включая детей, к безопасному, богатому питательными веществами и достаточному питанию в течение всего года]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1.2 Уровень умеренного или острого отсутствия продовольственной безопасности населения (по «Шкале восприятия отсутствия продовольственной безопасности»)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ НСК КР]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Керималиева Н.К]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[nazira.kerimaliena@gmail.com]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель измеряет процентное соотношение лиц в населении, которые испытывали нехватку продовольствия на умеренном или тяжелом уровне в течение отчетного периода. Тяжесть отсутствия продовольственной безопасности, определяемая как скрытый признак, измеряется по глобальной контрольной шкале уровня опыта обеспечения продовольственной безопасности, по стандарту измерения, созданному ФАО путем применения Шкалы опыта обеспечения продовольственной безопасности (далее ШОПБ) более чем в 140 странах мира, начиная с 2014 года.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отсутствие продовольственной безопасности при умеренном уровне тяжести обычно связано с неспособностью регулярно получать здоровое, сбалансированное питание. Таким образом, высокая распространенность отсутствия продовольственной безопасности на умеренных уровнях может рассматриваться как предсказание различных форм состояний здоровья населения, связанных с питанием и с недостаточностью питательных микроэлементов и несбалансированного питания. С другой стороны, серьезные уровни продовольственной необеспеченности предполагают высокую вероятность сокращения потребления пищи и, следовательно, могут приводить к более серьезным формам недоедания, включая голод.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Обследование домашних хозяйств, которое собирает информацию о приобретении пищи может являться достаточным, для того чтобы достоверно оценить распространенность недоедания среди населения по разумной стоимости и с необходимой периодичностью информировать мониторинг показателей Целей устойчивого развития при условии, что:
+а) все источники потребления продуктов питания для всех членов домашнего хозяйства, включая, в частности, пищу, потребляемую вне дома, учитываются должным образом;
+б) имеется достаточно информации для преобразования данных о потреблении продовольствия или о расходах на продукты питания в их вклад в потребление калорий;
+в) используются правильные методы для вычисления распространенности недоедания, чтобы регулировать избыточную изменчивость оцениваемого уровня привычного потребления продуктов питания среди домашних хозяйств, допуская наличие нормальной изменчивости в распределении потребления продуктов питания среди отдельных лиц, вызванной различиями в энергетических потребностях жителей.
+
+Однако на практике часто невозможно и нежелательно опираться только на данные, полученные путем опроса домашних хозяйств, так как информация, необходимая для оценки четырех параметров модели распространенности недоедания отсутствует или является неточной.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Официальная информация по производству продовольственных товаров, торговле и применению, используемая ФАО для составления продовольственных балансов обеспечивается в основном статистическими подразделениями Министерства сельского хозяйства. ФАО рассылает вопросник для сбора данных каждый год с определенным координационным центром. 
+Микроданные обследований домашних хозяйств, как правило, принадлежат и предоставляются национальными статистическими учреждениями.
+ Когда это возможно, ФАО получает данные напрямую через сайт национальных статистических учреждений. В ряде случаев, когда микроданные не имеются в открытом доступе, подписываются двусторонние соглашения, как правило, в контексте оказания технической помощи и программ по развитию потенциала.
+Сведения о численности и структуре населения всех наблюдаемых стран, полученных из мировых демографических перспектив Отдела народонаселения ООН.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные на индивидуальном или домашнем уровнях могут быть собраны с использованием одного из нескольких опросников по шкале продовольственной безопасности, основанных на опыте. Любой из этих модулей обследования собирает ответы на вопросы, требующие отчета о возникновении ряда типичных событий и условий, связанных с отсутствием продовольственной безопасности. Данные могут быть проанализированы с использованием модели Раша (также известной как однопараметрическая логистическая модель 1-PL), в которой ставится условие, что вероятность утвердительного ответа респондентом i на вопрос j является логистической функцией расстояния, на лежащей в основе серьезности, между положением респондента Ai и позиции предмета Bj.
+
+Prob{Xi,j = Yes} = (exp(Ai𝑎𝑖 − Bj𝑏𝑗)) / (1+ exp(Aj𝑗 −𝑏Bj𝑗))
+
+Параметры Ai𝑖 и 𝑏Bj𝑗 могут быть оценены с использованием процедур максимального правдоподобия. Параметры Ai  интерпретируются как мера тяжести состояния продовольственной безопасности для каждого респондента и используются для классификации их в классы продовольственной необеспеченности : (a) продовольственную безопасность или умеренную продовольственную небезопасность; b) умеренная или серьезная продовольственная небезопасность и c) серьезная нехватка продовольствия и оценка вероятности умеренной или серьезной нехватки продовольствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Считается, что требуется в среднем менее трех минут для опроса ШОПБ при хорошо проведенном очном обследовании, которое должно позволять включать ШОПБ-МО (Модуль опроса) в общенациональное репрезентативное обследование в каждой стране мира по очень разумной цене. ФАО предоставляет версии ШОПБ-МО, адаптированные и переведенные на каждый из более чем 200 языков и диалектов, используемых во Всемирном опросе Гэллапа. 
+При использовании во Всемирном опросе Гэллапа, с размером выборки только около 1000 индивидов,  ширина доверительных интервалов редко превышает 20% от измеренной распространенности (то есть, показатели распространенности около 50% оцениваются с погрешностью плюс или минус 5%). Очевидно, что доверительные интервалы, вероятно, будут намного меньше, если национальные показатели распространенности оцениваются с использованием более крупных выборок.
+По сравнению с другими предложенными неофициальными показателями отсутствия продовольственной безопасности домашних хозяйств, подход, основанный на ШОПБ, имеет то преимущество, так как показатели распространенности продовольственной безопасности напрямую сопоставимы между группами населения и странами. Даже если они используют похожие метки (такие как «слабая», «умеренная» и «серьезная» небезопасность продовольствием), другим подходам еще предстоит продемонстрировать формальную сопоставимость пороговых значений, используемых для классификации, из-за отсутствия определения надлежащих статистических моделей, которые связывают значения «индексов» или «баллов», используемых для классификации серьезности отсутствия продовольственной безопасности. По этой причине следует проявлять осторожность при сравнении результатов, полученных ШОПБ, с результатами, полученными с этими другими показателями, даже если, к сожалению, для их описания используются аналогичные метки.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные за 2014 и 2015 годы можно получить в ФАО по 146 странам, районам и территориям, включенным в Всемирный опрос Гэллапа. Региональные и субрегиональные агрегированные показатели рассчитаны для всех регионов, за исключением регионов Карибского бассейна и Океании (поскольку большинство малых островных государств в Карибском бассейне и в южной части Тихого океана не охваченных ГПВ).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Для обеспечения сопоставимости показателей рассчитанных для разных групп населения, универсальные пороговые значения определены в глобальной опорной шкале ШОПБ и преобразованы в соответствующие значения в «локальных» шкалах, полученных в результате применения Модели Раша для любой конкретной популяции, посредством процесса «приравнивания».
+Приравнивание является одной из форм стандартизации метрики, основанной на идентификации подмножества элементов, которые можно считать общими для глобального ШОПБ, и конкретной шкалы, используемой для измерения в каждом контексте. Уровни серьезности, связанные с общими статьями, используются в качестве точек привязки для корректировки глобальных порогов ШОПБ в локальных масштабах. Процесс стандартизации гарантирует, что среднее и стандартное отклонение набора общих элементов одинаково при измерении на глобальном ШОПБ или в национальном масштабе. Совместимость с глобальным ШОПБ и возможность компиляции этого показателя требуют, чтобы как минимум четыре из восьми элементов ШОПБ были определены как общие.
+Статистический отдел ФАО разработал пакет RM.веса в рамках R, который обеспечивает процедуры для оценки параметров модели Раша с использованием условной максимальной вероятности, с возможностью учета конструкции комплексного обследования.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Http://www.fao.org/in-action/Voices-of-the-Hungry/
+Http://www.fao.org/3/i4830e.pdf
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="bd5bfc8b-4013-4a65-8bc8-5aae28d980a0">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_PRD_FIESSTN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[Цель 2: Ликвидация голода, обеспечение продовольственной безопасности, улучшение питания и содействие устойчивому развитию сельского хозяйства ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1: К 2030 году покончить с голодом и обеспечить доступ для всех людей, особенно бедных и уязвимых групп населения, включая детей, к безопасному, богатому питательными веществами и достаточному питанию в течение всего года]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.1.2 Уровень умеренного или острого отсутствия продовольственной безопасности населения (по «Шкале восприятия отсутствия продовольственной безопасности»)]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[ НСК КР]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Керималиева Н.К]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[nazira.kerimaliena@gmail.com]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) 32 46 91]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Показатель измеряет процентное соотношение лиц в населении, которые испытывали нехватку продовольствия на умеренном или тяжелом уровне в течение отчетного периода. Тяжесть отсутствия продовольственной безопасности, определяемая как скрытый признак, измеряется по глобальной контрольной шкале уровня опыта обеспечения продовольственной безопасности, по стандарту измерения, созданному ФАО путем применения Шкалы опыта обеспечения продовольственной безопасности (далее ШОПБ) более чем в 140 странах мира, начиная с 2014 года.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Отсутствие продовольственной безопасности при умеренном уровне тяжести обычно связано с неспособностью регулярно получать здоровое, сбалансированное питание. Таким образом, высокая распространенность отсутствия продовольственной безопасности на умеренных уровнях может рассматриваться как предсказание различных форм состояний здоровья населения, связанных с питанием и с недостаточностью питательных микроэлементов и несбалансированного питания. С другой стороны, серьезные уровни продовольственной необеспеченности предполагают высокую вероятность сокращения потребления пищи и, следовательно, могут приводить к более серьезным формам недоедания, включая голод.
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Обследование домашних хозяйств, которое собирает информацию о приобретении пищи может являться достаточным, для того чтобы достоверно оценить распространенность недоедания среди населения по разумной стоимости и с необходимой периодичностью информировать мониторинг показателей Целей устойчивого развития при условии, что:
+а) все источники потребления продуктов питания для всех членов домашнего хозяйства, включая, в частности, пищу, потребляемую вне дома, учитываются должным образом;
+б) имеется достаточно информации для преобразования данных о потреблении продовольствия или о расходах на продукты питания в их вклад в потребление калорий;
+в) используются правильные методы для вычисления распространенности недоедания, чтобы регулировать избыточную изменчивость оцениваемого уровня привычного потребления продуктов питания среди домашних хозяйств, допуская наличие нормальной изменчивости в распределении потребления продуктов питания среди отдельных лиц, вызванной различиями в энергетических потребностях жителей.
+
+Однако на практике часто невозможно и нежелательно опираться только на данные, полученные путем опроса домашних хозяйств, так как информация, необходимая для оценки четырех параметров модели распространенности недоедания отсутствует или является неточной.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Официальная информация по производству продовольственных товаров, торговле и применению, используемая ФАО для составления продовольственных балансов обеспечивается в основном статистическими подразделениями Министерства сельского хозяйства. ФАО рассылает вопросник для сбора данных каждый год с определенным координационным центром. 
+Микроданные обследований домашних хозяйств, как правило, принадлежат и предоставляются национальными статистическими учреждениями.
+ Когда это возможно, ФАО получает данные напрямую через сайт национальных статистических учреждений. В ряде случаев, когда микроданные не имеются в открытом доступе, подписываются двусторонние соглашения, как правило, в контексте оказания технической помощи и программ по развитию потенциала.
+Сведения о численности и структуре населения всех наблюдаемых стран, полученных из мировых демографических перспектив Отдела народонаселения ООН.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные на индивидуальном или домашнем уровнях могут быть собраны с использованием одного из нескольких опросников по шкале продовольственной безопасности, основанных на опыте. Любой из этих модулей обследования собирает ответы на вопросы, требующие отчета о возникновении ряда типичных событий и условий, связанных с отсутствием продовольственной безопасности. Данные могут быть проанализированы с использованием модели Раша (также известной как однопараметрическая логистическая модель 1-PL), в которой ставится условие, что вероятность утвердительного ответа респондентом i на вопрос j является логистической функцией расстояния, на лежащей в основе серьезности, между положением респондента Ai и позиции предмета Bj.
+
+Prob{Xi,j = Yes} = (exp(Ai𝑎𝑖 − Bj𝑏𝑗)) / (1+ exp(Aj𝑗 −𝑏Bj𝑗))
+
+Параметры Ai𝑖 и 𝑏Bj𝑗 могут быть оценены с использованием процедур максимального правдоподобия. Параметры Ai  интерпретируются как мера тяжести состояния продовольственной безопасности для каждого респондента и используются для классификации их в классы продовольственной необеспеченности : (a) продовольственную безопасность или умеренную продовольственную небезопасность; b) умеренная или серьезная продовольственная небезопасность и c) серьезная нехватка продовольствия и оценка вероятности умеренной или серьезной нехватки продовольствия.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Считается, что требуется в среднем менее трех минут для опроса ШОПБ при хорошо проведенном очном обследовании, которое должно позволять включать ШОПБ-МО (Модуль опроса) в общенациональное репрезентативное обследование в каждой стране мира по очень разумной цене. ФАО предоставляет версии ШОПБ-МО, адаптированные и переведенные на каждый из более чем 200 языков и диалектов, используемых во Всемирном опросе Гэллапа. 
+При использовании во Всемирном опросе Гэллапа, с размером выборки только около 1000 индивидов,  ширина доверительных интервалов редко превышает 20% от измеренной распространенности (то есть, показатели распространенности около 50% оцениваются с погрешностью плюс или минус 5%). Очевидно, что доверительные интервалы, вероятно, будут намного меньше, если национальные показатели распространенности оцениваются с использованием более крупных выборок.
+По сравнению с другими предложенными неофициальными показателями отсутствия продовольственной безопасности домашних хозяйств, подход, основанный на ШОПБ, имеет то преимущество, так как показатели распространенности продовольственной безопасности напрямую сопоставимы между группами населения и странами. Даже если они используют похожие метки (такие как «слабая», «умеренная» и «серьезная» небезопасность продовольствием), другим подходам еще предстоит продемонстрировать формальную сопоставимость пороговых значений, используемых для классификации, из-за отсутствия определения надлежащих статистических моделей, которые связывают значения «индексов» или «баллов», используемых для классификации серьезности отсутствия продовольственной безопасности. По этой причине следует проявлять осторожность при сравнении результатов, полученных ШОПБ, с результатами, полученными с этими другими показателями, даже если, к сожалению, для их описания используются аналогичные метки.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[Данные за 2014 и 2015 годы можно получить в ФАО по 146 странам, районам и территориям, включенным в Всемирный опрос Гэллапа. Региональные и субрегиональные агрегированные показатели рассчитаны для всех регионов, за исключением регионов Карибского бассейна и Океании (поскольку большинство малых островных государств в Карибском бассейне и в южной части Тихого океана не охваченных ГПВ).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[Для обеспечения сопоставимости показателей рассчитанных для разных групп населения, универсальные пороговые значения определены в глобальной опорной шкале ШОПБ и преобразованы в соответствующие значения в «локальных» шкалах, полученных в результате применения Модели Раша для любой конкретной популяции, посредством процесса «приравнивания».
+Приравнивание является одной из форм стандартизации метрики, основанной на идентификации подмножества элементов, которые можно считать общими для глобального ШОПБ, и конкретной шкалы, используемой для измерения в каждом контексте. Уровни серьезности, связанные с общими статьями, используются в качестве точек привязки для корректировки глобальных порогов ШОПБ в локальных масштабах. Процесс стандартизации гарантирует, что среднее и стандартное отклонение набора общих элементов одинаково при измерении на глобальном ШОПБ или в национальном масштабе. Совместимость с глобальным ШОПБ и возможность компиляции этого показателя требуют, чтобы как минимум четыре из восьми элементов ШОПБ были определены как общие.
+Статистический отдел ФАО разработал пакет RM.веса в рамках R, который обеспечивает процедуры для оценки параметров модели Раша с использованием условной максимальной вероятности, с возможностью учета конструкции комплексного обследования.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[Http://www.fao.org/in-action/Voices-of-the-Hungry/
+Http://www.fao.org/3/i4830e.pdf
+]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="f3bc9db2-1ad4-48d2-b65e-1211185479a4">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>DC_TOF_AGRL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>KG</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[2.a. Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[2.а.2: Total official flows (official development assistance plus other official flows) to the agriculture sector.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[National Statistical Committee of the Kyrgyz Republic (Finance Statistics Division).]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[Jukova E.N., lead expert]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[e.jukova@stat.kg]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[(0312) -66-42-09]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[Official flows (official development assistance plus other official flows) to agricultural sector are defined as gross disbursements of total ODA and other official flows from all donors to the agriculture sector.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[Total Official development assistance (ODA) and other official flows (OOF) to developing countries quantify the public effort (excluding export credits) that donors provide to developing countries for agriculture.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[Ministry of Finance of the Kyrgyz Republic]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[Админимтративные данные МФ]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[The sum of ODA and OOF flows from all donors to developing countries in the agriculture sector.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[Defined as gross disbursements of total official development assistance (ODA) and other official flows from all donors to the agriculture sector.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[DAC statistics are standardized on a calendar year basis for all donors and may differ from fiscal year data available in budget Documentation for some countries.]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[OECD: www.oecd.org/dac/stats
+Links: http://www.oecd.org/dac/stats/methodology.htm
+KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        
