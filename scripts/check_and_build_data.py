@@ -13,6 +13,9 @@ def alter_data(df):
 
 def alter_meta(meta):
     meta['goal_meta_link_text'] = 'custom.meta_link_text'
+    for key in meta:
+        if meta[key] is not None and isinstance(meta[key], str):
+            meta[key] = meta[key].replace("'", "&#39;")
     return meta
 
 # Validate the indicators.
