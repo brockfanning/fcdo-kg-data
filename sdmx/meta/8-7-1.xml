@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627239697</mes:ID>
+    <mes:ID>IREF1627240362</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-25T19:01:37</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:12:42</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f7651b81-0952-40e0-aec5-dce1b23b8c5f">
+  <mes:MetadataSet structureRef="MDS1" setID="8b3d5897-f044-42ef-a2cf-88044afed6c0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -148,7 +148,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ca628d43-dd8c-4c88-a925-510bd30972f1">
+  <mes:MetadataSet structureRef="MDS1" setID="da40fe8a-0318-44be-8b29-0fdbffceb9b6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -284,7 +284,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="328c367a-8503-4c8c-bfc4-8dc3c56a84c5">
+  <mes:MetadataSet structureRef="MDS1" setID="5fcb8b6e-7975-43ea-b514-203fe04b51d2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -420,7 +420,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="44787753-8b4d-457c-8fe2-89ff281853d1">
+  <mes:MetadataSet structureRef="MDS1" setID="4107d9a8-794a-4622-9a47-e365e2858e81">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627239697</mes:ID>
+    <mes:ID>IREF1627240362</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-25T19:01:37</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:12:42</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3a09b98e-7c45-45b4-ab02-b4d6cf6be210">
+  <mes:MetadataSet structureRef="MDS1" setID="455be874-dca9-4dcb-8399-6338acf70897">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -150,7 +150,7 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cb124390-467a-46d1-bc19-5121101b517f">
+  <mes:MetadataSet structureRef="MDS1" setID="f31271f5-54d5-431f-bbd8-d31b692ac062">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -288,7 +288,7 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5739c62a-23b7-47eb-abb1-129355eb3ab3">
+  <mes:MetadataSet structureRef="MDS1" setID="d2925ab0-4ba6-4ee6-a807-5b03d7231a1f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -419,7 +419,7 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f572ae55-47ef-48ec-8326-0b4332602598">
+  <mes:MetadataSet structureRef="MDS1" setID="55594f0c-172e-4568-a381-0d09cd2f914d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -550,7 +550,7 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e0c2302b-34fc-471b-b232-2f05a0b53e70">
+  <mes:MetadataSet structureRef="MDS1" setID="c1b8925b-5ed3-4db8-b298-1aab33f500f4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -670,7 +670,7 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="df3d200c-e8ea-4354-b660-962bb674a998">
+  <mes:MetadataSet structureRef="MDS1" setID="f004c80f-fe59-4435-9b1e-cf62387f6ee7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -790,7 +790,7 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4d540d10-0b42-4f3f-b3d2-cd6c4b4fe70c">
+  <mes:MetadataSet structureRef="MDS1" setID="1c5a35be-ea1e-4729-9f95-6cab9c2f0dd4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -910,7 +910,7 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3f7f75f9-dea9-44ee-a717-7cb88321909a">
+  <mes:MetadataSet structureRef="MDS1" setID="63102aa7-a5c1-44eb-86d8-9a44ca0a5118">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1030,7 +1030,7 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4c146015-62a9-4ee0-bc71-315f4e0bb2d0">
+  <mes:MetadataSet structureRef="MDS1" setID="52c67ade-22d0-4578-be02-2f17f1e8f7b4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1150,7 +1150,7 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a54694b3-2f68-4a98-ba74-f1c627673aa6">
+  <mes:MetadataSet structureRef="MDS1" setID="11ba6c94-cf39-4052-b1e0-e4eaa6743843">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1270,7 +1270,7 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="20655eec-405b-4851-a68a-f4ca53a54170">
+  <mes:MetadataSet structureRef="MDS1" setID="2a51b0b8-9347-4c5c-bfd5-04a7a6a5ebb3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1317,7 +1317,7 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4828a664-6697-41e2-9143-4854988c1070">
+  <mes:MetadataSet structureRef="MDS1" setID="e69500e1-a84e-4bd1-9639-fa2b8950fa22">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1364,7 +1364,7 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0fa4813f-d39b-47f7-9622-9c6e67737ea7">
+  <mes:MetadataSet structureRef="MDS1" setID="cf8c7108-66c2-4db0-ae66-89398d283222">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1487,7 +1487,7 @@ During field work, weekly analysis checklists – adapted standard MICS tables -
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e22a4eed-90e6-421f-9f79-ea8ef0a55153">
+  <mes:MetadataSet structureRef="MDS1" setID="d71a61c1-4428-4188-99c1-530b6bdf918c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1610,7 +1610,7 @@ During field work, weekly analysis checklists – adapted standard MICS tables -
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0253d6ce-5735-4e55-9dfc-4dd7a97ccf33">
+  <mes:MetadataSet structureRef="MDS1" setID="1b4e1bac-030c-4efe-b3b2-44446b9b7adf">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1733,7 +1733,7 @@ During field work, weekly analysis checklists – adapted standard MICS tables -
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e58e0664-fce9-4ffe-9eaa-97ce8545cda0">
+  <mes:MetadataSet structureRef="MDS1" setID="4717ac05-c916-4067-bd04-3cd9ebd54b93">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1856,7 +1856,7 @@ During field work, weekly analysis checklists – adapted standard MICS tables -
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1d46ebec-93b0-491c-b8d1-418ed30f411c">
+  <mes:MetadataSet structureRef="MDS1" setID="330ffee7-469e-435c-806d-d5a8a982647b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1973,7 +1973,7 @@ Source 2: The State Registration Service]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d9e0493a-87c0-42ea-805f-59d52becfd71">
+  <mes:MetadataSet structureRef="MDS1" setID="a2e64670-7e32-4b7c-9242-d2ae69cff169">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2107,7 +2107,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a6867c9c-6006-43eb-9405-21d20b45826c">
+  <mes:MetadataSet structureRef="MDS1" setID="93994387-8018-437b-aedf-b70dc00173b6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2226,7 +2226,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c15b46e1-face-46b0-a65b-43d612157c76">
+  <mes:MetadataSet structureRef="MDS1" setID="5801365e-a48d-4a68-b45c-5159362a9619">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2349,7 +2349,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="df98bd57-e062-4661-b575-a7dc7efe31e0">
+  <mes:MetadataSet structureRef="MDS1" setID="f5d52fde-d374-4284-9bcb-f4e693019930">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2468,7 +2468,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="03d1463c-ded3-42d4-87d2-697e9e5d5eb0">
+  <mes:MetadataSet structureRef="MDS1" setID="73b54c82-3962-42c7-97cb-b0ca761ea852">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2572,7 +2572,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e6681fbb-5fb8-444e-bb5e-97b7a6fa12c7">
+  <mes:MetadataSet structureRef="MDS1" setID="91a8037b-296f-43d8-bc9a-9aaa603297db">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2676,7 +2676,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="651b4771-4b22-42da-bfb5-62cdc993b797">
+  <mes:MetadataSet structureRef="MDS1" setID="783cb7e6-ebf4-4a54-b66b-491638454c7f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2780,7 +2780,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4e271ff3-4d36-4890-adf1-f89d7d62f2fc">
+  <mes:MetadataSet structureRef="MDS1" setID="226556c3-7b9d-41fb-bd12-61f52628443e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2909,7 +2909,7 @@ MF KR website - http://www.minfin.kg/ru/novosti/godovoy-otchet-ob-ispolnenii-byu
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="159d3cec-7262-4b89-af53-d79121b6dd9a">
+  <mes:MetadataSet structureRef="MDS1" setID="8428a5fe-c649-4e88-bb21-b329effe4e33">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

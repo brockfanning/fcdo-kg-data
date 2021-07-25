@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627239716</mes:ID>
+    <mes:ID>IREF1627240382</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-25T19:01:56</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:13:02</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="07c33800-8e9e-49e7-ac7e-c12a1fd4c9a7">
+  <mes:MetadataSet structureRef="MDS1" setID="af97c83d-59a1-4c1d-8ccc-d4743b2dcf5e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -45,7 +45,7 @@
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture&#39;s contribution to sustainable development]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -121,7 +121,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4b1d3472-073b-46fe-ab47-0413b643f197">
+  <mes:MetadataSet structureRef="MDS1" setID="892d51c9-d376-4e3c-9c53-f32dc9ff5644">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -154,7 +154,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture&#39;s contribution to sustainable development]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -230,7 +230,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d6fa6b13-c356-41a4-abec-b0f54ced6233">
+  <mes:MetadataSet structureRef="MDS1" setID="9f952530-bb68-4776-b751-27a01d22c2bc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -263,7 +263,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture&#39;s contribution to sustainable development]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -339,7 +339,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="def6914a-4246-42cb-b220-5fef78159a67">
+  <mes:MetadataSet structureRef="MDS1" setID="ffd366a2-fc89-4f57-9af3-a5b2539efb85">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -372,7 +372,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture&#39;s contribution to sustainable development]]></com:Text>
           
         </gen:ReportedAttribute>
         

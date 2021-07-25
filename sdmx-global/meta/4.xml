@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627239716</mes:ID>
+    <mes:ID>IREF1627240382</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-25T19:01:56</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:13:02</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8627788a-3265-4f67-8771-80bf46a12139">
+  <mes:MetadataSet structureRef="MDS1" setID="ee8fe90f-0960-45b3-848d-e7f3a8d99e2a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -143,7 +143,7 @@ Multiple Indicator Cluster Survey, 2018 http://www.stat.kg/media/files/d0f77c65-
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e5dcf9bd-67af-4fee-a959-b503f0879f92">
+  <mes:MetadataSet structureRef="MDS1" setID="3cb7a313-a5c2-4723-bae5-36fff5fd788c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -271,7 +271,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="41ae2e73-01c2-46ed-9e22-c48da6bfa80e">
+  <mes:MetadataSet structureRef="MDS1" setID="a5ad16a2-abb6-495e-be69-f76165631d55">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -386,7 +386,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6d4950c2-914f-46a3-836d-8bd2e08b1d02">
+  <mes:MetadataSet structureRef="MDS1" setID="1f413cde-aa87-44c3-a60a-2d85ff1fa053">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -506,7 +506,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f16c035c-4543-459d-b58e-99169c3ed2e3">
+  <mes:MetadataSet structureRef="MDS1" setID="1e94a009-1525-460a-a201-6587cc4eb22e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -626,7 +626,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="067dc08a-7029-4014-8cea-d61c869bfd77">
+  <mes:MetadataSet structureRef="MDS1" setID="4214b47f-33b0-463c-bbcd-6c3c585c3eb9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -746,7 +746,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e066fc45-e746-4b17-b4ad-2c3e881f429b">
+  <mes:MetadataSet structureRef="MDS1" setID="0c276bf2-d2b1-42fe-a6c4-7e94e28c27b8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -866,7 +866,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7cea7265-ef84-44b1-91d1-c78e79ca2828">
+  <mes:MetadataSet structureRef="MDS1" setID="3ded39dc-5157-4ca2-9af2-066ed70de7b7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -986,7 +986,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="439c202c-4c50-46c6-8b51-f13dae0e8214">
+  <mes:MetadataSet structureRef="MDS1" setID="9a566db1-0483-49ad-bcae-e8b294744b91">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1106,7 +1106,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4c46fc1b-e466-4899-961d-438be1dbb49f">
+  <mes:MetadataSet structureRef="MDS1" setID="4a959e59-5e3a-4dc2-8a12-03a714c66c26">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1226,7 +1226,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e748e5ab-281e-4821-9387-8c004351eae1">
+  <mes:MetadataSet structureRef="MDS1" setID="9ed5edef-5fb0-4e5d-957a-bcf638d82f2d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1346,7 +1346,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7ce6e579-4870-4033-9208-01ed7fd355c3">
+  <mes:MetadataSet structureRef="MDS1" setID="aa743e57-8ab2-4b79-bcc0-6a9f38d2bbb6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1466,7 +1466,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1bb2c458-3cab-4742-ab9a-322d37308544">
+  <mes:MetadataSet structureRef="MDS1" setID="dbe1f0a6-fff4-49ce-a26d-42e021f4c0ba">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1586,7 +1586,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e0689767-7b02-4588-8ec1-9d7f0d4a15c4">
+  <mes:MetadataSet structureRef="MDS1" setID="e6b28229-f448-4c34-a865-fdaa6e728152">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1706,7 +1706,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="35b6132a-c94e-4610-bb79-77fdbd45fa99">
+  <mes:MetadataSet structureRef="MDS1" setID="5274822f-60d7-4bfa-994d-d2a1300ae412">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1826,7 +1826,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="63dfa420-9709-42f1-ab54-db09e9ac817c">
+  <mes:MetadataSet structureRef="MDS1" setID="de1fe093-b912-40ae-9b69-e92bc0bab0be">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1946,7 +1946,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="467d5ee5-843c-4c98-9b2f-4b0dd5812e7b">
+  <mes:MetadataSet structureRef="MDS1" setID="00cb37b4-7241-4619-b611-c4d7086d4029">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2066,7 +2066,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9011edc8-2b8b-44db-bfe7-8b629d2451da">
+  <mes:MetadataSet structureRef="MDS1" setID="458dea28-963e-42cb-b898-f8c978a9a4bd">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2186,7 +2186,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="565708d5-ced1-4ee1-be2a-bac2c9b773c8">
+  <mes:MetadataSet structureRef="MDS1" setID="61949315-303e-4484-81a3-e957c72f38f9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2310,7 +2310,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b9bb0f1e-babf-424e-b16a-3a02ba14a010">
+  <mes:MetadataSet structureRef="MDS1" setID="0b30ef90-440c-4add-90ed-4ac3b3ea5562">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2434,7 +2434,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="09e29c31-4e82-4c14-ae5a-05c402f7a337">
+  <mes:MetadataSet structureRef="MDS1" setID="3effd301-edbd-444e-937d-1e2117a926ee">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2558,7 +2558,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9ebf3514-8987-45bc-b18e-1b437c1fb8a7">
+  <mes:MetadataSet structureRef="MDS1" setID="08816b93-7b00-4f27-9979-4fe02ee2bf00">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2682,7 +2682,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9bc4bd7e-5dad-4d70-97f6-63eb7524ca72">
+  <mes:MetadataSet structureRef="MDS1" setID="f434c26b-36f9-409a-96c4-e81f37cbb91f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2806,7 +2806,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="88d5554e-c1a6-4c9b-9e53-3da3851fa196">
+  <mes:MetadataSet structureRef="MDS1" setID="a59e723f-8116-405b-a3ae-6a692fa7406e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2930,7 +2930,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4533a705-5f29-4f45-b8c5-0536f344e018">
+  <mes:MetadataSet structureRef="MDS1" setID="1e11a56e-0cfb-4611-9dfe-21f5570abf9d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3054,7 +3054,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e3d93260-b7a0-4d0d-965d-01c38c7655e9">
+  <mes:MetadataSet structureRef="MDS1" setID="57190e66-5a7e-43f3-9388-fdf7b777bc4c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3170,7 +3170,7 @@ Law of the Kyrgyz Republic №92 dated 30 April 2003  «On Education»]]></com:T
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2ae13bdc-d8d2-49b3-ae78-700fb652a69b">
+  <mes:MetadataSet structureRef="MDS1" setID="984bba53-67ba-4cac-84e3-1b16ee4d9e35">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3328,7 +3328,7 @@ The National Assessment of Student Educational Achievements (NASEA). Study Repor
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="07c33800-8e9e-49e7-ac7e-c12a1fd4c9a7">
+  <mes:MetadataSet structureRef="MDS1" setID="af97c83d-59a1-4c1d-8ccc-d4743b2dcf5e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3361,7 +3361,7 @@ The National Assessment of Student Educational Achievements (NASEA). Study Repor
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture&#39;s contribution to sustainable development]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -3437,7 +3437,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4b1d3472-073b-46fe-ab47-0413b643f197">
+  <mes:MetadataSet structureRef="MDS1" setID="892d51c9-d376-4e3c-9c53-f32dc9ff5644">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3470,7 +3470,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture&#39;s contribution to sustainable development]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -3546,7 +3546,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d6fa6b13-c356-41a4-abec-b0f54ced6233">
+  <mes:MetadataSet structureRef="MDS1" setID="9f952530-bb68-4776-b751-27a01d22c2bc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3579,7 +3579,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture&#39;s contribution to sustainable development]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -3655,7 +3655,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="def6914a-4246-42cb-b220-5fef78159a67">
+  <mes:MetadataSet structureRef="MDS1" setID="ffd366a2-fc89-4f57-9af3-a5b2539efb85">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3688,7 +3688,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture&#39;s contribution to sustainable development]]></com:Text>
           
         </gen:ReportedAttribute>
         

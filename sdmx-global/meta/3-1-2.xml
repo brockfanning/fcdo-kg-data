@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627239716</mes:ID>
+    <mes:ID>IREF1627240382</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-25T19:01:56</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:13:02</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="85112dd6-33f4-4bf4-aa20-3c2fa70dc303">
+  <mes:MetadataSet structureRef="MDS1" setID="a7fc9be5-0eb8-4f57-9786-45e4946eb212">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -88,7 +88,7 @@
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[Analyzing this indicator along with other indicators, makes it possible to assess effectiveness of preventive measures, work of local health authorities to protect mothers and children and to develop a number of specific measures to improve health of women during pregnancies and children.
-Having a skilled attendant at the time of delivery is an important lifesaving intervention for both mothers and babies. Not having access to this key assistance is detrimental to women's health and gender empowerment because it could cause the death of the mother or long lasting disability, especially in marginalized (distanced) settings.]]></com:Text>
+Having a skilled attendant at the time of delivery is an important lifesaving intervention for both mothers and babies. Not having access to this key assistance is detrimental to women&#39;s health and gender empowerment because it could cause the death of the mother or long lasting disability, especially in marginalized (distanced) settings.]]></com:Text>
           
         </gen:ReportedAttribute>
         

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627239716</mes:ID>
+    <mes:ID>IREF1627240382</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-25T19:01:56</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:13:02</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1e0f22aa-9e50-4a05-8034-3def0a5e6275">
+  <mes:MetadataSet structureRef="MDS1" setID="ecbe7869-490e-481b-b911-1ef89a4d3814">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -89,7 +89,7 @@
           
           <com:Text xml:lang="en"><![CDATA[The Internet has become an increasingly important tool to access public information, which is a relevant means to protect fundamental freedoms. The number of Internet users has increased substantially over the last decade and access to the Internet has changed the way people live, communicate, work and do business. Internet uptake is a key indicator tracked by policy makers and others to measure the development of the information society and the growth of Internet content – including user-generated content – provides access to increasing amounts of information and services. 
 Despite growth in networks, services and applications, information and communication technology (ICT) access and use is still far from equally distributed, and many people cannot yet benefit from the potential of the Internet. This indicator highlights the importance of Internet use as a development enabler and helps to measure the digital divide, which, if not properly addressed, will aggravate inequalities in all development domains. 
-This information can contribute to the design of targeted policies to overcome those divides. The proportion of individuals using the Internet is an established indicator and also one of the three ICTrelated Millennium Development Goal (MDG) indicators (for Target 8F). It is part of the Partnership on Measuring ICT for Development's Core List of Indicators, which has been endorsed by the UN Statistical Commission (last time in 2014). It is also included in the ITU ICT Development Index, and thus considered a key metric for international comparisons of ICT developments. ]]></com:Text>
+This information can contribute to the design of targeted policies to overcome those divides. The proportion of individuals using the Internet is an established indicator and also one of the three ICTrelated Millennium Development Goal (MDG) indicators (for Target 8F). It is part of the Partnership on Measuring ICT for Development&#39;s Core List of Indicators, which has been endorsed by the UN Statistical Commission (last time in 2014). It is also included in the ITU ICT Development Index, and thus considered a key metric for international comparisons of ICT developments. ]]></com:Text>
           
         </gen:ReportedAttribute>
         

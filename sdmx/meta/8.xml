@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627239697</mes:ID>
+    <mes:ID>IREF1627240362</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-25T19:01:37</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:12:42</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="234ca65b-a67b-4ff7-9989-14d172c23794">
+  <mes:MetadataSet structureRef="MDS1" setID="2bbf1d75-fbe9-48c4-ab5e-af56a9cea34d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -142,7 +142,7 @@ Law of the Kyrgyz Republic of 1 August 2003 №167 «On labour protection»; Dec
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0360c126-23dc-42d8-aba8-ee827983e26e">
+  <mes:MetadataSet structureRef="MDS1" setID="6fac7175-21f4-43af-b851-a54cd834adee">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -272,7 +272,7 @@ Law of the Kyrgyz Republic of 1 August 2003 №167 «On labour protection»; Dec
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="980f68cf-2277-462a-8291-f3d9bc9e080a">
+  <mes:MetadataSet structureRef="MDS1" setID="ca70bcab-cdb0-46cd-ad68-a53c005d9416">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -414,7 +414,7 @@ Data are published in various NSC publications and its website.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5848ac55-d6e8-446e-adc2-4d921422f88a">
+  <mes:MetadataSet structureRef="MDS1" setID="11381e0c-1713-41bf-9334-595f113ee00d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -519,7 +519,7 @@ Data are published in various NSC publications and its website.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ef6bec76-9ddc-4d8e-8358-4f823dc74f26">
+  <mes:MetadataSet structureRef="MDS1" setID="04b94036-c513-4b4d-be78-d6dace4bbe7a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -638,7 +638,7 @@ Data are published in various NSC publications and its website.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d0a50e0d-2959-4bdd-9464-4b9b3696fadd">
+  <mes:MetadataSet structureRef="MDS1" setID="504eb66c-b101-42cf-ae9f-898b6581d151">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -757,7 +757,7 @@ Data are published in various NSC publications and its website.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="06891b21-0597-4218-aa17-1a290a806ed6">
+  <mes:MetadataSet structureRef="MDS1" setID="aeda3015-57ec-4b94-851f-3d1c216cd776">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -861,7 +861,7 @@ Data are published in various NSC publications and its website.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d5f803bb-1f18-4c7c-a2ae-72019bfee604">
+  <mes:MetadataSet structureRef="MDS1" setID="2417c287-a942-4b81-8e81-574fd6704f47">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -965,7 +965,7 @@ Data are published in various NSC publications and its website.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f7651b81-0952-40e0-aec5-dce1b23b8c5f">
+  <mes:MetadataSet structureRef="MDS1" setID="8b3d5897-f044-42ef-a2cf-88044afed6c0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1101,7 +1101,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ca628d43-dd8c-4c88-a925-510bd30972f1">
+  <mes:MetadataSet structureRef="MDS1" setID="da40fe8a-0318-44be-8b29-0fdbffceb9b6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1237,7 +1237,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="328c367a-8503-4c8c-bfc4-8dc3c56a84c5">
+  <mes:MetadataSet structureRef="MDS1" setID="5fcb8b6e-7975-43ea-b514-203fe04b51d2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1373,7 +1373,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="44787753-8b4d-457c-8fe2-89ff281853d1">
+  <mes:MetadataSet structureRef="MDS1" setID="4107d9a8-794a-4622-9a47-e365e2858e81">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1509,7 +1509,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="10dac931-1970-46b1-89c1-ab032c04917c">
+  <mes:MetadataSet structureRef="MDS1" setID="c4d8001c-e2e9-43be-b859-d1c5324f5171">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1636,7 +1636,7 @@ http://www.worldbank.org/content/dam/Worldbank/Research/GlobalFindex/PDF/Methodo
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="017b21b3-56fc-43e5-a026-c74ab763c4bd">
+  <mes:MetadataSet structureRef="MDS1" setID="f15b05b4-50c1-4b46-928d-e0d2ae21ab45">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1723,7 +1723,7 @@ The number of automated teller machines (ATMs) per 100,000 adults]]></com:Text>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="en"><![CDATA[Data on branches of commercial banks (source - Register of Commercial Banks Branches) and ATMs (source - Commercial Banks' Periodic Regulatory Bank Reports) are submitted to NBKR; Average annual population - data obtained from the NSC KR Demographic Statistics Division.]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[Data on branches of commercial banks (source - Register of Commercial Banks Branches) and ATMs (source - Commercial Banks&#39; Periodic Regulatory Bank Reports) are submitted to NBKR; Average annual population - data obtained from the NSC KR Demographic Statistics Division.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1786,7 +1786,7 @@ Data on the number of installed ATMs at the end of the reporting period can be f
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="dd51a976-96ff-4960-b612-b4a576615273">
+  <mes:MetadataSet structureRef="MDS1" setID="3fea883d-672d-4963-b9ba-3e7a2e0083ef">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1873,7 +1873,7 @@ The number of automated teller machines (ATMs) per 100,000 adults]]></com:Text>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="en"><![CDATA[Data on branches of commercial banks (source - Register of Commercial Banks Branches) and ATMs (source - Commercial Banks' Periodic Regulatory Bank Reports) are submitted to NBKR; Average annual population - data obtained from the NSC KR Demographic Statistics Division.]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[Data on branches of commercial banks (source - Register of Commercial Banks Branches) and ATMs (source - Commercial Banks&#39; Periodic Regulatory Bank Reports) are submitted to NBKR; Average annual population - data obtained from the NSC KR Demographic Statistics Division.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1936,7 +1936,7 @@ Data on the number of installed ATMs at the end of the reporting period can be f
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2596398b-6307-4e45-a05a-9dbe07c79a52">
+  <mes:MetadataSet structureRef="MDS1" setID="a2821cc1-3c22-46d0-91e7-a34b38633534">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2061,7 +2061,7 @@ Data on the number of installed ATMs at the end of the reporting period can be f
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="fed99c5d-681a-40f6-8cfe-48a11e9dd7bd">
+  <mes:MetadataSet structureRef="MDS1" setID="e3f079ad-f805-4120-bd96-3cdf73bac572">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2176,7 +2176,7 @@ http://www.stat.kg/ru/publications/zanyatost-i-bezrabotica-itogi-integrirovannog
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f267a6f0-65fe-41e3-ac0b-a36ce7427601">
+  <mes:MetadataSet structureRef="MDS1" setID="6dfff3a4-fac2-458b-b7c6-11c7be81ba77">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2291,7 +2291,7 @@ http://www.stat.kg/ru/publications/zanyatost-i-bezrabotica-itogi-integrirovannog
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a2766f6f-eafe-4ae3-ad46-fc8a4f42ffa4">
+  <mes:MetadataSet structureRef="MDS1" setID="bf6197a3-8952-463a-88a5-76995a76aa25">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

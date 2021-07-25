@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627239697</mes:ID>
+    <mes:ID>IREF1627240362</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-25T19:01:37</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:12:42</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e2e691d9-30c7-4123-bfb0-51998657c677">
+  <mes:MetadataSet structureRef="MDS1" setID="970e84cf-9f21-458d-85f1-196f5ab4da49">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -131,7 +131,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3e0c3827-7af1-439f-b2eb-fd489f823564">
+  <mes:MetadataSet structureRef="MDS1" setID="f57c0b5d-d369-4ea7-973b-07cecabb7e35">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -355,7 +355,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="53a259de-baa2-4b48-9587-7c322966e55b">
+  <mes:MetadataSet structureRef="MDS1" setID="545fd594-78bd-4dd7-8ebc-193a33c98db5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -579,7 +579,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5fa711e0-3804-4167-b18f-3c4c57aeedf6">
+  <mes:MetadataSet structureRef="MDS1" setID="25954a3c-0df7-475a-8353-fadefbd7129f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -803,7 +803,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0f04241b-d13f-4817-a991-a0b9e64afa83">
+  <mes:MetadataSet structureRef="MDS1" setID="4c89093c-efe7-4c1c-98a0-47582ccbcc12">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1027,7 +1027,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="17766fd7-9f61-44dd-ba20-5312282f9cb0">
+  <mes:MetadataSet structureRef="MDS1" setID="c3582e14-5f56-4426-80fa-5904601560fb">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1251,7 +1251,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2260509d-2af7-425f-8f95-f21b0a7a2d85">
+  <mes:MetadataSet structureRef="MDS1" setID="ce727e40-f878-4645-8542-b79652646661">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1475,7 +1475,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="47d26d56-24ab-4735-94af-4b2155e99d24">
+  <mes:MetadataSet structureRef="MDS1" setID="328869aa-927b-46c0-9960-2dbabcd14ac3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1699,7 +1699,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0b456205-4458-4c32-bbe0-cc22baaf079e">
+  <mes:MetadataSet structureRef="MDS1" setID="5867d430-0108-4b36-8f52-527b121f0cd3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1923,7 +1923,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f2347891-dbfa-418b-be5c-acfb6deb7267">
+  <mes:MetadataSet structureRef="MDS1" setID="a3de2afa-fb69-4225-be3c-6d631d646363">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2054,7 +2054,7 @@ SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.githu
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="91fb1bc8-b5dd-4090-95a4-5462175dffe5">
+  <mes:MetadataSet structureRef="MDS1" setID="146648a1-bc36-4f2e-81e7-75727e98bbef">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2131,7 +2131,7 @@ SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.githu
           
           <com:Text xml:lang="en"><![CDATA[The Internet has become an increasingly important tool to access public information, which is a relevant means to protect fundamental freedoms. The number of Internet users has increased substantially over the last decade and access to the Internet has changed the way people live, communicate, work and do business. Internet uptake is a key indicator tracked by policy makers and others to measure the development of the information society and the growth of Internet content – including user-generated content – provides access to increasing amounts of information and services. 
 Despite growth in networks, services and applications, information and communication technology (ICT) access and use is still far from equally distributed, and many people cannot yet benefit from the potential of the Internet. This indicator highlights the importance of Internet use as a development enabler and helps to measure the digital divide, which, if not properly addressed, will aggravate inequalities in all development domains. 
-This information can contribute to the design of targeted policies to overcome those divides. The proportion of individuals using the Internet is an established indicator and also one of the three ICTrelated Millennium Development Goal (MDG) indicators (for Target 8F). It is part of the Partnership on Measuring ICT for Development's Core List of Indicators, which has been endorsed by the UN Statistical Commission (last time in 2014). It is also included in the ITU ICT Development Index, and thus considered a key metric for international comparisons of ICT developments. ]]></com:Text>
+This information can contribute to the design of targeted policies to overcome those divides. The proportion of individuals using the Internet is an established indicator and also one of the three ICTrelated Millennium Development Goal (MDG) indicators (for Target 8F). It is part of the Partnership on Measuring ICT for Development&#39;s Core List of Indicators, which has been endorsed by the UN Statistical Commission (last time in 2014). It is also included in the ITU ICT Development Index, and thus considered a key metric for international comparisons of ICT developments. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2161,7 +2161,7 @@ Link to the global metadata platform: https://unstats.un.org/sdgs/metadata/?Text
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="76757f30-bf7c-48fc-8c8a-0882b1a0aba8">
+  <mes:MetadataSet structureRef="MDS1" setID="c5dba8f3-2203-409e-bc14-cd1ce31940d9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2279,7 +2279,7 @@ Public debt management costs - data from the MF.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="91f1e3a1-57f1-4075-8fa3-dd2c0859bae9">
+  <mes:MetadataSet structureRef="MDS1" setID="8d81638b-24ce-4d40-8196-570f89244c91">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2399,7 +2399,7 @@ Data on the number of fixed (wired) broadband Internet subscribers are collected
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="83cb8487-e792-4d2b-9b6a-94f173775577">
+  <mes:MetadataSet structureRef="MDS1" setID="2e1ad216-395f-45cc-bad7-c0ebd9ad8aed">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2519,7 +2519,7 @@ Data on the number of fixed (wired) broadband Internet subscribers are collected
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9482b90f-8a1f-41b4-94c3-41f750767c41">
+  <mes:MetadataSet structureRef="MDS1" setID="63041657-7867-4dce-8a9b-b23f1463541f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2646,7 +2646,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cf04652b-75cb-4fda-9887-4ba8f89f77cb">
+  <mes:MetadataSet structureRef="MDS1" setID="a07f5735-1981-48a5-9037-47a0e160e649">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2773,7 +2773,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="757a1225-4711-4345-9b23-12e7d4a770a4">
+  <mes:MetadataSet structureRef="MDS1" setID="a6dbe816-458d-4704-b16a-731891e1dd9e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2857,7 +2857,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="250055ff-6aae-4302-a2ca-c56d44809c14">
+  <mes:MetadataSet structureRef="MDS1" setID="8fb51643-a378-4425-997d-e6272ca6afb3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

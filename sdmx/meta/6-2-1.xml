@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627239697</mes:ID>
+    <mes:ID>IREF1627240362</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-25T19:01:37</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:12:42</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="74b69e33-8cbe-4110-918a-267783bf5620">
+  <mes:MetadataSet structureRef="MDS1" setID="5e9d9000-3e93-4ebf-bee0-9e96aed0a7ab">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -142,7 +142,7 @@ http://www.stat.kg/media/files/d0f77c65-07d9-469d-879a-84dc5aae8833.pdf]]></com:
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="aedf98ab-7e17-4d7e-b54a-fa1d9331cb60">
+  <mes:MetadataSet structureRef="MDS1" setID="f7c936da-9518-44d1-996e-84adefe17764">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -272,7 +272,7 @@ http://www.stat.kg/media/files/d0f77c65-07d9-469d-879a-84dc5aae8833.pdf]]></com:
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1a20ada4-c57b-4c83-9289-c7ef1c0c7ee3">
+  <mes:MetadataSet structureRef="MDS1" setID="16085782-da81-427a-a00d-d383eee9f212">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

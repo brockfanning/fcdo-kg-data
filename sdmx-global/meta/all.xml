@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627239716</mes:ID>
+    <mes:ID>IREF1627240382</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-25T19:01:56</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:13:02</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6dac0379-6f9d-4e7b-8667-fc66674f0608">
+  <mes:MetadataSet structureRef="MDS1" setID="286577a8-67f9-4c85-ac64-75ed7dcc926c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -142,7 +142,7 @@ Law of the Kyrgyz Republic of 1 August 2003 №167 «On labour protection»; Dec
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8ebb693c-256e-484e-a40f-645f49b4a601">
+  <mes:MetadataSet structureRef="MDS1" setID="78c26142-530b-4f41-8b93-de76948f5783">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -272,7 +272,7 @@ Law of the Kyrgyz Republic of 1 August 2003 №167 «On labour protection»; Dec
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="86fb8792-fd7f-4568-868d-2f4b9991f112">
+  <mes:MetadataSet structureRef="MDS1" setID="b63548c7-fbf1-4da8-a34c-a2fe62a16d59">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -411,7 +411,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="81cb0b89-7765-46b7-9795-253b9cc40f32">
+  <mes:MetadataSet structureRef="MDS1" setID="62f5463a-a434-417f-80de-1ec95f19a505">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -550,7 +550,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9fcb093d-09b7-4434-ae86-60cc073b8e47">
+  <mes:MetadataSet structureRef="MDS1" setID="cfb14f09-3576-4768-8dca-065e27d71eb4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -689,7 +689,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cac0a79c-4e09-4fc0-bb70-914233d02ee8">
+  <mes:MetadataSet structureRef="MDS1" setID="27fe668e-9062-4dfa-8f10-6090474a0ad5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -828,7 +828,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f56ceac5-020e-464d-b17b-2629344011ee">
+  <mes:MetadataSet structureRef="MDS1" setID="7ff831e5-f913-4a0c-9861-49119b146e75">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -967,7 +967,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5ff735a8-7df1-454d-b66a-c62a0663af80">
+  <mes:MetadataSet structureRef="MDS1" setID="472e3707-939c-4f89-bdd6-8b08408e6038">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1106,7 +1106,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9a590247-6886-4803-abac-78347e0e5cc0">
+  <mes:MetadataSet structureRef="MDS1" setID="0a1d0ef4-6755-4924-b46c-ad89c331ccf4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1245,7 +1245,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ba34ee4d-7e2f-4298-bc56-8917871385e9">
+  <mes:MetadataSet structureRef="MDS1" setID="6fce1267-b9a4-4392-9f92-fee6d512c8a0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1384,7 +1384,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3b3c8902-9aae-4a78-9f4a-a524d69553df">
+  <mes:MetadataSet structureRef="MDS1" setID="36648995-06b0-4d9d-b17d-41ea4b2b8c03">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1523,7 +1523,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="12051634-1135-4b29-919b-7a9c55f88d90">
+  <mes:MetadataSet structureRef="MDS1" setID="dd2d3b3b-2386-4a60-8038-cf0360e9388c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1662,7 +1662,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="56684fa0-eb66-4f85-91d8-b5e29b191be4">
+  <mes:MetadataSet structureRef="MDS1" setID="f6c00688-3a48-47f6-9e82-409764f3456a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1801,7 +1801,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9d362d9d-5ff7-4662-a73b-096d8e3df72d">
+  <mes:MetadataSet structureRef="MDS1" setID="ffdc490c-b521-4f78-b0f7-f8dc7fb705e3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1940,7 +1940,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d9a09e33-c7b7-4e4b-97a9-63446ac0d58c">
+  <mes:MetadataSet structureRef="MDS1" setID="c66ad69d-ac6d-4776-b37d-f02fb2757b93">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1973,7 +1973,7 @@ P12100_LANG_CODE:3065524,en
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[5.5. Ensure women's full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[5.5. Ensure women&#39;s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2068,7 +2068,7 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ed37b23b-96f8-42bb-b203-9c2e886c3eda">
+  <mes:MetadataSet structureRef="MDS1" setID="7a04216d-de74-4dda-957d-bf61a2684b06">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2101,7 +2101,7 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[5.5. Ensure women's full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[5.5. Ensure women&#39;s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2196,7 +2196,7 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8642d523-5899-4d5a-a4f1-e94d93b44cd1">
+  <mes:MetadataSet structureRef="MDS1" setID="ae8e131a-367c-4703-be32-a64a650312be">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2334,7 +2334,7 @@ if the percentage of health facilities reporting in a month is less than 100%
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8507b260-822a-453f-a022-9adbee354c1f">
+  <mes:MetadataSet structureRef="MDS1" setID="84599edd-f77c-4e0f-b30f-14e43030a7cc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2461,7 +2461,7 @@ The indicator is calculated for each category separately and for the three categ
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5b3ea6f0-57d8-405d-8098-412fa413d9ba">
+  <mes:MetadataSet structureRef="MDS1" setID="10ced96c-b842-4025-a681-6736bc177de7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2588,7 +2588,7 @@ The indicator is calculated for each category separately and for the three categ
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="55fe1cb2-160a-4efb-ade8-21de098d0ede">
+  <mes:MetadataSet structureRef="MDS1" setID="b13b328b-6fc2-4d75-8ff9-ffd13a483f05">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2715,7 +2715,7 @@ The indicator is calculated for each category separately and for the three categ
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f7ff8b48-330e-4dec-97f8-94c291a9f6a9">
+  <mes:MetadataSet structureRef="MDS1" setID="998aad29-f78c-4637-ba62-d8cdbe9efa32">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2851,7 +2851,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2ce46eaa-a4bb-4eee-a8c1-21dd2d2939fc">
+  <mes:MetadataSet structureRef="MDS1" setID="1a9b0a0f-7467-4aa3-8282-8e4d5c176460">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2987,7 +2987,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="db1f4449-ba37-48be-a86a-ee93d52c2e54">
+  <mes:MetadataSet structureRef="MDS1" setID="f8ca2ef3-a944-49a9-8d6a-b960ff170395">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3097,7 +3097,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="fb524966-2272-4dd0-aff2-c9c1f40838a2">
+  <mes:MetadataSet structureRef="MDS1" setID="d79083a5-35c8-4cb7-8153-62e6ac77fa54">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3207,7 +3207,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f2f7b1f3-6560-4633-8146-bbd5c758f58a">
+  <mes:MetadataSet structureRef="MDS1" setID="b8a75533-f3f0-4b02-badc-f572d50873a5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3317,7 +3317,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d0936651-d013-4cc8-ab3c-c8d508a1c8f9">
+  <mes:MetadataSet structureRef="MDS1" setID="ff769025-90dc-4502-9a1e-eee4fcc8d36b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3427,7 +3427,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9f8e5864-8a41-452d-9055-d8ff1610be91">
+  <mes:MetadataSet structureRef="MDS1" setID="53c2da91-74dc-4d0f-a0e7-ac71e837fafa">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3537,7 +3537,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0e293d72-2fbf-422e-886b-dc31e6aa55d9">
+  <mes:MetadataSet structureRef="MDS1" setID="49519ab5-caff-42ea-b4f9-ae1fafeb78d0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3647,7 +3647,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="df1680c8-b68a-4b64-8471-31012c9cb42c">
+  <mes:MetadataSet structureRef="MDS1" setID="ca2f2050-a8f1-4b61-91bc-4761bb05b429">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3757,7 +3757,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="afd75a08-b5c8-43f3-a362-952873f1835d">
+  <mes:MetadataSet structureRef="MDS1" setID="e8e8ae14-de86-4ad3-ac1f-701d4b5c7304">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3891,7 +3891,7 @@ Welfare indicator is calculated annually based on regular data on population exp
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0478bc42-c930-4005-a0e3-42ebb408ae14">
+  <mes:MetadataSet structureRef="MDS1" setID="41c44b02-ef3d-49c0-a874-d835a25e0ec4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4036,7 +4036,7 @@ A system of indicators allows determining the volume, structure, dynamics and re
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d887775a-e3f7-48f7-838d-9e06d8e0549a">
+  <mes:MetadataSet structureRef="MDS1" setID="f09ceef7-e266-4f55-9722-503507309c43">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4181,7 +4181,7 @@ A system of indicators allows determining the volume, structure, dynamics and re
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="94bc407b-ed00-4a0b-b5b2-740db83b415f">
+  <mes:MetadataSet structureRef="MDS1" setID="30261cec-8331-4cb0-a34a-81a2cde94b11">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4326,7 +4326,7 @@ A system of indicators allows determining the volume, structure, dynamics and re
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ee2b68fb-c252-4312-a8ae-7aa48a2a84cf">
+  <mes:MetadataSet structureRef="MDS1" setID="034c29db-3391-4373-a6dc-f95b960185c0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4471,7 +4471,7 @@ A system of indicators allows determining the volume, structure, dynamics and re
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bce3caca-77d4-4f14-903a-265abc1b455f">
+  <mes:MetadataSet structureRef="MDS1" setID="216c1547-1ddf-4239-85df-9b32892928fa">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4616,7 +4616,7 @@ A system of indicators allows determining the volume, structure, dynamics and re
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9c63053d-27af-4e2e-a732-adb793e2cbcd">
+  <mes:MetadataSet structureRef="MDS1" setID="24a69ec8-0a02-4a6a-adf2-748f74e654c3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4754,7 +4754,7 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="69b58d30-fbcc-47dd-bee9-74b5bc42c4d0">
+  <mes:MetadataSet structureRef="MDS1" setID="3502fd0c-bad5-47b7-8d48-2bc075578e81">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4892,7 +4892,7 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bb330217-d141-4e43-b8ef-d522816cf4a7">
+  <mes:MetadataSet structureRef="MDS1" setID="57ea3a77-a3de-4fa0-9106-b3e37c5c00ba">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4961,13 +4961,13 @@ Links to normative legal acts and methodology: http://www.stat.kg/u/about/pravov
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="en"><![CDATA[The indicator Proportion of population below the international poverty line is defined as the percentage of the population living on less than $1.90 a day at 2011 international prices. The 'international poverty line' is currently set at $1.90 a day at 2011 international prices. ]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[The indicator Proportion of population below the international poverty line is defined as the percentage of the population living on less than $1.90 a day at 2011 international prices. The &#39;international poverty line&#39; is currently set at $1.90 a day at 2011 international prices. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[In assessing poverty in a given country, and how best to reduce poverty, one naturally focuses on a poverty line that is considered appropriate for that country. But how do we talk meaningfully about “global poverty?” Poverty lines across countries vary in terms of their purchasing power, and they have a strong economic gradient, such that richer countries tend to adopt higher standards of living in defining poverty. But to consistently measure global absolute poverty in terms of consumption we need to treat two people with the same purchasing power over commodities the same way—both are either poor or not poor—even if they live in different countries. Since World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world's poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using PPPs, was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in October 2015, when the World Bank adopted $1.90 as the international poverty line using the 2011 PPP. Prior to that, the 2008 update set the international poverty line at $1.25 using the 2005 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. Early editions of the World Bank’s World Development Indicators (WDI) used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, and 2011 consumption PPP estimates produced by the World Bank’s International Comparison Program (ICP).]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[In assessing poverty in a given country, and how best to reduce poverty, one naturally focuses on a poverty line that is considered appropriate for that country. But how do we talk meaningfully about “global poverty?” Poverty lines across countries vary in terms of their purchasing power, and they have a strong economic gradient, such that richer countries tend to adopt higher standards of living in defining poverty. But to consistently measure global absolute poverty in terms of consumption we need to treat two people with the same purchasing power over commodities the same way—both are either poor or not poor—even if they live in different countries. Since World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world&#39;s poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using PPPs, was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in October 2015, when the World Bank adopted $1.90 as the international poverty line using the 2011 PPP. Prior to that, the 2008 update set the international poverty line at $1.25 using the 2005 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. Early editions of the World Bank’s World Development Indicators (WDI) used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, and 2011 consumption PPP estimates produced by the World Bank’s International Comparison Program (ICP).]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -5034,7 +5034,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c184e271-3d8c-4aa2-98f5-22337b9fbb48">
+  <mes:MetadataSet structureRef="MDS1" setID="10ff2c26-ef53-4945-bea9-01252420aeb3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -5103,13 +5103,13 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="en"><![CDATA[The indicator Proportion of population below the international poverty line is defined as the percentage of the population living on less than $1.90 a day at 2011 international prices. The 'international poverty line' is currently set at $1.90 a day at 2011 international prices. ]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[The indicator Proportion of population below the international poverty line is defined as the percentage of the population living on less than $1.90 a day at 2011 international prices. The &#39;international poverty line&#39; is currently set at $1.90 a day at 2011 international prices. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[In assessing poverty in a given country, and how best to reduce poverty, one naturally focuses on a poverty line that is considered appropriate for that country. But how do we talk meaningfully about “global poverty?” Poverty lines across countries vary in terms of their purchasing power, and they have a strong economic gradient, such that richer countries tend to adopt higher standards of living in defining poverty. But to consistently measure global absolute poverty in terms of consumption we need to treat two people with the same purchasing power over commodities the same way—both are either poor or not poor—even if they live in different countries. Since World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world's poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using PPPs, was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in October 2015, when the World Bank adopted $1.90 as the international poverty line using the 2011 PPP. Prior to that, the 2008 update set the international poverty line at $1.25 using the 2005 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. Early editions of the World Bank’s World Development Indicators (WDI) used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, and 2011 consumption PPP estimates produced by the World Bank’s International Comparison Program (ICP).]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[In assessing poverty in a given country, and how best to reduce poverty, one naturally focuses on a poverty line that is considered appropriate for that country. But how do we talk meaningfully about “global poverty?” Poverty lines across countries vary in terms of their purchasing power, and they have a strong economic gradient, such that richer countries tend to adopt higher standards of living in defining poverty. But to consistently measure global absolute poverty in terms of consumption we need to treat two people with the same purchasing power over commodities the same way—both are either poor or not poor—even if they live in different countries. Since World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world&#39;s poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using PPPs, was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in October 2015, when the World Bank adopted $1.90 as the international poverty line using the 2011 PPP. Prior to that, the 2008 update set the international poverty line at $1.25 using the 2005 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. Early editions of the World Bank’s World Development Indicators (WDI) used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, and 2011 consumption PPP estimates produced by the World Bank’s International Comparison Program (ICP).]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -5176,7 +5176,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f237e7c8-093e-475b-aa6b-c20b1314555c">
+  <mes:MetadataSet structureRef="MDS1" setID="0b6c56d5-37cd-4d80-b331-6cbf3728e265">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -5318,7 +5318,7 @@ Data are published in various NSC publications and its website.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ae18323d-d260-41d3-b1a4-33bcc3e498a8">
+  <mes:MetadataSet structureRef="MDS1" setID="fbfef0bc-0525-48b5-935b-77110ff4defc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -5454,7 +5454,7 @@ KR National SDG Reporting Platform:  https://sustainabledevelopment-kyrgyzstan.g
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="94dfc012-2e78-4e68-a52e-e97c29cf1566">
+  <mes:MetadataSet structureRef="MDS1" setID="8ce5e917-7f35-469d-8e2f-c665ae649533">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -5590,7 +5590,7 @@ KR National SDG Reporting Platform:  https://sustainabledevelopment-kyrgyzstan.g
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4fdb137d-4943-47c2-92dc-bfa0db27222b">
+  <mes:MetadataSet structureRef="MDS1" setID="4e9916fd-d57e-4615-90e3-be27175fda87">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -5714,7 +5714,7 @@ The ability of residents including persons with disabilities and businesses to a
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cafcb057-a420-4107-8717-a7e4cdcc7b9b">
+  <mes:MetadataSet structureRef="MDS1" setID="9c3f89bc-df71-4d8e-9b12-73f3e25ceede">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -5839,7 +5839,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5d0e0710-0ae6-44d6-88c3-298c1de30dc2">
+  <mes:MetadataSet structureRef="MDS1" setID="554e6f2d-17d4-4074-86c4-52cbedada08d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -5964,7 +5964,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6b79859c-841a-4f5f-8e0f-f7f41705d004">
+  <mes:MetadataSet structureRef="MDS1" setID="3b5d1fb7-e21b-4f6e-bcc6-c680059428c0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -6089,7 +6089,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0f098fe3-e3ca-4f00-a603-af06b357609b">
+  <mes:MetadataSet structureRef="MDS1" setID="2c5c2240-c583-4c15-b377-a4ede8ca0b45">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -6122,7 +6122,7 @@ Proportion of total government spending on social protection in total public spe
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry&#39;s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -6232,7 +6232,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2cdbece7-ea1c-4bdf-a83d-ab99a666638a">
+  <mes:MetadataSet structureRef="MDS1" setID="041a6340-fb22-4be6-b1d3-bac42bb9813f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -6265,7 +6265,7 @@ P – de-facto population.]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry&#39;s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -6375,7 +6375,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d5fd8377-9154-485a-893a-588004c948f9">
+  <mes:MetadataSet structureRef="MDS1" setID="910a987c-5909-437c-b2cc-57a32d06ac88">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -6408,7 +6408,7 @@ P – de-facto population.]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry&#39;s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -6518,7 +6518,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="27ce05b1-ed91-4a5a-8e15-307c6cc50b8f">
+  <mes:MetadataSet structureRef="MDS1" setID="bbe2e40b-243a-45db-9d2d-8710010425ee">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -6657,7 +6657,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cd92c554-83cf-4bd2-8cb0-acc26fa5bb96">
+  <mes:MetadataSet structureRef="MDS1" setID="bc981e5f-6132-4619-acfa-6b9c280056f2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -6796,7 +6796,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2399a685-888d-4a2d-96c4-e768eaa772cf">
+  <mes:MetadataSet structureRef="MDS1" setID="0b160a12-f6ff-48db-9fc1-bec299d31353">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -6935,7 +6935,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c6c524eb-18fc-42bb-82a5-b8fc80d2c71a">
+  <mes:MetadataSet structureRef="MDS1" setID="e6791adb-69c7-4a73-9fef-fe95e8446eda">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -7074,7 +7074,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c4eac872-1185-44c1-9a69-09c29a0e5e72">
+  <mes:MetadataSet structureRef="MDS1" setID="e853bf9b-bf62-45a1-b861-4d2f998082a2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -7213,7 +7213,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9be7dc3d-1aab-4f7a-b4ed-6264fdeede91">
+  <mes:MetadataSet structureRef="MDS1" setID="7e8c5f71-70a7-4087-af36-cab5488f1d8d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -7352,7 +7352,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f26ebfe0-f883-4f1a-89df-5f8ceadc31fd">
+  <mes:MetadataSet structureRef="MDS1" setID="022b314f-ff51-4bac-9d53-5351213f6f87">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -7491,7 +7491,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2c735625-6b73-4d3a-9094-a9eda53a6ec1">
+  <mes:MetadataSet structureRef="MDS1" setID="8f7a9505-6be7-4ada-9831-1cceea610f2b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -7630,7 +7630,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="928184e9-3454-4947-b698-e281195debae">
+  <mes:MetadataSet structureRef="MDS1" setID="c213345b-5cf6-4a5c-bf4a-28af2b0fe2e2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -7769,7 +7769,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a499835f-34a6-40a7-985e-d39959f2be9b">
+  <mes:MetadataSet structureRef="MDS1" setID="28dac3ab-0b20-4903-a2b5-642c0f42169a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -7908,7 +7908,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="693db630-b4de-49c1-94ca-0be0251cd893">
+  <mes:MetadataSet structureRef="MDS1" setID="0d488eff-89bc-4845-b8ad-239b8768516a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -8047,7 +8047,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="800548bd-be57-4baf-8915-3ea2f04de7be">
+  <mes:MetadataSet structureRef="MDS1" setID="3b439bbb-9fad-4e35-8137-cb7c695be672">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -8186,7 +8186,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="78f01a98-6b2e-4011-afd8-5e23882db4b0">
+  <mes:MetadataSet structureRef="MDS1" setID="905f73fd-3f49-44cd-adeb-c9665e46e75e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -8325,7 +8325,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c45d3bde-0e62-485b-8c11-80088381a2da">
+  <mes:MetadataSet structureRef="MDS1" setID="1bf6924e-d411-46b6-8487-f87419e7ed38">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -8464,7 +8464,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bc96148a-6831-440a-ad49-4839b5a6b7e4">
+  <mes:MetadataSet structureRef="MDS1" setID="c8cda8d2-584e-40b1-970e-09e87cccd6ba">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -8603,7 +8603,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ebc3fc7c-8266-413f-9362-1e0852e52979">
+  <mes:MetadataSet structureRef="MDS1" setID="068fb074-ab95-4e24-88ab-0711e7a436d3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -8749,7 +8749,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6d58a4e0-09a0-42d7-acdb-5a0b99aa300f">
+  <mes:MetadataSet structureRef="MDS1" setID="c6233ed5-63d2-4203-a5b6-28bd9f60da07">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -8895,7 +8895,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f1b0d406-49f0-4863-ace2-5610d7d5d160">
+  <mes:MetadataSet structureRef="MDS1" setID="af976c31-1b47-4d9d-89d5-fadb9c3bcb34">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9041,7 +9041,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c5d14996-ff26-4fcd-b3ec-2a333035cb1d">
+  <mes:MetadataSet structureRef="MDS1" setID="4a0e89e3-702d-4ae1-94fb-ab73ac189f7a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9187,7 +9187,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="12bf2577-d176-4996-acb3-0ae7b634c359">
+  <mes:MetadataSet structureRef="MDS1" setID="853ca111-aa56-47d9-be24-95e8a4123dca">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9333,7 +9333,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="14302df4-6476-4756-9a39-7c4447c9c5b1">
+  <mes:MetadataSet structureRef="MDS1" setID="da4d79ef-8220-4678-a8c9-b298617c9980">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9479,7 +9479,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7677cc75-5fe8-413e-ad59-dcb450f29578">
+  <mes:MetadataSet structureRef="MDS1" setID="0043810f-4add-4e4b-90da-2490c8c7f44f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9625,7 +9625,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bcccd12b-fc27-4b47-9564-db66f51558bf">
+  <mes:MetadataSet structureRef="MDS1" setID="b803daef-89f1-41e4-9202-b3b6317f12ed">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9745,7 +9745,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="df66b8b0-3c73-4a65-8577-89b8d91d08e2">
+  <mes:MetadataSet structureRef="MDS1" setID="a796477e-5430-44ba-8470-e90e2ebcfa4e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9865,7 +9865,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6f194e0c-0b86-45b5-bfc6-2341ee52a96e">
+  <mes:MetadataSet structureRef="MDS1" setID="a8f63de4-6474-4915-9696-2cca46c6cc0d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9985,7 +9985,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a0e4b79a-669c-445e-bafe-4d2a1c7e6050">
+  <mes:MetadataSet structureRef="MDS1" setID="97b3989b-8921-4d13-9a98-e3e04a8e36cc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10105,7 +10105,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="627b1fc8-c3d3-4559-bc1c-4695fba84c7e">
+  <mes:MetadataSet structureRef="MDS1" setID="5f89c234-8925-4dde-8721-e65f6beb2419">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10225,7 +10225,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="334f3ed9-3c80-4bea-a601-2119324331f8">
+  <mes:MetadataSet structureRef="MDS1" setID="2cd3c1b6-cf33-4363-bf23-56d509067de4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10345,7 +10345,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="15e0fd49-097e-4d0a-9a23-ef625c00e5b8">
+  <mes:MetadataSet structureRef="MDS1" setID="dc91e081-caac-4d30-81e9-4dedf44a4870">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10465,7 +10465,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5a54ba9f-c3a1-450b-90b1-132b425cefac">
+  <mes:MetadataSet structureRef="MDS1" setID="85a8d351-2e7d-4564-9325-d0b850b63324">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10585,7 +10585,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e748f85b-d557-436c-99bc-465d6e6ea9ab">
+  <mes:MetadataSet structureRef="MDS1" setID="6df824b3-1c45-425a-bf27-ad18f528b38e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10705,7 +10705,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="53746c8f-063a-4b7f-9289-1cd7410b06f0">
+  <mes:MetadataSet structureRef="MDS1" setID="d3851045-6be8-4bc0-a4a0-575b4e425108">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10825,7 +10825,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="94df4736-8f9b-487f-8700-3d98fbc4c260">
+  <mes:MetadataSet structureRef="MDS1" setID="093afb3a-6262-44ef-bf46-86d6b11e8a97">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10945,7 +10945,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="148ce99c-36f9-4af6-9efb-8176813bcfbc">
+  <mes:MetadataSet structureRef="MDS1" setID="fcb9a303-97fb-4679-9020-b0861d36078c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11065,7 +11065,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f69d928e-d38c-469d-9a10-efec27bc563e">
+  <mes:MetadataSet structureRef="MDS1" setID="16c0fdbf-23af-4158-b4b0-8ef7624a2774">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11185,7 +11185,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="53221971-0914-46b4-ac27-ef1d203a4160">
+  <mes:MetadataSet structureRef="MDS1" setID="5aa70368-4f41-49fe-91bc-741799aec5cf">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11305,7 +11305,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="36d1cc07-fcfa-4369-bcf2-a097221c83bb">
+  <mes:MetadataSet structureRef="MDS1" setID="67a5bada-b6d6-4701-97ee-46ad63c827c5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11425,7 +11425,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2bb58165-d2a4-4b5c-9508-d77c8f97312c">
+  <mes:MetadataSet structureRef="MDS1" setID="12de18d7-b15f-48e3-bb84-77cbdae1fe34">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11545,7 +11545,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7c32204c-da07-44f9-8035-2c42b2bed65e">
+  <mes:MetadataSet structureRef="MDS1" setID="72ce2f30-a492-43e3-8bef-12051df36104">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11665,7 +11665,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="316fb1de-ac3d-4f8b-b7e1-bd42b8f040fe">
+  <mes:MetadataSet structureRef="MDS1" setID="73107f25-554d-4bd8-8ccc-2663ea93e25f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11785,7 +11785,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a0837610-f73e-4d3b-ba90-e5d9d86d6035">
+  <mes:MetadataSet structureRef="MDS1" setID="ae3bfe18-7a9e-4828-9c8f-cc39c0060dc3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11945,7 +11945,7 @@ http://www.preventionweb.net/documents/oiewg/Technical%20Collection%20of%20Conce
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0288b171-8e62-4b87-b581-882328104324">
+  <mes:MetadataSet structureRef="MDS1" setID="674b6703-9edf-4223-babc-1473023fd2eb">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -12105,7 +12105,7 @@ http://www.preventionweb.net/documents/oiewg/Technical%20Collection%20of%20Conce
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5afd2720-1508-4f38-9060-5757794225f4">
+  <mes:MetadataSet structureRef="MDS1" setID="70e7e844-1d1c-4133-8754-538113c8a212">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -12265,7 +12265,7 @@ http://www.preventionweb.net/documents/oiewg/Technical%20Collection%20of%20Conce
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="09997b15-df65-4a0d-a6c5-cbb7bcd95283">
+  <mes:MetadataSet structureRef="MDS1" setID="efdedf37-4cb0-45ca-b7a0-64d4f702fd30">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -12425,7 +12425,7 @@ http://www.preventionweb.net/documents/oiewg/Technical%20Collection%20of%20Conce
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="71a459c6-29a3-40be-9a55-0e6605d7a9be">
+  <mes:MetadataSet structureRef="MDS1" setID="a05be86c-f662-4251-b135-b4b718b20f92">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -12585,7 +12585,7 @@ http://www.preventionweb.net/documents/oiewg/Technical%20Collection%20of%20Conce
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e5d465fa-84ae-40c2-8985-f62ed94718a1">
+  <mes:MetadataSet structureRef="MDS1" setID="253634e7-54fb-4aeb-a5a1-ab3ad28584cd">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -12745,7 +12745,7 @@ http://www.preventionweb.net/documents/oiewg/Technical%20Collection%20of%20Conce
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="33a6e088-bb2d-4b5d-8211-cbf4b2d3b2de">
+  <mes:MetadataSet structureRef="MDS1" setID="d2a5b324-beeb-4afe-a7f5-53b6e23865b6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -12905,7 +12905,7 @@ http://www.preventionweb.net/documents/oiewg/Technical%20Collection%20of%20Conce
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ba1077ce-c504-47be-85ca-459de2f0b68a">
+  <mes:MetadataSet structureRef="MDS1" setID="389eabea-c479-444a-bd35-0c8770a1f5d1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -13065,7 +13065,7 @@ http://www.preventionweb.net/documents/oiewg/Technical%20Collection%20of%20Conce
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b31b32b5-532b-4799-b51d-cca52625681e">
+  <mes:MetadataSet structureRef="MDS1" setID="7f14c146-6288-480f-9937-a5ab32b1c513">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -13225,7 +13225,7 @@ http://www.preventionweb.net/documents/oiewg/Technical%20Collection%20of%20Conce
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5658a661-f554-4afa-91e0-c091512b9f8d">
+  <mes:MetadataSet structureRef="MDS1" setID="c1da7a58-2788-40e6-ab4e-fb013d38ac5d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -13385,7 +13385,7 @@ http://www.preventionweb.net/documents/oiewg/Technical%20Collection%20of%20Conce
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b8f3b0fc-b8b5-4454-94ed-f560ab17393c">
+  <mes:MetadataSet structureRef="MDS1" setID="3e810ede-0fc5-4651-a566-1028ad6bde85">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -13545,7 +13545,7 @@ http://www.preventionweb.net/documents/oiewg/Technical%20Collection%20of%20Conce
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="852599cb-015b-4f5c-9b57-0518b9b43191">
+  <mes:MetadataSet structureRef="MDS1" setID="c5a9b461-f62a-4447-8aff-f0f0e7d3704f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -13705,7 +13705,7 @@ http://www.preventionweb.net/documents/oiewg/Technical%20Collection%20of%20Conce
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="efc4ceb6-1630-4048-9480-83fb6d9fb101">
+  <mes:MetadataSet structureRef="MDS1" setID="1974b34c-37a1-49ca-a23d-ff145d55f400">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -13865,7 +13865,7 @@ http://www.preventionweb.net/documents/oiewg/Technical%20Collection%20of%20Conce
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="85112dd6-33f4-4bf4-aa20-3c2fa70dc303">
+  <mes:MetadataSet structureRef="MDS1" setID="a7fc9be5-0eb8-4f57-9786-45e4946eb212">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -13941,7 +13941,7 @@ http://www.preventionweb.net/documents/oiewg/Technical%20Collection%20of%20Conce
         <gen:ReportedAttribute id="RATIONALE">
           
           <com:Text xml:lang="en"><![CDATA[Analyzing this indicator along with other indicators, makes it possible to assess effectiveness of preventive measures, work of local health authorities to protect mothers and children and to develop a number of specific measures to improve health of women during pregnancies and children.
-Having a skilled attendant at the time of delivery is an important lifesaving intervention for both mothers and babies. Not having access to this key assistance is detrimental to women's health and gender empowerment because it could cause the death of the mother or long lasting disability, especially in marginalized (distanced) settings.]]></com:Text>
+Having a skilled attendant at the time of delivery is an important lifesaving intervention for both mothers and babies. Not having access to this key assistance is detrimental to women&#39;s health and gender empowerment because it could cause the death of the mother or long lasting disability, especially in marginalized (distanced) settings.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -13986,7 +13986,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e3035c95-ec8a-43ac-86c8-6c7d334dad6c">
+  <mes:MetadataSet structureRef="MDS1" setID="7b7b33bb-0ff9-4208-ba4c-250dc5b24868">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -14106,7 +14106,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0b58a476-baba-4f21-acf5-b99dc2669292">
+  <mes:MetadataSet structureRef="MDS1" setID="b2e01298-fae6-4e20-ba26-25292566193d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -14226,7 +14226,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7b0e005e-1621-46d0-bbff-bfb0cfdf218e">
+  <mes:MetadataSet structureRef="MDS1" setID="c3879922-c72a-45ec-af49-a8d50701eae2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -14346,7 +14346,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f131be3c-44f1-4d1a-9f25-cb56fe173b53">
+  <mes:MetadataSet structureRef="MDS1" setID="8933352e-c65e-4915-82d5-b7b7eb38f0ee">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -14466,7 +14466,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="89dbb95c-73a2-40b0-a9d6-96c3a4bb8736">
+  <mes:MetadataSet structureRef="MDS1" setID="4f04870e-9719-4724-8b83-4e9f2681c2d8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -14586,7 +14586,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c88bda20-998a-461b-9f0e-05bf70a45cbd">
+  <mes:MetadataSet structureRef="MDS1" setID="86b20f07-26dc-4014-83e9-4be4457f0c92">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -14706,7 +14706,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2d2f4ce7-10af-4da2-a14e-e124dcb3fbf2">
+  <mes:MetadataSet structureRef="MDS1" setID="a447e336-0d5a-4f2b-bd95-6895be7adcde">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -14831,7 +14831,7 @@ www.uis.unesco.org]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="49a43bc5-32a3-45cb-9429-815f88a8b7ac">
+  <mes:MetadataSet structureRef="MDS1" setID="8fb63633-5cd7-41fc-9ab7-544ebec6777f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -14963,7 +14963,7 @@ GVA manufactory - MVA.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0e30857a-578f-4f0d-86b3-81dcc4899a81">
+  <mes:MetadataSet structureRef="MDS1" setID="d26281af-a65c-4ee8-a3aa-f8dab7452017">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -15090,7 +15090,7 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b8fcec91-7662-4f26-a143-7b2531e03beb">
+  <mes:MetadataSet structureRef="MDS1" setID="a7d40a44-b28a-463e-b1b5-a9384c033156">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -15217,7 +15217,7 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="37266957-fe9f-49f1-91a2-26853cdb97ca">
+  <mes:MetadataSet structureRef="MDS1" setID="9e4e4b95-c59c-473e-b6d7-e258a37083ea">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -15344,7 +15344,7 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8f157c1a-ff09-42d8-8b50-79b8ba5e4ad7">
+  <mes:MetadataSet structureRef="MDS1" setID="6947d0c8-cb28-44b3-b953-0679675e19b6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -15471,7 +15471,7 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f5407bcb-52d5-498e-b2e2-94e39f460d8b">
+  <mes:MetadataSet structureRef="MDS1" setID="2766a35a-52ca-458d-b520-52562147c897">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -15598,7 +15598,7 @@ Coverage of Pneumococcal conjugate vaccine (last dose in the schedule): Percenta
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="45202aff-5c22-4e0d-84cc-c5aceae8560f">
+  <mes:MetadataSet structureRef="MDS1" setID="e50258ae-36a6-4698-a62d-aa1d489b7399">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -15732,7 +15732,7 @@ National Statistical Committee publications: «Social economic situation of the 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a3ec5436-f074-4b90-8a4a-49fbdc285c6a">
+  <mes:MetadataSet structureRef="MDS1" setID="6c5e8c27-c962-417b-926e-3f75c86a4984">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -15855,7 +15855,7 @@ During field work, weekly analysis checklists – adapted standard MICS tables -
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6f89b813-eebe-4aa4-85c6-f3cccb71a700">
+  <mes:MetadataSet structureRef="MDS1" setID="99f2f770-fdf4-48d5-a639-0f664211944a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -15978,7 +15978,7 @@ During field work, weekly analysis checklists – adapted standard MICS tables -
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="aa688cc8-ca59-4c1a-9465-19616d5cec78">
+  <mes:MetadataSet structureRef="MDS1" setID="a915fd89-e2ca-4a33-b4d3-789b7755674b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -16101,7 +16101,7 @@ During field work, weekly analysis checklists – adapted standard MICS tables -
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e58d61f2-804c-498f-9577-83351d1feb5c">
+  <mes:MetadataSet structureRef="MDS1" setID="711dbc5c-b5cf-4fe3-9df2-29379d6c70af">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -16229,7 +16229,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="84ea531a-b839-4a00-be50-83f5a5e65538">
+  <mes:MetadataSet structureRef="MDS1" setID="bb58da3d-85b2-4a18-b50d-57767e0e0aae">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -16364,7 +16364,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e945e33f-f4e3-4c3f-8d8f-c283ef32ee04">
+  <mes:MetadataSet structureRef="MDS1" setID="074e4e4d-895a-48aa-89de-70da7309474c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -16499,7 +16499,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c634bd66-c37c-4726-852f-b8523ed6bdd5">
+  <mes:MetadataSet structureRef="MDS1" setID="053e7cbb-1d35-4597-b22b-697ec643e5bc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -16634,7 +16634,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="08d87a86-7fab-44ab-9be2-d45da66317cc">
+  <mes:MetadataSet structureRef="MDS1" setID="85323540-3c53-4bb4-bcd7-54deab312ee1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -16769,7 +16769,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3fe9ba2d-e61e-4df2-bff1-f64565ab3ce0">
+  <mes:MetadataSet structureRef="MDS1" setID="a4b42f34-e7c9-4c9e-9a3b-2c80b508d9ab">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -16904,7 +16904,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5163b7f1-a005-4b69-9ca7-1fc27816e6a4">
+  <mes:MetadataSet structureRef="MDS1" setID="e8cc94d2-f03a-48c2-b8f5-826de4643a9d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -17039,7 +17039,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="fb926a3b-4c83-4f99-aa1b-6ea920682e96">
+  <mes:MetadataSet structureRef="MDS1" setID="a4cba16c-1f55-46d6-9296-9a88667e90fc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -17168,7 +17168,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4d4f1094-3860-4c5c-bc82-25d26cc0da9b">
+  <mes:MetadataSet structureRef="MDS1" setID="7b67f360-282c-4a31-8568-c9f8ddbf3331">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -17303,7 +17303,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="70106b5b-4cbc-4aab-96f3-0d7bdf93dc1a">
+  <mes:MetadataSet structureRef="MDS1" setID="b071cac0-0c12-4fa9-a3ca-46a4ec2ca81f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -17439,7 +17439,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="17304775-9522-49e3-80d9-452e92e928c0">
+  <mes:MetadataSet structureRef="MDS1" setID="bce45324-6f4a-4f26-9550-7e82d485e96e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -17575,7 +17575,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="88e53e66-6ba3-485d-bbf8-c106d62b1533">
+  <mes:MetadataSet structureRef="MDS1" setID="6a3b9c1e-76dc-47d7-9885-05a94d189154">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -17711,7 +17711,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="66447ba7-2de7-45c5-b2dc-1d4f5e1b31e2">
+  <mes:MetadataSet structureRef="MDS1" setID="bb05a3b5-32ed-466f-81da-36bdf8f094da">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -17847,7 +17847,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cdbcf939-acea-45ea-a3d9-3147bc62d0d0">
+  <mes:MetadataSet structureRef="MDS1" setID="4771ec07-047b-439d-b737-597b04d6b8c2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -17982,7 +17982,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cf639aad-8f6d-4c80-9438-ad6974df7e02">
+  <mes:MetadataSet structureRef="MDS1" setID="85f731fd-cf25-415e-87f4-6918dd1b8f04">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -18117,7 +18117,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7ab68f2d-3b7e-4897-92fc-dbf03e72ced0">
+  <mes:MetadataSet structureRef="MDS1" setID="311e8860-6972-4ecc-ad0f-f6d05f6968d9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -18252,7 +18252,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6e4d4c22-a55a-4a6d-98a3-a7bda6866889">
+  <mes:MetadataSet structureRef="MDS1" setID="03c0e6ba-a278-4a95-9c11-0b9e9c240218">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -18362,7 +18362,7 @@ N = total population]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0c6f507a-630e-43df-98d7-504450000e6f">
+  <mes:MetadataSet structureRef="MDS1" setID="e4ea967a-00ef-42e4-b26b-4f47ae3aa396">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -18489,7 +18489,7 @@ http://www.worldbank.org/content/dam/Worldbank/Research/GlobalFindex/PDF/Methodo
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4d8d8066-df7d-485e-87a0-a7ddfa4d100a">
+  <mes:MetadataSet structureRef="MDS1" setID="65d6fc2b-182c-42e4-a730-34b2f9262ea8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -18623,7 +18623,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9faaff9f-4107-40d3-858b-14d31d563ac2">
+  <mes:MetadataSet structureRef="MDS1" setID="b8997e2f-c947-4471-954c-55002ae85f8f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -18757,7 +18757,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f62c44b5-5cb6-4a6f-a8b8-001d1007f38c">
+  <mes:MetadataSet structureRef="MDS1" setID="e1579d06-781e-49e8-a515-12d16b87316e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -18874,7 +18874,7 @@ Source 2: The State Registration Service]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="24d85835-afe8-4c33-ae72-d29f69ee9af9">
+  <mes:MetadataSet structureRef="MDS1" setID="b4c06901-2c58-486d-8500-0e92c7700070">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -19009,7 +19009,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="945928fa-f330-4de7-9289-0dd78b6c3b17">
+  <mes:MetadataSet structureRef="MDS1" setID="bf8052e4-6957-4489-8d10-edf2748e30a5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -19144,7 +19144,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d5d28b8e-e6f3-45f1-9793-33698658da5e">
+  <mes:MetadataSet structureRef="MDS1" setID="0685b18f-e67b-4abf-9e4f-4c8480ed928b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -19279,7 +19279,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="11e502ff-b99a-42c9-9fcf-4503d4506b5c">
+  <mes:MetadataSet structureRef="MDS1" setID="dd82536c-176d-4202-8129-cd17a74a7036">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -19414,7 +19414,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4febda97-1e86-4504-9868-f76f7d3f205f">
+  <mes:MetadataSet structureRef="MDS1" setID="78ed26c7-ee46-4fb1-a1f8-f6a3d5dac660">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -19524,7 +19524,7 @@ Having said the above, using MDG experiences of data reconciliation, and working
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6163b567-4794-4cd0-a3df-30dc9d1579a1">
+  <mes:MetadataSet structureRef="MDS1" setID="b706ebe6-42cb-4d49-82f2-1feaf123fdd7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -19634,7 +19634,7 @@ Having said the above, using MDG experiences of data reconciliation, and working
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="13704a83-2503-4ec5-bdde-4e8e16d9af25">
+  <mes:MetadataSet structureRef="MDS1" setID="c34e2565-ccca-434f-aef0-b368cf264426">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -19744,7 +19744,7 @@ Having said the above, using MDG experiences of data reconciliation, and working
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a24a1b7d-11e9-458c-8238-1a8198d2c3b9">
+  <mes:MetadataSet structureRef="MDS1" setID="e4cf40b0-a606-41f6-a07a-a8e246dd21a4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -19854,7 +19854,7 @@ Having said the above, using MDG experiences of data reconciliation, and working
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ac44ea7f-8c02-4ce0-93d3-9611c13d875c">
+  <mes:MetadataSet structureRef="MDS1" setID="b6fa5c10-a15c-435b-a776-e5877e091eed">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -19983,7 +19983,7 @@ HIV incidence is thus modeled using the Spectrum software.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="47d9e43d-89a7-4491-8baf-cf1223a51983">
+  <mes:MetadataSet structureRef="MDS1" setID="192642e1-40d7-4745-8838-0ea4e646f0dc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -20113,7 +20113,7 @@ http://www.stat.kg/media/files/d0f77c65-07d9-469d-879a-84dc5aae8833.pdf]]></com:
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2f692162-ecbe-46e9-a40a-28d790dd41ad">
+  <mes:MetadataSet structureRef="MDS1" setID="2404b58a-6057-4644-ac61-8868cc5e4ace">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -20243,7 +20243,7 @@ http://www.stat.kg/media/files/d0f77c65-07d9-469d-879a-84dc5aae8833.pdf]]></com:
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="90a909d8-7348-4da7-a447-d8f46c45b513">
+  <mes:MetadataSet structureRef="MDS1" setID="8a35d6d7-665f-4777-8655-08ecfa25e380">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -20373,7 +20373,7 @@ http://www.stat.kg/media/files/d0f77c65-07d9-469d-879a-84dc5aae8833.pdf]]></com:
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="24e83fa7-60c4-40af-85df-202c8588b2dc">
+  <mes:MetadataSet structureRef="MDS1" setID="a1ff46ad-f6fa-4776-8636-0a2f270ae8ea">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -20492,7 +20492,7 @@ http://www.stat.kg/media/files/d0f77c65-07d9-469d-879a-84dc5aae8833.pdf]]></com:
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0ebd82ed-e254-423f-9142-b402bedb90fb">
+  <mes:MetadataSet structureRef="MDS1" setID="87708bbb-4c99-4f45-8f45-dd4261afec65">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -20587,7 +20587,7 @@ http://www.stat.kg/media/files/d0f77c65-07d9-469d-879a-84dc5aae8833.pdf]]></com:
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d59c3db1-8fb1-4722-8df9-a2da63a5073d">
+  <mes:MetadataSet structureRef="MDS1" setID="3c705c84-6e25-42a2-8aad-97f207abb035">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -20682,7 +20682,7 @@ http://www.stat.kg/media/files/d0f77c65-07d9-469d-879a-84dc5aae8833.pdf]]></com:
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c9eb587e-31c2-4688-a8af-f71a6b4a5afa">
+  <mes:MetadataSet structureRef="MDS1" setID="d4205cdd-d22b-4e24-83d6-5ba5c18ea2a6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -20777,7 +20777,7 @@ http://www.stat.kg/media/files/d0f77c65-07d9-469d-879a-84dc5aae8833.pdf]]></com:
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="086b62a8-1488-48f4-8a1f-73407248ed75">
+  <mes:MetadataSet structureRef="MDS1" setID="6044a110-33d3-41fc-a826-0d47925b9552">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -20912,7 +20912,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="fe234121-3f2f-4e40-9964-78af3f93e141">
+  <mes:MetadataSet structureRef="MDS1" setID="36f890c7-10e6-4951-bf20-0cf07903e4f9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -21047,7 +21047,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7b7284ef-c7ae-4961-8dab-52fcc1f7975f">
+  <mes:MetadataSet structureRef="MDS1" setID="8a2abcfd-4567-4d0e-8a30-d92f5bb58126">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -21182,7 +21182,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="50ecee58-1732-44fd-9d03-0784382fc0d7">
+  <mes:MetadataSet structureRef="MDS1" setID="271563be-2314-46c4-b8dd-70e8b7946042">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -21317,7 +21317,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b7e63e3f-4872-4b3d-86a5-05f2b221fedc">
+  <mes:MetadataSet structureRef="MDS1" setID="330b8e72-42d9-4c16-baf2-fc8b5e9e2aef">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -21457,7 +21457,7 @@ Recommendations of the CIS-STAT Committee on the Generation of Income Account. M
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bc5d7307-9c26-496a-b24c-e363b71440bc">
+  <mes:MetadataSet structureRef="MDS1" setID="91970a3b-aa61-42ad-9cc0-9344a2812193">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -21544,7 +21544,7 @@ The number of automated teller machines (ATMs) per 100,000 adults]]></com:Text>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="en"><![CDATA[Data on branches of commercial banks (source - Register of Commercial Banks Branches) and ATMs (source - Commercial Banks' Periodic Regulatory Bank Reports) are submitted to NBKR; Average annual population - data obtained from the NSC KR Demographic Statistics Division.]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[Data on branches of commercial banks (source - Register of Commercial Banks Branches) and ATMs (source - Commercial Banks&#39; Periodic Regulatory Bank Reports) are submitted to NBKR; Average annual population - data obtained from the NSC KR Demographic Statistics Division.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -21607,7 +21607,7 @@ Data on the number of installed ATMs at the end of the reporting period can be f
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b5a2dd5a-133d-456e-900e-31d03bc67519">
+  <mes:MetadataSet structureRef="MDS1" setID="e366bfca-43ed-4cdb-baef-14a81a6ac79e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -21694,7 +21694,7 @@ The number of automated teller machines (ATMs) per 100,000 adults]]></com:Text>
         
         <gen:ReportedAttribute id="SOURCE_TYPE">
           
-          <com:Text xml:lang="en"><![CDATA[Data on branches of commercial banks (source - Register of Commercial Banks Branches) and ATMs (source - Commercial Banks' Periodic Regulatory Bank Reports) are submitted to NBKR; Average annual population - data obtained from the NSC KR Demographic Statistics Division.]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[Data on branches of commercial banks (source - Register of Commercial Banks Branches) and ATMs (source - Commercial Banks&#39; Periodic Regulatory Bank Reports) are submitted to NBKR; Average annual population - data obtained from the NSC KR Demographic Statistics Division.]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -21757,7 +21757,7 @@ Data on the number of installed ATMs at the end of the reporting period can be f
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1c6af54f-3f16-478a-ba9d-27d7951da981">
+  <mes:MetadataSet structureRef="MDS1" setID="764563c5-04ae-4e99-ab14-c9b27587d531">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -21878,7 +21878,7 @@ WHO is required by World Health Assembly resolution to consult on all WHO statis
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b74e3014-bc47-44ec-8795-a946b7e65e70">
+  <mes:MetadataSet structureRef="MDS1" setID="f5a5cfa6-9f6d-42f5-92da-a961b7fee537">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -22012,7 +22012,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="46ed2bdf-e3b7-4d36-a3b3-3359a522ffcc">
+  <mes:MetadataSet structureRef="MDS1" setID="7104b195-e6ec-4366-80cf-5343f4f02a7f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -22146,7 +22146,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1a4179c7-330a-46fa-b182-5c5923547b9b">
+  <mes:MetadataSet structureRef="MDS1" setID="a5522857-2383-4e7f-a055-1248f2307e37">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -22281,7 +22281,7 @@ Data.unicef.org]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c18f4c98-0f74-4685-84f2-e69168b8fa7c">
+  <mes:MetadataSet structureRef="MDS1" setID="8fc1cb83-3beb-4552-bb15-33b90d964a99">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -22416,7 +22416,7 @@ Data.unicef.org]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6a725c9b-28cd-4160-b552-d8710d1aa866">
+  <mes:MetadataSet structureRef="MDS1" setID="84666926-b6f4-4c0c-ab13-a1f81157ed03">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -22541,7 +22541,7 @@ Data.unicef.org]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="60c477b7-e71a-4d48-baeb-15afb73b8e6f">
+  <mes:MetadataSet structureRef="MDS1" setID="57e2e857-3339-40d7-8cf5-36fca7627c73">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -22672,7 +22672,7 @@ Data.unicef.org]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c272bd1a-9a3d-4d9d-a13f-1660c7c0762d">
+  <mes:MetadataSet structureRef="MDS1" setID="30bd5d2e-687a-4db1-9641-da7dda3b384c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -22803,7 +22803,7 @@ SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.githu
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="228357ea-f6be-47d9-8b21-0a16b79b1577">
+  <mes:MetadataSet structureRef="MDS1" setID="1813b604-d06d-4525-96c9-c936ebddc520">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -22919,7 +22919,7 @@ N = total number of people aged 15 and older]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="70c7bb34-8d4d-4a9e-a70b-9951c0e3381d">
+  <mes:MetadataSet structureRef="MDS1" setID="86c096f7-bd8c-419b-b92b-14b43355054e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -23044,7 +23044,7 @@ http://www.who.int/hrh/statistics/hwfstats/en/]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bcc2b78b-9aee-4155-8957-9775d37ebd7e">
+  <mes:MetadataSet structureRef="MDS1" setID="646a0d8c-2529-4ffa-bf44-5998c0cc8f1d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -23169,7 +23169,7 @@ http://www.who.int/hrh/statistics/hwfstats/en/]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f464b97c-f5bc-4c07-af4b-6a79093e770f">
+  <mes:MetadataSet structureRef="MDS1" setID="270ea426-5409-4ba9-b943-543a1b2461aa">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -23302,7 +23302,7 @@ National Statistical Committee publications: «Social economic situation of the 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f6cd358e-3f67-4110-9ec9-da5064062ad1">
+  <mes:MetadataSet structureRef="MDS1" setID="86273f06-e55d-468c-b01f-1b6f694c8521">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -23435,7 +23435,7 @@ National Statistical Committee publications: «Social economic situation of the 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1e0f22aa-9e50-4a05-8034-3def0a5e6275">
+  <mes:MetadataSet structureRef="MDS1" setID="ecbe7869-490e-481b-b911-1ef89a4d3814">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -23512,7 +23512,7 @@ National Statistical Committee publications: «Social economic situation of the 
           
           <com:Text xml:lang="en"><![CDATA[The Internet has become an increasingly important tool to access public information, which is a relevant means to protect fundamental freedoms. The number of Internet users has increased substantially over the last decade and access to the Internet has changed the way people live, communicate, work and do business. Internet uptake is a key indicator tracked by policy makers and others to measure the development of the information society and the growth of Internet content – including user-generated content – provides access to increasing amounts of information and services. 
 Despite growth in networks, services and applications, information and communication technology (ICT) access and use is still far from equally distributed, and many people cannot yet benefit from the potential of the Internet. This indicator highlights the importance of Internet use as a development enabler and helps to measure the digital divide, which, if not properly addressed, will aggravate inequalities in all development domains. 
-This information can contribute to the design of targeted policies to overcome those divides. The proportion of individuals using the Internet is an established indicator and also one of the three ICTrelated Millennium Development Goal (MDG) indicators (for Target 8F). It is part of the Partnership on Measuring ICT for Development's Core List of Indicators, which has been endorsed by the UN Statistical Commission (last time in 2014). It is also included in the ITU ICT Development Index, and thus considered a key metric for international comparisons of ICT developments. ]]></com:Text>
+This information can contribute to the design of targeted policies to overcome those divides. The proportion of individuals using the Internet is an established indicator and also one of the three ICTrelated Millennium Development Goal (MDG) indicators (for Target 8F). It is part of the Partnership on Measuring ICT for Development&#39;s Core List of Indicators, which has been endorsed by the UN Statistical Commission (last time in 2014). It is also included in the ITU ICT Development Index, and thus considered a key metric for international comparisons of ICT developments. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -23542,7 +23542,7 @@ Link to the global metadata platform: https://unstats.un.org/sdgs/metadata/?Text
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4aae1c7e-643e-413d-9997-340cc203426e">
+  <mes:MetadataSet structureRef="MDS1" setID="4d7f967b-938b-4a09-9e96-6ed9c24ed406">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -23685,7 +23685,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="25d7777f-7e32-4dce-9909-b6a5d81e80fe">
+  <mes:MetadataSet structureRef="MDS1" setID="94caf41e-0e3c-4e6e-8b98-ddb6c48a44fd">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -23828,7 +23828,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8627788a-3265-4f67-8771-80bf46a12139">
+  <mes:MetadataSet structureRef="MDS1" setID="ee8fe90f-0960-45b3-848d-e7f3a8d99e2a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -23959,7 +23959,7 @@ Multiple Indicator Cluster Survey, 2018 http://www.stat.kg/media/files/d0f77c65-
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e93eb327-012a-419e-9c86-d007e0643d27">
+  <mes:MetadataSet structureRef="MDS1" setID="cee2e1b9-3c83-4f71-947c-768748f561e9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -24087,7 +24087,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c6419714-aecf-4dda-9393-55fc5a4549c1">
+  <mes:MetadataSet structureRef="MDS1" setID="6be82485-f593-400a-bae6-13a3ce18a28e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -24213,7 +24213,7 @@ The National Statistical Committee of the Kyrgyz Republic (Household Statistics 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3b236efb-5221-46d7-a4ab-aead92e3cd56">
+  <mes:MetadataSet structureRef="MDS1" setID="0dcf52bc-2212-4078-ada9-512cc319c313">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -24350,7 +24350,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="693bbaf7-1a16-4fa0-8934-92c5b11679ca">
+  <mes:MetadataSet structureRef="MDS1" setID="a2d0223b-5fc2-4535-bbdb-ded66db3932f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -24469,7 +24469,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="edd5a794-dc78-4e84-92e9-4f6075618c81">
+  <mes:MetadataSet structureRef="MDS1" setID="83b24bd9-ca7f-4d45-a675-a7df1b9295eb">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -24600,7 +24600,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="63333c2b-2a55-4bcc-987e-44f3ae9bb635">
+  <mes:MetadataSet structureRef="MDS1" setID="382ac8e4-a509-4eaf-b9d4-ff35b6f60e3d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -24722,7 +24722,7 @@ Data are published in statistical compendiums “Employment and Unemployment”,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2abcd180-3516-4a78-b3d0-d7279a262e04">
+  <mes:MetadataSet structureRef="MDS1" setID="8f305dfb-f95d-4233-84aa-ecf861197346">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -24837,7 +24837,7 @@ http://www.stat.kg/ru/publications/zanyatost-i-bezrabotica-itogi-integrirovannog
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="81ec5eb1-6d70-4714-9df9-2f2f6f2ae67f">
+  <mes:MetadataSet structureRef="MDS1" setID="a3a0da53-9123-40fd-a529-81d3cd5edcd2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -24952,7 +24952,7 @@ http://www.stat.kg/ru/publications/zanyatost-i-bezrabotica-itogi-integrirovannog
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7b0f5b32-73ae-4224-ad98-eaee94dbef96">
+  <mes:MetadataSet structureRef="MDS1" setID="7b6053e3-6a50-4b9f-ba8d-b80e189793f7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -25056,7 +25056,7 @@ http://www.stat.kg/ru/publications/zanyatost-i-bezrabotica-itogi-integrirovannog
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="aef483a3-a55c-47e9-9aea-db739edb373d">
+  <mes:MetadataSet structureRef="MDS1" setID="f74cff8e-c803-4293-9b95-619e6328bcb8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -25160,7 +25160,7 @@ http://www.stat.kg/ru/publications/zanyatost-i-bezrabotica-itogi-integrirovannog
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b1fca138-763e-4a3a-964d-aec5b45f3f51">
+  <mes:MetadataSet structureRef="MDS1" setID="57d1dcd6-3cd4-47bb-8ded-680ec3f70a80">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -25264,7 +25264,7 @@ http://www.stat.kg/ru/publications/zanyatost-i-bezrabotica-itogi-integrirovannog
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2534d09e-43ea-42d5-b4ed-34968c8af8e4">
+  <mes:MetadataSet structureRef="MDS1" setID="1da4e380-418a-4913-b10c-1e6172d39bd3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -25382,7 +25382,7 @@ Public debt management costs - data from the MF.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0f39b178-e8c0-41bf-9ba8-1abb8f879ea9">
+  <mes:MetadataSet structureRef="MDS1" setID="41b178a6-23ac-4eda-9638-b9ff2812e721">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -25415,7 +25415,7 @@ Public debt management costs - data from the MF.]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[9.2:  Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[9.2:  Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry&#39;s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -25509,7 +25509,7 @@ Data published in statistical compendiums "Employment and unemployment", "Women 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a9006b78-8d7f-45aa-b2ba-2046c228ff23">
+  <mes:MetadataSet structureRef="MDS1" setID="a0d91a05-0071-44f0-8a73-5e5375f3cff8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -25638,7 +25638,7 @@ MF KR website - http://www.minfin.kg/ru/novosti/godovoy-otchet-ob-ispolnenii-byu
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e5dcf9bd-67af-4fee-a959-b503f0879f92">
+  <mes:MetadataSet structureRef="MDS1" setID="3cb7a313-a5c2-4723-bae5-36fff5fd788c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -25766,7 +25766,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f7ad9b53-9ab1-43d2-b823-e61994233e26">
+  <mes:MetadataSet structureRef="MDS1" setID="e3c46092-dfc1-4e70-9511-9c08f7617323">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -25915,7 +25915,7 @@ Data are published in various NSC publications and its website.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3c293b9a-6ecc-4911-b077-3c743a3020f5">
+  <mes:MetadataSet structureRef="MDS1" setID="f7ad34a9-2098-44b3-ac30-43fe806dd357">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -26030,7 +26030,7 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1d60a011-b76b-4c66-a350-8cb4c63407d3">
+  <mes:MetadataSet structureRef="MDS1" setID="4cd1911e-be0f-45d1-8b12-1ff6985a53c3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -26145,7 +26145,7 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="619e89ad-462d-4aae-be22-1ad91304508a">
+  <mes:MetadataSet structureRef="MDS1" setID="cd681384-facd-4e22-a127-69c2369851eb">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -26260,7 +26260,7 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d38a4dd6-08ed-456b-bf21-e55120b8777e">
+  <mes:MetadataSet structureRef="MDS1" setID="48fbe78b-d5b4-4257-9c98-424f1e143e81">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -26375,7 +26375,7 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="01207004-fd09-47f4-911e-d96585aa0642">
+  <mes:MetadataSet structureRef="MDS1" setID="fd1531b3-a551-4070-b290-6f0b27dbd527">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -26490,7 +26490,7 @@ http://www.stat.kg/ru/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-resp
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="41ae2e73-01c2-46ed-9e22-c48da6bfa80e">
+  <mes:MetadataSet structureRef="MDS1" setID="a5ad16a2-abb6-495e-be69-f76165631d55">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -26605,7 +26605,7 @@ https://sustainabledevelopment-kyrgyzstan.github.io]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a9fe4c31-312d-480e-9981-1e6ba467a9c3">
+  <mes:MetadataSet structureRef="MDS1" setID="ecf971d4-9e4f-45e6-96f1-740cebfefe35">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -26732,7 +26732,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="355b6714-c9c5-4a6e-ad58-8f4c28e127a2">
+  <mes:MetadataSet structureRef="MDS1" setID="d694983b-5626-4857-ae8b-1fb35e8df769">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -26859,7 +26859,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="40de329f-cdea-4c9a-8dae-ee1e878855d6">
+  <mes:MetadataSet structureRef="MDS1" setID="045b2cd1-99a7-46e6-8012-7df9ea268775">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -26942,7 +26942,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a9d2dfa4-5d86-4112-89d0-e6a17ad9e529">
+  <mes:MetadataSet structureRef="MDS1" setID="42ee2caa-040f-458d-8a46-0743da2de3d7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -27083,7 +27083,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="50eaaeaf-4202-4406-9c35-67c152d08997">
+  <mes:MetadataSet structureRef="MDS1" setID="72da8862-248e-418a-a770-5f0695739ff4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -27224,7 +27224,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b6ea9664-c15f-4488-a458-733f105f1217">
+  <mes:MetadataSet structureRef="MDS1" setID="46c21ef2-2883-43f9-b6b8-9fd725fe0401">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -27365,7 +27365,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ad76ca04-4bde-4672-a23d-f725162f1cbc">
+  <mes:MetadataSet structureRef="MDS1" setID="9a4f82e7-f002-4c26-8060-5499e30f2dd4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -27506,7 +27506,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="23550923-0c3c-490d-9175-67660fe40770">
+  <mes:MetadataSet structureRef="MDS1" setID="46976b7b-5ca2-4983-bc05-5d8589439c69">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -27647,7 +27647,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2f761f0c-c34e-4274-a05b-8d949e3f2e88">
+  <mes:MetadataSet structureRef="MDS1" setID="261eb3c2-b436-42c1-9af4-1c38824974c7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -27788,7 +27788,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="dc9da82b-b10e-419c-8209-747070aa69cd">
+  <mes:MetadataSet structureRef="MDS1" setID="5314e23f-69a6-4144-8933-ee1da6c0a5bc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -27929,7 +27929,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0e02b1e4-fea4-406f-85bc-59c88295dba3">
+  <mes:MetadataSet structureRef="MDS1" setID="e067ad51-6e53-4a52-badf-c53e0ad4cf37">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -28070,7 +28070,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="916971ea-cfba-483c-8404-5bcee270b5f9">
+  <mes:MetadataSet structureRef="MDS1" setID="9727e17f-6533-42bc-9801-93df6ae03038">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -28211,7 +28211,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="37af58c7-5c81-444a-add2-e85d45ed04c9">
+  <mes:MetadataSet structureRef="MDS1" setID="54946e4d-638a-451e-a7d8-8eafcc0b3716">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -28352,7 +28352,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="614d778e-2f8b-4aaf-9a88-a814bd5a1830">
+  <mes:MetadataSet structureRef="MDS1" setID="b50d4418-d13d-4f67-a9bf-a33d99892598">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -28493,7 +28493,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="aab0433e-8d33-4b1c-ae8a-c310487157f0">
+  <mes:MetadataSet structureRef="MDS1" setID="0b918f76-489c-4bf9-b403-0aa150a42ce7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -28634,7 +28634,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1d739bf7-2264-4cf8-bf1a-4787f52e5330">
+  <mes:MetadataSet structureRef="MDS1" setID="0a185e9e-4812-4710-8638-d91bd874fd7f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -28775,7 +28775,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c4da66d7-7f14-47bc-b53a-8ccd564590c8">
+  <mes:MetadataSet structureRef="MDS1" setID="e89010dc-686f-4510-a8cc-131c2cee5f88">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -28915,7 +28915,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c6eb62c5-327a-4d65-8456-05f275f6d581">
+  <mes:MetadataSet structureRef="MDS1" setID="0998e04b-7522-47b4-8627-0a362e690748">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -29055,7 +29055,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="47949b15-a69e-4eff-a5d5-639b9d84ae04">
+  <mes:MetadataSet structureRef="MDS1" setID="b28b77d4-8870-471b-931d-9e4cbfccbb93">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -29195,7 +29195,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1088c7e3-9f37-4e91-8296-4e37df4f0419">
+  <mes:MetadataSet structureRef="MDS1" setID="41a28f67-e818-4e98-90cf-a269be5f6682">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -29339,7 +29339,7 @@ Http://www.fao.org/3/i4830e.pdf
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f16c994c-f152-47bf-90e3-b1149eefa13b">
+  <mes:MetadataSet structureRef="MDS1" setID="1584124f-717a-47d9-8b8e-b5e5eb5f3bd2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -29483,7 +29483,7 @@ Http://www.fao.org/3/i4830e.pdf
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="db29db19-a7b4-4960-92d6-c2ea26895b23">
+  <mes:MetadataSet structureRef="MDS1" setID="3b5d6576-4142-42a5-99a8-8697873ebe97">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -29627,7 +29627,7 @@ Http://www.fao.org/3/i4830e.pdf
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6b4427e4-2fe3-4e71-9e47-2ff436803d14">
+  <mes:MetadataSet structureRef="MDS1" setID="9dbaa68d-ab9f-42a2-a46e-4f582f32bdf3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -29771,7 +29771,7 @@ Http://www.fao.org/3/i4830e.pdf
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3cccf6d8-dd2d-4b46-963f-e50e0a9d9cb4">
+  <mes:MetadataSet structureRef="MDS1" setID="0b87b0ac-352b-412e-9ca3-aca904cfe27d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -29915,7 +29915,7 @@ Http://www.fao.org/3/i4830e.pdf
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3a497c61-3c56-4304-9d8f-d107e4602679">
+  <mes:MetadataSet structureRef="MDS1" setID="2ceaeee3-5d7c-4659-9673-98b13045fc51">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -30059,7 +30059,7 @@ Http://www.fao.org/3/i4830e.pdf
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3300bdd0-82bf-4294-af77-d103a94657a0">
+  <mes:MetadataSet structureRef="MDS1" setID="a9f10e81-e590-4199-ad45-cda8ae87a5a1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -30196,7 +30196,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ad6daf17-d703-44a1-bb86-69805f3d9a1e">
+  <mes:MetadataSet structureRef="MDS1" setID="7c0eca57-3674-4ed9-a06e-71159a467d1c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -30333,7 +30333,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="08bd27b6-e95b-40a4-9416-0f15d63c6809">
+  <mes:MetadataSet structureRef="MDS1" setID="c55c5900-5bc9-445d-9830-9dec447c0964">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -30470,7 +30470,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6d4950c2-914f-46a3-836d-8bd2e08b1d02">
+  <mes:MetadataSet structureRef="MDS1" setID="1f413cde-aa87-44c3-a60a-2d85ff1fa053">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -30590,7 +30590,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f16c035c-4543-459d-b58e-99169c3ed2e3">
+  <mes:MetadataSet structureRef="MDS1" setID="1e94a009-1525-460a-a201-6587cc4eb22e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -30710,7 +30710,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="067dc08a-7029-4014-8cea-d61c869bfd77">
+  <mes:MetadataSet structureRef="MDS1" setID="4214b47f-33b0-463c-bbcd-6c3c585c3eb9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -30830,7 +30830,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e066fc45-e746-4b17-b4ad-2c3e881f429b">
+  <mes:MetadataSet structureRef="MDS1" setID="0c276bf2-d2b1-42fe-a6c4-7e94e28c27b8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -30950,7 +30950,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7cea7265-ef84-44b1-91d1-c78e79ca2828">
+  <mes:MetadataSet structureRef="MDS1" setID="3ded39dc-5157-4ca2-9af2-066ed70de7b7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -31070,7 +31070,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="439c202c-4c50-46c6-8b51-f13dae0e8214">
+  <mes:MetadataSet structureRef="MDS1" setID="9a566db1-0483-49ad-bcae-e8b294744b91">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -31190,7 +31190,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4c46fc1b-e466-4899-961d-438be1dbb49f">
+  <mes:MetadataSet structureRef="MDS1" setID="4a959e59-5e3a-4dc2-8a12-03a714c66c26">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -31310,7 +31310,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e748e5ab-281e-4821-9387-8c004351eae1">
+  <mes:MetadataSet structureRef="MDS1" setID="9ed5edef-5fb0-4e5d-957a-bcf638d82f2d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -31430,7 +31430,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7ce6e579-4870-4033-9208-01ed7fd355c3">
+  <mes:MetadataSet structureRef="MDS1" setID="aa743e57-8ab2-4b79-bcc0-6a9f38d2bbb6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -31550,7 +31550,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1bb2c458-3cab-4742-ab9a-322d37308544">
+  <mes:MetadataSet structureRef="MDS1" setID="dbe1f0a6-fff4-49ce-a26d-42e021f4c0ba">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -31670,7 +31670,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e0689767-7b02-4588-8ec1-9d7f0d4a15c4">
+  <mes:MetadataSet structureRef="MDS1" setID="e6b28229-f448-4c34-a865-fdaa6e728152">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -31790,7 +31790,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="35b6132a-c94e-4610-bb79-77fdbd45fa99">
+  <mes:MetadataSet structureRef="MDS1" setID="5274822f-60d7-4bfa-994d-d2a1300ae412">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -31910,7 +31910,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="63dfa420-9709-42f1-ab54-db09e9ac817c">
+  <mes:MetadataSet structureRef="MDS1" setID="de1fe093-b912-40ae-9b69-e92bc0bab0be">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -32030,7 +32030,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="467d5ee5-843c-4c98-9b2f-4b0dd5812e7b">
+  <mes:MetadataSet structureRef="MDS1" setID="00cb37b4-7241-4619-b611-c4d7086d4029">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -32150,7 +32150,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9011edc8-2b8b-44db-bfe7-8b629d2451da">
+  <mes:MetadataSet structureRef="MDS1" setID="458dea28-963e-42cb-b898-f8c978a9a4bd">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -32270,7 +32270,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="429bc89a-cc6e-4c0d-a61a-467bb9ed3336">
+  <mes:MetadataSet structureRef="MDS1" setID="8f0b4ab5-531c-4660-9df5-4f2356ffd5c9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -32341,7 +32341,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="32ce73b0-76e2-47fb-a68f-01528c54e20b">
+  <mes:MetadataSet structureRef="MDS1" setID="37eda997-74ab-4c7d-98ec-a83c1cd73a13">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -32412,7 +32412,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5d778620-7751-467f-bfb2-fd7ec038b78e">
+  <mes:MetadataSet structureRef="MDS1" setID="4b4443c0-146b-405e-8256-74480e329ff8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -32483,7 +32483,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7d5d04b3-ac0f-4078-a596-5d43b650b04f">
+  <mes:MetadataSet structureRef="MDS1" setID="c258287f-ad41-4d87-a1c0-e834abe87e0f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -32554,7 +32554,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2854144f-3614-4fbc-9496-a47caad23fb1">
+  <mes:MetadataSet structureRef="MDS1" setID="9988ad88-c4ad-494e-b342-00aeba8bc64c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -32625,7 +32625,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5b8d4c0b-b290-41c1-81be-306957d13f5f">
+  <mes:MetadataSet structureRef="MDS1" setID="bc832ab5-3e76-45ce-b597-05ca1e8afc8a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -32696,7 +32696,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1284d124-8f48-4dac-809a-da7b79ed21a8">
+  <mes:MetadataSet structureRef="MDS1" setID="32016db5-55f0-4219-8619-c0e54020c49b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -32767,7 +32767,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2bc0d2af-6c57-46ec-bb69-526465115656">
+  <mes:MetadataSet structureRef="MDS1" setID="c1354fdd-d2e6-4b9c-9a32-52f371a8772c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -32888,7 +32888,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4e644c47-0266-47d4-9fa1-47204dd2cc7a">
+  <mes:MetadataSet structureRef="MDS1" setID="e97c488d-b38c-42d9-96fc-494985fd37b2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -32991,7 +32991,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5e1a8cda-87b4-4ff6-8d7f-348a2ed1f228">
+  <mes:MetadataSet structureRef="MDS1" setID="07eed397-6565-4fe5-a630-eddadc33ef77">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -33094,7 +33094,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="edd5bd45-fd77-424a-ada8-2cf22dbbe646">
+  <mes:MetadataSet structureRef="MDS1" setID="efc18e67-da64-464f-ba65-3c84a02e47dc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -33197,7 +33197,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="26c60a3b-0bb3-46b2-826e-96e283b8727c">
+  <mes:MetadataSet structureRef="MDS1" setID="8225e1b1-fadd-4c97-aa40-7a05cdacc374">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -33300,7 +33300,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d9d8a89e-e92e-4434-a536-e0a8cde94ce3">
+  <mes:MetadataSet structureRef="MDS1" setID="615be9e2-03df-4b35-8ed9-9b2aa0396f84">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -33439,7 +33439,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8f7d3672-f307-42bc-8859-0bc6f3bf73aa">
+  <mes:MetadataSet structureRef="MDS1" setID="9f1be00d-d6da-4bbf-bb94-86c4250237ee">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -33578,7 +33578,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="329cd602-78bb-4264-9202-1bf5f5c417bc">
+  <mes:MetadataSet structureRef="MDS1" setID="3f6e7a4a-468c-46d3-b6f9-177b8b9926fe">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -33717,7 +33717,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5ceb44d7-daa8-4e87-983b-d653a00bf9f8">
+  <mes:MetadataSet structureRef="MDS1" setID="e17b43dd-5a31-462b-ac06-725448ef9f19">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -33856,7 +33856,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="079deb4e-7399-45e2-948a-b7cb4b8fb322">
+  <mes:MetadataSet structureRef="MDS1" setID="61e82ce8-2cdb-4d47-b522-f4ea5d9fa548">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -33995,7 +33995,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1638cee7-203f-48fa-8eeb-8ba616367abf">
+  <mes:MetadataSet structureRef="MDS1" setID="22bc8d29-ad0b-4fb8-85d8-b2f2964f7b00">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -34134,7 +34134,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="20fec4f2-c5da-459c-9a25-14ec2ddef7ce">
+  <mes:MetadataSet structureRef="MDS1" setID="dca66a5c-d248-424d-bf37-5bea67df8c6f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -34273,7 +34273,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8901b02c-0315-4657-82c6-b8014071d2d1">
+  <mes:MetadataSet structureRef="MDS1" setID="16d5f09b-41ca-4550-92ed-c4a8260c5c59">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -34412,7 +34412,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a7af7c1f-6b8d-41e7-8713-579e010093ed">
+  <mes:MetadataSet structureRef="MDS1" setID="4a74a1e6-055b-41cb-93a4-4eadaf425b2f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -34551,7 +34551,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ed51d4c5-7276-4f21-a7dc-a33d0db7064c">
+  <mes:MetadataSet structureRef="MDS1" setID="d174d778-221f-4140-8211-aea6b73fa2f0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -34690,7 +34690,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cc5c8c2f-5e97-4e2a-a754-d7037bc3d9c4">
+  <mes:MetadataSet structureRef="MDS1" setID="0b3eefd1-32db-4292-b3db-9bc05e749531">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -34829,7 +34829,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3f66ba76-cab5-49da-bf4b-2376d5ccc67d">
+  <mes:MetadataSet structureRef="MDS1" setID="063979df-100b-4554-94d2-f242cb38e4a6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -34968,7 +34968,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6a52fb98-1106-4745-9488-64580c913f3d">
+  <mes:MetadataSet structureRef="MDS1" setID="8b0296aa-4ce8-4ab7-a5fe-1e9f389854ae">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -35107,7 +35107,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="aae9e13b-ebe7-40b3-9399-aa070bbd1075">
+  <mes:MetadataSet structureRef="MDS1" setID="48c025ee-0521-41f2-af76-066bdbe731ca">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -35208,7 +35208,7 @@ The State Educational Standard for General School Education (No. 403 of July 21,
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0a162ba3-af8b-4a96-8399-ce411ece2c6e">
+  <mes:MetadataSet structureRef="MDS1" setID="734de272-194a-419c-8370-89b268385e60">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -35293,7 +35293,7 @@ a.khalmurzaev@gmail.com]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2b7115da-7c1a-408f-ae56-890aeea9b912">
+  <mes:MetadataSet structureRef="MDS1" setID="baa9720e-d587-4fbc-90c7-c6798d294732">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -35378,7 +35378,7 @@ a.khalmurzaev@gmail.com]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="72c19c92-8537-4e70-b7ca-8305bcf78d15">
+  <mes:MetadataSet structureRef="MDS1" setID="384c1945-d43e-4cba-934f-b3fb0ab8f3ad">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -35463,7 +35463,7 @@ a.khalmurzaev@gmail.com]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f060d08c-88c1-4dd9-abc7-5d2627dd62ba">
+  <mes:MetadataSet structureRef="MDS1" setID="c6b76c49-76f9-4eed-85d3-76cd5a7cc656">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -35548,7 +35548,7 @@ a.khalmurzaev@gmail.com]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="157cce83-dcf8-4554-b024-feb3de2fd916">
+  <mes:MetadataSet structureRef="MDS1" setID="90a918df-395b-418c-be86-ec82f9d0ea84">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -35633,7 +35633,7 @@ a.khalmurzaev@gmail.com]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="989ce1af-b68f-4dd7-bb00-ea4ca74f9ed5">
+  <mes:MetadataSet structureRef="MDS1" setID="05468290-a966-43c6-88d1-4674aafeecaa">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -35759,7 +35759,7 @@ http://stat.kg]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="220e3146-00a2-4bcd-945b-c72d36d248b9">
+  <mes:MetadataSet structureRef="MDS1" setID="6463edee-0052-4d6f-b541-9edfcd53d9d8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -35885,7 +35885,7 @@ http://stat.kg]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c8ee4d7d-a9c1-4030-bac0-541db6959865">
+  <mes:MetadataSet structureRef="MDS1" setID="43cb566e-2bd2-4dc4-b0d7-1331b9087e81">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36011,7 +36011,7 @@ http://stat.kg]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="95f7df1d-642c-4ce0-8887-f5a9b971544c">
+  <mes:MetadataSet structureRef="MDS1" setID="780785bf-8eb6-45b2-bf75-3de64a7a1a01">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36137,7 +36137,7 @@ http://stat.kg]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="edd6aa49-4e42-48ed-988c-b651659e24f3">
+  <mes:MetadataSet structureRef="MDS1" setID="8152cd26-d7d4-4b0d-a31e-8dcd8f1ee597">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36267,7 +36267,7 @@ http://stat.kg]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="abc5232b-8d48-4834-9af8-e73d7d0f11fa">
+  <mes:MetadataSet structureRef="MDS1" setID="3182ad66-62b4-44e5-849e-eec02b3aa8ce">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36397,7 +36397,7 @@ http://stat.kg]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d4156912-611e-4ccf-855b-41095aae7ef0">
+  <mes:MetadataSet structureRef="MDS1" setID="51c6dc30-b7de-4c3b-8110-f0c4edcc1993">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36508,7 +36508,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e0ce844e-cf8d-4b8c-b3d7-de2d3042297a">
+  <mes:MetadataSet structureRef="MDS1" setID="f49c21cf-5ad3-4450-a842-22b72fe78f4c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36619,7 +36619,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b2c7115e-62f8-4eb3-954e-1648cec7b06e">
+  <mes:MetadataSet structureRef="MDS1" setID="c9918c20-4fed-4b97-addb-dd41314c678c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36730,7 +36730,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="47ce9688-1b03-4e95-a7ba-d8c041714220">
+  <mes:MetadataSet structureRef="MDS1" setID="bf7c8028-b0e5-4308-9a7a-6fa9cb030383">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36841,7 +36841,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b587e20b-5ac5-4273-ac91-b95c402f29bb">
+  <mes:MetadataSet structureRef="MDS1" setID="6fa568eb-dfee-402f-b968-b178f389d1a9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36952,7 +36952,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="63909855-339c-4215-b346-bd5c0ff677c7">
+  <mes:MetadataSet structureRef="MDS1" setID="0b9859c4-a4e2-4168-8f67-679fbfc5c143">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37063,7 +37063,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8762c197-c943-47c9-8bbf-b8b00c4a03da">
+  <mes:MetadataSet structureRef="MDS1" setID="102ab04f-8060-4ec9-bde6-8791a36cb588">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37174,7 +37174,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e1cf6d2c-c728-46d7-ab4f-9f1f171e63b3">
+  <mes:MetadataSet structureRef="MDS1" setID="7a0d6bfe-1d7d-4aed-96de-0a0a8773007d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37285,7 +37285,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="02bf7aa6-0836-45bb-9e40-1076caad7770">
+  <mes:MetadataSet structureRef="MDS1" setID="55d32d66-bd00-47bc-b639-9f3520e8edf2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37396,7 +37396,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7ecec0d1-227b-4911-87ec-814474c6afb3">
+  <mes:MetadataSet structureRef="MDS1" setID="f2926a5c-0d3a-43a5-ba7b-a5d21cc9ce7a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37507,7 +37507,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e12882e0-a8c4-4260-b953-a8930f7aaecb">
+  <mes:MetadataSet structureRef="MDS1" setID="fd24e779-212a-4eee-b3cd-fc8787b28fe4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37618,7 +37618,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d2390451-33ea-4426-a4ce-90ab3f43d89b">
+  <mes:MetadataSet structureRef="MDS1" setID="0ffd18b4-faad-4be1-a262-802c6a7bcdbb">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37729,7 +37729,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="035ffe86-177f-46a9-8fad-a8bea8be77bf">
+  <mes:MetadataSet structureRef="MDS1" setID="76af5295-ae14-4f1f-8e75-9d06010be034">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37840,7 +37840,7 @@ Published in Women and Men in the Kyrgyz Republic Statistical Compendium]]></com
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="46302924-3d67-4f9f-bb6e-c1de7f2af03d">
+  <mes:MetadataSet structureRef="MDS1" setID="d0ba78c2-751f-47f7-8847-6430231e2e80">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -37966,7 +37966,7 @@ http://www/amp.gov.kg http://www.oecd.org/dac/stats/methodology.htm]]></com:Text
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e3e6e598-2ea8-4115-a17d-c7bf2678f5f1">
+  <mes:MetadataSet structureRef="MDS1" setID="204373b2-7cf3-45c9-9610-6cebe5111295">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -38092,7 +38092,7 @@ http://www/amp.gov.kg http://www.oecd.org/dac/stats/methodology.htm]]></com:Text
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="958b98c5-8ef8-4683-81e4-ca810157f1fc">
+  <mes:MetadataSet structureRef="MDS1" setID="8619ad1f-cd0e-4814-88fa-0a18efdd4401">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -38218,7 +38218,7 @@ Veterinary Inspection website. http://gvfi.gov.kg/o-gosinspekcii/veterinarnyjj-n
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2eef0180-4204-4040-9e5e-95b0661a0dcc">
+  <mes:MetadataSet structureRef="MDS1" setID="ea0fb32d-cca6-48d6-8a2a-edf5e110bb2d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -38344,7 +38344,7 @@ Veterinary Inspection website. http://gvfi.gov.kg/o-gosinspekcii/veterinarnyjj-n
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="76ee1475-70d6-4695-beff-967118792d38">
+  <mes:MetadataSet structureRef="MDS1" setID="b3c6e9f6-614b-4aab-9ca4-d67b6b41c6fd">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -38470,7 +38470,7 @@ Veterinary Inspection website. http://gvfi.gov.kg/o-gosinspekcii/veterinarnyjj-n
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7d67e1f2-e8a5-4290-8274-2caf82db2ffc">
+  <mes:MetadataSet structureRef="MDS1" setID="3157c9fa-c10e-462f-87f7-21deeb407a89">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -38596,7 +38596,7 @@ Veterinary Inspection website. http://gvfi.gov.kg/o-gosinspekcii/veterinarnyjj-n
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="42e06b8f-8c42-4227-8b5a-9c2cdf062f4f">
+  <mes:MetadataSet structureRef="MDS1" setID="34f636f6-533d-4c48-b4a1-30005a088b3f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -38722,7 +38722,7 @@ Veterinary Inspection website. http://gvfi.gov.kg/o-gosinspekcii/veterinarnyjj-n
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="584a3240-e5c9-40d7-9a62-8f0ce6a6e853">
+  <mes:MetadataSet structureRef="MDS1" setID="2e10b00c-d826-4711-b324-ea80f2bb3326">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -38848,7 +38848,7 @@ Veterinary Inspection website. http://gvfi.gov.kg/o-gosinspekcii/veterinarnyjj-n
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="acf5c4ce-87e4-4d4c-8f8e-3afd9217f35f">
+  <mes:MetadataSet structureRef="MDS1" setID="399c48ca-1a84-4dee-904a-f5d560cc0a09">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -38974,7 +38974,7 @@ Veterinary Inspection website. http://gvfi.gov.kg/o-gosinspekcii/veterinarnyjj-n
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="565708d5-ced1-4ee1-be2a-bac2c9b773c8">
+  <mes:MetadataSet structureRef="MDS1" setID="61949315-303e-4484-81a3-e957c72f38f9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39098,7 +39098,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b9bb0f1e-babf-424e-b16a-3a02ba14a010">
+  <mes:MetadataSet structureRef="MDS1" setID="0b30ef90-440c-4add-90ed-4ac3b3ea5562">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39222,7 +39222,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="09e29c31-4e82-4c14-ae5a-05c402f7a337">
+  <mes:MetadataSet structureRef="MDS1" setID="3effd301-edbd-444e-937d-1e2117a926ee">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39346,7 +39346,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9ebf3514-8987-45bc-b18e-1b437c1fb8a7">
+  <mes:MetadataSet structureRef="MDS1" setID="08816b93-7b00-4f27-9979-4fe02ee2bf00">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39470,7 +39470,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9bc4bd7e-5dad-4d70-97f6-63eb7524ca72">
+  <mes:MetadataSet structureRef="MDS1" setID="f434c26b-36f9-409a-96c4-e81f37cbb91f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39594,7 +39594,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="88d5554e-c1a6-4c9b-9e53-3da3851fa196">
+  <mes:MetadataSet structureRef="MDS1" setID="a59e723f-8116-405b-a3ae-6a692fa7406e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39718,7 +39718,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4533a705-5f29-4f45-b8c5-0536f344e018">
+  <mes:MetadataSet structureRef="MDS1" setID="1e11a56e-0cfb-4611-9dfe-21f5570abf9d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39842,7 +39842,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f6865d14-bc4d-4eb8-9d0c-025defd10abd">
+  <mes:MetadataSet structureRef="MDS1" setID="f0abdabf-fe66-47a8-86b9-4a5b0817d994">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -39926,7 +39926,7 @@ Sn = total number of schools at level n of education]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3d6005cf-205b-49b2-93ab-100302d17cc0">
+  <mes:MetadataSet structureRef="MDS1" setID="c3fbfbe1-7384-40d7-a4c3-1a7c3144d305">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -40049,7 +40049,7 @@ http://www.oecd.org/dac/stats/methodology.htm]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2d36befb-920e-4fb7-ad46-3b21fab86e27">
+  <mes:MetadataSet structureRef="MDS1" setID="4458874e-0c73-41a4-94dd-c4db15259f39">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -40172,7 +40172,7 @@ http://www.oecd.org/dac/stats/methodology.htm]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="fafd9e8a-939d-480a-81f6-5a307de2b56a">
+  <mes:MetadataSet structureRef="MDS1" setID="35a4bcc4-f719-46ca-8f52-cfc1bf0ccdaa">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -40306,7 +40306,7 @@ Sustainable tourism primarily addresses sociocultural, environmental and economi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7f07f017-777c-4f81-922f-2bb1fdcfc689">
+  <mes:MetadataSet structureRef="MDS1" setID="fa669197-5bf6-40d7-b90b-80443d39db98">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -40440,7 +40440,7 @@ Sustainable tourism primarily addresses sociocultural, environmental and economi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cb21c3fb-b63a-405c-ad65-d3b7892b9ec6">
+  <mes:MetadataSet structureRef="MDS1" setID="21c8f8c1-1946-4c3d-87df-f48f9e662729">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -40574,7 +40574,7 @@ Sustainable tourism primarily addresses sociocultural, environmental and economi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="db4a1af6-6cf7-4716-be73-acbb9d4f415a">
+  <mes:MetadataSet structureRef="MDS1" setID="3846b270-5f0f-413c-b488-1b35f192e1ec">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -40645,7 +40645,7 @@ Sustainable tourism primarily addresses sociocultural, environmental and economi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4b52bc20-c870-4635-b123-88ff821711ab">
+  <mes:MetadataSet structureRef="MDS1" setID="15e2d9f7-f2ab-4173-9bfd-59aca57ea186">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -40746,7 +40746,7 @@ Note: The Kyrgyz Republic signed 36 agreements related to investment promotion a
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9b3d6488-7172-4f16-8710-071edae392e3">
+  <mes:MetadataSet structureRef="MDS1" setID="d72b7c78-2338-49f0-9d25-3dd4d5fe50cf">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -40847,7 +40847,7 @@ Note: The Kyrgyz Republic signed 36 agreements related to investment promotion a
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="562f22cb-2883-4bfd-9789-3155db27a9d1">
+  <mes:MetadataSet structureRef="MDS1" setID="d605cb03-eb92-4e1c-80bb-d7c72fe8db1f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -40948,7 +40948,7 @@ Note: The Kyrgyz Republic signed 36 agreements related to investment promotion a
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e3d93260-b7a0-4d0d-965d-01c38c7655e9">
+  <mes:MetadataSet structureRef="MDS1" setID="57190e66-5a7e-43f3-9388-fdf7b777bc4c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -41064,7 +41064,7 @@ Law of the Kyrgyz Republic №92 dated 30 April 2003  «On Education»]]></com:T
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2ae13bdc-d8d2-49b3-ae78-700fb652a69b">
+  <mes:MetadataSet structureRef="MDS1" setID="984bba53-67ba-4cac-84e3-1b16ee4d9e35">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -41222,7 +41222,7 @@ The National Assessment of Student Educational Achievements (NASEA). Study Repor
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="988d580a-20b9-4648-a992-17d811631b14">
+  <mes:MetadataSet structureRef="MDS1" setID="dc9383a0-b2cb-46fb-b381-7eb108c22c9c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -41342,7 +41342,7 @@ The National Assessment of Student Educational Achievements (NASEA). Study Repor
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e757c061-2dad-474e-b295-233eeb13f055">
+  <mes:MetadataSet structureRef="MDS1" setID="b7d418f9-b51c-489e-8d81-c8e50bf93359">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -41462,7 +41462,7 @@ The National Assessment of Student Educational Achievements (NASEA). Study Repor
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="07c33800-8e9e-49e7-ac7e-c12a1fd4c9a7">
+  <mes:MetadataSet structureRef="MDS1" setID="af97c83d-59a1-4c1d-8ccc-d4743b2dcf5e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -41495,7 +41495,7 @@ The National Assessment of Student Educational Achievements (NASEA). Study Repor
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture&#39;s contribution to sustainable development]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -41571,7 +41571,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4b1d3472-073b-46fe-ab47-0413b643f197">
+  <mes:MetadataSet structureRef="MDS1" setID="892d51c9-d376-4e3c-9c53-f32dc9ff5644">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -41604,7 +41604,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture&#39;s contribution to sustainable development]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -41680,7 +41680,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d6fa6b13-c356-41a4-abec-b0f54ced6233">
+  <mes:MetadataSet structureRef="MDS1" setID="9f952530-bb68-4776-b751-27a01d22c2bc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -41713,7 +41713,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture&#39;s contribution to sustainable development]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -41789,7 +41789,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="def6914a-4246-42cb-b220-5fef78159a67">
+  <mes:MetadataSet structureRef="MDS1" setID="ffd366a2-fc89-4f57-9af3-a5b2539efb85">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -41822,7 +41822,7 @@ Government Resolution dated June 17, 2019 295 «On amendments to some learning e
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[4.7.  By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture&#39;s contribution to sustainable development]]></com:Text>
           
         </gen:ReportedAttribute>
         

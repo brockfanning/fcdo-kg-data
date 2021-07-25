@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627239697</mes:ID>
+    <mes:ID>IREF1627240362</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-25T19:01:37</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:12:42</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e93e8f43-c794-4091-84da-bf5ff0aaab0a">
+  <mes:MetadataSet structureRef="MDS1" setID="cb265d08-6394-4f14-85bd-5b605c471d5e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -45,7 +45,7 @@
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry&#39;s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -155,7 +155,7 @@ P – de-facto population.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="65ac0c6e-5cdb-4133-b366-27f825b90a6b">
+  <mes:MetadataSet structureRef="MDS1" setID="e40c0fb5-8368-44e2-b5cc-c2516ac7266f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -188,7 +188,7 @@ P – de-facto population.]]></com:Text>
         
         <gen:ReportedAttribute id="SDG_TARGET">
           
-          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[9.2. Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry&#39;s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries]]></com:Text>
           
         </gen:ReportedAttribute>
         

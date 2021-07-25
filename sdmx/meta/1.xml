@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627239697</mes:ID>
+    <mes:ID>IREF1627240362</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-25T19:01:37</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:12:42</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="246b0285-4acb-439f-a34a-5b1acd91e8b1">
+  <mes:MetadataSet structureRef="MDS1" setID="8587346e-5979-43d2-8e1c-b76e516958d0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -151,7 +151,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0835c2cf-9042-4b38-b0c0-03979dded668">
+  <mes:MetadataSet structureRef="MDS1" setID="99f6dd65-e625-43cb-a301-7bda2b0227b0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -290,7 +290,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="fe11b291-899e-4827-a3a0-c487cb0990fe">
+  <mes:MetadataSet structureRef="MDS1" setID="9ba0f84f-1127-41a1-99c2-6b17ccdd9217">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -429,7 +429,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="931f5937-2d6d-4946-884b-923fe3f3f32a">
+  <mes:MetadataSet structureRef="MDS1" setID="66a60b70-44d0-42d0-9976-7b6307e920d4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -568,7 +568,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9c723307-f069-4658-ab51-d7c5192bec30">
+  <mes:MetadataSet structureRef="MDS1" setID="cfffcf7b-83bf-4036-985a-b159aa71dcf4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -707,7 +707,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="65c30f34-ae02-4ec2-a756-b225e204dae9">
+  <mes:MetadataSet structureRef="MDS1" setID="a3b270f1-dd0f-48ca-8338-8bbdd78c6fad">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -846,7 +846,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9dcebced-0003-4a60-a32a-461097fb9d44">
+  <mes:MetadataSet structureRef="MDS1" setID="ff7e18e5-b560-4375-8545-32ba5309cd76">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -985,7 +985,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1a8cb073-1fbd-4e93-8d18-ea5add1d2080">
+  <mes:MetadataSet structureRef="MDS1" setID="c569f269-f885-4329-88f0-387acd8996c0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1124,7 +1124,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="fbb7d0ca-bb7d-4072-bff6-0a486196c10a">
+  <mes:MetadataSet structureRef="MDS1" setID="566b6cdc-166f-4876-8c49-bd68d3a9c71f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1263,7 +1263,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ba7d4421-4da7-4461-8622-ce9bea1e2263">
+  <mes:MetadataSet structureRef="MDS1" setID="0fd78256-a220-4837-baca-f45c9785beba">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1402,7 +1402,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4e61b2fc-607a-49c4-bbca-c09e5d6a7fa8">
+  <mes:MetadataSet structureRef="MDS1" setID="23d92b2a-ff63-4ff0-a889-88946a02aa1f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1541,7 +1541,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="af1ff80b-1881-44fd-b5f5-23e608f30589">
+  <mes:MetadataSet structureRef="MDS1" setID="ce29ed4b-d474-4979-bcda-ee0a39c9a3c6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1680,7 +1680,7 @@ P12100_LANG_CODE:3065524,en
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0966177b-3551-4ab9-9d70-6b515572ea56">
+  <mes:MetadataSet structureRef="MDS1" setID="4ec9f43b-bdce-4bcb-9897-f00f43a8323d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1814,7 +1814,7 @@ Welfare indicator is calculated annually based on regular data on population exp
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="17d16351-c7d6-4dfb-b55d-91eddba3affa">
+  <mes:MetadataSet structureRef="MDS1" setID="2ee8cd3c-ba48-41cb-baf0-828d40ab9356">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1883,13 +1883,13 @@ Welfare indicator is calculated annually based on regular data on population exp
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="en"><![CDATA[The indicator Proportion of population below the international poverty line is defined as the percentage of the population living on less than $1.90 a day at 2011 international prices. The 'international poverty line' is currently set at $1.90 a day at 2011 international prices. ]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[The indicator Proportion of population below the international poverty line is defined as the percentage of the population living on less than $1.90 a day at 2011 international prices. The &#39;international poverty line&#39; is currently set at $1.90 a day at 2011 international prices. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[In assessing poverty in a given country, and how best to reduce poverty, one naturally focuses on a poverty line that is considered appropriate for that country. But how do we talk meaningfully about “global poverty?” Poverty lines across countries vary in terms of their purchasing power, and they have a strong economic gradient, such that richer countries tend to adopt higher standards of living in defining poverty. But to consistently measure global absolute poverty in terms of consumption we need to treat two people with the same purchasing power over commodities the same way—both are either poor or not poor—even if they live in different countries. Since World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world's poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using PPPs, was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in October 2015, when the World Bank adopted $1.90 as the international poverty line using the 2011 PPP. Prior to that, the 2008 update set the international poverty line at $1.25 using the 2005 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. Early editions of the World Bank’s World Development Indicators (WDI) used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, and 2011 consumption PPP estimates produced by the World Bank’s International Comparison Program (ICP).]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[In assessing poverty in a given country, and how best to reduce poverty, one naturally focuses on a poverty line that is considered appropriate for that country. But how do we talk meaningfully about “global poverty?” Poverty lines across countries vary in terms of their purchasing power, and they have a strong economic gradient, such that richer countries tend to adopt higher standards of living in defining poverty. But to consistently measure global absolute poverty in terms of consumption we need to treat two people with the same purchasing power over commodities the same way—both are either poor or not poor—even if they live in different countries. Since World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world&#39;s poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using PPPs, was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in October 2015, when the World Bank adopted $1.90 as the international poverty line using the 2011 PPP. Prior to that, the 2008 update set the international poverty line at $1.25 using the 2005 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. Early editions of the World Bank’s World Development Indicators (WDI) used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, and 2011 consumption PPP estimates produced by the World Bank’s International Comparison Program (ICP).]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1956,7 +1956,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9b115f57-9fcc-4338-bd12-daacc454d062">
+  <mes:MetadataSet structureRef="MDS1" setID="401a2bf8-75b8-4680-b821-d2e66e9f8b1d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2025,13 +2025,13 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
         
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           
-          <com:Text xml:lang="en"><![CDATA[The indicator Proportion of population below the international poverty line is defined as the percentage of the population living on less than $1.90 a day at 2011 international prices. The 'international poverty line' is currently set at $1.90 a day at 2011 international prices. ]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[The indicator Proportion of population below the international poverty line is defined as the percentage of the population living on less than $1.90 a day at 2011 international prices. The &#39;international poverty line&#39; is currently set at $1.90 a day at 2011 international prices. ]]></com:Text>
           
         </gen:ReportedAttribute>
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[In assessing poverty in a given country, and how best to reduce poverty, one naturally focuses on a poverty line that is considered appropriate for that country. But how do we talk meaningfully about “global poverty?” Poverty lines across countries vary in terms of their purchasing power, and they have a strong economic gradient, such that richer countries tend to adopt higher standards of living in defining poverty. But to consistently measure global absolute poverty in terms of consumption we need to treat two people with the same purchasing power over commodities the same way—both are either poor or not poor—even if they live in different countries. Since World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world's poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using PPPs, was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in October 2015, when the World Bank adopted $1.90 as the international poverty line using the 2011 PPP. Prior to that, the 2008 update set the international poverty line at $1.25 using the 2005 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. Early editions of the World Bank’s World Development Indicators (WDI) used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, and 2011 consumption PPP estimates produced by the World Bank’s International Comparison Program (ICP).]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[In assessing poverty in a given country, and how best to reduce poverty, one naturally focuses on a poverty line that is considered appropriate for that country. But how do we talk meaningfully about “global poverty?” Poverty lines across countries vary in terms of their purchasing power, and they have a strong economic gradient, such that richer countries tend to adopt higher standards of living in defining poverty. But to consistently measure global absolute poverty in terms of consumption we need to treat two people with the same purchasing power over commodities the same way—both are either poor or not poor—even if they live in different countries. Since World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world&#39;s poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using PPPs, was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in October 2015, when the World Bank adopted $1.90 as the international poverty line using the 2011 PPP. Prior to that, the 2008 update set the international poverty line at $1.25 using the 2005 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. Early editions of the World Bank’s World Development Indicators (WDI) used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, and 2011 consumption PPP estimates produced by the World Bank’s International Comparison Program (ICP).]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2098,7 +2098,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6365fbb9-1804-46fe-8179-4e234dd93ddb">
+  <mes:MetadataSet structureRef="MDS1" setID="8f71372f-35d3-418e-b743-3cd112bed25d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2223,7 +2223,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f631bd88-3acd-4662-b65f-f3bc5acc20c0">
+  <mes:MetadataSet structureRef="MDS1" setID="0d6b0b8e-24cf-4908-b691-64d28f992b6b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2348,7 +2348,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e4d7dea9-4d17-41aa-92b2-7e49bf40aeec">
+  <mes:MetadataSet structureRef="MDS1" setID="b25c1a50-a32e-4a1e-8d68-f1d200f8105b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2473,7 +2473,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7f5a52fa-895c-4e2e-8fd6-7409d317ee40">
+  <mes:MetadataSet structureRef="MDS1" setID="1c1d2200-8595-4170-a2b1-d38fba33c36b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2598,7 +2598,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6cd23ba0-3d5d-4bc0-83a7-436583abc8c2">
+  <mes:MetadataSet structureRef="MDS1" setID="c767c1bf-3c1c-4624-ad5c-90beff333806">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2724,7 +2724,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2ff3035f-14c0-4cf8-99b0-ab6281e86792">
+  <mes:MetadataSet structureRef="MDS1" setID="cc68c14a-d3bf-4b0a-9d10-961dabee2bb1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2850,7 +2850,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e60fb0de-2072-4d91-a01c-a50d591e6937">
+  <mes:MetadataSet structureRef="MDS1" setID="497ff961-9dd1-4fc0-9145-8f244012737f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2976,7 +2976,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="711a71f5-c148-47b7-beba-c80fde44451e">
+  <mes:MetadataSet structureRef="MDS1" setID="28bd6730-9896-4d90-aaba-e6b0daa907ca">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3111,7 +3111,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="209273dc-e986-430e-bb22-7ed33f03ba8a">
+  <mes:MetadataSet structureRef="MDS1" setID="c1e2f33d-78bc-4a12-87fa-6ad3615040fd">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3257,7 +3257,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bc307147-8897-4d5a-bf7c-c02256a360e8">
+  <mes:MetadataSet structureRef="MDS1" setID="9c8d18fb-15a7-43f8-8538-4cabc2a53283">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3383,7 +3383,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bc90205b-cc25-4560-9cba-4f3650dae3ab">
+  <mes:MetadataSet structureRef="MDS1" setID="a8fd7103-eccf-4054-b4c0-c14191cb3132">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3520,7 +3520,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2ee7e01c-304b-4a30-b771-cbca23f70601">
+  <mes:MetadataSet structureRef="MDS1" setID="94a49f7d-362f-4654-8382-b4a910daf899">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3655,7 +3655,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="78b36d76-6a8b-4854-8b12-e6300c187d8a">
+  <mes:MetadataSet structureRef="MDS1" setID="2f13d4fe-2bbd-496e-82ce-f82d769cb79d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3788,7 +3788,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c9b2979d-615f-453d-9e65-f75aa1269e6f">
+  <mes:MetadataSet structureRef="MDS1" setID="7248107c-50b9-4b0b-9b0a-053b81106c98">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3921,7 +3921,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="33e94669-2439-4c92-840b-da77f22ba4bb">
+  <mes:MetadataSet structureRef="MDS1" setID="21fb08b0-d2da-4bbc-8ecc-dce4d3721b7e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4054,7 +4054,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6102ee58-fdb6-4695-ad7f-4de9578dc325">
+  <mes:MetadataSet structureRef="MDS1" setID="0d7139ba-a26c-45bb-a6e6-793c56555d11">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4169,7 +4169,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3f6372e7-b796-4207-a3db-b7165d849887">
+  <mes:MetadataSet structureRef="MDS1" setID="bb75f66a-e3bf-4c99-bfe9-aae241cae93d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4284,7 +4284,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="751dce6a-1cd2-4144-97de-6a311a55ef25">
+  <mes:MetadataSet structureRef="MDS1" setID="5b933038-a951-418c-ae92-7423acc49a2f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4411,7 +4411,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="07761973-fe7d-41f9-80c1-3ff9a265eddf">
+  <mes:MetadataSet structureRef="MDS1" setID="1ca0610e-30cb-478f-97b0-313217efec36">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4538,7 +4538,7 @@ Under these poor are considered those deprived of at least one third of the weig
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="01f39019-4e36-477b-8c66-28465daa578a">
+  <mes:MetadataSet structureRef="MDS1" setID="07575656-2a3f-4f44-b2a7-3119c2d334be">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4678,7 +4678,7 @@ KR National SDG Reporting Platform: https://sustainabledevelopment-kyrgyzstan.gi
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e9a36fc7-db53-4f5a-810e-d412eb338ba4">
+  <mes:MetadataSet structureRef="MDS1" setID="62b0757e-4dc2-48cd-99ad-278af3764dce">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

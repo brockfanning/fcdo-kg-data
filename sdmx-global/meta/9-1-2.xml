@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627239716</mes:ID>
+    <mes:ID>IREF1627240382</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-25T19:01:56</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:13:02</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0478bc42-c930-4005-a0e3-42ebb408ae14">
+  <mes:MetadataSet structureRef="MDS1" setID="41c44b02-ef3d-49c0-a874-d835a25e0ec4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -157,7 +157,7 @@ A system of indicators allows determining the volume, structure, dynamics and re
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d887775a-e3f7-48f7-838d-9e06d8e0549a">
+  <mes:MetadataSet structureRef="MDS1" setID="f09ceef7-e266-4f55-9722-503507309c43">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -302,7 +302,7 @@ A system of indicators allows determining the volume, structure, dynamics and re
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="94bc407b-ed00-4a0b-b5b2-740db83b415f">
+  <mes:MetadataSet structureRef="MDS1" setID="30261cec-8331-4cb0-a34a-81a2cde94b11">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -447,7 +447,7 @@ A system of indicators allows determining the volume, structure, dynamics and re
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ee2b68fb-c252-4312-a8ae-7aa48a2a84cf">
+  <mes:MetadataSet structureRef="MDS1" setID="034c29db-3391-4373-a6dc-f95b960185c0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -592,7 +592,7 @@ A system of indicators allows determining the volume, structure, dynamics and re
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bce3caca-77d4-4f14-903a-265abc1b455f">
+  <mes:MetadataSet structureRef="MDS1" setID="216c1547-1ddf-4239-85df-9b32892928fa">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
