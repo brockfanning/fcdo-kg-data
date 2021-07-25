@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627150557</mes:ID>
+    <mes:ID>IREF1627239697</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-24T18:15:57</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:01:37</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a2d51654-f221-420e-bd64-ce4a9a3086f3">
+  <mes:MetadataSet structureRef="MDS1" setID="287f8e1b-551e-42f1-a39b-d5fc9a9c3a62">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -139,7 +139,7 @@ The indicator is calculated for each category separately and for the three categ
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="23b5de9c-1862-48d5-9559-76c3d6b06eb9">
+  <mes:MetadataSet structureRef="MDS1" setID="3706d9eb-f9bc-470e-a651-b8cbe59f719e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -266,7 +266,7 @@ The indicator is calculated for each category separately and for the three categ
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="96d812b5-afa3-4f60-8aca-702032ec7726">
+  <mes:MetadataSet structureRef="MDS1" setID="5ba44eab-0884-45cb-b62b-d546f5368190">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

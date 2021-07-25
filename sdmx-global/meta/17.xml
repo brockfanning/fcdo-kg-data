@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627150579</mes:ID>
+    <mes:ID>IREF1627239716</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-24T18:16:19</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:01:56</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7c6dae95-164f-4cac-9ea6-052af21b0937">
+  <mes:MetadataSet structureRef="MDS1" setID="c272bd1a-9a3d-4d9d-a13f-1660c7c0762d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -143,7 +143,7 @@ SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.githu
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7c14061b-eac9-48e0-882e-79ff1ae43d2d">
+  <mes:MetadataSet structureRef="MDS1" setID="1e0f22aa-9e50-4a05-8034-3def0a5e6275">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -250,7 +250,7 @@ Link to the global metadata platform: https://unstats.un.org/sdgs/metadata/?Text
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="95ddc722-5d5e-42bf-a7b9-848ab03b84c2">
+  <mes:MetadataSet structureRef="MDS1" setID="2534d09e-43ea-42d5-b4ed-34968c8af8e4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -368,7 +368,7 @@ Public debt management costs - data from the MF.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="fd16ac26-ca75-4e97-a72c-ee10f433f921">
+  <mes:MetadataSet structureRef="MDS1" setID="a9fe4c31-312d-480e-9981-1e6ba467a9c3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -495,7 +495,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1d397160-cce5-42eb-a7bc-ed630d0b425d">
+  <mes:MetadataSet structureRef="MDS1" setID="355b6714-c9c5-4a6e-ad58-8f4c28e127a2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -622,7 +622,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="216a51e7-fb7b-40d5-9e34-91b55b174267">
+  <mes:MetadataSet structureRef="MDS1" setID="f6865d14-bc4d-4eb8-9d0c-025defd10abd">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -706,7 +706,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1dba1070-bec8-4703-a614-30125cba44e7">
+  <mes:MetadataSet structureRef="MDS1" setID="4b52bc20-c870-4635-b123-88ff821711ab">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -807,7 +807,7 @@ Note: The Kyrgyz Republic signed 36 agreements related to investment promotion a
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="638372e7-227c-4c5e-8140-55dec4121ce7">
+  <mes:MetadataSet structureRef="MDS1" setID="9b3d6488-7172-4f16-8710-071edae392e3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -908,7 +908,7 @@ Note: The Kyrgyz Republic signed 36 agreements related to investment promotion a
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c052ff04-c94e-47e7-9ae6-3b86f7e4b827">
+  <mes:MetadataSet structureRef="MDS1" setID="562f22cb-2883-4bfd-9789-3155db27a9d1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

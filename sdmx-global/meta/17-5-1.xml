@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627150579</mes:ID>
+    <mes:ID>IREF1627239716</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-24T18:16:19</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:01:56</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1dba1070-bec8-4703-a614-30125cba44e7">
+  <mes:MetadataSet structureRef="MDS1" setID="4b52bc20-c870-4635-b123-88ff821711ab">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -113,7 +113,7 @@ Note: The Kyrgyz Republic signed 36 agreements related to investment promotion a
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="638372e7-227c-4c5e-8140-55dec4121ce7">
+  <mes:MetadataSet structureRef="MDS1" setID="9b3d6488-7172-4f16-8710-071edae392e3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -214,7 +214,7 @@ Note: The Kyrgyz Republic signed 36 agreements related to investment promotion a
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c052ff04-c94e-47e7-9ae6-3b86f7e4b827">
+  <mes:MetadataSet structureRef="MDS1" setID="562f22cb-2883-4bfd-9789-3155db27a9d1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

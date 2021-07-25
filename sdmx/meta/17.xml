@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627150557</mes:ID>
+    <mes:ID>IREF1627239697</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-24T18:15:57</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:01:37</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6c80ee98-f10d-443b-97c5-4dae9df447d0">
+  <mes:MetadataSet structureRef="MDS1" setID="e2e691d9-30c7-4123-bfb0-51998657c677">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -131,7 +131,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8d9c7a88-f1f5-451f-a008-2138c4b4246f">
+  <mes:MetadataSet structureRef="MDS1" setID="3e0c3827-7af1-439f-b2eb-fd489f823564">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -355,7 +355,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b5c75e52-1449-4d12-903a-87ffe36e967a">
+  <mes:MetadataSet structureRef="MDS1" setID="53a259de-baa2-4b48-9587-7c322966e55b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -579,7 +579,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0c78c23e-cf0d-4075-99fb-a5928555522f">
+  <mes:MetadataSet structureRef="MDS1" setID="5fa711e0-3804-4167-b18f-3c4c57aeedf6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -803,7 +803,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a41c3fdb-3092-4f9b-842c-165490343e64">
+  <mes:MetadataSet structureRef="MDS1" setID="0f04241b-d13f-4817-a991-a0b9e64afa83">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1027,7 +1027,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="22a39ff7-bcca-40a4-807f-36f7f345fc65">
+  <mes:MetadataSet structureRef="MDS1" setID="17766fd7-9f61-44dd-ba20-5312282f9cb0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1251,7 +1251,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ce2482e2-00d9-474c-96b8-5e03b9786a18">
+  <mes:MetadataSet structureRef="MDS1" setID="2260509d-2af7-425f-8f95-f21b0a7a2d85">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1475,7 +1475,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5a8c06eb-3818-4394-bba8-c2006ba2302e">
+  <mes:MetadataSet structureRef="MDS1" setID="47d26d56-24ab-4735-94af-4b2155e99d24">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1699,7 +1699,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e1bd7657-f5f2-4cd9-af61-e8818b24297b">
+  <mes:MetadataSet structureRef="MDS1" setID="0b456205-4458-4c32-bbe0-cc22baaf079e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1923,7 +1923,7 @@ g) Формирование статистических показателей 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="79ee6675-ddd1-4992-a9c8-b9337889cb79">
+  <mes:MetadataSet structureRef="MDS1" setID="f2347891-dbfa-418b-be5c-acfb6deb7267">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2054,7 +2054,7 @@ SDG National Reporting Platform: https://sustainabledevelopment-kyrgyzstan.githu
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5fd7d3c8-7b33-4e7b-a842-4cb4c2466dc2">
+  <mes:MetadataSet structureRef="MDS1" setID="91fb1bc8-b5dd-4090-95a4-5462175dffe5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2161,7 +2161,7 @@ Link to the global metadata platform: https://unstats.un.org/sdgs/metadata/?Text
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bf1a91d5-5964-4161-bfa8-ad87a5d2b124">
+  <mes:MetadataSet structureRef="MDS1" setID="76757f30-bf7c-48fc-8c8a-0882b1a0aba8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2279,7 +2279,7 @@ Public debt management costs - data from the MF.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3ab3c80a-2737-4f50-ac7b-d1fc15b71417">
+  <mes:MetadataSet structureRef="MDS1" setID="91f1e3a1-57f1-4075-8fa3-dd2c0859bae9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2399,7 +2399,7 @@ Data on the number of fixed (wired) broadband Internet subscribers are collected
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b2dc19ef-0205-470b-a103-d2bd71a28b86">
+  <mes:MetadataSet structureRef="MDS1" setID="83cb8487-e792-4d2b-9b6a-94f173775577">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2519,7 +2519,7 @@ Data on the number of fixed (wired) broadband Internet subscribers are collected
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="7e020436-e4b2-4518-bc80-5957dac454ea">
+  <mes:MetadataSet structureRef="MDS1" setID="9482b90f-8a1f-41b4-94c3-41f750767c41">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2646,7 +2646,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="9379bf13-b953-4478-9e64-18ad2f9e40e8">
+  <mes:MetadataSet structureRef="MDS1" setID="cf04652b-75cb-4fda-9887-4ba8f89f77cb">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2773,7 +2773,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="bad83c6e-9d27-451c-bc3a-bfbfad97afe2">
+  <mes:MetadataSet structureRef="MDS1" setID="757a1225-4711-4345-9b23-12e7d4a770a4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2857,7 +2857,7 @@ The Kyrgyz Republic SDG National Reporting Platform: https://sustainabledevelopm
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8a9c2a2f-d886-48e0-a843-b00f8d92a993">
+  <mes:MetadataSet structureRef="MDS1" setID="250055ff-6aae-4302-a2ca-c56d44809c14">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

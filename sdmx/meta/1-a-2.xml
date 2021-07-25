@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627150557</mes:ID>
+    <mes:ID>IREF1627239697</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-24T18:15:57</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:01:37</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0a937d0b-ea3c-47f9-9700-4651fb6b3007">
+  <mes:MetadataSet structureRef="MDS1" setID="6365fbb9-1804-46fe-8179-4e234dd93ddb">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -137,7 +137,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="00584f81-7e58-461c-abe3-29afc91383ee">
+  <mes:MetadataSet structureRef="MDS1" setID="f631bd88-3acd-4662-b65f-f3bc5acc20c0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -262,7 +262,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b1f4b477-95c3-42f9-a18e-a01ccd350650">
+  <mes:MetadataSet structureRef="MDS1" setID="e4d7dea9-4d17-41aa-92b2-7e49bf40aeec">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -387,7 +387,7 @@ Proportion of total government spending on social protection in total public spe
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c73d410e-9ee6-4a62-b513-08ebb3b16fd1">
+  <mes:MetadataSet structureRef="MDS1" setID="7f5a52fa-895c-4e2e-8fd6-7409d317ee40">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

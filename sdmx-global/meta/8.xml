@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627150579</mes:ID>
+    <mes:ID>IREF1627239716</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-24T18:16:19</mes:Prepared>
+    <mes:Prepared>2021-07-25T19:01:56</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a811817c-56c8-4e42-b6ed-31d615a1a6d3">
+  <mes:MetadataSet structureRef="MDS1" setID="6dac0379-6f9d-4e7b-8667-fc66674f0608">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -142,7 +142,7 @@ Law of the Kyrgyz Republic of 1 August 2003 №167 «On labour protection»; Dec
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0048f2bd-e6a3-482c-8e3a-e66d269fa5b2">
+  <mes:MetadataSet structureRef="MDS1" setID="8ebb693c-256e-484e-a40f-645f49b4a601">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -272,7 +272,7 @@ Law of the Kyrgyz Republic of 1 August 2003 №167 «On labour protection»; Dec
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="73932971-2e34-4a6e-9cb4-797ef19e7ad1">
+  <mes:MetadataSet structureRef="MDS1" setID="f237e7c8-093e-475b-aa6b-c20b1314555c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -414,7 +414,7 @@ Data are published in various NSC publications and its website.]]></com:Text>
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c7ba8395-bd9e-4531-a303-b18c689ad7a6">
+  <mes:MetadataSet structureRef="MDS1" setID="70106b5b-4cbc-4aab-96f3-0d7bdf93dc1a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -550,7 +550,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="591542b3-9ddf-4a30-b641-670f9921a4c4">
+  <mes:MetadataSet structureRef="MDS1" setID="17304775-9522-49e3-80d9-452e92e928c0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -686,7 +686,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="faab001f-7d7a-4e87-8282-6cab3ff024f1">
+  <mes:MetadataSet structureRef="MDS1" setID="88e53e66-6ba3-485d-bbf8-c106d62b1533">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -822,7 +822,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="46eed851-cafb-4d2b-812a-e3aad60248c2">
+  <mes:MetadataSet structureRef="MDS1" setID="66447ba7-2de7-45c5-b2dc-1d4f5e1b31e2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -958,7 +958,7 @@ Children aged 15-17: Number of children aged 15-17 reported child labour during 
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="730272e7-9323-4468-9088-9b50e823c2a2">
+  <mes:MetadataSet structureRef="MDS1" setID="0c6f507a-630e-43df-98d7-504450000e6f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1085,7 +1085,7 @@ http://www.worldbank.org/content/dam/Worldbank/Research/GlobalFindex/PDF/Methodo
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="96cfc1b2-e5c5-484f-876d-4a25d5fe5fc2">
+  <mes:MetadataSet structureRef="MDS1" setID="bc5d7307-9c26-496a-b24c-e363b71440bc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1235,7 +1235,7 @@ Data on the number of installed ATMs at the end of the reporting period can be f
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cf91ce12-4c59-4959-a7d7-125f98a5cc0d">
+  <mes:MetadataSet structureRef="MDS1" setID="b5a2dd5a-133d-456e-900e-31d03bc67519">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1385,7 +1385,7 @@ Data on the number of installed ATMs at the end of the reporting period can be f
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ab5015d6-8290-410f-a19a-64d64071f3d8">
+  <mes:MetadataSet structureRef="MDS1" setID="6a725c9b-28cd-4160-b552-d8710d1aa866">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1510,7 +1510,7 @@ Data on the number of installed ATMs at the end of the reporting period can be f
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c2afc2ac-553b-471c-9501-ff33d5999104">
+  <mes:MetadataSet structureRef="MDS1" setID="2abcd180-3516-4a78-b3d0-d7279a262e04">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1625,7 +1625,7 @@ http://www.stat.kg/ru/publications/zanyatost-i-bezrabotica-itogi-integrirovannog
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8a46f9ad-671b-42fc-a486-455f8f5f50c4">
+  <mes:MetadataSet structureRef="MDS1" setID="81ec5eb1-6d70-4714-9df9-2f2f6f2ae67f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1740,7 +1740,7 @@ http://www.stat.kg/ru/publications/zanyatost-i-bezrabotica-itogi-integrirovannog
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="97d78024-a6e1-417f-a0c6-82a3408f8937">
+  <mes:MetadataSet structureRef="MDS1" setID="f7ad9b53-9ab1-43d2-b823-e61994233e26">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
